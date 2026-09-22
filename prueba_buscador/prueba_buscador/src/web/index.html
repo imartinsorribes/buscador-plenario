@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mapa de posiciones por tema · Diario de Sesiones</title>
+<style>
+  :root{
+    --paper:#F6F6F4; --panel:#FCFCFB; --ink:#1A1C1A; --muted:#6B6F6B;
+    --hair:#DBDDD8; --datum:#2C5A66; --lowconf:#B6BAB4;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);
+       font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:28px 20px 60px}
+  .eyebrow{font:400 11px/1 ui-monospace,monospace;color:var(--datum);
+           letter-spacing:.14em;text-transform:uppercase}
+  h1{font:650 26px/1.15 ui-sans-serif,system-ui;letter-spacing:-.01em;margin:8px 0 4px}
+  .lede{font:400 13.5px/1.5 ui-sans-serif,system-ui;color:var(--muted);margin:0;max-width:560px}
+  .group-label{font:500 11px/1 ui-monospace,monospace;color:var(--muted);
+               letter-spacing:.06em;margin-bottom:10px;text-transform:uppercase}
+  .row{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{transition:background .15s,border-color .15s,color .15s;cursor:pointer;
+        font:500 12.5px/1 ui-sans-serif,system-ui;border-radius:999px;padding:5px 12px}
+  .chip:focus-visible,.lane:focus-visible{outline:2px solid var(--datum);outline-offset:2px}
+  .chip-party{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--hair);
+              background:#fff;color:var(--ink);padding:5px 12px 5px 9px}
+  .chip-add{display:inline-flex;align-items:center;gap:6px;border:1px dashed var(--hair);
+            background:transparent;color:var(--muted)}
+  .chip-topic{border:1px solid var(--hair);background:transparent;color:var(--muted);padding:4px 11px;
+              font:500 12px/1 ui-sans-serif,system-ui}
+  .chip-topic.on{border-color:var(--datum);background:#fff;color:var(--ink)}
+  .dot{width:9px;height:9px;border-radius:50%}
+  .x{color:var(--muted);font-size:13px;line-height:1}
+  .menu{position:absolute;z-index:5;top:calc(100% + 6px);left:0;min-width:210px;background:#fff;
+        border:1px solid var(--hair);border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,.08);padding:6px}
+  .menu button{display:flex;align-items:center;gap:8px;width:100%;border:none;background:transparent;
+               cursor:pointer;padding:7px 9px;border-radius:6px;text-align:left;
+               font:500 13px/1 ui-sans-serif,system-ui;color:var(--ink)}
+  .menu button:hover{background:#F1F2EF}
+  .box{width:16px;height:16px;border-radius:4px;flex:0 0 auto;border:1.5px solid var(--hair);
+       display:inline-flex;align-items:center;justify-content:center}
+  .box.on{border-color:var(--datum);background:var(--datum);color:#fff;font-size:11px}
+  section.topic{margin-bottom:30px}
+  .topic-head{display:flex;align-items:baseline;gap:10px;margin-bottom:10px}
+  .topic-head h3{font:600 15px/1 ui-sans-serif,system-ui;letter-spacing:.02em;margin:0}
+  .scale{font:400 11px/1 ui-monospace,monospace;color:var(--muted);letter-spacing:.06em}
+  .poles{position:relative;height:22px;margin-bottom:6px}
+  .pole{position:absolute;top:0;font:500 11.5px/1 ui-sans-serif,system-ui;color:var(--muted)}
+  .pole.l{left:0} .pole.r{right:0}
+  .track{position:relative}
+  .datum{position:absolute;left:50%;top:0;bottom:0;width:1px;background:var(--hair)}
+  .lane{position:relative;height:38px;width:100%;display:block;border:none;border-top:1px solid var(--hair);
+        background:transparent;cursor:pointer;text-align:left;transition:background .15s}
+  .lane:hover{background:#F1F2EF}
+  .lane .name{position:absolute;left:8px;top:12px;font:500 12px/1 ui-sans-serif,system-ui;color:var(--ink)}
+  .lane .val{position:absolute;right:6px;top:11px;font:500 11.5px/1 ui-monospace,monospace}
+  .marker{position:absolute;top:50%;transform:translate(-50%,-50%);width:14px;height:14px;border-radius:50%;
+          transition:left .45s cubic-bezier(.22,.61,.36,1),transform .15s}
+  .marker:hover{transform:translate(-50%,-50%) scale(1.18)}
+  .lane.nodata .name{color:var(--lowconf)}
+  .nodata-tag{position:absolute;left:50%;top:13px;transform:translateX(-50%);
+              font:400 11px/1 ui-monospace,monospace;color:var(--lowconf)}
+  .ev{background:var(--panel);border:1px solid var(--hair);border-top:none;padding:10px 12px;
+      font:400 12.5px/1.5 ui-sans-serif,system-ui;color:var(--muted);animation:fade .2s ease}
+  .ev .meta{font:500 11px/1 ui-monospace,monospace;color:var(--datum);letter-spacing:.05em}
+  .ev .frag{margin:8px 0 0}
+  .ev .frag .side{font-weight:600;color:var(--ink)}
+  .ev .frag .cite{color:var(--lowconf)}
+  .banner{border-radius:6px;padding:8px 12px;margin:16px 0 22px;font:500 12px/1.5 ui-sans-serif,system-ui}
+  .banner.warn{background:#FBF3E7;border:1px solid #E7D2AE;color:#8A6516}
+  .banner.err{background:#FBECEC;border:1px solid #E2B4B4;color:#9A3B3B}
+  .hint{padding:40px 0;text-align:center;color:var(--muted);font:400 13.5px/1.5 ui-sans-serif,system-ui}
+  footer{margin-top:8px;padding-top:16px;border-top:1px solid var(--hair);
+         font:400 11.5px/1.6 ui-sans-serif,system-ui;color:var(--muted)}
+  @keyframes fade{from{opacity:0;transform:translateY(-3px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.marker,.lane,.chip,.ev{transition:none;animation:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Diario de Sesiones · 2016—2026</div>
+    <h1>Mapa de posiciones por tema</h1>
+    <p class="lede">Elige grupos y temas. Cada tema es un eje interpretable; el marcador indica
+      dónde se sitúa el grupo según lo que dice en tribuna.</p>
+  </header>
+
+  <div id="status"></div>
+
+  <div style="margin-bottom:20px">
+    <div class="group-label">Grupos</div>
+    <div class="row" id="parties"></div>
+  </div>
+
+  <div style="margin-bottom:28px">
+    <div class="group-label">Temas</div>
+    <div class="row" id="topics"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <footer>Toca cualquier grupo en un eje para ver las citas que respaldan su posición. Mide cómo se
+    habla en tribuna, no la ideología «real»; depende del corpus y de cómo se definan los polos.</footer>
+</div>
+
+<script>
+const PALETTE = ["#C26B4A","#4A7BA6","#6B8E5A","#9B6FA8","#C9A24B","#7A7E86","#B5556B","#5A8A88","#A8794A"];
+const COLORS = {datum:"#2C5A66", lowconf:"#B6BAB4", panel:"#FCFCFB", muted:"#6B6F6B"};
+
+const state = {
+  axes: [], parties: [], selected: [], topics: [],
+  positions: {}, expanded: null, menuOpen: false,
+  loading: false, error: "",
+};
+
+// ----------------------------------------------------------------- utilidades
+function el(tag, attrs = {}, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "style") n.style.cssText = v;
+    else if (k === "class") n.className = v;
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
+    else if (v !== null && v !== undefined) n.setAttribute(k, v);
+  }
+  for (const c of kids) if (c != null) n.append(c.nodeType ? c : document.createTextNode(c));
+  return n;
+}
+const colorOf = (pid) => PALETTE[state.selected.indexOf(pid) % PALETTE.length] || COLORS.muted;
+const api = (path) => fetch(path).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
+
+// ----------------------------------------------------------------- carga inicial
+async function init() {
+  try {
+    const [axes, parties] = await Promise.all([api("/api/ejes"), api("/api/partidos")]);
+    state.axes = axes;
+    state.parties = parties;
+    state.topics = axes.map((a) => a.id);
+    state.selected = parties.slice(0, 3);
+  } catch (e) {
+    state.error = "No se pudo cargar la configuración del corpus. ¿Está el servidor en marcha y el corpus indexado?";
+  }
+  render();
+  loadPositions();
+}
+
+// ----------------------------------------------------------------- posiciones
+let reqToken = 0;
+async function loadPositions() {
+  if (!state.selected.length || !state.topics.length) { render(); return; }
+  const token = ++reqToken;
+  state.loading = true; state.error = ""; render();
+  const url = "/api/posiciones?partidos=" + encodeURIComponent(state.selected.join(","))
+            + "&temas=" + encodeURIComponent(state.topics.join(","));
+  try {
+    const data = await api(url);
+    if (token !== reqToken) return;            // descarta respuestas atrasadas
+    state.positions = data;
+  } catch (e) {
+    if (token !== reqToken) return;
+    state.error = "No se pudieron calcular las posiciones. La primera consulta carga el modelo: "
+                + "si acabas de arrancar, espera unos segundos y prueba de nuevo.";
+  } finally {
+    if (token === reqToken) { state.loading = false; render(); }
+  }
+}
+
+// ----------------------------------------------------------------- acciones
+function toggleParty(pid) {
+  state.selected = state.selected.includes(pid)
+    ? state.selected.filter((x) => x !== pid) : [...state.selected, pid];
+  loadPositions();
+}
+function toggleTopic(id) {
+  state.topics = state.topics.includes(id)
+    ? state.topics.filter((x) => x !== id) : state.axes.map((a) => a.id).filter((x) => state.topics.includes(x) || x === id);
+  loadPositions();
+}
+function toggleLane(key) { state.expanded = state.expanded === key ? null : key; render(); }
+
+// ----------------------------------------------------------------- render
+function render() {
+  renderStatus();
+  renderParties();
+  renderTopics();
+  renderMap();
+}
+
+function renderStatus() {
+  const host = document.getElementById("status");
+  host.replaceChildren();
+  if (state.error) host.append(el("div", { class: "banner err" }, state.error));
+  else if (state.loading) host.append(el("div", { class: "banner warn" }, "Calculando posiciones sobre el corpus…"));
+}
+
+function renderParties() {
+  const host = document.getElementById("parties");
+  host.replaceChildren();
+  for (const pid of state.selected) {
+    host.append(el("button", { class: "chip chip-party", style: `border-color:${colorOf(pid)}`, onclick: () => toggleParty(pid) },
+      el("span", { class: "dot", style: `background:${colorOf(pid)}` }), pid, el("span", { class: "x" }, "×")));
+  }
+  const wrap = el("div", { style: "position:relative" });
+  wrap.append(el("button", { class: "chip chip-add", onclick: () => { state.menuOpen = !state.menuOpen; render(); } },
+    "＋ Añadir grupo ▾"));
+  if (state.menuOpen) {
+    const menu = el("div", { class: "menu" });
+    for (const p of state.parties) {
+      const on = state.selected.includes(p);
+      menu.append(el("button", { onclick: () => toggleParty(p) },
+        el("span", { class: "box" + (on ? " on" : "") }, on ? "✓" : ""), p));
+    }
+    wrap.append(menu);
+  }
+  host.append(wrap);
+}
+
+function renderTopics() {
+  const host = document.getElementById("topics");
+  host.replaceChildren();
+  for (const a of state.axes) {
+    const on = state.topics.includes(a.id);
+    host.append(el("button", { class: "chip chip-topic" + (on ? " on" : ""), onclick: () => toggleTopic(a.id) }, a.label));
+  }
+}
+
+function renderMap() {
+  const host = document.getElementById("map");
+  host.replaceChildren();
+  if (!state.selected.length) { host.append(el("div", { class: "hint" }, "Añade un grupo para empezar a comparar.")); return; }
+  if (!state.topics.length) { host.append(el("div", { class: "hint" }, "Activa al menos un tema.")); return; }
+  for (const a of state.axes) {
+    if (state.topics.includes(a.id)) host.append(renderSpectrum(a));
+  }
+}
+
+function renderSpectrum(axis) {
+  const data = state.positions[axis.id] || {};
+  const sec = el("section", { class: "topic" });
+  sec.append(el("div", { class: "topic-head" },
+    el("h3", {}, axis.label), el("span", { class: "scale" }, "EJE −1.0 ··· +1.0")));
+  sec.append(el("div", { class: "poles" },
+    el("span", { class: "pole l" }, "◂ " + axis.left_short),
+    el("span", { class: "pole r" }, axis.right_short + " ▸")));
+
+  const track = el("div", { class: "track" });
+  track.append(el("div", { class: "datum" }));
+  for (const pid of state.selected) track.append(renderLane(axis, pid, data[pid]));
+  track.append(el("div", { style: "border-top:1px solid var(--hair)" }));
+  sec.append(track);
+  return sec;
+}
+
+function renderLane(axis, pid, cell) {
+  if (!cell || cell.score === null || cell.score === undefined) {
+    return el("div", { class: "lane nodata" },
+      el("span", { class: "name" }, pid),
+      el("span", { class: "nodata-tag" }, "sin datos"));
+  }
+  const col = colorOf(pid);
+  const low = cell.confidence === "baja";
+  const pct = ((cell.score + 1) / 2) * 100;
+  const key = axis.id + ":" + pid;
+  const open = state.expanded === key;
+
+  const lane = el("button", { class: "lane", "aria-expanded": open, onclick: () => toggleLane(key) },
+    el("span", { class: "name" }, pid),
+    el("span", { class: "val", style: `color:${col};opacity:${low ? .55 : 1}` },
+      (cell.score > 0 ? "+" : "") + cell.score.toFixed(2)),
+    el("span", {
+      class: "marker", title: `${pid} · ${cell.score.toFixed(2)} · n=${cell.n}`,
+      style: `left:${pct}%;background:${low ? COLORS.panel : col};border:2px solid ${col};opacity:${low ? .7 : 1}`,
+    }));
+
+  if (!open) return lane;
+
+  const ev = el("div", { class: "ev" });
+  ev.append(el("span", { class: "meta" }, `n = ${cell.n} fragmentos${low ? " · confianza baja" : ""}`));
+  const labels = { izq: "◂ " + axis.left_short, der: axis.right_short + " ▸" };
+  for (const f of (cell.evidencia || [])) {
+    const cite = [f.pleno_id, f.fecha].filter(Boolean).join(" · ");
+    ev.append(el("p", { class: "frag" },
+      el("span", { class: "side" }, (labels[f.lado] || f.lado) + ": "),
+      f.texto + "… ",
+      cite ? el("span", { class: "cite" }, "(" + cite + ")") : null));
+  }
+  const frag = document.createDocumentFragment();
+  frag.append(lane, ev);
+  return frag;
+}
+
+// cerrar el menú al hacer clic fuera
+document.addEventListener("click", (e) => {
+  if (state.menuOpen && !e.target.closest(".chip-add") && !e.target.closest(".menu")) {
+    state.menuOpen = false; render();
+  }
+});
+
+init();
+</script>
+</body>
+</html>

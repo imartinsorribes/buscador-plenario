@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 820" font-family="Arial, sans-serif">
+  <rect width="1680" height="820" fill="#ffffff"/>
+
+  <!-- ================= FILA PRINCIPAL: del vídeo al acta ================= -->
+  <g>
+    <rect x="40" y="100" width="220" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="150" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Audio del pleno</text>
+    <text x="150" y="152" text-anchor="middle" font-size="11.5" fill="#6b665e">YouTube · vigilante del canal</text>
+
+    <rect x="300" y="100" width="220" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="410" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Transcripción (ASR)</text>
+    <text x="410" y="152" text-anchor="middle" font-size="11.5" fill="#6b665e">Whisper turbo · GPU · valencià/cast.</text>
+
+    <rect x="560" y="100" width="220" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="670" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Corrección léxica</text>
+    <text x="670" y="152" text-anchor="middle" font-size="11.5" fill="#6b665e">glosario municipal</text>
+
+    <rect x="820" y="100" width="220" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="930" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Separación de voces</text>
+    <text x="930" y="152" text-anchor="middle" font-size="11.5" fill="#6b665e">diarización + huella</text>
+
+    <rect x="1080" y="100" width="220" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1190" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Acta híbrida</text>
+    <text x="1190" y="152" text-anchor="middle" font-size="11.5" fill="#6b665e">estilo Diario · votos por visión</text>
+
+    <rect x="1340" y="100" width="220" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1450" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Visor + Export</text>
+    <text x="1450" y="152" text-anchor="middle" font-size="11.5" fill="#6b665e">PDF · minuto exacto del vídeo</text>
+
+    <line x1="260" y1="136" x2="292" y2="136" stroke="#8b2440" stroke-width="2"/><polygon points="298,136 288,131 288,141" fill="#8b2440"/>
+    <line x1="520" y1="136" x2="552" y2="136" stroke="#8b2440" stroke-width="2"/><polygon points="558,136 548,131 548,141" fill="#8b2440"/>
+    <line x1="780" y1="136" x2="812" y2="136" stroke="#8b2440" stroke-width="2"/><polygon points="818,136 808,131 808,141" fill="#8b2440"/>
+    <line x1="1040" y1="136" x2="1072" y2="136" stroke="#8b2440" stroke-width="2"/><polygon points="1078,136 1068,131 1068,141" fill="#8b2440"/>
+    <line x1="1300" y1="136" x2="1332" y2="136" stroke="#8b2440" stroke-width="2"/><polygon points="1338,136 1328,131 1328,141" fill="#8b2440"/>
+  </g>
+
+  <!-- registradores de voz (verde) -->
+  <g>
+    <rect x="700" y="12" width="210" height="52" fill="#e9f4ee" stroke="#bcd8c8" rx="8"/>
+    <text x="805" y="36" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1d6b4f">Registro de voces</text>
+    <text x="805" y="54" text-anchor="middle" font-size="11" fill="#4d7a66">huella consentida y borrable</text>
+    <rect x="950" y="12" width="210" height="52" fill="#e9f4ee" stroke="#bcd8c8" rx="8"/>
+    <text x="1055" y="36" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1d6b4f">La secretaría lo revisa</text>
+    <text x="1055" y="54" text-anchor="middle" font-size="11" fill="#4d7a66">editor con reproductor</text>
+    <line x1="855" y1="64" x2="900" y2="94" stroke="#1d6b4f" stroke-width="2"/><polygon points="905,98 894,96 900,88" fill="#1d6b4f"/>
+    <line x1="1030" y1="64" x2="970" y2="94" stroke="#1d6b4f" stroke-width="2"/><polygon points="965,98 970,88 977,96" fill="#1d6b4f"/>
+  </g>
+
+  <!-- acta oficial (naranja) + bajada desde visor -->
+  <path d="M1450,172 L1450,200 L150,200 L150,240" fill="none" stroke="#b07818" stroke-width="2"/>
+  <polygon points="150,246 145,236 155,236" fill="#b07818"/>
+  <text x="1235" y="193" font-size="11.5" fill="#b07818">PDF · acta oficial</text>
+
+  <rect x="40" y="248" width="220" height="72" fill="#fdf0dc" stroke="#e2b25e" rx="8"/>
+  <text x="150" y="278" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6b1a">Acta oficial (PDF)</text>
+  <text x="150" y="300" text-anchor="middle" font-size="11.5" fill="#9a7c4a">el documento que se genera</text>
+
+  <!-- ================= RAMA 1: BUSCAR ================= -->
+  <text x="300" y="240" font-size="13" font-weight="bold" fill="#1d6b6b">1 · Buscar (actas propias + corpus del Congreso)</text>
+  <g>
+    <rect x="300" y="248" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="425" y="278" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Vectorización</text>
+    <text x="425" y="300" text-anchor="middle" font-size="11.5" fill="#4d7a7a">embeddings BGE-M3</text>
+    <rect x="590" y="248" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="715" y="278" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">ChromaDB</text>
+    <text x="715" y="300" text-anchor="middle" font-size="11.5" fill="#4d7a7a">índice vectorial local</text>
+    <rect x="880" y="248" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="1005" y="278" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Búsqueda semántica</text>
+    <text x="1005" y="300" text-anchor="middle" font-size="11.5" fill="#4d7a7a">guardarraíl + fuentes</text>
+    <rect x="1170" y="248" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="1295" y="278" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Buscador</text>
+    <text x="1295" y="300" text-anchor="middle" font-size="11.5" fill="#4d7a7a">respuesta citada · orador · minuto</text>
+    <line x1="260" y1="284" x2="292" y2="284" stroke="#1d6b6b" stroke-width="2"/><polygon points="298,284 288,279 288,289" fill="#1d6b6b"/>
+    <line x1="550" y1="284" x2="582" y2="284" stroke="#1d6b6b" stroke-width="2"/><polygon points="588,284 578,279 578,289" fill="#1d6b6b"/>
+    <line x1="840" y1="284" x2="872" y2="284" stroke="#1d6b6b" stroke-width="2"/><polygon points="878,284 868,279 868,289" fill="#1d6b6b"/>
+    <line x1="1130" y1="284" x2="1162" y2="284" stroke="#1d6b6b" stroke-width="2"/><polygon points="1168,284 1158,279 1158,289" fill="#1d6b6b"/>
+  </g>
+
+  <!-- ================= RAMA 2: ALERTAS ================= -->
+  <text x="300" y="392" font-size="13" font-weight="bold" fill="#8b2440">2 · Alertas para vecinos</text>
+  <g>
+    <rect x="300" y="400" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="425" y="430" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Detección de temas</text>
+    <text x="425" y="452" text-anchor="middle" font-size="11.5" fill="#6b665e">catálogo de 15 · umbral calibrado</text>
+    <rect x="590" y="400" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="715" y="430" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Correo al vecino</text>
+    <text x="715" y="452" text-anchor="middle" font-size="11.5" fill="#6b665e">cita literal + minuto + acta</text>
+    <rect x="880" y="400" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1005" y="430" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Autopiloto</text>
+    <text x="1005" y="452" text-anchor="middle" font-size="11.5" fill="#6b665e">vigilante del canal · antiduplicados</text>
+    <rect x="1170" y="400" width="250" height="72" fill="#e9f4ee" stroke="#bcd8c8" rx="8"/>
+    <text x="1295" y="430" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b4f">Privacidad por diseño</text>
+    <text x="1295" y="452" text-anchor="middle" font-size="11.5" fill="#4d7a66">solo temas, nunca personas · opt-in</text>
+    <line x1="550" y1="436" x2="582" y2="436" stroke="#8b2440" stroke-width="2"/><polygon points="588,436 578,431 578,441" fill="#8b2440"/>
+    <line x1="840" y1="436" x2="872" y2="436" stroke="#8b2440" stroke-width="2"/><polygon points="878,436 868,431 868,441" fill="#8b2440"/>
+    <line x1="1130" y1="436" x2="1162" y2="436" stroke="#8b2440" stroke-width="2"/><polygon points="1168,436 1158,431 1158,441" fill="#8b2440"/>
+  </g>
+
+  <!-- ================= RAMA 3: CIUDADANO ================= -->
+  <text x="300" y="544" font-size="13" font-weight="bold" fill="#8b2440">3 · El Congreso, en datos (pestaña Ciudadano)</text>
+  <g>
+    <rect x="300" y="552" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="425" y="582" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Agregar por partido</text>
+    <text x="425" y="604" text-anchor="middle" font-size="11.5" fill="#6b665e">Sí / No / Abstención</text>
+    <rect x="590" y="552" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="715" y="582" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Clasificar por tema</text>
+    <text x="715" y="604" text-anchor="middle" font-size="11.5" fill="#6b665e">los 10 temas / ejes</text>
+    <rect x="880" y="552" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1005" y="582" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Posición por partido</text>
+    <text x="1005" y="604" text-anchor="middle" font-size="11.5" fill="#6b665e">sentido del voto · 0 → 1</text>
+    <rect x="1170" y="552" width="250" height="72" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1295" y="582" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Gráficas</text>
+    <text x="1295" y="604" text-anchor="middle" font-size="11.5" fill="#6b665e">mapa, contradicción, agenda, afinidad</text>
+    <line x1="550" y1="588" x2="582" y2="588" stroke="#8b2440" stroke-width="2"/><polygon points="588,588 578,583 578,593" fill="#8b2440"/>
+    <line x1="840" y1="588" x2="872" y2="588" stroke="#8b2440" stroke-width="2"/><polygon points="878,588 868,583 868,593" fill="#8b2440"/>
+    <line x1="1130" y1="588" x2="1162" y2="588" stroke="#8b2440" stroke-width="2"/><polygon points="1168,588 1158,583 1158,593" fill="#8b2440"/>
+  </g>
+
+  <!-- ================= RAMA 4: MANUALES (última, como la pestaña) ================= -->
+  <text x="300" y="696" font-size="13" font-weight="bold" fill="#1d6b6b">4 · Asistente de manuales SEDIPUALBA</text>
+  <g>
+    <rect x="40" y="704" width="220" height="72" fill="#fdf0dc" stroke="#e2b25e" rx="8"/>
+    <text x="150" y="734" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6b1a">Manuales + vídeos</text>
+    <text x="150" y="756" text-anchor="middle" font-size="11.5" fill="#9a7c4a">PDF oficiales · tutoriales</text>
+
+    <rect x="300" y="704" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="425" y="734" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Índice multimodal</text>
+    <text x="425" y="756" text-anchor="middle" font-size="11.5" fill="#4d7a7a">páginas · capturas (visión) · minutos</text>
+    <rect x="590" y="704" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="715" y="734" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Asistente con citas</text>
+    <text x="715" y="756" text-anchor="middle" font-size="11.5" fill="#4d7a7a">[manual · pág.] verificable en 1 clic</text>
+    <rect x="880" y="704" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="1005" y="734" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Chat + pantallazo</text>
+    <text x="1005" y="756" text-anchor="middle" font-size="11.5" fill="#4d7a7a">"dónde estoy y paso siguiente"</text>
+    <rect x="1170" y="704" width="250" height="72" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="1295" y="734" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Extras</text>
+    <text x="1295" y="756" text-anchor="middle" font-size="11.5" fill="#4d7a7a">subir PDF · ficha PDF · valencià</text>
+    <line x1="260" y1="740" x2="292" y2="740" stroke="#1d6b6b" stroke-width="2"/><polygon points="298,740 288,735 288,745" fill="#1d6b6b"/>
+    <line x1="550" y1="740" x2="582" y2="740" stroke="#1d6b6b" stroke-width="2"/><polygon points="588,740 578,735 578,745" fill="#1d6b6b"/>
+    <line x1="840" y1="740" x2="872" y2="740" stroke="#1d6b6b" stroke-width="2"/><polygon points="878,740 868,735 868,745" fill="#1d6b6b"/>
+    <line x1="1130" y1="740" x2="1162" y2="740" stroke="#1d6b6b" stroke-width="2"/><polygon points="1168,740 1158,735 1158,745" fill="#1d6b6b"/>
+  </g>
+
+  <!-- conexiones del acta oficial a sus ramas -->
+  <path d="M150,320 L150,436 L292,436" fill="none" stroke="#8b2440" stroke-width="2"/>
+  <polygon points="298,436 288,431 288,441" fill="#8b2440"/>
+  <path d="M40,300 L24,300 L24,588 L292,588" fill="none" stroke="#8b2440" stroke-width="2"/>
+  <polygon points="298,588 288,583 288,593" fill="#8b2440"/>
+</svg>

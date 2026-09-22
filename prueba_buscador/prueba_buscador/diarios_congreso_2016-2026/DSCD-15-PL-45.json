@@ -1,0 +1,785 @@
+{
+ "id": "DSCD-15-PL-45",
+ "legislatura": 15,
+ "fecha": "30 de mayo de 2024",
+ "tema_sesion": "Veto del Senado: — Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña. «BOCG. Congreso de los Diputados», serie B, número 32-1, de 24 de noviembre de 2023. (Número de expediente 122/000019) Proposiciones no de ley. (Votación)",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 165,
+   "en_contra": 171,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 50,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 50,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 177,
+   "en_contra": 171,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 193,
+   "en_contra": 34,
+   "abstenciones": 121
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 170,
+   "abstenciones": 123
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 51,
+   "en_contra": 292,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 51,
+   "en_contra": 292,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 187,
+   "en_contra": 33,
+   "abstenciones": 124
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 194,
+   "en_contra": 33,
+   "abstenciones": 122
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 188,
+   "en_contra": 33,
+   "abstenciones": 123
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 50,
+   "en_contra": 172,
+   "abstenciones": 121
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 293,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 188,
+   "en_contra": 33,
+   "abstenciones": 122
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 51,
+   "en_contra": 171,
+   "abstenciones": 122
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 57,
+   "en_contra": 170,
+   "abstenciones": 121
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 165,
+   "en_contra": 171,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 178,
+   "en_contra": 164,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 303,
+   "en_contra": 7,
+   "abstenciones": 39
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 171,
+   "en_contra": 17,
+   "abstenciones": 161
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 178,
+   "en_contra": 14,
+   "abstenciones": 157
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 170,
+   "en_contra": 178,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 33,
+   "en_contra": 175,
+   "abstenciones": 139
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 170,
+   "en_contra": 178,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 33,
+   "en_contra": 177,
+   "abstenciones": 138
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 171,
+   "en_contra": 177,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 171,
+   "en_contra": 178,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 171,
+   "en_contra": 178,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 171,
+   "en_contra": 178,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 33,
+   "en_contra": 178,
+   "abstenciones": 138
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 33,
+   "en_contra": 178,
+   "abstenciones": 138
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 170,
+   "en_contra": 177,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 349,
+   "a_favor": 177,
+   "en_contra": 172,
+   "abstenciones": null
+  }
+ ],
+ "n_intervenciones": 78,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Buenos días a todos y a todas.\nSeñores y señoras diputadas, vayan ocupando sus escaños. (Pausa).\nVETO DEL SENADO:\n— PROPOSICIÓN DE LEY ORGÁNICA DE AMNISTÍA PARA LA NORMALIZACIÓN INSTITUCIONAL, \nPOLÍTICA Y SOCIAL EN CATALUÑA. (Número de expediente 122/000019)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Reanudamos la sesión. Les pido un poco de silencio. (Pausa).\nContinuamos con el veto aprobado por el Senado a la Proposición de Ley Orgánica de amnistía para \nla normalización institucional, política y social en Cataluña.\nEn turno de fijación de posiciones, empezamos con el Grupo Parlamentario Mixto. Tiene la palabra, en \nprimer lugar, el señor Catalán Higueras por un tiempo de dos minutos. Cuando quiera."
+  },
+  {
+   "speaker": "CATALÁN HIGUERAS",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta. Señorías, muy buenos días.\nSeñores del PSOE y del Gobierno, ¿de verdad merece la pena humillar al Estado de derecho, la \nConstitución y la democracia? ¿De verdad merece la pena romper el principio de igualdad de todos los \nespañoles ante la ley? ¿De verdad merece la pena dividir el país y enfrentarlo por aceptar el chantaje del \nsecesionismo y borrar el golpe de Estado del año 2017?\nSeñores del PSOE y del Gobierno, es una perversión que sean los delincuentes los que redactan las \nleyes que les van a beneficiar. Es inaceptable que se quiera hacer una ley de esta naturaleza, teniendo en \ncuenta que una parte muy importante de los españoles y de los representantes del pueblo español está \nen contra. Es también una aberración desde el punto de vista político, judicial y legal que se vulneren el \nordenamiento jurídico español y también el de la Unión Europea en cuestiones referidas incluso a la lucha \ncontra el fraude y el terrorismo.\nSeñores del Partido Socialista y del Gobierno, esta ley agrava la convivencia en el resto del país y es \nun perjuicio para la salud de la democracia. Lo ha dicho Javier Lambán, que también ha manifestado que \nél no podría votar esta ley afirmativamente, porque incurriría en una insoportable deslealtad consigo \nmismo, ya que entraría en contradicción flagrante con sus convicciones políticas y éticas, y porque tiene \nel convencimiento de que no prestaría ningún servicio ni a su partido ni a su país. Es el único dirigente \nsocialista que ha sido capaz de pasar de las palabras a los hechos y evidenciar que no merece la pena. \nOtros destacados socialistas también se han plantado. La respuesta del sanchismo: el desprecio. Todos \nellos, junto con la mayoría de los españoles que creemos, amparamos y respetamos la Constitución \nespañola y el Estado de derecho, tenemos muy claro, y hoy lo tenemos que volver a decir alto y claro, que \nno merece la pena. Señores del Partido Socialista y del Gobierno, Judas traicionó sus principios por treinta \nmonedas (rumores); ustedes, por mantenerse en el poder a cualquier precio.\nMuchas gracias. (Prolongados aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Catalán.\nTiene ahora la palabra el señor Rego Candamil, por un tiempo de dos minutos."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Grazas, señora presidenta. Moi bo día.\nO Estado español adoece dun severo déficit democrático, que ten a súa xénese nunha chamada \ntransición que non foi máis que o pacto da esquerda española cos últimos xestores do franquismo e que \nposibilitou a continuidade das estruturas de poder da ditadura no réxime constitucional. Sendo así, hoxe \nnon cabe ningunha dúbida de que o principal elemento de impugnación do réxime somos as forzas \nnacionalistas soberanistas independentistas, é dicir, os movementos emancipatorios das nacións sen \nEstado da Galiza, de Euskal Herria e dos Països Catalans. E tampouco a hai de que o maior desafío que \nenfrontou o réxime do 1978 dos últimos tempos foi o proceso para a independencia de Cataluña, que tivo \no seu cume no referendo da autodeterminación de outubro de 2017.\nPor iso, a dereita cada vez máis ultra con Feijóo á fronte leva meses nunha campaña feroz contra a \nLei de Amnistía, activando todos os mecanismos ó seu dispor, incluída a Brunete mediática e tamén, claro, \na Brunete xudicial. Unha dereita cada vez máis ultra empeñada sempre en se opor a calquera mínimo \navance en dereitos en democracia e que sabe que esta lei, para alén de ser aplicada a dirixentes, militantes \ne activistas proindependencia de Cataluña, significa moito máis.\ncve: DSCD-15-PL-45\n \nSignifica recoñecer que os conflitos de natureza política, incluídos os de soberanía, deben ser resoltos \npola vía política e non pola policial e xudicial. Significa recoñecer que existen nacións neste Estado que \nteñen o dereito a decidir libre e democraticamente o seu futuro. Significa recoñecer mesmo que exercer o \ndereito de autodeterminación non pode ser un delito.\nPor iso, o conxunto das forzas reaccionarias se conxuraron contra esta lei. Mais van fracasar. Hoxe \nimos tombar o veto do Partido Popular e aprobar a Lei de Amnistía, toda unha lección de firmeza \ndemocrática fronte ó inmobilismo das dereitas e dos poderes fácticos mesmo do Estado profundo.\nSempre dixemos que esta lei atinxe a Cataluña, mais non só. Implica abrir unha fenda de democratización \nno Estado que debe ser alargada ata camiñarmos por anchas alamedas, para construírmos unha \nsociedade mellor, democracia plena, nacións libres, saúde e repúblicas. Moito obrigado.\nGracias, señora presidenta. Muy buen día.\nEl Estado español sufre un severo déficit democrático que tiene su génesis en una llamada Transición, \nque no ha sido más que el pacto de la izquierda española con los últimos gestores del franquismo, y que \nposibilitó la continuidad de las estructuras de poder de la Dictadura en el régimen constitucional. A pesar \nde eso, hoy no cabe ninguna duda de que el principal elemento de impugnación del régimen somos las \nfuerzas nacionalistas soberanistas independentistas, es decir, los movimientos emancipatorios de las \nnaciones sin Estado: Galicia, Euskal Herria y països catalans.\nTampoco cabe duda de que el mayor desafío al que se enfrentó el régimen del 78 en los últimos \ntiempos fue el proceso para la independencia de Cataluña, que tuvo su cumbre en el referéndum de \nautodeterminación de octubre de 2017. Por eso, la derecha, cada vez más ultra, con Feijóo al frente, lleva \nmeses en una campaña feroz contra la ley de amnistía, activando todos los mecanismos a su disposición, \nincluyendo el Brunete mediático y también el judicial. Una derecha cada vez más ultra, empeñada siempre \nen oponerse a cualquier avance de derechos en democracia, y que sabe que esta ley, además de ser \naplicada a dirigentes, militares y activistas proindependencia de Cataluña, significa mucho más: significa \nreconocer que los conflictos de naturaleza política, incluidos los de soberanía, deben resolverse por la vía \npolítica y no por la policial y judicial; significa reconocer que existen naciones en este Estado que tienen \nderecho a decidir libre y democráticamente su futuro; significa reconocer incluso que ejercer el derecho \nde autodeterminación no puede ser un delito. Por eso, el conjunto de las fuerzas reaccionarias se ha \nconjurado contra esta ley, pero fracasarán. Hoy, derrotaremos el veto del Partido Popular y aprobaremos \nla ley de amnistía; toda una lección de firmeza democrática frente al inmovilismo de la derecha y de los \npoderes fácticos, incluso del Estado profundo.\nSiempre hemos dicho que esta ley afecta a Cataluña, pero no solo a ella, implica abrir una brecha de \ndemocratización en el Estado, que debe agrandarse hasta que caminemos por anchas alamedas y \nconstruyamos una democracia mejor, una democracia plena de naciones libres.\nSalud y República. Muchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Moitas grazas, señor Rego.\nTiene ahora la palabra el señor Sánchez Serna, por un tiempo de tres minutos."
+  },
+  {
+   "speaker": "SÁNCHEZ SERNA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\nSeñorías, hoy vamos a demostrar que con voluntad política es posible aprobar leyes que hace muy \npoco tiempo se nos decía que eran imposibles. Hoy, señorías, se va a demostrar una vez más que cuando \nla mayoría plurinacional y democrática de esta Cámara se pone de acuerdo, podemos tomar medidas que \nnos hacen mejores como país.\nEn Podemos siempre planteamos que la resolución del conflicto político en Cataluña vendría por la vía \ndel diálogo, la negociación y, en definitiva, la democracia. Dejarlo todo en manos de la judicialización, la \nrepresión y la negación de las razones del otro solo nos ha traído más dolor, más incomprensión y mucho \ntiempo perdido. Esa fue la posición que siempre defendimos cuando nadie lo hacía y, además, cuando era \ndifícil hacerlo. Cuando Partido Popular y Partido Socialista aplicaban de la mano el 155 y asaltaban la \nautonomía de Cataluña, cuando los partidos independentistas no contemplaban otra vía que la opción \nunilateral o cuando el rey Felipe VI daba la orden del «a por ellos» con su discurso del 3 de octubre, \nnosotros y nosotras dijimos que había una vía para el encuentro entre Cataluña y España. Y creo que esa \napuesta política, que no fue fácil entonces, que no fue comprendida, hoy da sus frutos.\ncve: DSCD-15-PL-45\n \nSabemos, no obstante, que la aprobación de esta ley de amnistía es solo el principio. Después de que \nel Poder Legislativo se haya pronunciado, llegará el turno de un partido judicial reaccionario, que sigue \nhaciendo política en este país sin presentarse a las elecciones, y, lo que es peor, pervirtiendo sus funciones \nconstitucionales. Hemos visto además que se están preparando y organizando para ello. Hace unos días \nconocimos que un grupo de jueces estaba difundiendo una guía contra esta ley de amnistía en el correo \ndel CGPJ, donde incluían además formularios adjuntos para elevar cuestiones de inconstitucionalidad o \ncuestiones prejudiciales, tanto al Tribunal Constitucional como al TJUE. Desde luego, nadie podrá decir \nque se esconden. El objetivo declarado es paralizar la aplicación de esta ley y desconocer — cuando no \ntorcer— la voluntad democrática de la mayoría de este Congreso. Mientras tanto, seguimos esperando a \nque el Gobierno de Pedro Sánchez, que nos prometió un punto y aparte, haga algo para renovar un \nConsejo General del Poder Judicial que lleva la friolera de cinco años secuestrado por la derecha.\nSeñorías, la ley de amnistía, con carácter preferente y urgente dice — y cito textualmente—: Los \njueces ordenarán la puesta en libertad de las personas beneficiadas por la amnistía que se encuentran en \nprisión, y también quedarán sin efecto las órdenes de busca y captura y detención, tanto nacionales como \ninternacionales. Sin embargo, todos en esta Cámara sabemos que esta ley tendrá que esperar un tiempo \npara ser efectiva y que habrá que ponerle muchos esfuerzos para que algunos jueces reaccionarios \napliquen una ley emanada de un Parlamento democrático, con plena normalidad democrática. Y lo digo, \nporque ya pasó con la ley de lucha contra la violencia de género del Gobierno de Zapatero o la ley del solo \nsí es sí de la ministra Irene Montero. Entonces, algunos dijeron que estaba mal hecha o que faltaba una \ndisposición adicional. (Protestas). Pero que nadie se engañe, el problema es que — en aquella ocasión y \nen esta también— hay un bloque reaccionario en el Estado que tiene expresiones mediáticas y judiciales, \nque está dispuesto a desconocer las mayorías democráticas de este Parlamento.\nEl Gobierno puede tener la tentación de pensar que con la aprobación de esta ley de amnistía ya está \ntodo hecho. Nosotros y nosotras pensamos que sin abordar la democratización del Estado y de la justicia \nsolo estamos ante una victoria pírrica.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Sánchez.\nPor el Grupo Parlamentario Vasco, EAJ-PNV, tiene la palabra el señor Legarda Uriarte por un tiempo \nde siete minutos."
+  },
+  {
+   "speaker": "LEGARDA URIARTE",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, presidenta.\nEgun on, jaun-andreok.\nLlevamos cerca de medio año debatiendo sobre la proposición de ley de amnistía sin que la \nconfrontación política abierta en todo este tiempo haya amainado, y no solo por el elemento superpuesto \nde discordia en cuanto a que la iniciativa legislativa vino acomodada a la negociación de investidura, sino \ntambién porque, más allá de las instituciones jurídicas utilizadas, lo decisivo sobre el asunto es cómo se \nvea globalmente lo sucedido en el procés.\nPara el Grupo Parlamentario Vasco y para el Partido Nacionalista Vasco, lo sucedido en Cataluña fue \nuna grave crisis constitucional en torno al modo de ejercer el derecho a decidir, consecuencia mediata del \ninconcluso encaje de territorios como Cataluña y el mismo País Vasco en la Constitución, con fuertes \nsentimientos nacionales de pertenencia distintos a los del resto del Estado, con aspiraciones históricas de \nautogobierno y relevantes sectores soberanistas, y que de manera inmediata eclosionó en Cataluña tras \nla malograda reforma de su estatut, generando un choque de legitimidades entre el Tribunal Constitucional \ny el pueblo de Cataluña. Esto, unido a la crisis económica de aquellos años, con demandas insatisfechas \nde las instituciones catalanas, desembocó en un movimiento político y social, que fue creciendo en torno \nal derecho a decidir del pueblo de Cataluña, y que se manifestó en distintos momentos y actuaciones en \nlo que, en su conjunto, conocemos como el procés. Y tuvo como respuesta de las instituciones y poderes \ndel Estado la aplicación del artículo 155 de la Constitución, con intervención de la Generalitat; la suspensión \nde cargos electos con imputaciones forzadas, condenas penales, administrativas y contables \nejemplarizantes; con procedimientos aún pendientes y, en general — nos parece—, con una persecución \nobsesiva de una parte de la judicatura y con actuaciones controvertidas en torno al Tsunami Democràtic y \nlos CDR.\nEn definitiva, señorías, como les decía, se trata de una grave crisis constitucional en torno al derecho \na decidir, con un trasfondo de enfrentamiento entre legitimidades de distintos sentimientos nacionales de \npertenencia, tratada desde las instituciones y poderes del Estado como un mero problema de orden \ncve: DSCD-15-PL-45\n \npúblico, cuya solución y tratamiento fue encomendado a las fuerzas y cuerpos de seguridad y al Poder \nJudicial, y que, aún hoy, por algunos partidos políticos, que se oponen a la aprobación de esta ley de \namnistía, se sigue describiendo como un golpe de Estado.\nSeñorías, el Grupo Parlamentario Vasco, en el contexto señalado, considera que ha llegado el \nmomento en el que en el Estado se afronte la situación descrita con un nuevo punto de vista, distinto al \npenal y al del orden público. Consideramos que es preciso cerrar un ciclo político traumático y abrir otro \ncon una decisión política en forma de amnistía, dirigida a desjudicializar el procés, coadyuvando con ello \na consolidar la normalización institucional social y política en Cataluña, como ya se viene apreciando de \nmanera palmaria con la concesión de los indultos y las modificaciones del Código Penal en delitos como \nel de sedición y la malversación, y evitando que en un futuro próximo pueda agravarse la situación por \nprevisibles condenas y sanciones a buen número de personas en procedimientos penales, administrativos \ny contables. Una iniciativa política en forma de amnistía que la Constitución — consideramos— no proscribe \nde manera absoluta, y sin que además suponga dogmáticamente una quiebra del principio de seguridad \njurídica que atente contra la independencia judicial y vulnere la igualdad ante la ley. Ni que esta que ahora \ntratamos perjudique esos valores y principios constitucionales, al ser respetuosa con el Estado de derecho \ny la democracia, ya que se aborda legislativamente con un procedimiento parlamentario predeterminado, \ntransparente y políticamente responsable, lo que no deslegitima la democracia, y que podrá tener acceso \na los tribunales, así como a la justicia europea. Iniciativa política, la amnistía, que tampoco supone, a \nnuestro juicio, quiebra de la separación de poderes ni de mérito judicial, ya que la amnistía como \ninstrumento de la política valora la conveniencia pública o el interés general a tutelar, lo que corresponde \nal Poder Legislativo a través de la ley, y que comporta elementos no asequibles al derecho, desbordando \npor ello la esencia del Poder Judicial, cuya función es aplicar la normativa vigente y no valorar la \nconveniencia del interés general que se atiende con la ley, que es, como les decía, política pura, y cuyo \núnico límite es el mismo marco constitucional, y su intérprete supremo, el Tribunal Constitucional.\nY respecto al principio de igualdad, señalo que es la ley, y también la ley de amnistía, la que determina \nla peculiaridad de cada situación, cuya concreción corresponde al Legislativo, sin haberse establecido, en \neste caso, discriminación normativa en la delimitación de su ámbito de aplicación objetivo, subjetivo y \ntemporal, atemperándose así al principio de seguridad jurídica, al quedar este específicamente delimitado. \nLo que es justificación suficiente y razonable para enervar las críticas de arbitrariedad también vertidas \npor la amplitud del marco de la amnistía proyectada, lo que no es irrazonable ni arbitrario, teniendo en \ncuenta que en el procés estuvo involucrada una parte muy importante de la sociedad catalana y, en \nocasiones, de forma mayoritaria.\nVoy finalizando, presidenta. Señorías, con la amnistía se pretende mejorar la convivencia en Cataluña, \nlo que constituye el interés general último que legitima la amnistía en términos de principios y valores \nconstitucionales, propiciando que la irresuelta cuestión territorial en Cataluña y también en el País Vasco \nsea abordada a través de políticas de diálogo y negociación desde el principio de legalidad, pero también \ndesde el consentimiento ciudadano, pues no se conciben el uno sin el otro en una democracia liberal. \nSeñorías, esta proposición de ley es una iniciativa política con la que se puede estar en desacuerdo por \nsu misma naturaleza política o por considerarla inconveniente o ineficaz al fin pretendido, pero no por \nponer en riesgo el Estado de derecho ni la separación de poderes ni los derechos fundamentales ni por \nno caber en la Constitución, sin perjuicio, obviamente, de lo que finalmente pueda decidir el Tribunal \nConstitucional.\nEn definitiva, señorías — y termino—, pediría menos sal gruesa por aquellos que no la han esparcido \nen la campaña electoral en Cataluña y más consentir, allanar un camino — aunque sea tácitamente—, que \nles posibilite recorrerlo en el futuro. Supongo, señorías, que esto es pedir peras al olmo, pero por pedir \nque no quede.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Legarda.\nPor el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra el señor Iñarritu García, también por \nun tiempo de siete minutos."
+  },
+  {
+   "speaker": "IÑARRITU GARCÍA",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Mahaiburu andrea. Señorías, buenos días. Egun on.\nHoy es uno de esos días que pasará a la historia parlamentaria, uno de esos raros días que será \nrecordado, porque hoy se aprobará una ley excepcional como es la ley de amnistía, como son todas las \nleyes de amnistía que ha habido tanto en España como en Europa y en el mundo. Y a la vez, es una ley \ncve: DSCD-15-PL-45\n \nde gran importancia, ya que revierte una tremenda injusticia que se cometió contra miles y miles de \nciudadanos de Cataluña, con una represión desmedida, salvaje, contra un movimiento político, legítimo, \ncívico y pacífico. Y esta herramienta, decíamos que es necesaria, ya que está justificada para ayudar a \ngenerar un escenario mejor, un escenario que intente resolver el conflicto político que sigue ahí sobre la \nmesa, mediante el diálogo, la negociación y el acuerdo; esto es, mediante la política.\nEn estos años, hemos visto cómo aquellos que no tenían la voluntad o la capacidad de abordar un \nconflicto territorial, como tantos hay en el mundo, intentaron cambiar el paradigma mediante la represión, \ny convertir lo que es un problema de naturaleza política en uno de naturaleza policial. Para ello utilizaron \ntodos los instrumentos a su alcance, dentro y fuera de la legalidad: la violencia policial del 1 de octubre, \nel 155, la policía patriótica, el lawfare, Pegasus, invención de casos judiciales y también, como decía, una \nrepresión judicial y administrativa salvaje. Utilizaron la justicia como un instrumento de venganza política, \nintentando encajar en el Código Penal lo que a todas luces no tenía ningún sentido. Y es que esto no ha \npasado la prueba del algodón, y ustedes dirán qué prueba del algodón. Pues miren, ninguna de las \njusticias europeas colaboró con la justicia española en las solicitudes contra las personas exiliadas, pero, \nde igual forma, han sido numerosas las instituciones internacionales que han afeado a España su \ncomportamiento y han reiterado la necesidad de buscar cauces democráticos y de diálogo al conflicto en \nCataluña. Y de igual forma, ha sido un cálculo erróneo, porque cuando se encarcela a personas que han \ndefendido pacíficamente sus ideas políticas, con ello se socaban también los pilares de un Estado \ndemocrático y se perpetúa el conflicto.\nEs hora de desembarrar. Hay ahora una oportunidad de crear un clima de confianza y de respeto para \nabordar la cuestión territorial del Estado, tanto en Cataluña como en el resto de naciones sin Estado, ya \nsea en Euskal Herria, en Galiza o en otras naciones. Miren, hay que tener claro y no hay que engañarse \n— y esto va dirigido a todas las señorías, también a los medios y a la ciudadanía en general—, no hay que \nhacer un cálculo erróneo de que con esta ley ya está, ya se ha solventado el conflicto. El conflicto político \nsigue encima de la mesa; ahora bien, se crea un clima diferente, hay una oportunidad para abordarlo \ncomo se debe abordar en cualquier democracia: mediante el diálogo y la negociación. También es \nevidente, y lo hemos visto estos meses con las sucesivas trabas, que aquellos que se creen el Cid \nCampeador o Don Pelayo seguirán intentando poner palos en la rueda. Y, como ya se comentaba, esta \nsemana mismo hemos conocido ese manual del prevaricador, distribuido por una plataforma judicial, que \nintenta que magistrados y magistradas vayan contra el spiritus legis.\nPero lo importante es que hoy aquí haya una mayoría parlamentaria que tenga claro que los conflictos \npolíticos no se resuelven en los tribunales, sino que se resuelven mediante la política, eso es importantísimo. \nDurante estos meses, hay quienes — y hoy se repetirá— han estado en contra de esta ley, con estrategias \nen algunos casos infantiles o con falta de argumentos; con filibusterismo parlamentario, como hemos visto \nen el Senado; con argumentos contradictorios, que han quedado en evidencia — ya que ellos también \nestaban dispuestos a dar medidas de gracia, eso sí, mediante otro instrumento del que son los reyes, que \nes el indulto—, y parece ser que hoy esperan que se produzca un tamayazo o algo así. Porque si no, no \nse entiende. Como decía, lo importante es que hoy haya una mayoría que tenga claro que los conflictos \npolíticos se resuelven mediante la política.\nJaun-andreok, besteetan esan dugun bezala, lege hau garrantzitsua da eta beharrezkoa. Beharrezkoa \nez Kataluniako gatazka politikoa konpontzeko, ez, baina beste egoera batean konpontzen saiatzeko, \nauzitegietatik ateratzeko auzitegietara inoiz heldu behar ez zena. Hilabete hauetan zehar ikusi ditugu \noztopo asko egon direla, eta segur aski hurrengo hilabeteetan ere beste oztopo batzuk egongo dira, baina \nesaten nuen lez, garrantzitsuena da gaur gehiengo bat egotea hemen lege honen alde, baina baita ere \nargi daukana gatazka politikoak elkarrizketaren bidez konpontzen direla eta ez auzitegietan.\nSeñorías, como ya hemos dicho en otras ocasiones, esta ley es muy importante, es necesaria y \nes necesaria no solo para resolver el conflicto político en Cataluña, sino también porque se va a \nsolucionar de otra manera, con otros instrumentos, para desjudicializar un tema que nunca debió \nestar en los juzgados. En estos últimos meses, hemos visto muchos obstáculos y, seguramente, en \nlos próximos meses habrá otras trabas, otros obstáculos, pero, como ya les decía antes, lo más \nimportante es que hoy va a haber una mayoría aquí en esta Cámara a favor de esta ley, pero también \nuna mayoría que tenga claro que los conflictos políticos se solucionan a través del diálogo y no en los \ntribunales.\ncve: DSCD-15-PL-45\n \nI ara, per acabar, ho faré en català, perquè voldria enviar un missatge als amics catalans que són aquí, \nd’Esquerra, de Junts, però també a tots els ciutadans de Catalunya.\nDeia abans que avui és un dia històric, d’aquells que passen a la història. En aquest sentit, l’amnistia \nés una resposta necessària i justa davant la repressió patida per tots aquells colpejats, empresonats, \nmultats i condemnats que han lluitat pacíficament pel dret d’autodeterminació.\nPerò també és cert que el conflicte polític continua irresolt sobre la taula. Sapigueu que, des de \nl’independentisme basc, sempre estarem donant suport a una solució a la vostra causa, ja que també és \nla nostra causa. I, com va dir el president Lluís Companys, tots els pobles tenen el dret a decidir el seu \ndestí. I aquest principi és l’essència de la democràcia, i ha de ser respectat i protegit. I nosaltres seguirem \ndefensant aquest principi.\nMoltes gràcies, presidenta.\nPara terminar, intervendré en catalán, porque quisiera mandar un mensaje a los amigos catalanes que \nestán presentes de Esquerra, de Junts y también a todos los ciudadanos de Cataluña. Antes decía que \nhoy es un día histórico, un día de los que pasan a la historia. Y, en este sentido, la amnistía es una \nrespuesta necesaria y justa ante la represión sufrida por todos los que han estado encarcelados, multados, \ncondenados, que han luchado pacíficamente en favor del derecho de autodeterminación. Pero, también \nes cierto que el conflicto político sigue sobre la mesa irresuelto. Sabed que desde el independentismo \nvasco siempre vamos a dar apoyo a una solución a vuestra causa, porque esa también es nuestra causa. \nY, como dijo el presidente Luis Companys, todos los pueblos tienen el derecho a decidir su destino, y este \nprincipio es la esencia de la democracia y debe ser respetado y protegido, y nosotros continuaremos \ndefendiendo este principio.\nMuchas gracias, presidenta. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Iñarritu.\nPor el Grupo Parlamentario Junts per Catalunya, tiene la palabra la señora Nogueras i Camero por un \ntiempo de siete minutos."
+  },
+  {
+   "speaker": "NOGUERAS I CAMERO",
+   "party": "Junts",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gràcies, presidenta.\nAvui és un dia històric en tota l’amplitud del terme. Avui no es perdona: avui es guanya. Es guanya una \nbatalla del conflicte que existeix des de fa segles entre les dues nacions: la nació catalana i la nació \nespanyola. Aquesta llei no es perdó, ni és clemència. Es victòria. Una victòria democràtica i col·lectiva en \nla qual, certament, tots hi tenim determinada responsabilitat.\nPerò no ens confonguem. Mai hauríem d’haver arribat a necessitar aquesta llei, i mai no hauríem \narribat a aquest extrem si l’Estat espanyol hagués fet una transició democràtica real, especialment a les \ncúpules judicials. Mai no hauríem arribat a aquest extrem si s’hagués trencat amb l’atado y bien atado del \ndictador, i si l’Estat espanyol s’hagués mogut en els estàndards europeus en termes de justícia i de \nllibertat. Mai no hauríem arribat a aquest extrem si l’Estat espanyol hagués estat coherent amb els tractats \ninternacionals que signa, i que respecta quan es tracta de tercers països, però que nega categòricament \nquan es tracta de Catalunya. Mai no hauríem arribat a aquest extrem si el Govern espanyol hagués \naplicat, per exemple, les resolucions del grup de treball de Nacions Unides dels exiliats i dels presos \npolítics catalans. Mai no hauríem arribat a aquest extrem si el Partit Popular i el PSOE no haguessin \npromogut i haguessin participat activament de la repressió.\nPerò amb aquesta llei que l’independentisme català us ha forçat a fer, això no s’arregla. Amb un PSOE \ni amb uns partits espanyols acomplexats, això no s’arregla. Aquesta llei no és de pacificació, com alguns \npretenen presentar-la. És de reparació d’una part de les injustícies comeses en aquests anys de persecució \na l’independentisme català, i és fruit de la força negociadora que els ciutadans de Catalunya, amb els seus \nvots, ens han donat.\nCap unionista està acusat o perseguit pel sol fet de ser-ho. I molts catalans ens sentim catalans, \nnomés catalans. I com a ciutadans, el fet de no sentir-nos espanyols, o el fet de defensar la nostra nació, \nla nostra llengua, la nostra cultura; o defensar el benestar dels ciutadans de Catalunya, de tots els \nciutadans de Catalunya; o defensar les nostres empreses i la nostra economia; defensar la independència \nde Catalunya o anar a manifestacions, i fer-ho de manera pacífica i democràtica, ens ha portat a l’exili. Ens \nha portat a la presó. Ha fet que ens asseiem davant de tribunals polititzats. Ha fet que entrin a les nostres \ncases amb violència i davant els nostres fills. Han fet que entrin a les nostres feines. Que ens vexin \ninsultin, detinguin i peguin. S’ha faltat al respecte a tot un poble. Vostès han faltat al respecte a tot un poble \ni ho havien de reparar.\ncve: DSCD-15-PL-45\n \nI després d’avui, la lluita continua i estem més preparats. Hem demostrat que podem vèncer allò que \nvostès no tenen el valor d’afrontar. Hem demostrat que aquesta màquina del fang — que ara alguns \nsembla que descobreixen, però que callaven quan ens atacava a nosaltres— la podem guanyar. I \nnosaltres, els independentistes catalans, som els únics que hem tingut el coratge, amb la societat civil \ncatalana al capdavant, de passar de les paraules als fets, de la retòrica a l’acció. I ho fem, i ho hem fet, \nsense violència. La nostra arma és la raó, i això no hi ha policia, periodista o jutge patriòtic espanyol que \nho tombi. Que a vostès no els hi agradi no vol dir que no sigui legal. I per això aquesta és una llei \ndissenyada per superar els filtres democràtics que estableix el Tribunal de Justícia de la Unió Europea, \naquell tribunal que sempre ens ha donat la raó, i ens l’ha donat perquè la tenim, perquè estem al costat \ncorrecte de la Història i perquè ens ha permès lluitar en un terreny neutral amb jutges independents del \npoder polític.\nAvui s’aprova una llei d’amnistia per què els hem forçat, perquè hem mantingut la posició, perquè el \ndebat és tan real que mantenir la posició era i és la decisió més difícil, més criticada, més jutjada, \nsegurament també la més arriscada, però l’única que ens porta a avançar en aquell objectiu nostre tan \nmeravellós que és la llibertat, la llibertat definitiva. És exactament això el que defensem, senyores i senyors \ndiputats. La dignitat, el respecte, la democràcia, la llibertat. És exactament això el que defensem, senyors \nde la cúpula judicial espanyola. Senyors que, per cert, a partir d’avui tenen l’oportunitat de situar la Justícia \nespanyola al carril dels estàndards europeus. No som terroristes, no som delinqüents. Aquesta és la \nrealitat, i tots vostès ho saben.\nI ara a nosaltres ens toca reconstruir, ens toca reconstruir-nos, fer autocrítica, perquè el que està en \njoc és el nostre país, és la nostra nació i, per tant, és el futur dels nostres fills. I això val molt la pena. Com \ndeia el president Carles Puigdemont a la seva conferència del cinc de setembre, que ningú no s’enganyi: \namb l’acord d’investidura i amb l’amnistia no es resoldrà el problema de fons. No hi ha una recepta \nautonòmica per resoldre els problemes de Catalunya. Allò determinant és el reconeixement nacional de \nCatalunya. Seguim aquí. I mentre els catalans no assolim la plena llibertat, seguirem lluitant.\nI acabo. Ens van dir que no es podia parlar el català en seu parlamentària, i el parlem perquè els hem \nforçat. Ens van dir que el Govern espanyol no podia fer la sol·licitud de l’oficialitat del català a Europa, i \nl’ha fet perquè els hem forçat. Ens van dir que no es podia fer una comissió d’investigació dels atemptats \nterroristes de Cambrils i Barcelona del 17 d’agost del 2017, i s’ha constituït la comissió d’investigació \nperquè els hem forçat. Ens van dir que la patronal catalana, la petita i la mitjana empresa, no podia ser als \nllocs de presa de decisió, i avui hi són i tenen veu i vot perquè els hem forçat. Han insultat amenaçat, \nperseguit i demonitzat el president Carles Puigdemont, van dir que no es podia negociar amb ell, i avui el \nnecessiten. Avui hi negocien perquè els hem forçat. Ens van dir que no hi hauria amnistia, i avui tindrem \namnistia perquè els hem forçat. I ens diuen que no hi haurà independència, i avui tenim més clar que mai \nque de vostès és de qui menys depèn. Depèn del poble de Catalunya.\nMoltes gràcies i visca Catalunya lliure.\nI si em permets, presidenta, no voldria retirar-me sense que constés en el Diari de Sessions el nostre \nmés profund agraïment, de part de Junts per Catalunya, a tres persones que han treballat molt per aquesta \nllei: en Gonzalo Boye, en Josep Pagès i el diputat Josep Maria Cervera. Moltes gràcies a tots els que avui \nvotareu que sí a aquesta llei. Gràcies, presidenta Forcadell. Gràcies, conseller Turull. Gràcies, vicepresident \nJunqueras. Gràcies, consellera Bassa. Moltes gràcies.\nGracias, presidenta.\nHoy es un día histórico en toda la amplitud del término. Hoy no se perdona, hoy se gana; se gana una \nbatalla del conflicto que hace siglos existe entre las dos naciones: la nación catalana y la nación española. \nEsta ley no es perdón ni es clemencia, es victoria, una victoria democrática y colectiva en la cual ciertamente \ntodos tenemos determinada responsabilidad. Pero no nos confundamos, nunca deberíamos haber llegado \na necesitar esta ley. Nunca habríamos llegado a este extremo si el Estado español hubiera hecho una \ntransición democrática real, especialmente en las cúpulas judiciales. Nunca habríamos llegado a este \nextremo si se hubiera roto con el atado y bien atado del dictador y si el Estado español se hubiera movido \nen los estándares europeos en términos de justicia y de libertad. Nunca habríamos llegado a este extremo \nsi el Estado español hubiera sido coherente con los tratados internacionales que firma y que respeta \ncuando se trata de terceros países, pero que niega categóricamente cuando se trata de Cataluña. Nunca \nhabríamos llegado a este extremo si el Gobierno español hubiera aplicado, por ejemplo, las resoluciones \ndel grupo de trabajo de Naciones Unidas sobre los exiliados y los presos políticos catalanes. Nunca \ncve: DSCD-15-PL-45\n \nhabríamos llegado a este extremo si el Partido Popular y el PSOE no hubieran promovido ni hubieran \nparticipado activamente de la represión.\nPero, con esta ley que el independentismo catalán ha forzado a elaborar, esto no se arregla. Con \nun PSOE y unos partidos españoles acomplejados, esto no se arregla. Esta ley no es de pacificación, \ncomo algunos pretenden presentarla, es de reparación de una parte de las injusticias cometidas en estos \naños de persecución al independentismo catalán, y es fruto de la fuerza negociadora que los ciudadanos \nde Cataluña, con sus votos, nos han dado.\nNingún unionista está acusado o perseguido por el mero hecho de serlo. Muchos catalanes nos \nsentimos catalanes, solo catalanes. Y como ciudadanos, el hecho de no sentirnos españoles o el hecho \nde defender nuestra nación, nuestra lengua, nuestra cultura o defender el bienestar de los ciudadanos de \nCataluña, de todos los ciudadanos de Cataluña, defender nuestras empresas o nuestra economía, \ndefender la independencia de Cataluña o ir a manifestaciones y hacerlo de forma pacífica y democrática, \nnos ha llevado al exilio, a la cárcel; ha hecho que nos sentemos ante tribunales politizados; ha hecho que \nentren en nuestras casas con violencia y ante nuestros hijos, ha hecho que entren en nuestros trabajos, \nque nos vejen, insulten, detengan y peguen. Se ha faltado al respeto a todo un pueblo. Ustedes han \nfaltado al respecto a todo un pueblo y tenían que repararlo.\nY después de hoy, la lucha continúa, y estamos más preparados. Hemos demostrado que podemos \nvencer aquello que ustedes no tienen el valor de afrontar. Hemos demostrado que esta máquina del fango \nque ahora algunos parece que descubren, pero callaban cuando nos atacaba a nosotros, se puede ganar. \nY nosotros, los independentistas catalanes, somos los únicos que hemos tenido el coraje, con la sociedad \ncivil catalana al frente, de pasar de las palabras a los hechos, de la retórica a la acción, y lo hacemos y lo \nhemos hecho sin violencia. Nuestra arma es la razón, y esto no hay policía, periodista o juez patriótico \nespañol que lo tumbe. Que a ustedes no les guste, no quiere decir que no sea legal. Por ello, esta es una \nley diseñada para superar los filtros democráticos que establece el Tribunal de Justicia de la Unión \nEuropea, ese tribunal que siempre nos ha dado la razón, y nos la ha dado porque la tenemos, porque \nestamos en el lado correcto de la historia y porque nos ha permitido luchar en un terreno neutral con \njueces independientes del poder político.\nHoy se aprueba una ley de amnistía porque lo hemos forzado, porque hemos mantenido la posición, \nporque el debate es tan real que mantener la posición era y es la decisión más difícil, más criticada, más \njuzgada y seguramente también la más arriesgada, pero la única que nos lleva a avanzar en ese objetivo \nnuestro tan maravilloso que es la libertad, la libertad definitiva. Es exactamente esto lo que defendemos, \nseñoras y señores diputados: la dignidad, el respeto, la democracia, la libertad. Es exactamente esto lo \nque defendemos, señores de la cúpula judicial española; señores que, por cierto, a partir de hoy, tienen la \noportunidad de situar la justicia española en el carril de los estándares europeos. No somos terroristas, no \nsomos delincuentes, esta es la realidad y todos ustedes lo saben. Y ahora a nosotros nos toca reconstruir, \nnos toca reconstruirnos, hacer autocrítica, porque lo que está en juego es nuestro país, es nuestra nación \ny, por lo tanto, el futuro de nuestros hijos, y eso vale mucho, vale la pena.\nComo decía el president, Carles Puigdemont, en su conferencia del 5 de septiembre, que nadie se \nengañe, con el acuerdo de investidura y con la amnistía no se resolverá el problema de fondo, no hay una \nreceta autonómica para resolver los problemas de Cataluña; lo determinante es el reconocimiento nacional \nde Cataluña. Seguimos aquí, y mientras los catalanes no alcancemos la plena libertad, seguiremos \nluchando.\nY termino. Nos dijeron que no se podía hablar catalán en sede parlamentaria, y lo hablamos porque lo \nhemos forzado. Nos dijeron que el Gobierno español no podía hacer la solicitud de oficialidad del catalán \nen Europa, y lo ha hecho, porque lo hemos forzado. Nos dijeron que no se podía hacer una comisión de \ninvestigación de los atentados terroristas de Cambrils y Tarragona de 2017, y se ha constituido la Comisión \nporque lo hemos forzado. Nos dijeron que la patronal catalana de la pequeña y mediana empresa no \npodía estar en los lugares de toma de decisión, y ahora están y tienen voz y voto, porque lo hemos \nforzado. Han insultado, amenazado, perseguido y demonizado al presidente Carles Puigdemont, han \ndicho que no se podía negociar con él, y hoy le necesitan, hoy negocian, porque lo hemos forzado. Nos \ndijeron que no habría amnistía y hoy tendremos amnistía, porque lo hemos forzado. Y nos dicen que \nnunca habrá independencia, y hoy tenemos más claro que nunca que es de ustedes de quienes menos \ndepende; depende del pueblo de Cataluña.\nMuchas gracias. ¡Viva Cataluña libre!\ncve: DSCD-15-PL-45\n \nSi me permite, presidenta, no quisiera retirarme sin que constara en el Diario de Sesiones nuestro más \nsincero agradecimiento, de parte de Junts per Catalunya, a tres personas que han trabajado mucho por \nesta ley, Gonzalo Boye, Josep Pagès y el diputado Josep Maria Cervera. Muchas gracias a todos los que \nvais a votar que sí hoy a esta ley. Gracias, presidenta Forcadell. Gracias, conseller Turull. Gracias, \nvicepresidente Junqueras. Gracias, consejera Bassa.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Moltes gràcies, señora Nogueras.\nPor el Grupo Parlamentario Republicano, tiene la palabra el señor Rufián Romero, por un tiempo de \nsiete minutos."
+  },
+  {
+   "speaker": "RUFIÁN ROMERO",
+   "party": "ERC",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Avui no només és un bon dia per unes persones. Avui no només és un \nbon dia per uns partits. Avui no només és un bon dia per unes idees, per una causa. Avui és un bon dia \nper tot un país, per la seva democràcia i per la seva llibertat. Avui és un dia de victòria, però també és un \ndia de derrota. Avui és un dia històric perquè estem davant de la primera derrota del règim del 78. I avui \nés un dia d’agraïment. Avui, principalment, és un dia d’agraïment, més enllà de les nostres sigles.\nCalma, calma.\nAvui és un dia de donar les gràcies. I jo, avui, aquí; nosaltres, avui, aquí, donarem les gràcies. Gràcies, \nmoltes gràcies a Joan Tardà per dir-ho el primer. Gràcies, moltes gràcies a Carles Puigdemont per liderar \naquell Govern tan valent. Gràcies, moltes gràcies a Oriol Junqueras per entomar l’encàrrec de la Història. \nGràcies, moltes gràcies a Carme Forcadell per llegir aquella declaració sabent que li costaria la seva \nllibertat. Gràcies, moltes gràcies al Raül Romeva per explicar-ho a tot el món. Gràcies, moltes gràcies a \nJordi Sànchez i a Jordi Cuixart per ser els primers en suportar. Gràcies, moltes gràcies a Marta Rovira i a \nJordi Turull per tirar, per tirar i per tirar quan més costava tirar. Gràcies, moltes gràcies a Quim Forn i al \nmajor Trapero perquè, encara que fos només un dia, tot un poble, més enllà de la seva ideologia, es va \nsentir molt orgullós de la seva policia. I gràcies a Toni Comín, Carles Mundó, Lluís Salvador, Josep Maria \nJové, Dolors Bassa, Josep Rull, els negociadors, les negociadores. Soc injust, em deixo gent, però només \ntinc set minuts i vull parlar, vull agrair, perquè avui, repeteixo, és un dia d’agraïment. Vull agrair als \nimprescindibles, les imprescindibles: la gent. Els alcaldes, les alcaldesses, els regidors, les regidores, que \nvan ser perseguits i perseguides per permetre al seu poble votar: votar que sí, votar que no... Per permetre \nvotar. I gràcies, moltes gràcies a la gent. Als centenars i centenars de persones que aquell dia — fins i tot \ngent que estava en contra d’aquest referèndum— va sortir al carrer i va defensar les urnes amb el seu cos \ni amb la seva ànima perquè era una burrada el que estava passant: en definitiva, pegar la gent per votar.\nArribem tard. Arribem tard perquè ningú, ningú, ningú es mereixia ni un minut de repressió, de presó \no de persecució. Però tenim la força que tenim. Esquerra Republicana no estava equivocada: és que \nestava molt sola. I el resultat, el que està passant avui aquí, és el resultat de tot un independentisme unit. \nUnit per una causa que transcendeix les nostres baralles diàries. Així de forts som. Així que jo crec que ho \nhem de reivindicar una vegada i una altra.\nI acabo amb tres comentaris. El primer: Esquerra Republicana mai deixarà de fer política. Mai. I mai \ndeixarà de dir la veritat, encara que sigui víctima del primer i del segon, però mai no ho deixarem de fer. \nDos: felicitem-nos. Felicitem-nos per això d’avui, però siguem realistes. Hem dit que sempre diem la \nveritat: això d’avui no és un punt i final. Encara queda un partit per votar en aquest país. Encara queda un \npartit que, pel que sigui, no està aquí, però que és molt important: el partit judicial espanyol. I votarà. I \ntothom sap el que votarà. I forma part, i des d’aquí...,\nHoy no solo es un buen día para muchas personas. Hoy no solo es un buen día para los partidos. Hoy \nno solo es un buen día para unas ideas y una causa. Hoy, hoy es un buen día para todo un país, para su \ndemocracia y para su libertad. Es un día de victoria, pero también de derrota. Hoy es un día histórico, \nporque estamos ante la primera derrota del régimen del 78.\nY hoy es un día de agradecimiento. Hoy, principalmente, es un día de agradecimiento, más allá de \nnuestras siglas. Calma. Hoy es un día para dar las gracias. Y hoy, aquí, nosotros vamos a dar las \ngracias. Gracias, muchas gracias, a Joan Tardà, en primer lugar. Gracias, muchas gracias, a Carles \nPuigdemont por liderar este Gobierno tan valiente. Gracias, muchas gracias, a Oriol Junqueras por \nhacer frente a este encargo de la historia. Gracias, muchas gracias, a Carme Forcadell por leer esa \ndeclaración, sabiendo que le costaría su libertad. Gracias, muchas gracias, a Raül Romeva por explicarlo \na todo el mundo. Gracias, muchas gracias, a Jordi Sànchez y a Jordi Cuixart por ser los primeros en \ncve: DSCD-15-PL-45\n \nsoportar. Gracias, muchas gracias, a Marta Rovira y a Jordi Turull por tirar, tirar y tirar del carro cuando \nmás costaba hacerlo. Gracias, muchas gracias, a Quim Forn y al mayor Trapero. Gracias, porque, \naunque fuera solo un día, todo un pueblo, más allá de su ideología, se sintió muy orgulloso de su policía. \nY gracias a Toni Comín, a Carles Mundó, a Dolors Bassa, a Josep Rull, a los negociadores y a las \nnegociadoras.\nY soy injusto, me dejo gente, pero solo tengo siete minutos y quiero agraceder, porque hoy, repito, es \nun día de agradecimiento. Quiero agradecer a los imprescindibles y a las imprescindibles. A la gente, a los \nalcaldes, a las alcaldesas, a los concejales y a las concejalas que fueron perseguidos y perseguidas por \npermitir a su pueblo votar, votar que sí o votar que no, pero permitir votar. Y muchas gracias a la gente, a \nlos centenares y centenares de personas, personas que incluso estaban en contra de ese referéndum, \npero salieron a la calle y defendieron las urnas con su cuerpo y con su alma, porque era una burrada lo \nque estaba pasando, en definitiva, golpear a la gente por votar.\nVamos tarde. Vamos tarde porque nadie, nadie, se merecía ni un minuto de represión, de cárcel o de \npersecución, pero tenemos la fuerza que tenemos. Esquerra Republicana no estaba equivocada, estaba \nmuy sola, y lo que está pasando hoy aquí es el resultado de todo un independentismo unido por una causa \nque trasciende nuestras luchas diarias. Así somos de fuertes. Así que creo que tenemos que reivindicarlo \nuna y otra vez.\nY concluyo con tres comentarios. Primero, Esquerra Republicana jamás, jamás, dejará de hacer \npolítica y jamás dejará de decir la verdad, aunque sea víctima de lo primero y de lo segundo, pero jamás \ndejaremos de hacerlo. Dos, felicitémonos por lo de hoy, pero seamos realistas, hemos dicho que siempre \ndiremos la verdad, lo de hoy no es un punto final, todavía queda un partido por votar en este país. Todavía \nqueda un partido, que por lo que sea no está aquí, pero que es muy importante, el partido judicial español. \nY votará, y todo el mundo sabe lo que votará. Y forma parte y desde aquí…\n… con toda la humildad del mundo interpelo a los demócratas españoles para que no lo permitan, \nporque el «a por ellos» era en realidad «a por todos y a por todas». (Aplausos).\nI el tercer comentari. Senyories, si tenen memòria, m’entendran. Propera parada, referèndum. I qui \nrigui, qui ho menystingui, que pensi, que recordi què deia aquí segons qui d’Esquerra Republicana fa \nquatre, tres, dos o un any de l’amnistia, el que estem votant aquí avui. Així que propera parada, referèndum.\nMoltes gràcies i visca Catalunya justa i lliure. Fins la victòria sempre.\nY el tercer comentario, señorías — si tienen memoria, me entenderán—, es: siguiente parada, \nreferéndum. Y quien se ría y lo menosprecie, que recuerde lo que decía aquí, según qué personas, \nEsquerra Republicana hace cuatro, tres, dos o un año de la amnistía, lo que estamos votando hoy aquí. \nAsí que siguiente parada, referéndum.\nMuchas gracias y viva Cataluña justa y libre. ¡Hasta la victoria siempre! (Aplausos de las señoras y \nlos señores diputados del Grupo Parlamentario Republicano, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Moltes gràcies, señor Rufián.\nPor el Grupo Parlamentario Plurinacional SUMAR, tiene la palabra el señor Pisarello Prados, por un \ntiempo de siete minutos."
+  },
+  {
+   "speaker": "PISARELLO PRADOS",
+   "party": "Sumar",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "La amnistía que hoy se votará aquí es una victoria del pacto sobre \nel atropello, y es la posibilidad de una convivencia basada no en la imposición, sino en el reconocimiento \nde la pluralidad y de la libre decisión de los pueblos y las gentes que habitan en lo que Salvador Espriu \nllamaba la pell de brau, la piel de toro. Y es, sin duda, también la constatación de un fracaso, el de unas \nderechas radicalizadas y empeñadas en utilizar la amnistía para derrocar al Gobierno y a la mayoría de \ninvestidura, que hoy, de este hemiciclo, saldrán derrotadas. (Aplausos).\nLa ley que hoy se aprueba concierne fundamentalmente a independentistas catalanes, sí, pero el \nlistado de los que han sido objeto de represión y persecución penal abusiva es largo. Pienso en Juan \nMaría Atutxa, del Partido Nacionalista Vasco, en tantos y tantos militantes de EHBildu, Izquierda Unida, \nPodemos, Comunes, Compromís o Más Madrid; en feministas, republicanos, activistas sociales y \nsindicalistas de todo tipo. Ni siquiera el presidente del Gobierno y su familia se han librado de la furia \ninquisitorial de quienes nunca han renunciado a la vía del golpismo blando.\ncve: DSCD-15-PL-45\n \nLo que tenemos aquí, señorías, no son unas derechas a la Merkel, a lo Juncker, dispuestas a discrepar \npero aceptando la alternancia política; son unas derechas fanatizadas, empecinadas en reproducir los \nmodos mamporreros del Cardenal Cisneros y de Fernando VII (aplausos); son unas derechas fanatizadas \ncapaces de encumbrar a personajes desquiciados como Milei, a una admiradora de Mussolini como \nMeloni e incluso a un criminal como Netanyahu, con los cadáveres de las niñas y niños de Rafah aún \ncalientes. (Aplausos). Si algo queda claro, señorías, es que frente a estas derechas instaladas en el \nneofranquismo más descarado no puede haber ninguna vacilación.\nMuchos de los destinatarios de la amnistía que hoy aprobaremos aquí son compañeros y compañeras \ncon los que compartimos valores republicanos profundos; otros han sido y son adversarios con los que \ntenemos claras discrepancias desde el punto de vista político, e incluso en el proyecto socioeconómico, \npero todos ellos y ellas han sido objeto de una reacción policial y penal plagada de arbitrariedades que \nuna democracia decente no se puede permitir. \nY aquí, uno de los objetivos no menores de esta ley es decir nunca más a las cloacas y a la guerra \nsucia judicial, policial o mediática como respuesta a demandas políticas legítimas. (Aplausos). Es decir \nnunca más a las porras como una respuesta a una multitud pacífica como la del 1 de octubre, que solo \npretendía votar y que fue apaleada por orden de un ministro cobarde, como Juan Ignacio Zoido. \n(Aplausos). Pero para que estas actuaciones no se repitan la amnistía no puede ser un punto final, \ntiene que ser la antesala de cambios más profundos. (Rumores). Por respeto a Montesquieu, hay que \nacabar con la pretensión de la derecha de controlar el Tribunal Supremo por la puerta de atrás o de \nrepartir guías a los jueces para que prevariquen intentando burlar la ley. (Aplausos). Por respeto a \nBeccaria no se puede tolerar que una organización falangista heredera de Fuerza Nueva, como Manos \nLimpias, se dedique impunemente a impulsar querellas espurias para destruir a adversarios. (Aplausos). \nUna democracia decente, señorías, no puede autorizar infiltraciones policiales arbitrarias en movimientos \nsociales o vecinales, o la incriminación abusiva de jóvenes antifascistas como Adri de Badalona o como \nLos 6 de Zaragoza. (Aplausos). Una democracia decente no puede permitir que la Audiencia Nacional \nactúe como un tribunal de excepción, persiguiendo a directores de medios críticos como hizo con Mertxe \nAizpurua, con Martxelo Otamendi y como quieren hacer ahora contra Jesús Rodríguez, periodista de la \nDirecta. (Aplausos).\nMuy débil será la democracia, señorías, si quedan jueces como el que le acaba de decir a la joven \nÁfrica Cuesta que si perdió un ojo por una carga policial fue por culpa suya, por haber pedido en una \nmanifestación la libertad de Pablo Hasél. Muy débil sería la democracia si pandas de energúmenos, como \nlos que intentaron reventar la obra de teatro Alsasua, se salieran con la suya al grito de «Guardia Civil, \ndispara tu fusil». Años lleva ya el periodista Julián Macías explicando cómo el PP y VOX subvencionan \npseudomedios y pseudoperiodistas que acosan e inundan las redes con bulos, como han hecho con \nPablo Iglesias e Irene Montero, con Mónica Oltra, con Mónica García, con Ada Colau y con tantas más. \n(Aplausos). Si de verdad queremos acabar con esto, no basta con librar escaramuzas a lo Sagasta de \nmero progresismo verbal, hay que actuar y hay que hacerlo con valentía, democratizando el acceso a la \njusticia, a los medios de comunicación, acabando de una vez con la maldita ley mordaza.\nL’amnistia, senyories, que avui aprovem aquí hagués estat impossible sense la persistència de milers \nde catalans i catalanes que no han acceptat, no hem acceptat, lliçons de democràcia dels qui encara \nsospiren pel franquisme. I tampoc no hagués estat possible sense la solidaritat de molts bascos, madrilenys, \nandalusos que no s’han afegit al «a por ellos» perquè sabien que els que s’oposen a aquesta amnistia són \nels mateixos que la volen per defensar els seus amics banquers i per defensar els torturadors de la \ndictadura.\nLa amnistía que aprobamos hoy aquí habría sido imposible sin la persistencia de miles de catalanas \ny catalanes que no han aceptado, que no hemos aceptado, lecciones de democracia de quienes todavía \nsuspiran por el franquismo; y tampoco habría sido posible sin la solidaridad de muchos vascos, madrileños, \nandaluces que no se han sumado al «A por ellos» porque sabían que los que se oponen a esta amnistía \nson los mismos que defendieron a los banqueros amigos y a los torturadores de la Dictadura.\nEsta es la fuerza social que necesitamos para decir no a otros «a por ellos» ultras, lo que los enemigos \nde la justicia social pretenden perpetrar contra la gente trabajadora, nativa y migrante, dividiéndola, lo que \nya están perpetrando contra miles de mujeres y de personas LGTBI allí donde PP y VOX gobiernan juntos \n(rumores), y el «a por ellos» que con tanta crueldad está llevando al genocidio del pueblo palestino. \ncve: DSCD-15-PL-45\n \n(Aplausos). Hay mucha gente que lleva años plantando cara a estas injusticias, como el diputado palestino \nMustafa Barghouti, que hoy nos acompaña y que nunca se ha rendido. (Aplausos). Por ellas y por ellos \nno podemos recular.\nPor todo eso, señorías, quiero acabar apelando a la mayoría de la investidura de esta Cámara. Aquí \nhay unas fuerzas fanatizadas que nos querrían aislados y sometidos. Lo sabíamos el 23J y lo seguimos \nsabiendo ahora. No se lo permitamos. Mantengámonos diversos pero juntos en lo esencial, con lucidez \nantifascista, de pie y con dignidad.\nMuchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario SUMAR \ny de algunos miembros del Gobierno, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señor Pisarello.\nPor el Grupo Parlamentario VOX, tiene ahora la palabra el señor Abascal Conde por un tiempo de \nsiete minutos. (Aplausos)."
+  },
+  {
+   "speaker": "ABASCAL CONDE",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Esta ley es un acto de corrupción política, de la mayor corrupción política \nque se ha perpetrado en España desde 1978. Los cómplices de investidura del señor Sánchez y del \nPartido Socialista cometieron en el año 2017 los peores delitos que pueden cometer representantes \npúblicos, peores incluso que los de esos miserables corruptos que se llevan el dinero de los españoles a \ncasa, porque eran delitos contra la Constitución, delitos contra la convivencia — rota en Cataluña— y \ndelitos contra la unidad de la patria, que es el fundamento de la Constitución y, por lo tanto, es anterior y \nsuperior a la propia Constitución. (Aplausos). Esos son los delitos que ustedes van a amnistiar. Mientras \na los españoles honrados no se les pasa una multa, no se les perdona absolutamente ninguna sanción, \nustedes van a perdonar y amnistiar a sus socios de investidura solo para permanecer en el poder.\nTodo les da igual. Lo mismo legitimar el peor atentado terrorista de la historia que legitimar un golpe \nde Estado separatista, porque es lo que hacen con esta corrupción política, legitimar la violencia política \nen España. (Aplausos). Advertimos de que lo peor de Sánchez estaba por llegar y ha llegado. Ahora se \ncierne una sombra de sospecha de corrupción económica también, y no solo política, sobre el Gobierno, \nsobre el partido y sobre la familia del presidente. No sabemos si van a amnistiar también a sus ministros, \na sus propios familiares o si el señor Sánchez tiene intención de autoamnistiarse.\nEl señor Sánchez llegó al poder — y no lo olvidaremos nunca— insultando, llamando indecente al \nanterior presidente del Gobierno, al presidente Rajoy, y presentando una moción de censura sustentada \nen acusaciones de corrupción. Ahora le fastidian mucho los insultos y las acusaciones de corrupción. \nPodría incluirlo todo ello en su ley de amnistía, porque lo que quieren aquí es amnistiar un golpe a la \nConstitución que dejó a policías heridos, un golpe a la Constitución que produjo gravísimos daños \neconómicos y materiales, un golpe a la Constitución que rompió la convivencia no solo entre los españoles \nsino también entre los catalanes, y un golpe a la Constitución que provocó la fuga de empresas de \nCataluña y que, por lo tanto, empobreció a los catalanes.\nEn cambio, quieren ustedes condenar a los que llaman corruptos al presidente, al partido o a la familia \ndel presidente. Y todo va a ir a peor. Ahora los españoles — lo hemos visto durante estas semanas— \nsufren las consecuencias a nivel internacional de que Sánchez se haya puesto en manos de todo tipo de \nextremismos para desviar la atención de su corrupción económica. (Aplausos). Para tapar su corrupción \npolítica, la de hoy, y las investigaciones sobre la corrupción económica, no han dudado en iniciar un \nconflicto diplomático por semana. Primero con Argentina, llamándole drogadicto, fascista y loco al \npresidente de una nación amiga. No sé qué respuesta esperaban, pero el conflicto diplomático lo han \nhecho ustedes, porque no ha habido respuesta por parte de Argentina. Después con Israel, premiando a \nHamás y, por lo tanto, los atentados criminales del 7 de octubre y los secuestros que aún permanecen allí. \nAyer mismo a Italia, con el Partido Socialista insultando a la primer ministro de Italia llamándola fascista y \ndibujándola junto a Mussolini en las redes sociales; el Partido Socialista a través de sus redes sociales, \ncuando va allí el señor Sánchez y dice: querida Giorgia, qué importante es la colaboración entre España \ne Italia. Y luego vuelve aquí y le llaman fascista. No sé qué le dirá cuando se vuelvan a ver. Y a Hungría \ntodas las semanas. Por suerte, y por el trabajo de VOX, ni Milei, ni Meloni, ni Netanyahu, ni Orbán piensan \nque Pedro Sánchez es España (Aplausos). Ya saben que lo único que pretende es tapar la corrupción, la \ncorrupción política de esta ley de amnistía y la corrupción económica, que ya se está investigando en \nlos tribunales.\ncve: DSCD-15-PL-45\n \nNo hay más que ver a los socios que tienen ustedes a nivel internacional para darse cuenta del \nextremismo en el que han caído. Porque están muy solos. Hablan de Noruega, pero no es Noruega, \nes Hamás quien les felicita; son los talibanes los que les felicitan; es Irán, un régimen teocrático \nasesino de mujeres, el que les felicita. Y es el Grupo de Puebla, los narcogobiernos de Hispanoamérica \nlos que se suman también a la felicitación. (Aplausos). Y aquí, ¿quién les apoya? Los albaceas \nde ETA y los delegados del prófugo de la justicia Puigdemont. Aun así, creemos que lo peor de \nSánchez está por llegar.\nEstos días los vemos llorar por Gaza con lágrimas de cocodrilo, con lágrimas de Hamás, una \norganización terrorista que dispara a su propio pueblo para que no pueda huir. ¿Dónde están las lágrimas \npor el pueblo saharaui? ¿Ya se les han olvidado? ¿Esas lágrimas no se las permite su amo, Mohamed VI? \n(Aplausos). Utilizan el dolor de una guerra en Oriente Medio. Utilizan el dolor de una guerra en Ucrania, \nocasionada por la agresión rusa. Y el señor Sánchez, de nuevo, para desviar la atención, sin pasar por el \nParlamento decide que vamos a dar 1000 millones a Ucrania, que vamos a enviar 19 tanques que estaban \nen la frontera de Ceuta y Melilla ―quizá esa orden también se la ha dado Mohamed VI―, a la vez, por \ncierto, que se pone a la cabeza de compra de gas a Rusia, porque desde que Sánchez llegó al poder la \ncompra de gas a Rusia por parte de España ha aumentado, solo estamos detrás de China; el año pasado \n3000 millones, es decir el triple de lo que le damos a Ucrania.\nNo creo que el señor Sánchez represente a los españoles; tampoco a la industria armamentística, \nporque realmente solo es un representante de sí mismo y de su voluntad de permanecer en el poder a \ncualquier precio, como quedará acreditado con la votación del día de hoy de todos ustedes y del señor \nSánchez a favor de una amnistía absolutamente inconstitucional. (Aplausos).\nAhora tenemos esta ley de la corrupción política para mantenerse en el poder comprando siete \nvotos y que también pretende tapar la corrupción económica. La voluntad de permanecer en el poder \ntambién tiene ese objetivo. Y eso es lo más grave que ha pasado aquí desde 1978. Por eso, no hemos \ncomprendido que el Partido Popular en el Senado no hiciera todo lo posible para bloquear la tramitación \nde la ley de amnistía no admitiéndola trámite para iniciar un conflicto institucional, que era el exigible \na la altura de la gravedad del momento que estamos viviendo. (Aplausos). Tampoco hemos \ncomprendido que la dirección nacional del Partido Popular haya prohibido en las comunidades \nautónomas las manifestaciones institucionales de respuesta al golpe, a la ley de amnistía, que estaban \ncomprometidas con nosotros. El señor Feijóo ahora subirá a la tribuna; supongo que estará muy \ncontundente con este Gobierno. Confío en que crea lo que dice, pero tiene dos opciones: subir aquí \ny seguir tendiendo la mano al Partido Socialista en Europa cinco años más, con el que han formado \ny formarán una gran coalición ―dicho por quién está detrás de usted en el escaño― o viajar, ir donde \nsus socios y pedir un cordón sanitario en toda Europa a estos señores a los que aplauden Hamás, los \ntalibanes y el régimen de Irán. (Aplausos). No hay más opciones. Y ustedes, señores socialistas, \npasarán a la historia por haberse aliado con lo peorcito del globo, en el interior y en el exterior, con \ntodos los enemigos de España, con todos los que quieren que a España le vaya mal, como alguno \nque ha subido antes que yo a la tribuna, que arrancó la bandera de España de un ayuntamiento y que \nodia profundamente a España, y que aquí viene a disimular y a participar en un intento de romper la \nconvivencia en nuestra patria.\nHa dicho el señor Rufián al subir aquí que hoy se producía la primera derrota del ‘régimen del 78’. Es \nmucho peor que eso. Hoy se produce la primera derrota y el atentado más grave a los españoles honrados \nque cumplen la ley desde 1978. ¡Viva España! (Varios señores diputados del Grupo Parlamentario VOX: \n¡Viva!―Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos \nen pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señor Abascal. (El señor Pisarello Prados pide la palabra).\nSeñor Pisarello, ¿por qué me pide la palabra?"
+  },
+  {
+   "speaker": "PISARELLO PRADOS",
+   "party": "Sumar",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\nArtículos 71 y 72 del Reglamento, por alusiones personales. (Protestas.—Varios señores diputados: \n¡Fuera!)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Silencio, por favor.\nTiene un minuto, señor Pisarello. (Continúan las protestas).\ncve: DSCD-15-PL-45"
+  },
+  {
+   "speaker": "PISARELLO PRADOS",
+   "party": "Sumar",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\nSolo para decirle al señor Abascal que soy nieto de republicanos andaluces…,\n… que, quan escolto el seu neofranquisme, em sento orgullosament català y orgullosamente \nlatinoamericano.\n… que cuando oigo su neofranquismo me siento orgullosamente catalán y orgullosamente \nlatinoamericano (aplausos),\n… y que aunque fuera de Senegal o de Donosti le diría que los que trabajamos y vivimos aquí no \naceptamos ninguna lección de los señoritos que siempre han vivido del cuento y que forman parte de \norganizaciones históricamente islamófobas, históricamente antisemitas y que han ido a rendirle pleitesía \nal carnicero de Rafah. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario \nPlurinacional SUMAR y de varios miembros del Gobierno, puestos en pie.―Protestas)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias señor Pisarello. (El señor Figaredo Álvarez-Sala pide la \npalabra.―Protestas).\nSilencio, por favor, señores y señoras diputadas. Silencio, por favor.\nSeñor Figaredo, ¿por qué pide la palabra? (Rumores).\nPor favor, un poco de silencio."
+  },
+  {
+   "speaker": "FIGAREDO ÁLVAREZ-SALA",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Por alusiones personales a miembros del Grupo \nParlamentario VOX. (Protestas.—Varios señores diputados pronuncian palabras que no se \nperciben)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Figaredo, me permitirá que… (Continúan las protestas).\nPor favor, intentemos no dar este espectáculo, que la gente no se lo merece. Por favor, señores y \nseñoras diputadas. (Fuertes protestas.―Varios señores diputados: ¡Fuera! ¡Fuera! ¡Fuera!).\nEsta mala educación no lleva a ningún sitio. (Aplausos).\nTiene la palabra, en nombre del Grupo Parlamentario Socialista, el señor Rallo Lombarte, por un \ntiempo de siete minutos y, por favor, pido respeto a la Cámara, a la democracia y a la gente que nos está \nescuchando. (Protestas).\nSeñor Rallo, tiene la palabra. (Continúan las protestas.―El señor Ib áñez Mezquita: ¡Esto es \nintolerable! ¡ Fascistas!―El señor Figaredo Álvarez-Sala: ¡Fascistas, vosotros!.—Varios señores \ndiputados pronuncian palabras que no se perciben).\nPor favor, señores y señoras diputadas, los que están insultando, por favor, basta.\nSeñor Rallo tiene la palabra. (El señor Mariscal Zabala y el señor Fernández Hernández: ¡Vendidos! \n¡Corruptos!―El señor Figaredo Álvarez-Sala: ¡A unos se les permite hablar y a otros se nos \namordaza!―La señora vicepresidenta primera del Gobierno y ministra de Hacienda (Montero \nCuadrado): ¡No tienes la palabra!). \nSeñor Figaredo, le llamo al orden por primera vez. Por favor, guarde el orden. (Varios señores \ndiputados: ¡Traidores! — El señor Figaredo Álvarez-Sala pronuncia palabras que no se perciben).\nSeñor Rallo, tiene la palabra."
+  },
+  {
+   "speaker": "RALLO LOMBARTE",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta. (El señor Mariscal Zabala: ¡Traidor, que \neres un traidor!).\nSeñora presidenta, señoras y señores diputados… (Rumores.—El señor Ortega Smith-Molina y la \nseñora Romero Vilches: ¡Traidores!)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Rallo, tiene la palabra."
+  },
+  {
+   "speaker": "RALLO LOMBARTE",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señora presidenta… (El señor Mariscal Zabala: ¡Traidor! ¡Corrupto, \nque eso es lo que eres!—Protestas)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Mariscal… (continúan las protestas). Señor Mariscal, le llamo al \norden por primera vez. (El señor Sánchez García: Dale la palabra a Pisarello otra vez.—Rumores).\nSeñor Rallo, tiene la palabra. (El señor Sánchez García pronuncia palabras que no se perciben).\nSeñor Sánchez, le llamo al orden por primera vez.\nSeñor Rallo, tiene la palabra.\ncve: DSCD-15-PL-45"
+  },
+  {
+   "speaker": "RALLO LOMBARTE",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señora presidenta, señoras y señores diputados, aunque les cueste y \nles duela oírlo (un señor diputado: ¡Corrupto!), Europa, España y Cataluña han dicho sí a la amnistía. \n(Un señor diputado: ¡Mentira!—Protestas.—Aplausos). Señorías, Europa la ha bendecido (un señor \ndiputado: Mentiroso), Cataluña la ha agradecido y estas Cortes Generales la avalan hoy aquí por \nmayoría cualificada, cuantitativa y cualitativa (rumores), 15 de los 19 partidos políticos presentes en esta \nCámara, (el señor Ortega Smith-Molina: ¡Vendido!), todos los grupos parlamentarios excepto dos (un \nseñor diputado: ¡España no se vota!): el Partido Popular y el neofascismo que embiste, montaraz y cerril \n(aplausos.—Protestas.—Un señor diputado: Traidor), como acabamos de comprobarlo. Señorías, \nfilonazis… (El señor Figaredo Álvarez-Sala: Traidor, eres un traidor.—Una señora diputada: ¡Calla, \nhombre!—Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señores diputados de VOX, esto no es posible. (Rumores). El que tiene el \nuso de la palabra… (Un señor diputado: ¡Esta ley no cabe!)\nEl ser demócrata implica saber escuchar al que piensa diferente. (Aplausos.—Protestas). El señor \nAbascal ha tenido el uso palabra y la gente le ha respetado, aunque muchos aquí seguramente no han \ncompartido sus ideas. Por favor, ahora está en el uso de la palabra el portavoz del Grupo Parlamentario \nSocialista. Luego le corresponderá el turno al portavoz del Grupo Parlamentario Popular. Yo pido el mismo \nrespeto para todos y para todas. Sinceramente, eso es lo que se merece la ciudadanía y no estos gritos \nni estos insultos, por favor. (Aplausos)."
+  },
+  {
+   "speaker": "RALLO LOMBARTE",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Decía, señora presidenta, que esta ley será aprobada hoy (protestas.—\nEl señor Figaredo Álvarez-Sala: Traidores, por eso va a ser aprobada) por todos los grupos \nparlamentarios de esta Cámara excepto dos, el PP y el neofascismo que embiste, como hoy hemos \ncomprobado. (Protestas). Neofascistas, sí, filonazis que se reúnen con Netanyahu para validar el horror \ndel genocidio palestino en Gaza, el asesinato de 35 000 personas. (Aplausos). ¡Qué abominable absurdo, \nseñorías, qué terrible contrasentido de la historia!\nComo decía, estas Cortes Generales hoy aprobarán la amnistía tras un largo debate parlamentario. \n(Una señora diputada: ¡Corrupto). Siete meses, señorías, siete debates parlamentarios sin parangón, \nseñorías. (Varios señores diputados: ¡Traidor!). Eso sí, dos de esos debates desperdiciados en la \npatochada del conflicto de atribuciones del Senado. Aun así, señorías, un largo debate y un amplio \nacuerdo, como quería la Comisión de Venecia (el señor Figaredo Álvarez-Sala: Mentira, ¡pero si es \nmentira!), Europa, ―¡Europa, señorías!―, antaño ensalzada y reivindicada y hoy denostada por \ncontradecir su relato de ruido y furia, señorías. (El señor Ortega Smith-Molina: Traidor).\nComo decía, Europa ha dicho sí a la amnistía, alto y claro, para garantizar la igualdad, la separación \nde poderes, la función jurisdiccional y, lo que es aún más importante, Europa ha pregonado a los \ncuatro vientos que la amnistía apuntala la normalización institucional y política en Cataluña, y todo \nello gracias a este Gobierno, señorías. (Aplausos). Sí, señorías, los indultos y la amnistía han \nnormalizado la política en Cataluña. Piensen en el 12 de mayo, en los 42 diputados del PSC, gran \nvictoria del Partit dels Socialistes de Catalunya, mayoría de izquierdas en el Parlament. Y, señorías, \nmayoría no independentista.\nEnhorabona. Enhorabona, companys i companyes del PSC. I enhorabona, Catalunya. Nous temps \nper Catalunya. Nous temps per al diàleg i per a l’acord. Un futur de retrobament i de progrés. Enhorabona, \nCatalunya.\nEnhorabuena, compañeros y compañeras del PSC, y enhorabuena, Cataluña. Nuevos tiempos para \nCataluña, nuevos tiempos para el diálogo y para el acuerdo; un futuro de reencuentro y de progreso. \nEnhorabuena, Cataluña.\nSeñorías, nuevos tiempos también para todos los españoles. Gracias. Gracias a todos los españoles \nque han sabido ver en la amnistía y en los indultos grandeza y generosidad, la generosidad necesaria \npara superar este conflicto que nunca debió quebrar la convivencia ni llegar a la justicia. Gracias a los \nespañoles que ya empatizaron y a los que lo harán en el futuro cuando comprueben que la amnistía abre \nla puerta al diálogo, al acuerdo y al buen gobierno, con una meta única: justicia y bienestar para los \ncatalanes.\ncve: DSCD-15-PL-45\n \nSeñorías, para un constitucionalista de razón y de corazón, este debate hoy no deja de ser doloroso; \ndoloroso porque el Partido Popular con sus tretas y ardides ha protagonizado el más bochornoso \nespectáculo de grosera manipulación de nuestras instituciones. No ha escatimado en estratagemas, lo ha \nintentado todo: desde la pueril exigencia del voto por llamamiento a los diputados hasta la perversa e inútil \napelación al trasfuguismo, desde boicotear enmiendas transaccionales en comisión hasta proponer la \nilegalización de partidos nacionalistas, desde una artera reforma exprés del Reglamento del Senado hasta \nla más que irresponsable invocación de un conflicto de atribuciones quimérico y tramposo entre el Senado \ny el Congreso, un conflicto de atribuciones por una reforma constitucional fraudulenta. ¿De verdad hacía \nfalta, señorías, caer en tamaño desatino? Una más, señorías, para la antología del disparate. Ustedes, \nseñorías del PP, lo han probado todo, sin escrúpulos y, desgraciadamente, para los anales quedará su \nirresponsable agresión al prestigio del Cuerpo de Letrados de esta Cámara. Ningún respeto por las \ninstituciones, señorías. (Aplausos). Y mientras intentaban incendiar las instituciones, en la intimidad \n—¿verdad, señor Feijóo?— valoraban apoyar la amnistía, descartaban el terrorismo sin sonrojarse, sin \nrubor. Pura hipocresía. Pero, señorías, se acabó. Está bajando el telón, su espectáculo ya no da más de \nsí, se acabó la farsa, señorías. (El señor Hernando Fraile: ¿Y de Camps, qué? No ha dicho nada \nde Camps).\nAhora ya solo queda un dilema por resolver. ¿Subirá hoy el señor Feijóo a esta tribuna como en los \núltimos dos debates de amnistía o se esconderá tras los últimos pinchazos? (Protestas). ¿Señor Feijóo, \nse esconderá usted? (Rumores.—Una señora diputada: ¿Y dónde está Sánchez?). Yo, señoría, le \nreto, le retamos a que suba aquí, atrévase, porque tiene muchas cosas que explicar, señoría. (El señor \nTellado Filgueira pronuncia palabras que no se perciben). Por ejemplo, señoría, señor Feijóo, ¿por \nqué no mencionó una sola vez durante la campaña electoral la amnistía? ¿Por qué, señor Feijóo, en la \ncampaña electoral de Cataluña no existió la amnistía? (Aplausos). ¿Por qué han retirado en el Senado el \nconflicto de atribuciones despreciando ese sesudo informe de sus letrados? ¿Por qué, señor Feijóo? (El \nseñor Hernando Fraile: Pide perdón por Camps). ¿Por qué la opinión de Europa ya no es hoy tan \nimportante como hace siete meses, señor Feijóo? ¿Por qué? (El señor Hernando Fraile: Habla de \nCamps). A lo mejor el señor Feijóo ha visto la luz, se ha caído del caballo y reconoce el desafuero de su \nestrategia dirigida a la fractura constitucional. Sin embargo, mucho me temo que la única luz que ha \ncegado últimamente al señor Feijóo es la de Meloni, el neofascismo homologable. (Rumores). Camisas \nnegras, censura a los periodistas de la RAI, la Meloni que prohíbe inscribir en el registro a los hijos de las \nparejas homosexuales. Señor Feijóo, ¿está usted de acuerdo con eso?, ¿eso es homologable para usted, \nseñoría? (Aplausos).\nAcabo ya, señora presidenta. Sin embargo, todos sabemos que Feijóo hoy seguirá erre que erre con \nla matraca del procés y la amnistía, no le queda otra. Porque usted, señor Feijóo, que lo ganó todo pero \nque nunca gobernará porque no quiere; usted que perjuró cuando acató o dijo acatar la Constitución pero \nno la cumple — lleva 2000 días sin renovar el Consejo General del Poder Judicial (aplausos)—, usted, \nseñor Feijóo, que lo ha fiado todo a abrazarse a los nostálgicos del franquismo para engullirlos, como hizo \nAznar, será devorado. ¿Sabe qué le digo, señor Feijóo? Que será usted el devorado; devorado por los \nsuyos, que no le van a pasar otra, no le van a pasar otra victoria fabulada, imaginaria, quimérica, como las \nque ha estado ensoñando hasta ahora, y devorado también por la bestia neofascista que recorre España \ny Europa, ese monstruo que los españoles frenarán el 9 de junio votando en las urnas esperanza, justicia \ny dignidad, señorías.\nMuchas gracias, señora presidenta. (Aplausos de las señoras y los señores diputados del Grupo \nParlamentario Socialista, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Rallo.\nPor el Grupo Parlamentario Popular, tiene la palabra el señor Núñez Feijóo por un tiempo de siete \nminutos.\nSeñor Feijóo, cuando quiera. (Prolongados aplausos de las señoras y los señores diputados del \nGrupo Parlamentario Popular, puestos en pie)."
+  },
+  {
+   "speaker": "NÚÑEZ FEIJÓO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias. Gracias, señora presidenta.\nSeñoras y señores diputados, yo no voy a llamar neofascista ni filonazi a nadie (aplausos), vengo a \nhablar sosegadamente a los españoles. Ustedes (señalando hacia los escaños del Grupo Parlamentario \nSocialista) y nosotros aplicamos el artículo 155 de la Constitución. Por eso, procede preguntarnos cuánto \nvalemos los españoles para el candidato Sánchez. Ya lo sabemos: siete votos. Los siete votos que \ncve: DSCD-15-PL-45\n \nnecesitaba para ser presidente tras perder las elecciones. ¿Cuánto vale la Presidencia del Gobierno para \nél? También conocemos la respuesta: lo que le pidan. Pero la pregunta aún abierta es cuánto vale la \nimpunidad. ¿Cuánto vale no tener que responder ante los tribunales? ¿Cuánto vale no tener que pagar ni \ncon cárcel ni con multas la presunta comisión de delitos? Señorías, si alguien cogiese fondos del Estado \ny se los diese a una serie de políticos a cambio de que lo hagan presidente todos diríamos que eso es \ncorrupción. (Aplausos). Pero si Pedro Sánchez cambia la ley al dictado de quien la infringe, les borra los \ndelitos a una serie de políticos a cambio de estar en el escaño de presidente, entonces ¿qué es? No, no \nse atrevan a llamarle convivencia, no se rían de la gente. (Aplausos). Allá ustedes y lo que les queda de \nconciencia, pero no pretendan lavar el cerebro de los españoles. Lo que hoy va a hacer efectivo el \nCongreso de los Diputados es un intercambio de poder a cambio de privilegios. Es un intercambio de \npoder a cambio de impunidad. Es un intercambio de poder a cambio de poder: yo te otorgo privilegios \npersonales y tú me das la Presidencia. Eso es todo. Pueden maquillarlo con el eufemismo que les diga el \ndepartamento de publicidad de turno, tener los altavoces mediáticos que ustedes quieran, agarrarse al \nresultado de unas autonómicas ―obviando otras― y olvidando también que el criterio sirve, el de todos \nlos españoles. Pueden hablar de derecha, de ultraderecha, de fachas, de Franco. Pueden decir una y otra \nvez: y tú más. Si quieren, pueden remontarse al Pleistoceno, pero hay una realidad que no cambia: \nustedes han mentido a los españoles (aplausos) porque prometieron no hacer esto. Están convirtiendo \na la mayoría en ciudadanos de segunda, y el trueque que aquí están perpetrando sí, solo tiene un \nnombre, lo hemos dicho desde el principio: corrupción política. Sí, señorías. Para llegar a la Moncloa, \nSánchez se ha apoyado en la corrupción política de este cambalache. Así que a nadie le puede extrañar \nahora que aflore otro gran éxito de esta legislatura exactamente con el mismo patrón. No puede extrañar \nque se esté investigando por presunta corrupción en la Moncloa ni que haya mentido, ni que sienta que \nél y los suyos gozan de total impunidad para pasar por encima de cualquier ley y de la mínima ética que \ndebería tener quien ostenta el honor de presidir el Gobierno de España. Insisto, el mismo patrón: \ncorrupción y mentira. (Aplausos).\nSeñorías, más allá de la amnistía y la corrupción el Gobierno está completamente paralizado; no saca \nnada adelante porque solo tiene apoyo para aprobar exigencias separatistas. Por tanto, no se engañen: \nla legislatura empieza y puede acabar aquí, con la amnistía. No ha habido nada más antes y muy \nprobablemente no habrá nada después. Si esta ley llega a aplicarse, señores del Partido Socialista, al \nindependentismo ustedes le van a servir de muy poco. Y si finalmente no se aplica, señores del \nindependentismo, todos sabemos que ustedes no lo van a perdonar. Curioso que, por esto, el señor \nSánchez no se haya preguntado nunca si merece la pena, pero lo haré yo. Aprovecho esta última \noportunidad y les invito a pensar si con este panorama merece la pena que falten a la palabra, y les digo \nclaramente que no. Voten no a la amnistía. Créanme. Mucho mejor que esta legislatura de engaños, de \nnumeritos y de una sola ley es una legislatura sin más recorrido pero con un mínimo de dignidad. Son tan \nsiervos de su amo, que ya no se dan cuenta de que, al insultarme a mí por decirles esto, lo están haciendo \ntambién con los pocos socialistas que han alzado la voz ante este abuso. Y no se confundan: la historia \nserá mucho más generosa con el señor Lambán que con ustedes. (Aplausos).\nSeñorías, en los últimos meses hemos dado dentro y fuera de este hemiciclo argumentos de todo tipo \nen contra de esta ley. Lo hemos hecho desde el partido mayoritario en todas las instituciones. Lo han \nhecho juristas, magistrados, abogados, fiscales y jueces. El Senado, a través del veto. Los letrados del \nSenado en un informe que detecta hasta dieciséis tachas de ilegalidad. Hasta cinco minutos después de \nlas elecciones generales, incluso ustedes, el Partido Socialista, ofrecía argumentos contra la amnistía. En \neste tiempo también hemos escuchado al independentismo jactarse de haber llegado a este punto. Lo \nhemos vuelto a escuchar reírse de que Sánchez haya aceptado que todos los españoles les tengamos \nque pedir perdón a través de esta ley por el golpe que ellos solitos dieron. Asimismo, hemos asistido a la \nmetamorfosis de todos los diputados socialistas obedeciendo al amo que les paga sin rechistar.\nEfectivamente, señora Nogueras, hoy es el día de su victoria. El 1,6 % de los españoles ha ganado al \nresto. ¿Sabe por qué? Por la ambición de un solo hombre. (Aplausos). ¿Saben a quién no hemos \nescuchado nunca aquí? Sí, claro que lo saben, pregunten por qué quien les obliga a votar esta ley nunca \nha salido a dar la cara a esta tribuna para defenderla. (Continúan los aplausos.—Varios señores \ndiputados del Grupo Parlamentario Popular en el Congreso: ¡Muy bien!). Y pregúntense de paso por \nqué tampoco se atreve a someterla al conjunto de los españoles. Si tan buena es la ley de amnistía, \nretírenla, inclúyanla en su programa electoral, presuman en toda España de ella, convoquen a la gente, \nháganlo a lo grande. Convoquen elecciones y escuchemos a todos los españoles qué opinan de este \ncve: DSCD-15-PL-45\n \nfraude electoral. (Aplausos). Claro, no se atreven. No se atreven porque saben perfectamente que no \ncuentan con el aval suficiente, ni jurídico ni social ni moral.\nEn esta votación va a imponerse la victoria de la peor política, la que predica que se puede hacer lo \ncontrario de lo que se promete y cree que no pasa nada; la de quien se atreve a negociar con lo que no le \npertenece y cree que no pasa nada; la de quien olvida a los catalanes que fueron agredidos y cree que no \npasa nada; la de quienes reescriben la historia y creen que no pasa nada; y la de quien es capaz de \ncomprar una presidencia a cualquier precio y cree que no pasa nada, pero pasará. La igualdad, la justicia \ny el valor de la palabra no van a verse atenazadas sin consecuencia alguna. Jurídica y políticamente, será \ncuestión de los tribunales y de la Unión Europea derrotar la ley de amnistía y la derrota moral nos \ncorresponde a la mayoría de los españoles. Votemos no. No a la desigualdad; no a los privilegios; no a \natacar la separación de poderes; no a olvidar a los catalanes insultados; no a humillar a los funcionarios, \na los policías, a los jueces que defendieron la democracia en Cataluña (aplausos); no a la mentira. \nRotundamente, no.\nSeñorías, pregúntense por qué quien les manda aplaudir que el independentismo hable ya esta \nmañana de referéndum como siguiente parada, y la victoria de lo que ellos llaman el régimen del 78, es \ntan cobarde que ni siquiera comparece hoy aquí. (Aplausos).\nSeñorías, quien justifica presuntos casos de corrupción económica ve normal la corrupción política \nque todos avalarán con su voto. Pues lo que hacen y lo que defienden no es normal, señorías, ni lo será \nnunca. Por la corrupción política no merecieron llegar y por la corrupción económica merecen irse. Hoy \nhemos asistido al acta de defunción del Partido Socialista Obrero Español. (Aplausos.—La señora \nvicepresidenta primera y ministra de Hacienda, Montero Cuadrado: ¡Ja, ja!). Hoy les decimos desde \nla Constitución española: quédense ustedes con la ambición de un solo hombre, a nosotros no nos han \nelegido para mentir.\nNada más, señorías, y muchas gracias. (Prolongados aplausos de las señoras y los señores \ndiputados del Grupo Parlamentario Popular en el Congreso, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Núñez Feijóo.\nPasaremos a la votación en tres minutos. (El señor presidente del Gobierno, Sánchez Pérez-\nCastejón, entra en el hemiciclo.—Aplausos de las señoras y los señores diputados del Grupo \nParlamentario Socialista y de los miembros del Gobierno, puestos en pie.—Pausa).\nPROPOSICIONES NO DE LEY. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE LA LUCHA CONTRA LA CORRUPCIÓN, \nLAS CLOACAS DEL ESTADO Y LA GUERRA JUDICIAL EN EL ESTADO ESPAÑOL. (Número de \nexpediente 162/000225)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señoras y señores diputados, reanudamos la sesión y empezamos la \nvotación.\nComenzamos con las proposiciones no de ley. En primer lugar, proposición no de ley del Grupo \nParlamentario Republicano, sobre la lucha contra la corrupción, las cloacas del Estado y la guerra judicial \nen el Estado español. Votamos separadamente por puntos.\nPunto número 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 3.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-45\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 50; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 50; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 177; en contra, 171; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobado.\nPunto número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 193; en contra, 34; \nabstenciones, 121."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobado.\nPunto número 8.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 170; \nabstenciones, 123."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 9.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 10.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 51; en contra, 292."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 11.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 51; en contra, 292."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 12.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-45\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 187; en contra, 33; \nabstenciones, 124."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobado.\nPunto número 13.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 194; en contra, 33; \nabstenciones, 122."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobado.\nPunto número 14.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 188; en contra, 33; \nabstenciones, 123."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobado.\nPunto número 15.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 50; en contra, 172; \nabstenciones, 121."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 16.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 17.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 293."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 18.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 188; en contra, 33; \nabstenciones, 122."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobado.\nPunto número 19.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 51; en contra, 171; \nabstenciones, 122."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nPunto número 20.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 57; en contra, 170; \nabstenciones, 121."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\ncve: DSCD-15-PL-45\n \n— DEL GRUPO PARLAMENTARIO PLURINACIONAL SUMAR, SOBRE LA CREACIÓN DE UN SISTEMA \nDE INFORMACIÓN ECONÓMICA PARA LA NEGOCIACIÓN COLECTIVA (SIENN) A PARTIR DE LOS \nREGISTROS ADMINISTRATIVOS OFICIALES. (Número de expediente 162/000206)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Pasamos a votar la proposición no de ley del Grupo Parlamentario \nPlurinacional SUMAR, sobre la creación de un sistema de información económica para la negociacón \ncolectiva a partir de los registros administrativos oficiales. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 165; en contra, 171; \nabstenciones, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazada.\nMOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LAS MEDIDAS QUE \nPIENSA ADOPTAR EL GOBIERNO PARA FAVORECER LAS CONDICIONES DE VIDA DE LOS \nJÓVENES EN ESPAÑA. (Número de expediente 173/000028)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Pasamos a las mociones. Moción consecuencia de interpelación urgente \ndel Grupo Parlamentario Popular, sobre las medidas que piensa adoptar el Gobierno para favorecer las \ncondiciones de vida de los jóvenes en España. Votamos separadamente por puntos.\nPunto número 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 178; en contra, 164; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\nPunto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 303; en contra, 7; \nabstenciones, 39."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\nPunto número 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 171; en contra, 17; \nabstenciones, 161."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\nPunto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 178; en contra, 14; \nabstenciones, 157."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\n— DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS MEDIDAS QUE VA A IMPULSAR EL GOBIERNO \nANTE LAS INSTITUCIONES EUROPEAS PARA GARANTIZAR LA VIABILIDAD DEL SECTOR \nPRIMARIO ESPAÑOL. (Número de expediente 173/000029)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, \nsobre las medidas que va a impulsar el Gobierno ante las instituciones europeas para garantizar la viabilidad \ndel sector primario español. Votación separada por puntos.\nPunto número 1.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-45\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 170; en contra, 178."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 33; en contra, 175; \nabstenciones, 139."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 3\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 170; en contra, 178."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 33; en contra, 177; \nabstenciones, 138."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 171; en contra, 177."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 171; en contra, 178."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 171; en contra, 178."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 8.\nComienza la votación. (Pausa.―Se produce un fallo en el panel electrónico.―Rumores).\nParece que ha habido un problema con esta votación. Vamos a repetirla porque hay diputados que no \nhan podido votar.\nComienza la votación. (Pausa.—Se produce un fallo en el panel electrónico.—Rumores).\nHemos reiniciado el aparato, a ver si ahora funciona. Repetimos la votación del punto número 8 \nporque no se ha visto lo que votaban muchos diputados.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 171; en contra, 178."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 9.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 33; en contra, 178; \nabstenciones, 138."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 10.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-45\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 349; a favor, 33; en contra, 178; \nabstenciones, 138."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos el último punto, el 11.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 170; en contra, 177."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazado.\nVETO DEL SENADO. (VOTACIÓN):\n— PROPOSICIÓN DE LEY ORGÁNICA DE AMNISTÍA PARA LA NORMALIZACIÓN INSTITUCIONAL, \nPOLÍTICA Y SOCIAL EN CATALUÑA. (Número de expediente 122/000019)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Pasamos ahora a la votación relativa al veto aprobado por el Senado a la \nProposición de ley orgánica de amnistía para la normalización institucional, política y social en Cataluña.\nSeñorías, les recuerdo que, en este caso, votar s í supone votar el texto inicialmente aprobado por el \nCongreso de los Diputados y vetado por el Senado, mientras que votar no supone votar en contra del texto \naprobado inicialmente por el Congreso y vetado por el Senado. El veto del Senado quedará, por tanto, \nlevantado si se alcanza la mayoría absoluta de síes, es decir, si se obtienen al menos 176 votos favorables \nal texto inicial del Congreso.\nSe ha solicitado la votación pública por llamamiento. El artículo 86 del Reglamento prevé que en la \nvotación pública por llamamiento sus señorías responderán sí, no o abstención desde su escaño cuando \nsean llamados por las señoras y los señores secretarios, que leerán los nombres desde la tribuna de \noradores. Ruego que contesten al llamamiento con voz clara y audible, aunque las señoras y los señores \nsecretarios que les llamen repetirán el sentido de la votación para evitar dificultades. El llamamiento se \nhace por orden alfabético, pero comenzando por el primer apellido del señor diputado cuyo nombre ha \nsido sacado a suerte y que ha sido don Roberto García Morís. El Gobierno y la Mesa votarán al final.\nRuego al señor secretario primero que dé comienzo a la votación y ruego silencio a toda la Cámara.\nPor las señoras y los señores secretarios de la Mesa se procede al llamamiento de las señoras \ny los señores diputados, quienes van manifestando el sentido de su voto.\nSeñoras y señores diputados que dijeron «sí»:\nGarrido Jiménez, Elisa.\nGavin i Valls, Isidre.\nGonzález Fernández, Mercedes.\nGonzález Gracia, Juan Antonio.\nGonzález López, Nahuel.\nGracia Blanco, Marta.\nGranollers Cunillera, Inés.\nGuerra López, Sonia.\nGuijarro Ceballos, María.\nGuijarro García, Txema.\nGuinart Moreno, Lídia.\nGutiérrez Prieto, Sergio.\nGutiérrez Santiago, Víctor.\nHerrera García, Milena.\nIbáñez Mezquita, Alberto.\nIniesta Egido, Isabel.\nIñarritu García, Jon.\nJalloul Muro, Hana.\nJerez Antequera, Juan Carlos.\nJordà i Roura, Teresa.\nLago Peñas, Manuel.\ncve: DSCD-15-PL-45\n \nLamuà Estañol, Marc.\nLegarda Uriarte, Mikel.\nLlorens Carbonell, Teresa.\nLópez Álvarez, Patxi.\nLópez Cano, Ignacio.\nLópez Tagliafico, Candela.\nLópez Zamora, Cristina.\nLorenzo Cazorla, Juan Antonio.\nLosada Fernández, José.\nMadrenas i Mir, Marta.\nMaldonado López, Adriana.\nMarqués Atés, Amador.\nMartín Martínez, Andreu.\nMartín Rodríguez, Margarita.\nMartín Urriza, Carlos.\nMartínez Barbero, Verónica.\nMartínez Hierro, Lander.\nMartínez Ramírez, Carmen.\nMartínez Salmerón, Joaquín.\nMartínez Seijo, María Luz.\nMatos Castro, Sergio Carlos.\nMatute García de Jalón, Oskar.\nMayoral de Lamo, Alberto.\nMayoral Pérez, Jesús.\nMellado Sierra, Valle.\nMercadal Baquero, Pepe.\nMicó Micó, Àgueda.\nMínguez García, Montse.\nMorales Álvarez, Álvaro.\nMoreno Fernández, M.ª Isabel.\nNarbona Ruiz, Cristina.\nNasarre Oliva, Begoña.\nNogueras i Camero, Míriam.\nOtero Rodríguez, Patricia.\nParé Aregall, Josep.\nPeña Camarero, Esther.\nPerea i Conillas, María Mercè.\nPérez Ortiz, Isabel María.\nPin Ferrando, Gala.\nPlaza García, Inés.\nPoblador Pacheco, María Araceli.\nPose Mesura, Modesto.\nPozueta Fernández, Isabel.\nPueyo Sanz, Jorge.\nPujol Bonell, Eduard.\nRallo Lombarte, Artemi.\nRamírez Carner, Arnau.\nRamírez Moreno, María de las Nieves.\nRamos Esteban, César Joaquín.\nRedondo Cárdenas, Gonzalo.\nRego Candamil, Néstor.\nRey de las Heras, Luis Alfonso.\nRivera Arias, Engracia.\nRives Arcayna, Caridad.\nRodríguez Palacios, Javier.\ncve: DSCD-15-PL-45\n \nRodríguez Salas, José Antonio.\nRodríguez Suárez, Esther.\nRojo Blas, Alberto.\nRomero Pozo, Rafaela.\nRos Martínez, Susana.\nRufián Romero, Gabriel.\nRuiz Boix, Juan Carlos.\nRuiz de Diego, Víctor Javier.\nRuiz de Pinedo Undiano, Iñaki.\nSáez Cruz, Emilio.\nSagastizabal Unzetabarrenetxea, Idoia.\nSahuquillo García, Luis Carlos.\nSalvador i Duch, Jordi.\nSánchez Díaz, María Carmen.\nSánchez Serna, Javier.\nSancho Íñiguez, Herminio Rufino.\nSantana Aguilera, Ada.\nSantana Perera, Noemí.\nSantiago Romero, Enrique Fernando.\nSantos Maraver, Agustín.\nSanz Martínez, Luisa.\nSarrià Morell, Vicent Manuel.\nSenderos Oraá, Daniel.\nSerrada Pariente, David.\nSerrano Martínez, Juan Francisco.\nSierra Caballero, Francisco.\nSimancas Simancas, Rafael.\nSoldevilla Novials, Alba.\nSoler Mur, Alejandro.\nTaboadela Álvarez, Obdulia.\nTrenzano Rubio, Marta.\nValero Morales, Juan Antonio.\nVallugera Balañà, Pilar.\nVaquero Montero, Maribel.\nVerdejo Vicente, Ferran.\nVidal Matas, Vicenç.\nÁbalos Meco, José Luis.\nAceves Galindo, José Luis.\nAdrio Taracido, María.\nAgirretxea Urresti, Joseba Andoni.\nAizpurua Arzallus, Mertxe.\nAlfonso Cendón, Javier.\nAlmodóvar Sánchez, Emilia.\nAlonso Cantorné, Fèlix.\nÁlvarez González, Alicia.\nÁlvaro Vidal, Francesc-Marc.\nAndala Ubbi, Teslem.\nAndrés Añón, Carmen.\nAranda Vargas, Francisco.\nArgota Castro, Trinidad Carmen.\nArribas Maroto, Manuel.\nAzorín Salar, Lázaro.\nBadia Casas, Eloi.\nBelarra Urteaga, Ione.\nBlanquer Alcaraz, Patricia.\ncve: DSCD-15-PL-45\n \nBoada Danés, Júlia.\nCalvo Gómez, Pilar.\nCamino Miñana, Víctor.\nCantera de Castro, Zaida.\nCasares Hontañón, Pedro.\nCastilla Álvarez, María Carmen.\nCercas Mena, Blanca.\nCerdán León, Santos.\nCervera Pinart, Josep Maria.\nCobo Carmona, Ana.\nCobo Pérez, Noelia.\nCofiño Fernández, Rafael.\nConesa Coma, Ignasi.\nCorujo Berriel, María Dolores.\nCrespín Rubio, Rafaela.\nCruset Domènech, Josep Maria.\nCruz Santana, Gabriel.\nDe la Rosa Baena, Olvido.\nDíaz Marín, Raúl.\nDiouf Dioh, Luc Andre.1\nErrejón Galván, Íñigo.\nEsteban Bravo, Aitor.\nFagúndez Campo, Antidio.\nFaneca López, María Luisa.\nFernández Benéitez, Andrea.\nFernández Pena, Paula.\nFullaondo la Cruz, Marije.\nGarcía Chavarría, María Montserrat.\nGarcía Gurrutxaga, María Luisa.\nSeñoras y señores diputados que dijeron «no»:\nGarre Murcia, Cristóbal.\nGarrido Valenzuela, Irene.\nGil Lázaro, Ignacio.\nGil Santiago, Carlos.\nGonzález Bella, María del Mar.\nGonzález Pons, Esteban.\nGonzález-Robatto Perote, Jacobo.\nGuardiola Salmerón, Mirian.\nHernández Quero, Carlos.1.\nHernando Fraile, Rafael Antonio.\nHerrero Bono, José Alberto.\nHispán Iglesias de Ussel, Pablo.\nHoces Íñiguez, Ignacio.\nHoyo Juliá, Belén.\nHuguet Tous, Pedro Luis.\nIbáñez Hernando, Ángel.\nJiménez Linuesa, Beatriz.\nLima García, Laura María.\nLlamazares Domingo, Esther.\nLópez Maraver, Ángel.\nLorente Anaya, Macarena.\nMacías Gata, Alfonso Carlos.\n1 El señor Hernández Quero dijo: No a la traición.\ncve: DSCD-15-PL-45\n \nMadrid Olmo, Bartolomé.\nMarcos Ortega, Milagros.\nMarí Bosó, José Vicente.\nMariscal Zabala, Manuel.\nMartín Blanco, Nacho.\nMartín García, Pedro Samuel.\nMartínez Gómez, Antonio.\nMartínez Labella, Ana.\nMejías Sánchez, Carina.\nMelgarejo Moreno, Joaquín.\nMéndez Monasterio, Lourdes.\nMerino Martínez, Javier.\nMesquida Mayans, Joan.\nMoneo Díez, María Sandra.\nMontesinos de Miguel, Macarena.\nMoraleja Gómez, Tristana María.\nMoro Almaraz, María Jesús.\nMuñoz Abrines, Pedro.\nMuñoz de la Iglesia, Ester.\nNacarino-Brabo Jiménez, Aurora.\nNavarro López, Pedro.\nNoriega Gómez, Javier.\nNúñez Feijóo, Alberto.\nNúñez González, Noelia.\nNúñez Guijarro, José Enrique.\nOlano Vela, Jaime Eduardo de.\nOrtega Smith-Molina, Francisco Javier.\nPalencia Rubio, Héctor.\nPaniagua Núñez, Miguel Ángel.\nParra Aparicio, Julia.\nParra Gallego, Agustín.\nPascual Rocamora, Sandra.\nPastor Julián, Ana María.\nPedreño Molina, Juan Luis.\nPérez Coronado, Pablo.\nPérez López, Álvaro.\nPérez Osma, Daniel.\nPérez Recuerda, Isabel Gema.\nPrieto Serrano, María Isabel.\nPuy Fraga, Pedro.\nQuintana Carballo, Rosa.\nQuintanilla Navarro, Miguel Ángel.\nRamajo Prada, Óscar.\nRamírez del Río, José.\nRamírez Martín, María Lourdes.\nRequena Ruiz, Juan Diego.\nReynal Reillo, Esperanza.\nRobles López, Joaquín.\nRodríguez Calleja, Patricia.\nRodríguez de Millán Parro, María José.\nRodríguez Serra, Santi.\nRojas García, Carlos.\nRojas Manrique, Juan Antonio.\nRomán Jasanada, Antonio.\nRomaní Cantera, José Ignacio.\ncve: DSCD-15-PL-45\n \nRomero Vilches, María de los Reyes.\nRueda Perelló, Patricia.\nRuiz Solás, María de la Cabeza.\nSáez Alonso-Muñumer, Pablo.\nSánchez García, José María.\nSánchez Ojeda, Carlos Alberto.\nSánchez Pérez, César.\nSánchez Sierra, María del Mar.\nSánchez Torregrosa, Maribel.\nSastre Uyá, Miguel Ángel.\nSayas López, Sergio.\nSémper Pascual, Borja.\nTarno Blanco, Ricardo.\nTellado Filgueira, Miguel.\nTeniente Sánchez, Cristina.\nTomás Olivares, Violante.\nTorres Tejada, María.\nUriarte Bengoechea, Edurne.\nValido García, Cristina.\nVarela Pazos, Marta.\nVázquez Blanco, Ana Belén.\nVázquez Jiménez, María del Mar.\nVelasco Morillo, Elvira.\nVelasco Retamosa, José Manuel.\nVerano Domínguez, Bella.\nAbades Martínez, Cristina.\nAbascal Conde, Santiago.2.\nAcedo Reyes, Sofía.\nAgüera Gago, Cristina.\nAguirre Gil de Biedma, Rocío.\nAizcorbe Torra, Juan José.\nAlcaraz Martos, Francisco José.\nAlfonso Silvestre, Alma.\nAlía Aguado, María Pilar.\nAlós López, Ana Isabel.\nÁlvarez de Toledo Peralta-Ramos, Cayetana.\nÁlvarez Fanjul, Beatriz.\nAntona Gómez, Asier.\nAragonés Mendiguchía, Carlos.\nArgüelles García, Silverio.\nArmario González, Blanca.\nAsarta Cuevas, Alberto.\nBarrio Baroja, Carmelo.\nBeamonte Mesa, Luis María.\nBelda Pérez-Pedrero, Enrique.\nBelmonte Gómez, Rafael Benigno.\nBendodo Benasayag, Elías.\nBorrego Cortés, Isabel María.\nBravo Baena, Juan.\nCabezón Casas, Tomás.\nCampos Asensi, Jorge.\nCantalapiedra Álvarez, María de las Mercedes.\nCarazo Hermoso, Eduardo.\nCarballedo Berlanga, María Eugenia.\n2 El señor Abascal Conde dijo: No a la corrupción. No.\ncve: DSCD-15-PL-45\n \nCatalán Higueras, Alberto.\nCavacasillas Rodríguez, Antonio.\nCelaya Brey, Javier.\nChamorro Delmo, Ricardo.\nClavell López, Óscar.\nClemente Muñoz, Raquel.\nCobo Vega, Manuel.\nConde Bajén, Agustín.\nConde López, Francisco José.\nCortés Carballo, Mario.\nCruz-Guzmán García, María Soledad.\nCuesta Rodríguez, María del Socorro.\nDe las Cuevas Cortés, Félix.\nDe los Santos González, Jaime Miguel.\nDe Luna Tobarra, Llanos.\nDe Meer Méndez, Rocío.\nDe Rosa Torner, Fernando.\nDel Valle Rodríguez, Emilio Jesús.\nDelgado Arce, Celso Luis.\nDelgado-Taramona Hernández, Jimena.\nFabra Part, Alberto.\nFernández González, María Mercedes.\nFernández Hernández, Pedro.\nFernández Herranz, Sandra.\nFernández Ríos, Tomás.\nFigaredo Álvarez-Sala, José María.\nFlores Juberías, Carlos.3.\nFloriano Corrales, Carlos Javier.\nFolch Blanc, Javier José.\nFranco González, Silvia.\nFúnez de Gregorio, Carmen.\nGallardo Barrena, Pedro Ignacio.\nGamarra Ruiz-Clavijo, Concepción.\nGarcía Adanero, Carlos.\nGarcía Félix, Manuel.\nGarcía Gomis, David.4.\nSeñoras y señores diputados ausentes:\nVelarde Gómez, Martina.\nSeñoras y señores diputados que votaron telemáticamente «sí»:\nGarcía Morís, Roberto.\nLastra Fernández, Adriana.\nLucas Ayala, Francisco.\nVidal Sáez, Aina.\nZaragoza Alonso, José.\nBassa Coll, Montserrat.\nGarcía López, Maribel.\nSeñoras y señores diputados que votaron telemáticamente «no»:\nRodríguez Almeida, Andrés Alberto.\n3 El señor Flores Juberías dijo: Por una España con honra, no.\n4 El señor García Gomis dijo: Por España, no a la traición. \ncve: DSCD-15-PL-45\n \nMiembros del Gobierno que dijeron «sí»5.\nSánchez Pérez-Castejón, Pedro.\nMontero Cuadrado, María Jesús.\nDíaz Pérez, Yolanda.\nBolaños García, Félix.\nPuente Santiago, Óscar.\nMiembros de la Mesa que dijeron «sí»:\nLeal Fernández, Isaura.\nPisarello Prados, Gerardo.6.\nGil de Reboleño Lastortres, Esther.\nRodríguez Gómez de Celis, Alfonso.\nArmengol Socias, Francina.\nMiembros de la Mesa que dijeron «no»:\nNavarro Lacoba, Carmen.\nMariscal Anaya, Guillermo.\nGonzález Vázquez, Marta.\nBermúdez de Castro Fernández, José Antonio.\nRealizado el escrutinio, dijo"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "El resultado de la votación ha sido el siguiente: votos emitidos, 349; votos \na favor, 177; votos en contra, 172; abstenciones, ninguna.\nEn consecuencia, queda levantado el veto del Senado a la proposición de ley orgánica de referencia \ny, por tanto, ratificado el texto inicialmente aprobado por el Congreso.\nNo habiendo más asuntos que tratar, se levanta la sesión.\nMuchísimas gracias a todo el mundo. (Prolongados aplausos de las señoras y señores diputados \nque han votado a favor y de los miembros del Gobierno, puestos en pie).\nEran las once y treinta minutos de la mañana.\n5 Durante el llamamiento a los miembros del Gobierno, se oye: ¡Traidor! ¡Traidora!\n6 Un señor diputado: ¡Traidor!\nEn el caso de las intervenciones realizadas en las lenguas españolas distintas del castellano que son también oficiales en las \nrespectivas Comunidades Autónomas de acuerdo con sus Estatutos, el Diario de Sesiones refleja la interpretación al \ncastellano y la transcripción de la intervención en dichas lenguas facilitadas por servicios de interpretación y transcripción.\ncve: DSCD-15-PL-45\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}

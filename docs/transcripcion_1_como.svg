@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 760" font-family="Arial, sans-serif">
+  <rect width="1680" height="760" fill="#ffffff"/>
+
+  <text x="840" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#222">Transcripción: del vídeo al texto con marca de tiempo</text>
+
+  <!-- ============ CADENA PRINCIPAL ============ -->
+  <g>
+    <rect x="40" y="90" width="240" height="86" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="160" y="122" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Audio del pleno</text>
+    <text x="160" y="144" text-anchor="middle" font-size="11.5" fill="#6b665e">extraído del vídeo de YouTube</text>
+    <text x="160" y="162" text-anchor="middle" font-size="11.5" fill="#6b665e">(yt-dlp · wav 16 kHz)</text>
+
+    <rect x="330" y="90" width="240" height="86" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="450" y="122" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Segmentación</text>
+    <text x="450" y="144" text-anchor="middle" font-size="11.5" fill="#6b665e">detección de voz (VAD):</text>
+    <text x="450" y="162" text-anchor="middle" font-size="11.5" fill="#6b665e">fuera silencios y pausas</text>
+
+    <rect x="620" y="90" width="300" height="86" fill="#eaf3f3" stroke="#1d6b6b" stroke-width="1.6" rx="8"/>
+    <text x="770" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Whisper large-v3-turbo · int8</text>
+    <text x="770" y="140" text-anchor="middle" font-size="11.5" fill="#4d7a7a">cuantizado a 8 bits → cabe en una GPU de 4 GB</text>
+    <text x="770" y="158" text-anchor="middle" font-size="11.5" fill="#4d7a7a">idioma AUTO por fragmento (valencià / castellano)</text>
+
+    <rect x="970" y="90" width="260" height="86" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1100" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Corrección léxica</text>
+    <text x="1100" y="140" text-anchor="middle" font-size="11.5" fill="#6b665e">glosario del municipio:</text>
+    <text x="1100" y="158" text-anchor="middle" font-size="11.5" fill="#6b665e">nombres, cargos, siglas locales</text>
+
+    <rect x="1280" y="90" width="360" height="86" fill="#fdf0dc" stroke="#e2b25e" rx="8"/>
+    <text x="1460" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6b1a">Texto con tiempos</text>
+    <text x="1460" y="140" text-anchor="middle" font-size="11.5" fill="#9a7c4a">cada frase sabe su segundo → salto al minuto del vídeo,</text>
+    <text x="1460" y="158" text-anchor="middle" font-size="11.5" fill="#9a7c4a">citas de las alertas y ventanas de votación</text>
+
+    <line x1="280" y1="133" x2="322" y2="133" stroke="#8b2440" stroke-width="2"/><polygon points="328,133 318,128 318,138" fill="#8b2440"/>
+    <line x1="570" y1="133" x2="612" y2="133" stroke="#8b2440" stroke-width="2"/><polygon points="618,133 608,128 608,138" fill="#8b2440"/>
+    <line x1="920" y1="133" x2="962" y2="133" stroke="#8b2440" stroke-width="2"/><polygon points="968,133 958,128 958,138" fill="#8b2440"/>
+    <line x1="1230" y1="133" x2="1272" y2="133" stroke="#8b2440" stroke-width="2"/><polygon points="1278,133 1268,128 1268,138" fill="#8b2440"/>
+  </g>
+
+  <!-- ============ POR QUÉ ESTE MODELO ============ -->
+  <text x="40" y="248" font-size="13" font-weight="bold" fill="#1d6b6b">Por qué este modelo (bake-off medido, no elegido a ojo)</text>
+  <rect x="40" y="262" width="790" height="180" fill="#faf8f4" stroke="#d9ccd2" rx="8"/>
+  <text x="70" y="296" font-size="13" fill="#454139">· turbo int8 vs large-v3 completo: <tspan font-weight="bold">misma fidelidad</tspan> (88,0 % vs 87,9 % literal)</text>
+  <text x="70" y="326" font-size="13" fill="#454139">· pero <tspan font-weight="bold">3× más rápido</tspan>: 18,4× tiempo real frente a 6×</text>
+  <text x="70" y="356" font-size="13" fill="#454139">· un pleno de 3 horas se transcribe en <tspan font-weight="bold">~10 minutos</tspan> de GPU</text>
+  <text x="70" y="386" font-size="13" fill="#454139">· int8 = pesa ~1,5 GB → corre en el portátil de 4 GB junto al resto del pipeline</text>
+  <text x="70" y="416" font-size="13" fill="#454139">· coste por pleno: <tspan font-weight="bold" fill="#8b2440">0 €</tspan> (solo electricidad)</text>
+
+  <!-- ============ EL DETALLE BILINGÜE ============ -->
+  <text x="870" y="248" font-size="13" font-weight="bold" fill="#1d6b6b">El detalle municipal: plenos bilingües</text>
+  <rect x="870" y="262" width="770" height="180" fill="#faf8f4" stroke="#d9ccd2" rx="8"/>
+  <text x="900" y="296" font-size="13" fill="#454139">· en la Comunitat, un pleno salta de castellano a valencià en la misma sesión</text>
+  <text x="900" y="326" font-size="13" fill="#454139">· la detección de idioma es <tspan font-weight="bold">por fragmento</tspan>, no por vídeo:</text>
+  <text x="900" y="356" font-size="13" fill="#454139">  cada intervención se transcribe en su idioma real</text>
+  <text x="900" y="386" font-size="13" fill="#454139">· y como los embeddings son multilingües, se busca en castellano</text>
+  <text x="900" y="416" font-size="13" fill="#454139">  y se encuentra lo dicho en valencià (y al revés)</text>
+
+  <!-- ============ QUÉ SE PROBÓ Y SE DESCARTÓ ============ -->
+  <rect x="40" y="490" width="1600" height="120" fill="#2b2723" rx="8"/>
+  <text x="70" y="524" font-size="12" fill="#c8a24a" letter-spacing="2">PROBADO Y DESCARTADO (CON MEDICIÓN, NO POR INTUICIÓN)</text>
+  <text x="70" y="554" font-size="13" fill="#f0ece4">· Reducción de ruido previa al ASR: <tspan font-weight="bold">empeora</tspan> la transcripción — descartada.   · Afinar Whisper para términos locales: no compensa —</text>
+  <text x="70" y="580" font-size="13" fill="#f0ece4">  el techo del ASR se corrige mejor con el glosario léxico posterior.   · Glosario automático extraído del corpus: no aporta frente al curado a mano.</text>
+
+  <text x="840" y="680" text-anchor="middle" font-size="14" font-weight="bold" fill="#8b2440">La salida no es solo texto: es texto anclado al tiempo — la base de todo lo demás</text>
+  <text x="840" y="706" text-anchor="middle" font-size="12.5" fill="#6b665e">(salto al minuto en el buscador · citas con minuto en las alertas · ventanas de votación por visión · muestras de voz del registro)</text>
+</svg>

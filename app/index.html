@@ -1,0 +1,1157 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Buscador de plenos</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <style>
+    :root{ --ink:#1a1a1a; --muted:#6b6b6b; --line:#e2e0db; --paper:#faf9f6; --accent:#7a1f2b; }
+    body{ background:var(--paper); color:var(--ink); font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+    .serif{ font-family:"Source Serif 4",Georgia,serif; }
+    .kicker{ letter-spacing:.18em; }
+    .snippet b{ font-weight:600; color:var(--ink); background:#f3edda; }
+    .row:hover{ background:#f3f1ec; }
+    input:focus{ outline:none; }
+  </style>
+</head>
+<body>
+  <div class="max-w-6xl mx-auto px-6">
+    <header class="pt-12 pb-6 border-b" style="border-color:var(--line)">
+      <p class="kicker text-[11px] uppercase font-semibold" style="color:var(--accent)">Diario de plenos · búsqueda semántica</p>
+      <h1 class="serif text-4xl sm:text-5xl mt-2 leading-tight">Buscador de sesiones plenarias</h1>
+      <p class="mt-3 text-[15px] max-w-2xl" style="color:var(--muted)">
+        Busque por significado en las intervenciones y vaya al instante exacto del vídeo,
+        con el orador y su grupo. No requiere acta literal previa.
+      </p>
+    </header>
+
+    <nav id="tabs" class="mt-6 flex gap-1 text-sm border-b" style="border-color:var(--line)">
+      <button data-tab="generar" class="tabbtn px-4 py-2 -mb-px border-b-2">Generar acta</button>
+      <button data-tab="registro" class="tabbtn px-4 py-2 -mb-px border-b-2">Registro de voces</button>
+      <button data-tab="buscar" class="tabbtn px-4 py-2 -mb-px border-b-2">Buscar</button>
+      <button data-tab="alertas" class="tabbtn px-4 py-2 -mb-px border-b-2">Alertas</button>
+      <button data-tab="ciudadano" class="tabbtn px-4 py-2 -mb-px border-b-2">Ciudadano</button>
+      <button data-tab="manuales" class="tabbtn px-4 py-2 -mb-px border-b-2">Manuales</button>
+    </nav>
+
+    <section id="view-generar" class="mt-8 pb-20">
+      <h2 class="serif text-2xl mb-2">Genera el acta desde un vídeo de YouTube</h2>
+      <p class="text-[15px] max-w-2xl mb-6" style="color:var(--muted)">Pega el enlace del pleno en YouTube. La herramienta lo <b>descarga</b>, lo <b>transcribe</b> (voz a texto), <b>separa las voces</b>, les <b>pone nombre</b> y genera un <b>acta</b> con el estilo del Diario de Sesiones — sin necesidad de un acta oficial previa.</p>
+      <div class="grid sm:grid-cols-2 gap-4 max-w-2xl">
+        <div class="sm:col-span-2">
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Enlace de YouTube del pleno</label>
+          <input id="gen-url" type="text" autocomplete="off" placeholder="https://www.youtube.com/watch?v=…" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+        </div>
+        <div>
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Ayuntamiento</label>
+          <input id="gen-ent" type="text" autocomplete="off" placeholder="Ayuntamiento de…" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+        </div>
+        <div>
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Fecha (opcional)</label>
+          <input id="gen-fecha" type="text" autocomplete="off" placeholder="18 de mayo de 2026" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+        </div>
+        <div class="sm:col-span-2">
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Orden del día (opcional · un punto por línea)</label>
+          <textarea id="gen-orden" rows="4" autocomplete="off" placeholder="Aprobación del acta de la sesión anterior&#10;Dictamen relativo a…&#10;Moción del grupo…" class="w-full bg-transparent border rounded-sm p-2 text-[14px]" style="border-color:var(--line)"></textarea>
+          <p class="text-[11px] mt-2" style="color:var(--muted)">
+            <label class="cursor-pointer underline underline-offset-2" style="color:var(--ink)">Subir convocatoria en PDF<input id="gen-orden-pdf" type="file" accept="application/pdf" class="hidden"></label>
+            <span id="gen-orden-pdf-msg"> · o pégalo arriba; los títulos del acta serán los oficiales exactos.</span>
+          </p>
+        </div>
+      </div>
+      <button id="gen-btn" class="mt-6 px-5 py-2 text-sm font-medium text-white rounded-sm" style="background:var(--ink)">Generar acta</button>
+      <div id="gen-progress" class="mt-8 max-w-xl" style="display:none">
+        <div id="gen-steps" class="space-y-2"></div>
+        <p id="gen-timer" class="text-[12px] mt-3 tabular-nums" style="color:var(--muted)"></p>
+        <p id="gen-msg" class="text-sm mt-3" style="color:var(--accent)"></p>
+      </div>
+      <p class="text-[11px] mt-8 max-w-2xl" style="color:var(--muted)">El proceso tarda según la duración del pleno (una sesión de 2 h ≈ media hora en un equipo con GPU). Al terminar, el pleno aparece abajo para <b>revisar y etiquetar las voces</b>.</p>
+
+      <div id="gen-editor" class="mt-12 border-t pt-8" style="border-color:var(--line)">
+        <h3 class="serif text-xl mb-1">Revisar y editar un pleno</h3>
+        <p class="text-[13px] mb-4" style="color:var(--muted)">Elige un pleno generado, escucha cada voz (ves a la persona en el vídeo) y confirma su nombre. Al guardar se regenera el acta.</p>
+        <div class="flex items-end gap-3 border-b pb-3 max-w-3xl" style="border-color:var(--line)">
+          <div>
+            <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Pleno</label>
+            <select id="pleno" class="bg-transparent text-sm py-1 pr-6" style="color:var(--ink)"><option value="">— elige un pleno —</option></select>
+          </div>
+          <p id="acta" class="text-xs flex-1" style="color:var(--muted)"></p>
+        </div>
+        <main class="grid lg:grid-cols-12 gap-10 mt-8 pb-10">
+          <section class="lg:col-span-6">
+            <p id="status" class="text-sm mb-4" style="color:var(--muted)"></p>
+            <div id="results" class="divide-y" style="border-color:var(--line)"></div>
+          </section>
+          <aside class="lg:col-span-6">
+            <div class="lg:sticky lg:top-8">
+              <div class="border bg-black aspect-video overflow-hidden" style="border-color:var(--line)">
+                <div id="player" class="w-full h-full"></div>
+              </div>
+              <p id="caption" class="text-xs mt-2" style="color:var(--muted)">Elige un pleno y pulsa una muestra para verla en el vídeo.</p>
+            </div>
+          </aside>
+        </main>
+      </div>
+    </section>
+
+    <section id="view-manuales" class="mt-8 pb-20" style="display:none">
+      <h2 class="serif text-2xl mb-2">Asistente de manuales</h2>
+      <p class="text-[15px] max-w-3xl mb-6" style="color:var(--muted)">Pregunta cómo se hace algo en la plataforma (SEGEX, SERES, SECON, SEFACE…) y el asistente responde con los manuales y los vídeos tutoriales, citando la fuente exacta —página o minuto— comprobable en un clic. Si te atascas, abre el <b>asistente de dudas</b> (abajo a la derecha): mantiene la conversación y puedes adjuntarle una captura de tu pantalla con el clip.</p>
+      <div class="max-w-3xl">
+      <div class="flex items-center gap-3 border-b pb-3" style="border-color:var(--line)">
+        <input id="mn-q" type="text" placeholder="¿Cómo se busca un convenio? ¿Cómo se firma un documento?…" class="flex-1 bg-transparent text-lg" style="outline:none">
+        <button id="mn-btn" class="px-5 py-2 text-sm font-medium text-white rounded-sm" style="background:var(--ink)">Preguntar</button>
+      </div>
+      <p id="mn-status" class="text-[12px] mt-2" style="color:var(--muted)"></p>
+      <div id="mn-answer" class="mt-5"></div>
+      </div>
+      <div id="mn-sources" class="mt-6 grid sm:grid-cols-2 gap-4 max-w-5xl"></div>
+
+      <!-- Asistente de dudas: burbuja flotante abajo-derecha (solo visible en esta pestaña) -->
+      <button id="ch-fab" title="Asistente de dudas"
+              class="fixed bottom-6 right-6 w-14 h-14 rounded-full shadow-lg z-40 flex items-center justify-center"
+              style="background:var(--accent)">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 11.5a8.38 8.38 0 0 1-8.5 8.3 8.9 8.9 0 0 1-3.8-.9L3 20l1.2-4.1a8.1 8.1 0 0 1-1.2-4.4A8.38 8.38 0 0 1 11.5 3.2a8.38 8.38 0 0 1 9.5 8.3z"/>
+        </svg>
+      </button>
+      <div id="ch-panel" class="fixed bottom-24 right-6 w-[370px] max-w-[92vw] border shadow-2xl z-40 hidden flex-col rounded-2xl overflow-hidden"
+           style="border-color:var(--line); background:#fdfcfa">
+        <div class="px-4 py-3 border-b" style="border-color:var(--line)">
+          <div class="flex items-center justify-between">
+            <span class="serif text-[16px]">Asistente de dudas</span>
+            <span>
+              <a href="#" id="ch-clear" class="text-[11px] underline underline-offset-2 mr-3" style="color:var(--muted)">nueva conversación</a>
+              <a href="#" id="ch-close" class="text-[14px]" style="color:var(--muted)">✕</a>
+            </span>
+          </div>
+          <div id="ch-scope" class="text-[11px] mt-1" style="color:var(--muted)"></div>
+        </div>
+        <div id="ch-log" class="px-4 py-3 space-y-3 overflow-y-auto" style="max-height:46vh; min-height:110px">
+          <p class="text-[12px]" style="color:var(--muted)">Pregunta tus dudas paso a paso («¿y cómo lo firmo?», «¿dónde está ese botón?») — mantiene el hilo y responde con los manuales.</p>
+        </div>
+        <div class="px-3 py-3 border-t flex items-center gap-2" style="border-color:var(--line)">
+          <label title="Adjunta una captura de la pantalla donde estás atascado"
+                 class="w-9 h-9 rounded-full border flex items-center justify-center cursor-pointer shrink-0 transition-colors hover:bg-black/5"
+                 style="border-color:var(--line); color:var(--muted)">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"/>
+            </svg>
+            <input id="ch-shot" type="file" accept="image/png,image/jpeg" class="hidden">
+          </label>
+          <input id="ch-q" type="text" placeholder="Tu duda…" class="flex-1 bg-transparent text-[14px] border rounded-full px-4 py-2" style="border-color:var(--line); outline:none">
+          <button id="ch-btn" title="Enviar" class="w-9 h-9 rounded-full flex items-center justify-center text-white shrink-0" style="background:var(--accent)">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="mt-12 border-t pt-8 max-w-2xl" style="border-color:var(--line)">
+        <h3 class="serif text-xl mb-1">Añadir un manual en PDF</h3>
+        <p class="text-[13px] mb-3" style="color:var(--muted)">Sube un manual (PDF) y queda <b>buscable al momento</b>: el texto se indexa por páginas y las capturas de pantalla se describen con visión en segundo plano (coste único de céntimos, cacheado para siempre).</p>
+        <div class="flex items-center gap-4 flex-wrap">
+          <label class="px-5 py-2 text-sm font-medium text-white rounded-sm cursor-pointer" style="background:var(--ink)">Elegir PDF…<input id="am-file" type="file" accept="application/pdf" class="hidden"></label>
+          <span id="am-status" class="text-sm" style="color:var(--accent)"></span>
+        </div>
+        <div id="am-result" class="mt-2 text-[13px]" style="color:var(--muted)"></div>
+      </div>
+
+      <div class="mt-10 border-t pt-8 max-w-2xl" style="border-color:var(--line)">
+        <h3 class="serif text-xl mb-1">Añadir un vídeo tutorial</h3>
+        <p class="text-[13px] mb-4" style="color:var(--muted)">Pega el enlace de YouTube de un tutorial: se transcribe y queda indexado por minutos. El asistente lo usará como fuente enlazando el momento exacto, por si alguien prefiere verlo en vídeo.</p>
+        <div class="grid sm:grid-cols-3 gap-3">
+          <div class="sm:col-span-2">
+            <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Enlace de YouTube del tutorial</label>
+            <input id="gm-url" type="text" autocomplete="off" placeholder="https://www.youtube.com/watch?v=…" class="w-full bg-transparent border-b py-1 text-[14px]" style="border-color:var(--line); outline:none">
+          </div>
+          <div>
+            <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Título (opcional)</label>
+            <input id="gm-titulo" type="text" autocomplete="off" placeholder="Tutorial de…" class="w-full bg-transparent border-b py-1 text-[14px]" style="border-color:var(--line); outline:none">
+          </div>
+        </div>
+        <div class="mt-4 flex items-center gap-4 flex-wrap">
+          <button id="gm-btn" class="px-5 py-2 text-sm font-medium text-white rounded-sm" style="background:var(--ink)">Indexar vídeo</button>
+        </div>
+        <div id="gm-progress" class="mt-4 text-sm" style="color:var(--muted)"></div>
+        <div id="gm-result" class="mt-2"></div>
+      </div>
+    </section>
+
+    <section id="view-ciudadano" class="mt-4 pb-20" style="display:none">
+      <iframe id="ciudadano-frame" data-src="/ciudadano-app/index.html" title="El Congreso en datos"
+              scrolling="no" onload="cidResizeLoop()"
+              style="width:100%; border:0; display:block; background:transparent; overflow:hidden"></iframe>
+    </section>
+
+    <div id="view-buscar" style="display:none" class="mt-8 pb-20">
+      <h2 class="serif text-2xl mb-2">Buscar en el Diario de Sesiones</h2>
+      <p class="text-[15px] max-w-2xl mb-6" style="color:var(--muted)">Búsqueda semántica sobre <b>todas las sesiones del Congreso</b>: pregunta en lenguaje natural —<i>«qué ha dicho VOX sobre vivienda»</i>, <i>«posturas sobre la amnistía»</i>— y obtienes un resumen neutral con las <b>fuentes citadas</b> (orador · grupo · pleno).</p>
+      <div class="flex items-center gap-3 border-b pb-3 max-w-2xl" style="border-color:var(--line)">
+        <input id="bc-q" type="text" placeholder="Pregunta sobre los plenos del Congreso…" class="flex-1 bg-transparent text-lg" style="outline:none">
+        <button id="bc-btn" class="px-5 py-2 text-sm font-medium text-white rounded-sm" style="background:var(--ink)">Buscar</button>
+      </div>
+      <p id="bc-status" class="text-[12px] mt-2" style="color:var(--muted)"></p>
+      <div id="bc-answer" class="mt-5 max-w-3xl"></div>
+      <div id="bc-frags" class="mt-4 max-w-3xl space-y-3"></div>
+    </div>
+
+    <section id="view-registro" class="mt-8 pb-20" style="display:none">
+      <h2 class="serif text-2xl mb-2">Registro de voces del ayuntamiento</h2>
+      <p class="text-[15px] max-w-2xl mb-3" style="color:var(--muted)">Registra la voz de cada concejal con unas frases para que, al generar un acta de este ayuntamiento, su nombre y grupo se sugieran solos. El registro es <b>local de cada municipio</b>: las voces de un ayuntamiento no se mezclan con las de otro.</p>
+      <div class="max-w-2xl p-3 mb-6 text-[13px] border-l-2" style="border-color:var(--accent); color:var(--muted)">
+        <b style="color:var(--ink)">El micrófono importa.</b> Graba con el <b>mismo micrófono que se usa en el salón de plenos</b> (o uno de calidad). Lo ideal: <b>3-5 frases de 5-8 s</b> por persona. Un audio de WhatsApp o de móvil recomprime el sonido y baja mucho la fiabilidad.
+      </div>
+      <div class="grid sm:grid-cols-2 gap-4 max-w-2xl">
+        <div class="sm:col-span-2">
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Ayuntamiento</label>
+          <input id="reg-ent" list="reg-ent-list" autocomplete="off" placeholder="Ayuntamiento de…" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+          <datalist id="reg-ent-list"></datalist>
+          <p id="reg-slug" class="text-[11px] mt-1" style="color:var(--muted)"></p>
+        </div>
+        <div>
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Nombre y apellidos</label>
+          <input id="reg-name" autocomplete="off" placeholder="David García Pérez" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+        </div>
+        <div>
+          <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Grupo político (opcional)</label>
+          <input id="reg-party" autocomplete="off" placeholder="PSOE, PP, Compromís…" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+        </div>
+      </div>
+
+      <div class="mt-6 max-w-2xl">
+        <p class="kicker text-[10px] uppercase mb-2" style="color:var(--muted)">Texto para leer (pulsa Grabar, léelo entero del tirón ≈ 25-30 s y pulsa Detener)</p>
+        <blockquote class="serif text-[17px] leading-relaxed p-4 border-l-2" style="border-color:var(--accent); background:#f3f1ec">
+          Buenos días a todas y a todos. Muchas gracias por su asistencia a esta sesión plenaria.
+          Quiero agradecer la presencia de los concejales, del personal del ayuntamiento y de los
+          vecinos del municipio. A continuación pasaremos a debatir y a votar los puntos del orden
+          del día. Ruego que mantengan el orden y el respeto durante las intervenciones. Defiendo
+          el interés general y la transparencia de esta corporación.
+        </blockquote>
+      </div>
+
+      <div class="mt-5 flex items-center gap-4 flex-wrap">
+        <button id="reg-rec" class="px-5 py-2 text-sm font-medium text-white rounded-sm" style="background:var(--ink)">Grabar</button>
+        <label class="text-[13px] cursor-pointer underline underline-offset-2" style="color:var(--ink)">o subir un archivo (clip de pleno, nota de voz…)<input id="reg-file" type="file" accept="audio/*" class="hidden"></label>
+        <span id="reg-status" class="text-sm" style="color:var(--accent)"></span>
+      </div>
+      <p class="text-[12px] mt-2" style="color:var(--muted)">Con una sola lectura del texto basta (genera varias huellas). Puedes grabar otra vez para reforzarla.</p>
+
+      <div class="mt-10 border-t pt-6 max-w-2xl" style="border-color:var(--line)">
+        <h3 class="serif text-lg">Voces registradas <span id="reg-count" class="text-sm" style="color:var(--muted)"></span></h3>
+        <ul id="reg-people" class="mt-3 divide-y" style="border-color:var(--line)"></ul>
+      </div>
+
+      <div class="text-[11px] mt-8 max-w-2xl p-3 leading-relaxed border-l-2" style="color:var(--muted); border-color:var(--accent)">
+        <b style="color:var(--ink)">Tratamiento de datos.</b> Se guarda <b>localmente</b> en este equipo una huella (un vector matemático, no el audio) para reconocer a la persona en los plenos de <b>este</b> ayuntamiento. Registra solo a cargos públicos con su conocimiento; las huellas pueden borrarse en cualquier momento.
+      </div>
+    </section>
+
+    <section id="view-alertas" class="mt-8 pb-20" style="display:none">
+      <h2 class="serif text-2xl mb-2">Alertas para vecinos</h2>
+      <p class="text-[15px] max-w-2xl mb-6" style="color:var(--muted)">
+        Elige los temas que te importan y, cuando el pleno de tu ayuntamiento los trate, recibirás un correo con las
+        <b>citas literales</b> (quién lo dijo), el <b>minuto exacto del vídeo</b> y el <b>acta en PDF</b>.
+        Solo temas del catálogo — no se puede seguir a personas — con doble confirmación y baja en un clic.
+      </p>
+
+      <div class="max-w-2xl">
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div>
+            <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Tu correo</label>
+            <input id="al-email" type="email" autocomplete="off" placeholder="vecino@correo.es" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)">
+          </div>
+          <div>
+            <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Tu municipio</label>
+            <select id="al-ent" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)"></select>
+          </div>
+        </div>
+        <label class="kicker block text-[10px] uppercase mt-5 mb-2" style="color:var(--muted)">Temas (elige los que quieras)</label>
+        <div id="al-temas" class="flex flex-wrap gap-2"></div>
+        <div class="mt-5 flex items-center gap-4">
+          <button id="al-btn" class="px-5 py-2 text-sm text-white" style="background:var(--accent)">Suscribirme</button>
+          <span id="al-msg" class="text-sm" style="color:var(--muted)"></span>
+        </div>
+      </div>
+
+      <div class="mt-12 max-w-3xl">
+        <h3 class="serif text-xl mb-1">Bandeja de demostración</h3>
+        <p class="text-[14px] max-w-2xl mb-4" style="color:var(--muted)">
+          Sin servidor de correo configurado, los avisos se guardan aquí tal cual llegarían al vecino.
+          Elige un pleno ya procesado y genera sus avisos.
+        </p>
+        <div class="flex items-end gap-3 flex-wrap">
+          <div class="min-w-[280px]">
+            <label class="kicker block text-[10px] uppercase mb-1" style="color:var(--muted)">Pleno</label>
+            <select id="al-pleno" class="w-full bg-transparent border-b py-1 text-[15px]" style="border-color:var(--line)"></select>
+          </div>
+          <button id="al-proc" class="px-4 py-2 text-sm border" style="border-color:var(--accent); color:var(--accent)">Generar avisos de este pleno</button>
+          <span id="al-proc-msg" class="text-sm" style="color:var(--muted)"></span>
+        </div>
+        <div id="al-bandeja" class="mt-6 space-y-3"></div>
+      </div>
+
+      <div class="text-[11px] mt-10 max-w-2xl p-3 leading-relaxed border-l-2" style="color:var(--muted); border-color:var(--accent)">
+        <b style="color:var(--ink)">Tratamiento de datos.</b> El correo se guarda <b>localmente</b> en la base de datos del
+        ayuntamiento y solo se usa para estos avisos. Suscripción con doble confirmación; cada correo lleva un enlace de baja.
+        El catálogo cerrado de temas impide, por diseño, suscribirse a personas.
+      </div>
+    </section>
+  </div>
+
+  <!-- LIGHTBOX global: ampliar imágenes en la propia página (sin abrir pestañas) -->
+  <div id="lightbox" class="fixed inset-0 z-50 hidden items-center justify-center p-6" style="background:rgba(15,12,10,.85); cursor:zoom-out">
+    <img id="lightbox-img" class="max-w-full shadow-2xl" style="max-height:92vh; object-fit:contain; background:#fff">
+  </div>
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script>
+    let player, ready=false, embedBlocked=false, last=null;
+
+    function onYouTubeIframeAPIReady(){
+      player = new YT.Player('player', {
+        width:'100%', height:'100%', videoId:'',
+        host:'https://www.youtube-nocookie.com',
+        playerVars:{ rel:0, modestbranding:1, origin:location.origin },
+        events:{ onReady:()=>{ready=true;}, onError:onErr }
+      });
+    }
+    function onErr(){ embedBlocked=true; if(last) renderFallback(last); }
+
+    function renderFallback(h){
+      const box=document.getElementById('player');
+      box.innerHTML =
+        '<div class="w-full h-full flex flex-col items-center justify-center text-center gap-3 p-6 bg-stone-900 text-stone-200">'+
+        '<p class="text-sm text-stone-400">Este vídeo no permite incrustación.</p>'+
+        '<a href="'+h.youtube_link+'" target="_blank" rel="noopener" class="text-sm underline underline-offset-4">Abrir en YouTube · '+hms(h.start)+'</a>'+
+        '</div>';
+    }
+
+    const hms = s => { s=+s||0; const h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=Math.floor(s%60);
+      return (h?h+':':'')+String(m).padStart(h?2:1,'0')+':'+String(x).padStart(2,'0'); };
+
+    function open(h){
+      last=h;
+      if(!h.video_id || !h.youtube_link){   // resultado de acta oficial (corpus sin vídeo)
+        document.getElementById('caption').textContent = (h.speaker||'') + ' — ' + (h.title||'acta oficial');
+        return;
+      }
+      document.getElementById('caption').innerHTML =
+        (h.speaker||'') + ' · ' + hms(h.start) + '  —  <a class="underline underline-offset-2" target="_blank" rel="noopener" href="'+h.youtube_link+'">ver en YouTube</a>';
+      if(embedBlocked){ renderFallback(h); window.open(h.youtube_link,'_blank','noopener'); return; }
+      if(ready && player && player.loadVideoById){ if(player.unMute) player.unMute();   // búsqueda: con sonido
+        player.loadVideoById({videoId:h.video_id, startSeconds:h.start}); }
+      if(window.innerWidth<1024) document.querySelector('aside').scrollIntoView({behavior:'smooth'});
+    }
+
+    // punto de color sobrio por grupo
+    function dot(sp){ const s=(sp||'').toLowerCase(); let c='#9a9a9a';
+      if(s.includes('psoe')||s.includes('socialista'))c='#9c2a2a';
+      else if(s.includes('(pp')||s.includes('popular'))c='#2f5b8f';
+      else if(s.includes('vox'))c='#3f6f3a';
+      else if(s.includes('sumar'))c='#9c3a6e';
+      else if(s.includes('erc')||s.includes('republican'))c='#b08328';
+      else if(s.includes('junts'))c='#2f8f86';
+      else if(s.includes('bildu'))c='#5f7a2a';
+      else if(s.includes('pnv'))c='#356b4a';
+      else if(s.includes('gobierno'))c='#444';
+      return '<span class="inline-block w-1.5 h-1.5 rounded-full align-middle mr-2" style="background:'+c+'"></span>'; }
+
+    const results=document.getElementById('results'), statusEl=document.getElementById('status');
+    function esc(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+    async function doSearch(q){
+      statusEl.textContent='Buscando…'; results.innerHTML='';
+      const v=document.getElementById('pleno').value;
+      try{
+        const r=await fetch('/api/buscar?q='+encodeURIComponent(q)+'&k=10'+(v?'&video='+encodeURIComponent(v):''));
+        const hits=(await r.json()).hits||[];
+        statusEl.textContent = hits.length? hits.length+' intervenciones' : 'Sin resultados.';
+        for(const h of hits){
+          const el=document.createElement('div');
+          el.className='row py-4 cursor-pointer transition-colors';
+          el.innerHTML =
+            '<div class="flex items-baseline justify-between gap-4">'+
+              '<div class="text-[15px] font-medium">'+dot(h.speaker)+esc(h.speaker||'Orador sin identificar')+'</div>'+
+              (h.youtube_link
+                ? '<a href="'+h.youtube_link+'" target="_blank" rel="noopener" class="text-xs tabular-nums shrink-0" style="color:var(--accent)" onclick="event.stopPropagation()">'+hms(h.start)+'</a>'
+                : '<span class="text-xs shrink-0" style="color:var(--muted)">acta oficial</span>')+
+            '</div>'+
+            '<p class="snippet text-[14px] leading-relaxed mt-1" style="color:#33312e">'+esc(h.text).slice(0,300)+'…</p>'+
+            '<p class="text-[11px] mt-1" style="color:var(--muted)">'+esc(h.title)+
+              (h.video_id? ' · <a href="/api/acta?video='+encodeURIComponent(h.video_id)+'&fmt=pdf" target="_blank" rel="noopener" class="underline underline-offset-2" style="color:var(--accent)" onclick="event.stopPropagation()">acta (PDF)</a>':'')+'</p>';
+          el.onclick=()=>open(h);
+          results.appendChild(el);
+        }
+      }catch(e){ statusEl.textContent='Error: '+e; }
+    }
+    const _searchForm=document.getElementById('form');   // (el buscador real lo aporta otro módulo)
+    if(_searchForm) _searchForm.addEventListener('submit',e=>{
+      e.preventDefault(); const q=document.getElementById('q').value.trim(); if(q) doSearch(q);
+    });
+
+    // catálogo de sesiones (desde la BD), agrupado por entidad: los AYUNTAMIENTOS primero
+    // (es el producto), el corpus del Congreso al final.
+    async function loadCatalog(){ try{
+      const ps=((await (await fetch('/api/plenos')).json()).plenos)||[];
+      const sel=document.getElementById('pleno');
+      sel.querySelectorAll('optgroup').forEach(o=>o.remove());
+      const byEnt={};
+      for(const p of ps){ const k=p.entidad||'—'; (byEnt[k]=byEnt[k]||[]).push(p); }
+      const ents=Object.keys(byEnt).filter(e=>/ayuntamiento/i.test(e)).sort((a,b)=>a.localeCompare(b));
+      for(const ent of ents){
+        const og=document.createElement('optgroup'); og.label=ent+'  ('+byEnt[ent].length+')';
+        const muni=/ayuntamiento/i.test(ent);          // sin Diario -> el % es cobertura, no parecido
+        for(const p of byEnt[ent]){ const o=document.createElement('option'); o.value=p.video_id;
+          const fi=p.fiabilidad? '  ·  '+Math.round(p.fiabilidad*100)+'% '+(muni?'identificado':'parecido'):'';
+          o.textContent=(p.fecha?p.fecha+' · ':'')+((p.title||p.video_id).slice(0,40))+fi; og.appendChild(o); }
+        sel.appendChild(og);
+      }
+    }catch(e){} }
+    loadCatalog();
+
+    // al elegir un pleno: muestra el acta y carga directamente el editor de voces
+    const actaEl=document.getElementById('acta');
+    document.getElementById('pleno').addEventListener('change', e=>{
+      const v=e.target.value;
+      actaEl.innerHTML = v
+        ? 'Acta: <a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+v+'&fmt=pdf">PDF</a> · '
+          + '<a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+v+'&fmt=docx">Word (editar)</a> · '
+          + '<a class="underline underline-offset-2" target="_blank" href="/sync?video='+v+'">visor</a>'
+          + '<br><span class="text-[11px]" style="color:var(--muted)">Revisa el <b>PDF</b>; si hay que cambiar algo, descárgalo en <b>Word</b> (si no, el PDF ya vale). · '
+          + 'Transcripción original (para revisar errores): <a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+v+'&fmt=transcripcion">txt</a></span>'
+        : '';
+      if(v){ loadClusters(v); } else { results.innerHTML=''; statusEl.textContent=''; }
+    });
+
+    // muestras al etiquetar: UN SOLO reproductor. Si el vídeo se puede incrustar, se usa el de
+    // YouTube CON sonido (un control: pausas y para todo, sin eco). Si no, queda el audio local.
+    let aud=null;
+    function playLocalAudio(vid, start){
+      if(!aud){ aud=document.createElement('audio'); aud.controls=true; aud.preload='metadata';
+        aud.className='w-full mt-3'; document.querySelector('aside .lg\\:sticky').appendChild(aud); }
+      aud.style.display='';
+      if(aud.dataset.v!==vid){ aud.src='/api/audio?video='+encodeURIComponent(vid); aud.dataset.v=vid; }
+      const go=()=>{ try{aud.currentTime=start;}catch(e){} aud.play().catch(()=>{}); };
+      if(aud.readyState>=1) go(); else aud.addEventListener('loadedmetadata',go,{once:true});
+    }
+    function seekTo(vid, start){
+      if(!embedBlocked && ready && player && player.loadVideoById){
+        if(player.unMute) player.unMute();                       // vídeo + sonido, un único control
+        if(aud){ aud.pause(); aud.style.display='none'; }         // nada de audio en paralelo (sin descuadre)
+        player.loadVideoById({videoId:vid, startSeconds:start});
+      } else {
+        playLocalAudio(vid, start);                              // respaldo si no se puede incrustar
+      }
+      const yt='https://www.youtube.com/watch?v='+vid+'&t='+Math.floor(start)+'s';
+      document.getElementById('caption').innerHTML='▶ '+hms(start)+'  —  <a class="underline underline-offset-2" target="_blank" rel="noopener" href="'+yt+'">abrir en YouTube</a>';
+      if(window.innerWidth<1024) document.querySelector('aside').scrollIntoView({behavior:'smooth'});
+    }
+
+    // --- vista de ETIQUETADO DE VOCES (el secretario nombra cada voz una vez) ---
+    async function loadClusters(v){
+      statusEl.textContent='Cargando voces…'; results.innerHTML='';
+      // deja el vídeo cargado al lado (mudo, en pausa) para identificar a cada orador
+      try{ if(ready && player && player.cueVideoById){ if(player.unMute)player.unMute(); player.cueVideoById({videoId:v, startSeconds:0}); } }catch(e){}
+      let cs;
+      try{ cs=((await (await fetch('/api/clusters?video='+encodeURIComponent(v))).json()).clusters)||[]; }
+      catch(e){ statusEl.textContent='Error: '+e; return; }
+      statusEl.innerHTML='<b>Etiquetar oradores</b> — escuche una muestra de cada voz (▶) y ponga el nombre y el grupo. '+cs.length+' voces detectadas.'
+        +'<br><span class="text-[11px]" style="color:var(--muted)">Marque <b>«solo modera»</b> únicamente si esa voz se limita a dar la palabra (no se contará como intervención ni saldrá en las búsquedas). En un ayuntamiento la alcaldesa suele debatir: póngale nombre y grupo, sin marcar.</span>';
+      const wrap=document.createElement('div'); wrap.className='space-y-4 mt-2';
+      cs.forEach(c=>{
+        const el=document.createElement('div'); el.className='border p-3'; el.style.borderColor='var(--line)';
+        el.dataset.cluster=c.cluster;
+        const sn=c.samples.map(s=>'<a href="#" class="underline underline-offset-2 text-xs tabular-nums" style="color:var(--accent)" data-t="'+s.start+'">▶ '+hms(s.start)+'</a>  <span style="color:#33312e">'+esc(s.text).slice(0,150)+'…</span>').join('<br>');
+        const meta = c.n+' turnos · '+hms(c.secs)
+          + (c.cruce?'  ·  <span title="Turnos donde habla a la vez que otra persona (discusión). No se usan para la huella de voz.">'+c.cruce+' con cruce</span>':'');
+        el.innerHTML=
+          '<div class="flex items-center gap-3 mb-2">'+
+            '<input class="nm flex-1 bg-transparent text-[15px] font-medium border-b py-1" style="border-color:var(--line)" placeholder="Nombre del orador" value="">'+
+            '<input class="pt w-24 bg-transparent text-sm border-b py-1" style="border-color:var(--line)" placeholder="grupo" value="">'+
+          '</div>'+
+          '<div class="flex items-center gap-5 mb-1 text-xs" style="color:var(--muted)">'+
+            '<label class="flex items-center gap-1" title="Guarda una HUELLA de voz (un vector matemático, no el audio) en este equipo, para reconocer a esta persona en próximos plenos. Desmárcalo si la persona NO ha dado su consentimiento."><input type="checkbox" class="sv" checked> Guardar voz</label>'+
+            '<label class="flex items-center gap-1" title="Esta voz solo da la palabra y dirige (no debate). Se etiqueta como Presidencia y no cuenta como intervención. Solo UNA voz puede moderar."><input type="checkbox" class="ch"> Solo modera</label>'+
+          '</div>'+
+          '<p class="meta text-[11px] mb-1" style="color:var(--muted)">'+meta+'</p>'+
+          '<div class="text-[13px] leading-relaxed">'+sn+'</div>';
+        wrap.appendChild(el);
+      });
+      // «solo modera» es ÚNICO: solo una voz puede moderar -> al marcar una, se desmarcan las demás
+      wrap.querySelectorAll('.ch').forEach(ch=>ch.addEventListener('change',()=>{
+        if(ch.checked) wrap.querySelectorAll('.ch').forEach(o=>{ if(o!==ch) o.checked=false; });
+      }));
+      const btn=document.createElement('button');
+      btn.className='mt-4 px-5 py-2 text-sm font-medium text-white rounded-sm'; btn.style.background='var(--ink)';
+      btn.textContent='Guardar y generar acta'; btn.onclick=()=>saveLabels(v);
+      const note=document.createElement('div'); note.className='text-[11px] mt-4 p-3 leading-relaxed border-l-2'; note.style.color='var(--muted)'; note.style.borderColor='var(--accent)';
+      note.innerHTML='<b style="color:var(--ink)">Tratamiento de datos.</b> El audio se procesa en este equipo. Si marcas <b>«Guardar voz»</b>, se almacena <b>localmente</b> una huella (un vector matemático, no el audio) para reconocer a esa persona en próximos plenos de este ayuntamiento. Base: publicidad de los plenos e interés público (cargos públicos). <b>Desmarca «Guardar voz»</b> en quien no consienta; las huellas pueden borrarse en cualquier momento. No se aplica al público asistente.';
+      const msg=document.createElement('p'); msg.id='savemsg'; msg.className='text-sm mt-3'; msg.style.color='var(--accent)';
+      wrap.appendChild(note); wrap.appendChild(btn); wrap.appendChild(msg); results.appendChild(wrap);
+      wrap.querySelectorAll('a[data-t]').forEach(a=>a.onclick=ev=>{ev.preventDefault(); seekTo(v, +a.dataset.t);});
+      // 2ª fase (NO bloquea la lista): sugerencias por VOZ. Se rellenan al volver del backend.
+      const vstat=document.createElement('span'); vstat.className='text-[11px] ml-1'; vstat.style.color='var(--muted)';
+      vstat.innerHTML=' · <span class="animate-pulse">buscando coincidencias de voz…</span>'; statusEl.appendChild(vstat);
+      fetch('/api/voicesuggest?video='+encodeURIComponent(v)).then(r=>r.json()).then(j=>{
+        const vs=(j&&j.voices)||{}; let n=0;
+        for(const cl in vs){
+          const el=wrap.querySelector('[data-cluster="'+CSS.escape(cl)+'"]'); if(!el) continue;
+          if(el.querySelector('.ch').checked) continue;
+          const d=vs[cl], nm=el.querySelector('.nm'), pt=el.querySelector('.pt'), m=el.querySelector('.meta');
+          // NO autorrellenamos (se ofrece como sugerencia OPCIONAL de un clic). El grupo viene de
+          // la huella (registro manual o etiquetado previo, no de adivinar), así que el clic rellena
+          // nombre Y grupo cuando la huella lo trae.
+          if(m){
+            const party=(d.party||'').trim();
+            const stat=Math.round(d.sim*100)+'%'+((d.n||1)>1?', '+d.n+' plenos':'');
+            const lbl=party
+              ? 'reconocida por voz: '+esc(d.name)+' ('+esc(party)+') · '+stat+' — clic para nombre y grupo'
+              : 'reconocida por voz: '+esc(d.name)+' · '+stat+' — clic para usar el nombre';
+            m.insertAdjacentHTML('beforeend','  ·  <a href="#" class="vhint underline underline-offset-2" style="color:var(--accent)">'+lbl+'</a>');
+            const vh=m.querySelector('.vhint'); if(vh) vh.onclick=ev=>{ev.preventDefault(); nm.value=d.name; if(party&&pt) pt.value=party;};
+          }
+          n++;
+        }
+        vstat.innerHTML = n? ' · <span style="color:var(--accent)">'+n+' voces reconocidas por huella</span>'
+                            : ' · sin coincidencias de voz (primer pleno o voces nuevas)';
+      }).catch(()=>{ vstat.textContent=''; });
+    }
+
+    async function saveLabels(v){
+      const labels={};
+      document.querySelectorAll('#results [data-cluster]').forEach(el=>{
+        labels[el.dataset.cluster]={ name:el.querySelector('.nm').value.trim(),
+          party:el.querySelector('.pt').value.trim(), chair:el.querySelector('.ch').checked,
+          save:el.querySelector('.sv').checked };
+      });
+      const msg=document.getElementById('savemsg')||statusEl;
+      msg.textContent='Generando acta…';
+      try{
+        const r=await fetch('/api/clusters?video='+encodeURIComponent(v),
+          {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({labels})});
+        const j=await r.json();
+        msg.innerHTML = j.ok
+          ? '✓ Acta generada con '+Object.keys(labels).length+' voces · <b>'+Math.round((j.cobertura||0)*100)+'% del pleno atribuido a un concejal</b>.  '
+            +'<a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+v+'&fmt=pdf">PDF</a> · '
+            +'<a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+v+'&fmt=docx">Word (editar)</a> · '
+            +'<a class="underline underline-offset-2" target="_blank" href="/sync?video='+v+'">visor</a>'
+            +'<br><span class="text-[11px]" style="color:var(--muted)">Revisa el PDF; si hay que cambiar algo, descárgalo en Word. · '
+            +'Transcripción original: <a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+v+'&fmt=transcripcion">txt</a> · '
+            +'las huellas de voz se guardan en segundo plano para los próximos plenos.</span>'
+          : 'Error: '+(j.error||'');
+      }catch(e){ msg.textContent='Error: '+e; }
+    }
+
+    // --- REGISTRO DE VOCES (local por municipio) ---
+    (function(){
+      const entEl=document.getElementById('reg-ent'), nameEl=document.getElementById('reg-name'),
+            partyEl=document.getElementById('reg-party'), statusEl=document.getElementById('reg-status'),
+            slugEl=document.getElementById('reg-slug'), peopleEl=document.getElementById('reg-people'),
+            countEl=document.getElementById('reg-count');
+      const clarColor=l=>l==='clara'?'#3f6f3a':l==='mejorable'?'#9a7b00':l==='repetir'?'#b00020':'var(--muted)';
+      const clarWord=l=>l==='clara'?'clara':l==='mejorable'?'mejorable':l==='repetir'?'repetir':'parcial';
+      async function loadEnts(){ try{
+        const d=await (await fetch('/api/entidades')).json();
+        const dl=document.getElementById('reg-ent-list'); dl.innerHTML='';
+        (d.entidades||[]).filter(e=>/ayuntamiento/i.test(e.nombre||'')).forEach(e=>{ const o=document.createElement('option'); o.value=e.nombre; dl.appendChild(o); });
+      }catch(e){} }
+      async function loadPeople(){
+        const ent=entEl.value.trim();
+        if(!ent){ slugEl.textContent=''; peopleEl.innerHTML=''; countEl.textContent=''; return; }
+        try{
+          const d=await (await fetch('/api/voces?entidad='+encodeURIComponent(ent))).json();
+          slugEl.textContent='Registro local de este municipio: '+d.slug;
+          countEl.textContent='· '+d.people.length;
+          peopleEl.innerHTML = d.people.length ? d.people.map(p=>{ const cl=p.clarity||{};
+            const nm=esc(p.name).replace(/"/g,'&quot;'), pt=esc(p.party||'').replace(/"/g,'&quot;');
+            return '<li class="py-2 text-[14px]" data-n="'+nm+'" data-p="'+pt+'"><div class="flex items-center justify-between"><span>'+esc(p.name)+
+            (p.party?' <span style="color:var(--muted)">('+esc(p.party)+')</span>':'')+
+            ' <span class="text-[11px]" style="color:var(--muted)">· '+p.n_frases+' huellas</span>'+
+            ' <span class="text-[11px]" style="color:'+clarColor(cl.level)+'"'+(cl.warn?' title="'+esc(cl.warn)+'"':'')+'>· nitidez '+clarWord(cl.level)+(cl.warn?' ⚠':'')+'</span></span>'+
+            '<span class="shrink-0 ml-3"><a href="#" class="reg-edit text-[11px] underline" style="color:var(--ink)">editar</a> · '+
+            '<a href="#" class="reg-del text-[11px] underline" style="color:var(--accent)">borrar</a></span></div></li>'; }).join('')
+            : '<li class="py-2 text-[13px]" style="color:var(--muted)">Aún no hay voces registradas en este ayuntamiento.</li>';
+          peopleEl.querySelectorAll('.reg-del').forEach(a=>a.onclick=async ev=>{ ev.preventDefault();
+            const li=a.closest('li'); const f=new FormData(); f.append('entidad',ent); f.append('name',li.dataset.n);
+            await fetch('/api/voces/delete',{method:'POST',body:f}); loadPeople();
+          });
+          peopleEl.querySelectorAll('.reg-edit').forEach(a=>a.onclick=ev=>{ ev.preventDefault();
+            const li=a.closest('li'), old=li.dataset.n, oldp=li.dataset.p;
+            li.innerHTML='<div class="flex items-center gap-2 flex-wrap">'+
+              '<input class="ed-n border-b bg-transparent text-[14px] py-1" style="border-color:var(--line)" value="'+old+'">'+
+              '<input class="ed-p border-b bg-transparent text-[13px] py-1 w-32" style="border-color:var(--line)" placeholder="grupo" value="'+oldp+'">'+
+              '<button class="ed-ok text-[11px] underline" style="color:var(--accent)">guardar</button>'+
+              '<button class="ed-no text-[11px] underline" style="color:var(--muted)">cancelar</button></div>';
+            li.querySelector('.ed-no').onclick=()=>loadPeople();
+            li.querySelector('.ed-ok').onclick=async()=>{
+              const f=new FormData(); f.append('entidad',ent); f.append('name',old);
+              f.append('new_name', li.querySelector('.ed-n').value.trim());
+              f.append('party', li.querySelector('.ed-p').value.trim());
+              const r=await (await fetch('/api/voces/edit',{method:'POST',body:f})).json();
+              if(r.error){ statusEl.textContent=r.error; } loadPeople();
+            };
+          });
+        }catch(e){}
+      }
+      entEl.addEventListener('change',loadPeople); entEl.addEventListener('blur',loadPeople);
+      async function send(blob){
+        const ent=entEl.value.trim(), name=nameEl.value.trim();
+        if(!ent){ statusEl.textContent='Indica el ayuntamiento.'; return; }
+        if(!name){ statusEl.textContent='Indica el nombre y apellidos.'; return; }
+        statusEl.textContent='Procesando…';
+        const f=new FormData(); f.append('entidad',ent); f.append('name',name);
+        f.append('party',partyEl.value.trim()); f.append('audio',blob,'a.webm');
+        try{ const d=await (await fetch('/api/voces/enroll',{method:'POST',body:f})).json();
+          if(d.error){ statusEl.textContent=d.error; return; }
+          const cl=d.clarity||{};
+          statusEl.innerHTML='Huella '+d.n_frases+' guardada para '+esc(name)+' ('+d.dur+' s). '+
+            '<b style="color:'+clarColor(cl.level)+'">nitidez '+clarWord(cl.level)+'</b> — '+esc(cl.msg||'')+
+            (cl.warn?' <span style="color:#b00020">'+esc(cl.warn)+'</span>':'');
+          loadPeople();
+        }catch(e){ statusEl.textContent='Error: '+e; }
+      }
+      let media,chunks,recOn=false; const recBtn=document.getElementById('reg-rec');
+      recBtn.onclick=async()=>{
+        if(recOn){ media.stop(); return; }
+        let stream; try{ stream=await navigator.mediaDevices.getUserMedia({audio:true}); }
+        catch(e){ statusEl.textContent='No se pudo acceder al micrófono.'; return; }
+        media=new MediaRecorder(stream); chunks=[]; recOn=true; recBtn.textContent='Detener';
+        media.ondataavailable=e=>chunks.push(e.data);
+        media.onstop=async()=>{ stream.getTracks().forEach(t=>t.stop()); recOn=false; recBtn.textContent='Grabar';
+          await send(new Blob(chunks,{type:'audio/webm'})); };
+        media.start(); statusEl.textContent='Grabando… lee el texto entero y pulsa Detener.';
+      };
+      const regFile=document.getElementById('reg-file');
+      regFile.onchange=()=>{ if(regFile.files[0]){ send(regFile.files[0]); regFile.value=''; } };
+      loadEnts();
+      window.__regLoadPeople=loadPeople;
+    })();
+
+    // --- BUSCAR (corpus oficial del Congreso · servicio del compañero vía proxy) ---
+    (function(){
+      const q=document.getElementById('bc-q'), btn=document.getElementById('bc-btn'),
+            st=document.getElementById('bc-status'), ans=document.getElementById('bc-answer'),
+            fr=document.getElementById('bc-frags');
+      if(!q) return;
+      async function go(){
+        const query=q.value.trim(); if(!query) return;
+        st.textContent='Buscando en el corpus… (la 1ª consulta carga los modelos, puede tardar ~1 min)';
+        ans.innerHTML=''; fr.innerHTML=''; btn.disabled=true;
+        try{
+          const d=await (await fetch('/api/buscar-corpus?q='+encodeURIComponent(query))).json();
+          btn.disabled=false;
+          if(d.error){ st.textContent=d.error; return; }
+          if(d.rechazo){ st.textContent=''; ans.innerHTML='<div class="p-3 rounded-lg text-[14px]" style="background:#f3f1ec;color:var(--muted)">'+esc(d.mensaje||'Consulta no admitida.')+'</div>'; return; }
+          st.textContent = (d.interpretado && Object.keys(d.interpretado).length)? ('Interpretado: '+esc(JSON.stringify(d.interpretado))) : '';
+          if(d.respuesta) ans.innerHTML='<div class="serif text-[16px] leading-relaxed p-4 border-l-2" style="border-color:var(--accent); background:#f3f1ec">'+esc(d.respuesta)+'</div>';
+          fr.innerHTML=(d.fragmentos||[]).map(f=>
+            '<div class="border-l-2 pl-3 py-1" style="border-color:var(--line)">'+
+            '<div class="text-[13px] font-medium">'+dot(f.party)+esc(f.speaker||'')+' <span style="color:var(--muted)">'+esc(f.party||'')+' · '+esc(f.pleno||'')+'</span>'+
+              (f.acta_url? ' · <a href="'+esc(f.acta_url)+'" target="_blank" rel="noopener" class="text-[12px] underline underline-offset-2" style="color:var(--accent)">'+esc(f.acta_label||'acta')+'</a>':'')+'</div>'+
+            '<div class="text-[14px]" style="color:#33312e">'+esc(f.texto||'')+'…</div></div>').join('');
+        }catch(e){ btn.disabled=false; st.textContent='Error: '+e; }
+      }
+      btn.onclick=go;
+      q.addEventListener('keydown', e=>{ if(e.key==='Enter') go(); });
+    })();
+
+    // --- MANUALES (extra SEDIPUALBA): pregunta -> respuesta con citas verificables ---
+    (function(){
+      const q=document.getElementById('mn-q'), btn=document.getElementById('mn-btn'),
+            st=document.getElementById('mn-status'), ans=document.getElementById('mn-answer'),
+            srcs=document.getElementById('mn-sources');
+      if(!q) return;
+      // convierte los [n] en referencias CON el manual y la página, clicables (abren la
+      // página citada en el lightbox): [1] -> [1 · SERES p. 3]
+      function citas(html, fuentes){
+        const fmap={};
+        (fuentes||[]).forEach(f=>{ if(!(f.n in fmap)) fmap[f.n]=f; });
+        const corto=s=>(s||'').replace(/\.pdf$/i,'').replace(/^ANIMSA_/i,'').replace(/^Manual_/i,'').replace(/_/g,' ');
+        return html.replace(/\[(\d+)\]/g,(m,n)=>{
+          const f=fmap[+n];
+          if(!f) return '<span style="color:var(--accent)">['+n+']</span>';
+          if(f.tipo==='video')
+            return '<span style="color:var(--accent)">['+n+' · vídeo '+Math.floor(f.start/60)+':'+String(f.start%60).padStart(2,'0')+']</span>';
+          if(f.generado)
+            return '<span style="color:var(--accent)">['+n+' · manual generado]</span>';
+          // una CAPTURA citada abre SU imagen (cada cita enseña su foto, no siempre la página)
+          const href = f.tipo==='captura' && f.file
+            ? '/sedipualba-img/'+encodeURIComponent(f.file)
+            : '/api/manuales/pagina?manual='+encodeURIComponent(f.manual)+'&page='+f.page;
+          return '<span class="mn-zoom" data-full="'+href+'" title="'+esc(f.manual)+' · pág. '+f.page+(f.tipo==='captura'?' · captura':'')+' — clic para verla" '+
+                 'style="color:var(--accent); cursor:zoom-in; border-bottom:1px dotted var(--accent)">['+n+' · '+esc(corto(f.manual))+' p.'+f.page+']</span>';
+        });
+      }
+      function card(f){
+        const head='<div class="text-[12px] font-medium mb-1" style="color:var(--accent)">['+f.n+'] ';
+        if(f.tipo==='video'){
+          return '<div class="border p-3" style="border-color:var(--line)">'+head+esc(f.url? 'Vídeo tutorial · min '+Math.floor(f.start/60)+':'+String(f.start%60).padStart(2,'0'):'Vídeo')+'</div>'+
+            '<div class="aspect-video bg-black"><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/'+f.video_id+'?start='+f.start+'" title="tutorial" frameborder="0" allowfullscreen></iframe></div>'+
+            '<p class="text-[12px] mt-2" style="color:var(--muted)">'+esc(f.texto)+'…</p></div>';
+        }
+        if(f.generado){                       // manual GENERADO desde un vídeo: sin página que
+          const vid=(f.manual||'').replace(/^manual_/,'').replace(/\s*\(generado\)\s*$/,'');
+          return '<div class="border p-3" style="border-color:var(--line)">'+head+esc('Manual generado del vídeo · cap. '+f.page)+
+            ' · <a class="underline underline-offset-2" style="color:var(--accent)" target="_blank" href="/api/manuales/doc?vid='+encodeURIComponent(vid)+'&fmt=pdf">abrir PDF</a></div>'+
+            '<p class="text-[12px] mt-2" style="color:var(--muted)">'+esc(f.texto)+'…</p></div>';
+        }
+        const img = f.tipo==='captura' && f.file
+          ? '/sedipualba-img/'+encodeURIComponent(f.file)
+          : '/api/manuales/pagina?manual='+encodeURIComponent(f.manual)+'&page='+f.page;
+        return '<div class="border p-3" style="border-color:var(--line)">'+head+esc(f.manual+' · pág. '+f.page+(f.tipo==='captura'?' · captura':''))+'</div>'+
+          '<img src="'+img+'" loading="lazy" class="mn-zoom w-full border" style="border-color:var(--line); max-height:340px; object-fit:contain; background:#fff; cursor:zoom-in" title="clic para ampliar">'+
+          '<p class="text-[12px] mt-2" style="color:var(--muted)">'+esc(f.texto)+'…</p></div>';
+      }
+      let ultima=null;                        // última respuesta pintada (para feedback y ficha)
+      function pinta(query, d, extraHtml){    // render compartido: búsqueda normal Y pantallazo
+        const rHtml=citas(esc(d.respuesta||'')
+          .replace(/^\s*[\*\-]\s+/gm,'• ')
+          .replace(/^#{1,4}\s*(.+)$/gm,'<b>$1</b>')
+          .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
+          .replace(/\*([^*]+)\*/g,'<i>$1</i>'), d.fuentes);
+        ans.innerHTML=
+          '<div class="text-[14px] font-medium mb-1" style="color:var(--ink)">Pregunta: '+esc(query)+'</div>'+
+          (extraHtml||'')+
+          '<div class="serif text-[16px] leading-relaxed p-4 border-l-2" style="border-color:var(--accent); background:#f3f1ec; white-space:pre-wrap">'+rHtml+'</div>'+
+          '<div class="flex items-center gap-3 mt-2 text-[12px]" style="color:var(--muted)">'+
+            '<span>¿Te ha servido?</span>'+
+            '<button id="fb-si" class="px-2 py-0.5 border rounded-sm" style="border-color:var(--line)">Sí</button>'+
+            '<button id="fb-no" class="px-2 py-0.5 border rounded-sm" style="border-color:var(--line)">No</button>'+
+            '<span id="fb-msg"></span>'+
+            '<a href="#" id="fb-ficha" class="ml-auto underline underline-offset-2" style="color:var(--accent)">Descargar ficha (PDF)</a>'+
+          '</div>';
+        ultima={q:query, respuesta:d.respuesta||'', fuentes:d.fuentes||[]};
+        const vota=async util=>{
+          const r=await fetch('/api/manuales/feedback',{method:'POST',headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({q:query, util, manual:mnActual||''})}).then(r=>r.json()).catch(()=>null);
+          document.getElementById('fb-msg').textContent='Gracias.'+(r&&r.total?' ('+r.pct+'% útil de '+r.total+' votos)':'');
+          document.getElementById('fb-si').disabled=true; document.getElementById('fb-no').disabled=true;
+        };
+        document.getElementById('fb-si').onclick=()=>vota(true);
+        document.getElementById('fb-no').onclick=()=>vota(false);
+        document.getElementById('fb-ficha').onclick=async e=>{
+          e.preventDefault();
+          const r=await fetch('/api/manuales/ficha',{method:'POST',headers:{'Content-Type':'application/json'},
+            body:JSON.stringify(ultima)});
+          if(!r.ok){ document.getElementById('fb-msg').textContent='No se pudo crear la ficha.'; return; }
+          const a=document.createElement('a'); a.href=URL.createObjectURL(await r.blob());
+          a.download='ficha_sedipualba.pdf'; a.click(); URL.revokeObjectURL(a.href);
+        };
+        // las fuentes CITADAS en la respuesta ([n]) van destacadas; el resto, plegadas.
+        // DEDUPE visual: varios fragmentos de la MISMA página = una sola tarjeta (se conserva
+        // cualquier fragmento citado para no romper la numeración [n]).
+        const citados=new Set(Array.from((d.respuesta||'').matchAll(/\[(\d+)\]/g), m=>+m[1]));
+        const porPagina={};
+        (d.fuentes||[]).forEach(f=>{
+          const key=f.tipo==='video' ? 'v'+f.start : (f.manual||'')+'|'+f.page;
+          if(!(key in porPagina)) porPagina[key]=f;
+          else if(citados.has(f.n) && !citados.has(porPagina[key].n)) porPagina[key]=f; // el citado gana
+        });
+        const fs=Object.values(porPagina).sort((a,b)=>a.n-b.n);
+        const usadas=fs.filter(f=>citados.has(f.n)), otras=fs.filter(f=>!citados.has(f.n));
+        // el chat de dudas hereda el MANUAL dominante de esta búsqueda (lo coherente)
+        const cnt={};
+        (usadas.length?usadas:fs).forEach(f=>{ if(f.manual && !f.generado) cnt[f.manual]=(cnt[f.manual]||0)+1; });
+        mnActual=Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a])[0]||null;
+        pintaScope();
+        if(usadas.length){
+          srcs.innerHTML=usadas.map(card).join('')+
+            (otras.length? '<details class="sm:col-span-2 mt-2"><summary class="text-[12px] cursor-pointer" style="color:var(--muted)">Otras fuentes consultadas ('+otras.length+') — no citadas en la respuesta</summary>'+
+              '<div class="grid sm:grid-cols-2 gap-4 mt-3">'+otras.map(card).join('')+'</div></details>' : '');
+        } else {
+          srcs.innerHTML=fs.map(card).join('');
+        }
+      }
+      async function go(){                    // búsqueda principal: UN turno, la pregunta QUEDA fija
+        const query=q.value.trim(); if(!query) return;
+        st.textContent='Buscando en manuales y vídeo… (la 1ª consulta carga el modelo, ~30-60 s)';
+        btn.disabled=true;
+        try{
+          const d=await (await fetch('/api/manuales/ask',{method:'POST',
+            headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({q:query})})).json();
+          btn.disabled=false;
+          if(d.error){ st.textContent=d.error; return; }
+          st.textContent='';
+          pinta(query, d);
+        }catch(e){ btn.disabled=false; st.textContent='Error: '+e; }
+      }
+      btn.onclick=go;
+      q.addEventListener('keydown', e=>{ if(e.key==='Enter') go(); });
+
+      // -- CHATBOT lateral (RAG con hilo): para dudas paso a paso --
+      const chQ=document.getElementById('ch-q'), chBtn=document.getElementById('ch-btn'),
+            chLog=document.getElementById('ch-log'), chClear=document.getElementById('ch-clear'),
+            chScope=document.getElementById('ch-scope');
+      let chHilo=[], mnActual=null;
+      function pintaScope(){
+        if(!chScope) return;
+        chScope.innerHTML = mnActual
+          ? 'contexto: <b>'+esc(mnActual.replace(/\.pdf/i,''))+'</b> · <a href="#" id="ch-scope-x" class="underline">usar todos los manuales</a>'
+          : 'contexto: todos los manuales';
+        const x=document.getElementById('ch-scope-x');
+        if(x) x.onclick=ev=>{ev.preventDefault(); mnActual=null; pintaScope();};
+      }
+      pintaScope();
+      function bub(who, text, fuentes){
+        const mine = who==='yo';
+        let src='';
+        if(fuentes && fuentes.length){
+          src='<div class="text-[11px] mt-1" style="color:var(--muted)">Fuentes: '+fuentes.slice(0,3).map(f=>{
+            if(f.tipo==='video') return '<a class="underline" target="_blank" href="'+f.url+'">vídeo min '+Math.floor(f.start/60)+':'+String(f.start%60).padStart(2,'0')+'</a>';
+            if(f.generado) return esc('manual generado cap. '+f.page);
+            const href = f.tipo==='captura' && f.file
+              ? '/sedipualba-img/'+encodeURIComponent(f.file)
+              : '/api/manuales/pagina?manual='+encodeURIComponent(f.manual)+'&page='+f.page;
+            return '<span class="mn-zoom underline cursor-zoom-in" data-full="'+href+'">'+esc((f.manual||'').replace(/\.pdf/i,'').slice(0,18)+' p.'+f.page)+'</span>';
+          }).join(' · ')+'</div>';
+        }
+        const tHtml=citas(esc(text).replace(/^\s*[\*\-]\s+/gm,'• ')
+                             .replace(/^#{1,4}\s*(.+)$/gm,'<b>$1</b>')
+                             .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
+                             .replace(/\*([^*]+)\*/g,'<i>$1</i>'), fuentes);
+        chLog.insertAdjacentHTML('beforeend',
+          '<div class="text-[13px] leading-relaxed '+(mine?'text-right':'')+'">'+
+          '<div class="inline-block px-3.5 py-2 '+(mine?'text-white rounded-2xl rounded-br-md':'rounded-2xl rounded-bl-md')+'" style="background:'+(mine?'var(--accent)':'#f3f1ec')+'; max-width:85%; white-space:pre-wrap; text-align:left">'+tHtml+'</div>'+src+'</div>');
+        chLog.scrollTop=chLog.scrollHeight;
+      }
+      async function chGo(){
+        const t=chQ.value.trim(); if(!t) return;
+        bub('yo', t); chQ.value=''; chBtn.disabled=true;
+        bub('bot','…');
+        const think=chLog.lastElementChild;
+        try{
+          const d=await (await fetch('/api/manuales/ask',{method:'POST',
+            headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({q:t, history:chHilo.slice(-3), manual:mnActual})})).json();
+          think.remove(); chBtn.disabled=false;
+          if(d.error){ bub('bot','⚠ '+d.error); return; }
+          bub('bot', d.respuesta||'(sin respuesta)', d.fuentes||[]);
+          chHilo.push({q:t, a:(d.respuesta||'')});
+        }catch(e){ think.remove(); chBtn.disabled=false; bub('bot','Error: '+e); }
+      }
+      if(chBtn){ chBtn.onclick=chGo; chQ.addEventListener('keydown', e=>{ if(e.key==='Enter') chGo(); }); }
+      if(chClear) chClear.onclick=ev=>{ev.preventDefault(); chHilo=[]; chLog.innerHTML='';};
+
+      // clip del chat: adjunta una captura de DONDE ESTÁS ATASCADO -> identifica la
+      // pantalla en los manuales y responde el paso siguiente, dentro del hilo
+      const chShot=document.getElementById('ch-shot');
+      if(chShot) chShot.onchange=async()=>{
+        const f=chShot.files[0]; if(!f) return;
+        const t=chQ.value.trim(); chQ.value='';
+        const miniUrl=URL.createObjectURL(f);
+        chLog.insertAdjacentHTML('beforeend',
+          '<div class="text-[13px] text-right"><div class="inline-block p-1.5 rounded-2xl rounded-br-md" style="background:var(--accent); max-width:85%">'+
+          '<img src="'+miniUrl+'" class="rounded-xl block" style="max-height:130px">'+
+          (t?'<div class="px-2 pt-1.5 pb-0.5 text-white text-left">'+esc(t)+'</div>':'')+
+          '</div></div>');
+        chLog.scrollTop=chLog.scrollHeight;
+        bub('bot','Analizando tu captura…');
+        const think=chLog.lastElementChild;
+        const fd=new FormData(); fd.append('file', f); fd.append('q', t);
+        chShot.value='';
+        try{
+          const d=await (await fetch('/api/manuales/pantallazo',{method:'POST', body:fd})).json();
+          think.remove();
+          if(d.error){ bub('bot', d.error); return; }
+          if(d.pantalla){ mnActual=d.pantalla.manual; pintaScope(); }
+          const cab=d.pantalla
+            ? 'Pantalla reconocida: **'+d.pantalla.manual.replace(/\.pdf/i,'')+'** · pág. '+d.pantalla.page+'\n\n'
+            : (d.nota? d.nota+'\n\n' : '');
+          bub('bot', cab+(d.respuesta||''), d.fuentes||[]);
+          chHilo.push({q:(t||'(captura de pantalla)'), a:(d.respuesta||'')});
+        }catch(e){ think.remove(); bub('bot','Error: '+e); }
+      };
+      // burbuja flotante: abrir/cerrar el panel
+      const chFab=document.getElementById('ch-fab'), chPanel=document.getElementById('ch-panel'),
+            chClose=document.getElementById('ch-close');
+      if(chFab) chFab.onclick=()=>{
+        const abierto=!chPanel.classList.contains('hidden');
+        chPanel.classList.toggle('hidden', abierto);
+        chPanel.classList.toggle('flex', !abierto);
+        if(!abierto) chQ.focus();
+      };
+      if(chClose) chClose.onclick=ev=>{ev.preventDefault(); chPanel.classList.add('hidden'); chPanel.classList.remove('flex');};
+
+      // -- LIGHTBOX: ampliar imágenes en la página (sin pestañas nuevas) --
+      const lb=document.getElementById('lightbox'), lbImg=document.getElementById('lightbox-img');
+      document.addEventListener('click', e=>{
+        const z=e.target.closest('.mn-zoom');
+        if(z){ e.preventDefault(); lbImg.src=z.dataset.full||z.src; lb.classList.remove('hidden'); lb.classList.add('flex'); return; }
+        if(e.target===lb||e.target===lbImg){ lb.classList.add('hidden'); lb.classList.remove('flex'); }
+      });
+      document.addEventListener('keydown', e=>{ if(e.key==='Escape'){ lb.classList.add('hidden'); lb.classList.remove('flex'); } });
+
+      // -- añadir un manual en PDF (indexado al momento, sin reiniciar) --
+      const amFile=document.getElementById('am-file'), amSt=document.getElementById('am-status'),
+            amRes=document.getElementById('am-result');
+      let amTimer=null;
+      if(amFile) amFile.onchange=async()=>{
+        const f=amFile.files[0]; if(!f) return;
+        amSt.textContent='Subiendo '+f.name+'…'; amRes.textContent='';
+        const fd=new FormData(); fd.append('manual', f, f.name);
+        let j; try{ j=await (await fetch('/api/manuales/subir',{method:'POST',body:fd})).json(); }
+        catch(e){ amSt.textContent='Error: '+e; return; }
+        amFile.value='';
+        if(j.error){ amSt.textContent=j.error; return; }
+        const AM_STAGES=['en cola','indexando el texto','describiendo capturas (visión)','re-indexando','listo'];
+        clearInterval(amTimer);
+        amTimer=setInterval(async()=>{
+          let s; try{ s=await (await fetch('/api/manuales/generar/status?job='+j.job)).json(); }catch(e){ return; }
+          amSt.textContent=(AM_STAGES[s.step||0]||s.stage||'procesando')+'… ('+j.manual+', '+j.paginas+' págs.)';
+          if(s.error){ clearInterval(amTimer); amSt.textContent='Error: '+s.error; return; }
+          if(s.done){ clearInterval(amTimer);
+            amSt.textContent='';
+            amRes.innerHTML='✓ <b>'+esc(j.manual)+'</b> añadido ('+j.paginas+' págs.'
+              +(s.capturas? ' · '+s.capturas+' capturas descritas':'')
+              +') — <b>ya puedes preguntarle arriba</b>.';
+          }
+        },2500);
+      };
+
+      // -- añadir un vídeo tutorial: se transcribe e indexa por minutos (SIN crear manual) --
+      const gmBtn=document.getElementById('gm-btn'), gmProg=document.getElementById('gm-progress'),
+            gmRes=document.getElementById('gm-result');
+      let gmTimer=null;
+      const GM_STAGES=['descargando audio y vídeo','transcribiendo','indexando el vídeo por minutos','listo'];
+      if(gmBtn) gmBtn.onclick=async()=>{
+        const url=document.getElementById('gm-url').value.trim();
+        if(!url){ gmProg.textContent='Pega el enlace del vídeo.'; return; }
+        gmBtn.disabled=true; gmRes.innerHTML=''; gmProg.textContent='Iniciando…';
+        let j; try{ j=await (await fetch('/api/manuales/indexar-video',{method:'POST',headers:{'Content-Type':'application/json'},
+          body:JSON.stringify({url, titulo:document.getElementById('gm-titulo').value.trim()})})).json(); }
+        catch(e){ gmProg.textContent='Error: '+e; gmBtn.disabled=false; return; }
+        if(j.error){ gmProg.textContent=j.error; gmBtn.disabled=false; return; }
+        clearInterval(gmTimer);
+        gmTimer=setInterval(async()=>{
+          let s; try{ s=await (await fetch('/api/manuales/generar/status?job='+j.job)).json(); }catch(e){ return; }
+          const st=GM_STAGES[(s.step||1)-1]||s.stage||'procesando';
+          gmProg.textContent='['+(s.step||0)+'/4] '+st+'…';
+          if(s.error){ clearInterval(gmTimer); gmBtn.disabled=false; gmProg.textContent='Error: '+s.error; return; }
+          if(s.done){ clearInterval(gmTimer); gmBtn.disabled=false; gmProg.textContent='';
+            gmRes.innerHTML='<div class="p-3 border-l-2 text-[14px]" style="border-color:var(--accent); background:#f3f1ec">'
+              +'Vídeo indexado: ya es una fuente más del asistente, con enlace al minuto exacto.</div>';
+          }
+        },2500);
+      };
+    })();
+
+    // --- CIUDADANO: iframe (mismo origen) con CARGA PEREZOSA y auto-altura ---
+    // Se carga al abrir la pestaña (no antes): si Plotly pinta con la sección display:none,
+    // el radar y las leyendas salen colapsados (anchura 0). Además, al mostrar/redimensionar
+    // se dispara un 'resize' DENTRO del iframe para que Plotly recalcule.
+    function resizeCiudadano(){
+      const f=document.getElementById('ciudadano-frame'); if(!f||!f.src) return;
+      try{
+        f.contentWindow.dispatchEvent(new Event('resize'));   // Plotly re-mide sus gráficas
+        const d=f.contentWindow.document;
+        const h=Math.max(d.documentElement.scrollHeight, d.body.scrollHeight);
+        if(h>200) f.style.height=h+'px';
+      }catch(e){}
+    }
+    function cidResizeLoop(){ resizeCiudadano(); [400,1000,2200,3800].forEach(t=>setTimeout(resizeCiudadano,t)); }
+    function showCiudadano(){
+      const f=document.getElementById('ciudadano-frame'); if(!f) return;
+      if(!f.src){ f.src=f.dataset.src; }        // 1ª vez: carga con la pestaña YA visible
+      else cidResizeLoop();                      // siguientes: re-medir por si cambió la ventana
+    }
+    window.addEventListener('resize', resizeCiudadano);
+
+    // --- ALERTAS PARA VECINOS ---
+    (function(){
+      const esc2=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+      let cargado=false;
+      const sel=new Set();
+
+      async function init(){
+        if(cargado) return; cargado=true;
+        const [t,e,p]=await Promise.all([
+          fetch('/api/alertas/temas').then(r=>r.json()),
+          fetch('/api/entidades').then(r=>r.json()),
+          fetch('/api/plenos').then(r=>r.json())
+        ]);
+        const cont=document.getElementById('al-temas');
+        cont.innerHTML='';
+        const temasUI=[...(t.todos?[t.todos]:[]), ...(t.temas||[])];
+        temasUI.forEach(tema=>{
+          const especial=tema===t.todos;   // boletín: recibir todos los plenos, con índice de temas
+          const b=document.createElement('button');
+          b.textContent=tema; b.className='px-3 py-1 text-[13px] border rounded-full transition-colors';
+          b.style.borderColor='var(--line)'; b.style.color='var(--muted)';
+          if(especial) b.style.borderStyle='dashed';
+          b.onclick=()=>{ sel.has(tema)?sel.delete(tema):sel.add(tema); const on=sel.has(tema);
+            b.style.borderColor=on?'var(--accent)':'var(--line)';
+            b.style.color=on?'var(--accent)':'var(--muted)';
+            b.style.fontWeight=on?'500':'400'; };
+          cont.appendChild(b);
+        });
+        const se=document.getElementById('al-ent');
+        se.innerHTML=(e.entidades||[]).map(x=>`<option value="${x.id}">${esc2(x.nombre)}</option>`).join('');
+        const chiva=(e.entidades||[]).find(x=>/chiva/i.test(x.nombre)); if(chiva) se.value=chiva.id;
+        const sp=document.getElementById('al-pleno');
+        sp.innerHTML=(p.plenos||[]).map(x=>`<option value="${esc2(x.video_id)}">${esc2(x.entidad||'')} — ${esc2(x.title||x.video_id)}</option>`).join('');
+        const pch=(p.plenos||[]).find(x=>/chiva/i.test(x.entidad||'')); if(pch) sp.value=pch.video_id;
+        bandeja();
+      }
+      window.__alertasInit=init;
+
+      const msg=document.getElementById('al-msg');
+      document.getElementById('al-btn').onclick=async()=>{
+        msg.textContent='Enviando…';
+        try{
+          const r=await fetch('/api/alertas/suscribir',{method:'POST',headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({email:document.getElementById('al-email').value,
+                                 entidad:+document.getElementById('al-ent').value,
+                                 temas:[...sel]})});
+          const d=await r.json();
+          msg.textContent=d.error?d.error:'Hecho. Busca el correo de confirmación en la bandeja de abajo y confirma la suscripción.';
+          if(!d.error) bandeja();
+        }catch(e){ msg.textContent='No se pudo suscribir: '+e; }
+      };
+
+      const pm=document.getElementById('al-proc-msg');
+      document.getElementById('al-proc').onclick=async()=>{
+        pm.textContent='Analizando el pleno (temas y citas)…';
+        try{
+          const r=await fetch('/api/alertas/procesar',{method:'POST',headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({video:document.getElementById('al-pleno').value})});
+          const d=await r.json();
+          if(d.error){ pm.textContent=d.error; return; }
+          pm.textContent=d.avisos?`${d.avisos} aviso(s) generado(s) · temas detectados: ${(d.detectados||[]).join(', ')||'ninguno'}`
+                                  :`Sin avisos: ${d.nota||('temas detectados: '+((d.detectados||[]).join(', ')||'ninguno')+', pero nadie suscrito a ellos')}`;
+          bandeja();
+        }catch(e){ pm.textContent='Falló el análisis: '+e; }
+      };
+
+      async function bandeja(){
+        const d=await fetch('/api/alertas/bandeja').then(r=>r.json()).catch(()=>({correos:[]}));
+        const cont=document.getElementById('al-bandeja');
+        cont.innerHTML='';
+        if(!(d.correos||[]).length){ cont.innerHTML='<p class="text-sm" style="color:var(--muted)">La bandeja está vacía.</p>'; return; }
+        d.correos.forEach(c=>{
+          const el=document.createElement('div');
+          el.className='border rounded-sm'; el.style.borderColor='var(--line)';
+          el.innerHTML=`<button class="w-full text-left px-4 py-3 flex items-baseline gap-3">
+              <span class="text-[10px] uppercase px-2 py-0.5 border rounded-full shrink-0" style="border-color:var(--accent);color:var(--accent)">${c.tipo==='confirmacion'?'confirmación':(c.tipo==='bienvenida'?'bienvenida':'aviso')}</span>
+              <span class="text-sm truncate">${esc2(c.asunto)}</span>
+              <span class="text-[12px] ml-auto shrink-0" style="color:var(--muted)">${esc2(c.email)} · ${esc2((c.enviada||'').slice(0,16).replace('T',' '))}</span>
+            </button>
+            <div class="correo-body hidden border-t" style="border-color:var(--line)"></div>`;
+          el.querySelector('button').onclick=()=>{
+            const b=el.querySelector('.correo-body');
+            if(b.classList.contains('hidden')){
+              if(!b.firstChild){ const f=document.createElement('iframe');
+                f.setAttribute('sandbox','allow-popups allow-popups-to-escape-sandbox');
+                f.className='w-full'; f.style.height='430px'; f.style.background='#fff';
+                f.srcdoc='<base target="_blank">'+c.html; b.appendChild(f); }
+              b.classList.remove('hidden');
+            } else b.classList.add('hidden');
+          };
+          cont.appendChild(el);
+        });
+      }
+    })();
+
+    // --- PESTAÑAS ---
+    function showTab(name){
+      ['generar','buscar','manuales','ciudadano','registro','alertas'].forEach(n=>{ const v=document.getElementById('view-'+n); if(v) v.style.display=n===name?'':'none'; });
+      document.querySelectorAll('.tabbtn').forEach(b=>{ const on=b.dataset.tab===name;
+        b.style.borderColor=on?'var(--accent)':'transparent'; b.style.color=on?'var(--accent)':'var(--muted)'; b.style.fontWeight=on?'500':'400'; });
+      if(name==='registro' && window.__regLoadPeople) window.__regLoadPeople();
+      if(name==='ciudadano') showCiudadano();
+      if(name==='alertas' && window.__alertasInit) window.__alertasInit();
+    }
+    document.querySelectorAll('.tabbtn').forEach(b=>b.onclick=()=>showTab(b.dataset.tab));
+    showTab('generar');
+
+    async function goToPleno(vid){
+      showTab('generar');
+      await loadCatalog();
+      const sel=document.getElementById('pleno'); sel.value=vid;
+      if(sel.value===vid) sel.dispatchEvent(new Event('change'));
+      const ed=document.getElementById('gen-editor'); if(ed) ed.scrollIntoView({behavior:'smooth'});
+    }
+
+    // --- GENERAR ACTA DESDE YOUTUBE ---
+    const GEN_STEPS=['Descargando el vídeo','Transcribiendo (voz a texto)','Separando las voces','Asignando nombres','Generando el acta'];
+    function renderGenSteps(s){
+      const cur=s.step||0;
+      document.getElementById('gen-steps').innerHTML=GEN_STEPS.map((t,i)=>{ const n=i+1, done=cur>n, active=cur===n;
+        let label=t;
+        if(active&&n===1&&s.pct) label=t+' — '+Math.round(s.pct)+'%';
+        if(active&&n===2&&s.eta_min) label=t+' — aprox. '+s.eta_min+' min';
+        const color=done?'var(--accent)':(active?'var(--ink)':'var(--muted)'); const mark=done?'●':(active?'◐':'○');
+        return '<div class="text-sm flex items-center gap-2" style="color:'+color+'"><span>'+mark+'</span>'+label+(active?' …':'')+'</div>';
+      }).join('');
+    }
+    let genTimer=null, genClock=null;
+    function fmtDur(s){ s=Math.max(0,Math.round(s)); const m=Math.floor(s/60), ss=s%60;
+      return m? (m+' min '+(ss<10?'0':'')+ss+' s') : (ss+' s'); }
+    const ordenPdf=document.getElementById('gen-orden-pdf');
+    if(ordenPdf) ordenPdf.onchange=async()=>{
+      const f=ordenPdf.files[0]; if(!f) return;
+      const m=document.getElementById('gen-orden-pdf-msg');
+      m.textContent='Leyendo '+f.name+'…';
+      try{
+        const r=await (await fetch('/api/extract-orden',{method:'POST',headers:{'Content-Type':'application/pdf'},body:f})).json();
+        if(r.error){ m.textContent=r.error; return; }
+        document.getElementById('gen-orden').value=r.orden||'';
+        m.textContent='Orden del día extraído de '+f.name+' — revísalo y corrige si hace falta.';
+      }catch(e){ m.textContent='Error leyendo el PDF: '+e; }
+    };
+    async function doGenerate(url,entidad,fecha,orden,msg){
+      renderGenSteps({step:0}); msg.style.color='var(--accent)'; msg.textContent='Iniciando…';
+      let j; try{ j=await (await fetch('/api/generar',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url,entidad,fecha,orden})})).json(); }
+      catch(e){ msg.textContent='Error: '+e; return; }
+      if(j.error){ msg.textContent=j.error; return; }
+      clearInterval(genTimer); clearInterval(genClock);
+      const t0=Date.now(); let totalSec=0;
+      genClock=setInterval(()=>{
+        const el=document.getElementById('gen-timer'); if(!el) return;
+        const elapsed=(Date.now()-t0)/1000;
+        let txt='Transcurrido '+fmtDur(elapsed);
+        if(totalSec>0){ const rem=totalSec-elapsed; txt+=(rem>5?' · faltan aprox. '+fmtDur(rem):' · terminando…'); }
+        el.textContent=txt;
+      },1000);
+      genTimer=setInterval(async()=>{
+        let s; try{ s=await (await fetch('/api/generar/status?job='+j.job)).json(); }catch(e){ return; }
+        renderGenSteps(s);
+        if(s.eta_min){ totalSec=Math.round(s.eta_min*60*2.6)+60; }   // estimación total (transcripción ≈ 40%)
+        if(s.error){ clearInterval(genTimer); clearInterval(genClock); msg.style.color='#b00020'; msg.textContent=s.error; return; }
+        if(s.done){ clearInterval(genTimer); clearInterval(genClock);
+          document.getElementById('gen-timer').textContent='Terminado en '+fmtDur((Date.now()-t0)/1000);
+          msg.innerHTML='Acta generada.  '+(s.video_id?'<a href="#" id="gen-go" class="underline underline-offset-2" style="color:var(--accent)">Revisar y etiquetar las voces →</a>':'');
+          const go=document.getElementById('gen-go'); if(go&&s.video_id) go.onclick=ev=>{ev.preventDefault(); goToPleno(s.video_id);};
+        } else { msg.textContent=(s.stage||'Procesando')+'…'; }
+      },2000);
+    }
+    const genBtn=document.getElementById('gen-btn');
+    if(genBtn) genBtn.onclick=async()=>{
+      const url=document.getElementById('gen-url').value.trim();
+      const entidad=document.getElementById('gen-ent').value.trim();
+      const fecha=document.getElementById('gen-fecha').value.trim();
+      const orden=document.getElementById('gen-orden').value;
+      const msg=document.getElementById('gen-msg');
+      document.getElementById('gen-progress').style.display=''; msg.style.color='var(--accent)';
+      if(!url||!entidad){ renderGenSteps({step:0}); msg.textContent='Indica el enlace de YouTube y el ayuntamiento.'; return; }
+      renderGenSteps({step:0}); msg.textContent='Comprobando…';
+      // ¿este pleno ya está transcrito? avisa para no duplicar el trabajo
+      let ck=null; try{ ck=await (await fetch('/api/check?url='+encodeURIComponent(url))).json(); }catch(e){}
+      if(ck && ck.exists){
+        msg.innerHTML='Este pleno <b>ya está generado</b> (no hace falta repetirlo).  '
+          +'<a class="underline underline-offset-2" target="_blank" href="/api/acta?video='+ck.video_id+'&fmt=pdf">Acta PDF</a> · '
+          +'<a class="underline underline-offset-2" target="_blank" href="/sync?video='+ck.video_id+'">visor</a>  ·  '
+          +'<a href="#" id="gen-force" class="underline underline-offset-2">generarlo otra vez (sobrescribe)</a>';
+        const fb=document.getElementById('gen-force'); if(fb) fb.onclick=ev=>{ev.preventDefault(); doGenerate(url,entidad,fecha,orden,msg);};
+        return;
+      }
+      doGenerate(url,entidad,fecha,orden,msg);
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,930 @@
+{
+ "id": "DSCD-15-PL-31",
+ "legislatura": 15,
+ "fecha": "14 de marzo de 2024",
+ "tema_sesion": "Dictámenes de comisiones sobre iniciativas legislativas — Proyecto de ley por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales. «BOCG. Congreso de los Diputados», serie A, número 5-1, de 26 de enero de 20",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 181,
+   "en_contra": 16,
+   "abstenciones": 142
+  },
+  {
+   "emitidos": null,
+   "a_favor": 172,
+   "en_contra": 33,
+   "abstenciones": 134
+  },
+  {
+   "emitidos": null,
+   "a_favor": 171,
+   "en_contra": 160,
+   "abstenciones": 15
+  },
+  {
+   "emitidos": null,
+   "a_favor": 175,
+   "en_contra": 32,
+   "abstenciones": 139
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 1,
+   "en_contra": 290,
+   "abstenciones": 55
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 6,
+   "en_contra": 182,
+   "abstenciones": 159
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 1,
+   "en_contra": 319,
+   "abstenciones": 28
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 13,
+   "en_contra": 321,
+   "abstenciones": 14
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 12,
+   "en_contra": 333,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 171,
+   "en_contra": 170,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 21,
+   "en_contra": 320,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 22,
+   "en_contra": 316,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 30,
+   "en_contra": 316,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 12,
+   "en_contra": 321,
+   "abstenciones": 14
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 19,
+   "en_contra": 322,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 158,
+   "en_contra": 183,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 150,
+   "en_contra": 197,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 175,
+   "en_contra": 170,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 18,
+   "en_contra": 320,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 26,
+   "en_contra": 321,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 167,
+   "en_contra": 180,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 25,
+   "en_contra": 317,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 33,
+   "en_contra": 177,
+   "abstenciones": 138
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 171,
+   "en_contra": 175,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 33,
+   "en_contra": 312,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 172,
+   "en_contra": 175,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 137,
+   "en_contra": 208,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 151,
+   "en_contra": 196,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 150,
+   "en_contra": 193,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 138,
+   "en_contra": 207,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 141,
+   "en_contra": 170,
+   "abstenciones": 35
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 138,
+   "en_contra": 209,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 314,
+   "en_contra": 1,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 313,
+   "en_contra": 1,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 339,
+   "a_favor": 181,
+   "en_contra": 16,
+   "abstenciones": 142
+  },
+  {
+   "emitidos": 339,
+   "a_favor": 172,
+   "en_contra": 33,
+   "abstenciones": 134
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 170,
+   "en_contra": 173,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 42,
+   "en_contra": 299,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 162,
+   "en_contra": 143,
+   "abstenciones": 38
+  },
+  {
+   "emitidos": 336,
+   "a_favor": 146,
+   "en_contra": 154,
+   "abstenciones": 36
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 169,
+   "en_contra": 142,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 44,
+   "en_contra": 13,
+   "abstenciones": 286
+  },
+  {
+   "emitidos": 341,
+   "a_favor": 44,
+   "en_contra": 152,
+   "abstenciones": 145
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 160,
+   "en_contra": 152,
+   "abstenciones": 32
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 44,
+   "en_contra": 292,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 57,
+   "en_contra": 170,
+   "abstenciones": 118
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 46,
+   "en_contra": 253,
+   "abstenciones": 45
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 43,
+   "en_contra": 287,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 36,
+   "en_contra": 293,
+   "abstenciones": 14
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 32,
+   "en_contra": 275,
+   "abstenciones": 38
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 43,
+   "en_contra": 290,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 162,
+   "en_contra": 176,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 171,
+   "en_contra": 160,
+   "abstenciones": 15
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 175,
+   "en_contra": 32,
+   "abstenciones": 139
+  }
+ ],
+ "n_intervenciones": 85,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Buenos días a todos y a todas. Se reanuda la sesión.\nContinuamos con el punto del orden del día correspondiente al dictamen relativo al proyecto de ley por \nla que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de \nlas enseñanzas artísticas profesionales. Les recuerdo que, finalizado este debate, se votarán las \nenmiendas correspondientes a esta iniciativa.\nPara defender las enmiendas formuladas a esta iniciativa legislativa, tiene la palabra en primer lugar, \npor el Grupo Mixto, el señor Rego Candamil por un tiempo de siete minutos.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Obrigado, señora presidenta. Culmina hoxe a tramitación lexislativa no \nCongreso da Lei de ensinanzas artísticas coa votación das emendas que as distintas forzas políticas e \ngrupos parlamentares manteñen vivas. Das emendas presentadas polo BNG, algunhas foron aprobadas \nxa directamente na ponencia e incorporadas ao texto da lei; outras, transaccionadas, mais mantemos \npara a votación algunhas outras. As emendas responden a distintas cuestións que poden resumirse en \ntres grandes eixos.\nPor un lado, garantir o respecto das competencias autonómicas en materia de ensino, cuestión que \nfoi, en certa medida, xa incorporada, aínda que, se cadra, as propostas do BNG tentaron avanzar un \npouco máis para que a lei fose máis respectuosa cos ámbitos competenciais. Con efecto, nas materias \nque son competencia do Ministerio, este terá que «ouvir» as comunidades autónomas, mais non \nnecesariamente respectar a súa opinión. Isto non é nin sequera iso que vostedes chaman cogobernanza. \nConsideramos que, en materia de educación, así como no resto das materias, debe haber un entendemento \ne adoptar as medidas sempre de acordo coa comunidade en que deban implantarse, o que permitirá unha \nmellor adecuación á realidade diferenciada de cada comunidade ou de cada país.\nO segundo dos eixos é o referido á pluriculturalidade e plurilingüismo do Estado. Existen distintas \nlinguas oficiais e existen distintas culturas diferenciadas que deben ter dereito a se expresaren, estudaren, \ncultivaren e a seren fomentadas; culturas propias que poden dar lugar a unha industria cultural que servirá \npara a mellora da calidade de vida das persoas e o impulso socioeconómico de cada país. Que o español \ne a cultura española non é a única realidade debe ser reflectido no deseño das ensinanzas artísticas, e \nesta norma, aínda que básica e de mínimos, debería deixar claro ese respecto polas diversas culturas, por \nesa diversidade cultural e, no noso caso, pola lingua e a cultura galegas. Tomo emprestadas, para \nexemplificar isto, as palabras de Castelao no discurso de presentación do Sempre en Galiza en Bos Aires \nen 1944, onde describiu a súa arte como «un elemento, un recurso, un medio de expresión, e co lapis ou \na pluma, só quixen ser un intérprete fiel do meu pobo, das súas dores e das súas esperanzas. Debuxei \nsempre en galego, escribín sempre en galego; e se tirades o que hai de galego e de humano na miña \nobra, non había quedar nada dela».\nO terceiro é que a implantación deste novo modelo cause os menos problemas posíbeis ao estudantado \npara o seu acceso e ao profesorado que xa neste momento desenvolve tarefas docentes en centros de \nensinanzas artísticas. Para facilitar o acceso do estudantado ás ensinanzas artísticas, é fundamental que \nse encontren en centros distribuídos territorialmente e non só nas grandes cidades. Neste modelo apóstase \npola especialización do centro, diferenciando aqueles de ensinanzas superiores e de ensinanzas \nprofesionais. Esta solución pode ser adecuada, insisto, en grandes cidades; porén, obrigar a especializar \nos únicos centros en determinadas localidades, mesmo en determinadas cidades, e que o seu profesorado \nnon poida compaxinar a ensinanza nun e noutro vai implicar un problema polo menos no noso país, na \nGaliza. Por iso, a nosa emenda 71, para que, aínda que se marque como horizonte a especialización, se \nmanteña a simultaneidade da oferta educativa, ou se poida manter a simultaneidade da oferta educativa, \nasí como a emenda 68, para permitir combinar a docencia daqueles que imparten en centros nos que \nexiste simultaneidade.\nAí está xa un exemplo de como o Estado, no canto de respectar a capacidade das comunidades \nautónomas para organizaren o seu sistema educativo, impón un modelo único para todas elas sen tomar \nen consideración as peculiaridades que puideren existir. Así mesmo, consideramos necesario facilitar a \nintegración do profesorado actual nos novos corpos; de aí a importancia, cando menos no caso do \nprofesorado da Galiza, da nosa emenda 72, que permitiría solicitar a integración no Corpo de Profesores \ne Profesoras de Ensinanzas Artísticas Superiores sempre que se acreditaren unha experiencia docente \nde dous en lugar dos cinco anos que establece agora a norma.\nA segunda parte deste ítem, deste apartado, quedou xa mellorada, pois, fronte á proposta inicial, que \nindicaba que tiña que ser nos anos inmediatamente anteriores, agora é «con anterioridade», sen \nespecificar, o que, efectivamente, permitirá unha maior flexibilidade.\nAdemais, reclamamos que o profesorado que pertence ao Corpo de Catedráticos de Música e Artes \nEscénicas e de Catedráticos e Catedráticas de Artes Plásticas e Deseño, que esta lei declara a extinguir, \npoida solicitar a súa integración no Corpo de Catedráticos e Catedráticas de Ensinanzas Artísticas Superiores \nque a lei crea. Propostas, esta e o resto das que teñen a ver co profesorado, que son produto, entre outras, \ndas achegas, tamén, do profesorado integrado no sindicato maioritario na Galiza, tamén no ámbito do \nensino: a Confederación Intersindical Galega. Por tanto, permítannos que non partillemos o argumento \nreiterado — polo menos, que nos reiteraron— de que o contido desta lei está falado e consensuado co \ncve: DSCD-15-PL-31\n \nsector, pois a grande maioría do profesorado galego de ensinanzas artísticas non o ve así e optaría por \nmaiores avances, por unha situación que entendemos que melloraría a aplicación desta lei.\nPor último, queremos defender a nosa proposta para avanzar na gratuidade do ensino público. Unha \nemenda que tamén presentamos xa no seu momento na tramitación da LOSU, a Lei de ordenación do \nsistema universitario. Preocúpanos moito a posibilidade que deixan estas dúas leis de incluír o alumnado \nde centros privados no acceso a bolsas e axudas ao estudo, de axudas públicas ao estudo. É preciso \nreforzar o sistema docente público e gratuíto, garantir unha oferta adecuada e repartida territorialmente \npara facilitar o acceso, acompañado dun sistema de bolsas. Non podemos aceptar que se permita \nlegalmente abrir a posibilidade de outorgar axudas ao alumnado que voluntariamente prefira ir ao ensino \nprivado. Do noso punto de vista, os recursos públicos deben ser para reforzar o ensino público.\nEn definitiva, podemos coincidir [en] que o texto actual é mellor que o presentado inicialmente grazas \nao traballo e esforzo das diferentes forzas que participaron no debate. Porén, temos que sinalar que o \nresultado final non nos satisfai plenamente e hai puntos que nos preocupan especialmente polos problemas \nfuturos que poidan reportar. Parece evidente que ao Partido Socialista lle faltou flexibilidade e capacidade \nde negociación para conseguir que esta lei saíse mellorada e tivese máis amplos apoios. Moito obrigado.\nGracias, señora presidenta.\nCulmina hoy la tramitación legislativa en el Congreso de la ley de enseñanzas artísticas con la votación \nde las enmiendas que las distintas fuerzas políticas y grupos parlamentarios mantienen vivas. De las \nenmiendas presentadas por el BNG, algunas han sido aprobadas directamente en la ponencia e \nincorporadas al texto de la ley y otras han sido transaccionadas y las mantenemos para su votación.\nEstas enmiendas responden a distintas cuestiones, que se pueden resumir en tres grandes ejes. Por \nun lado, garantizar el respeto a las competencias autonómicas en enseñanza, cuestión que se ha añadido \nen cierta medida, aunque tal vez las propuestas del BNG trataron de avanzar algo más para que la ley \nfuese más respetuosa con los ámbitos competenciales. De hecho, en las materias que son competencia \ndel ministerio, este tendrá que escuchar a las comunidades autónomas, pero no necesariamente respetar \nsu opinión. Esto no es ni siquiera eso que ustedes llaman cogobernanza. Consideramos que en materia \nde educación, así como en el resto de las materias debe haber un mantenimiento y adoptarse las medidas \nde acuerdo con la comunidad en la medida en que deban implantarse, lo que permitiría una mejor \nadecuación a la realidad de cada nación, de cada país.\nEl segundo eje se refiere a la pluriculturalidad y plurilingüismo del Estado. Existen distintas lenguas \noficiales y distintas culturas diferenciadas, que deben tener derecho a expresarse, estudiarse, cultivarse y \nser fomentadas. Son culturas propias, que pueden dar lugar a una industria cultural que servirá para \nmejorar la calidad de vida de las personas y el impulso socioeconómico de cada país. Que el español y su \ncultura no es la única realidad debe reflejarse en el diseño las enseñanzas artísticas, y esta norma, \naunque básica, de mínimos, debería dejar claro el respeto por esas diversidades, por ejemplo, en nuestro \ncaso, por la lengua y la cultura gallegas. Tomo prestadas las palabras de Castelao en su discurso de \npresentación de Sempre en Galiza en Buenos Aires en 1944, con las que describió su arte como un \nelemento, un recurso, un medio de expresión: «Con el lápiz o la pluma solo quise ser un intérprete fiel de \nmi pueblo, de sus dolores y de sus esperanzas. Dibujé siempre en gallego, escribí siempre en gallego y, \nsi retiráis lo que hay de gallego y de humano en mi obra, no quedará nada en ella.»\nY lo tercero es que la implantación de este nuevo modelo cause los menores problemas posibles al \nestudiantado respecto a su acceso, así como al profesorado para desarrollar sus tareas docentes en los \ncentros de enseñanzas. Pero para facilitar el acceso al estudiantado es necesario que se encuentren \ncentros distribuidos territorialmente, y no solo en las grandes ciudades. En este modelo se apuesta por la \nespecialización de los centros, diferenciando las enseñanzas superiores y las profesionales. Esta solución \npuede ser adecuada en grandes ciudades, pero obligar a algunas, en concreto, a especializar los centros, \ncuando su profesorado no puede compaginar la enseñanza en uno y otro, supondrá un problema, o, al \nmenos, será así en Galicia. Por eso presentamos nuestra enmienda 71, porque, aunque se marque como \nhorizonte la especialización, queremos que se mantenga la simultaneidad de la oferta educativa, así como \nla enmienda 68, que permitirá combinar la docencia de aquellos que imparten clases en los centros donde \nexiste simultaneidad. Es más, este es un ejemplo de que el Estado, en vez de respetar la capacidad de \nlas comunidades para organizar su sistema educativo, impone un modelo único para todas, sin tener en \ncuenta las peculiaridades que pudiesen existir.\ncve: DSCD-15-PL-31\n \nAdemás, consideramos necesario facilitar la integración del profesorado actual en los nuevos cuerpos. \nDe ahí la importancia, al menos en el caso de Galicia, de nuestra enmienda 72, que permitiría solicitar la \nintegración en el cuerpo de profesores y profesoras de enseñanzas artísticas superiores siempre que se \ndemuestre una experiencia docente de dos años, en lugar de los cinco que establece la norma. Y la \nsegunda parte de este apartado ha quedado mejorada porque, ante la propuesta inicial, que indicaba que \ndebería ser en los años inmediatamente anteriores, ahora indica con anterioridad, sin especificar, lo que, \nefectivamente, permitirá una mayor flexibilidad lectiva. Además, reclamamos que el profesorado que \npertenezca a los cuerpos de catedráticos de Música y Artes Plásticas y Escénicas que la ley declara a \nextinguir pueda solicitar su integración en las enseñanzas que crea esta ley.\nEstas propuestas, como el resto de las que se incluyen, son el resultado de las aportaciones del \nprofesorado mayoritario integrado en Galicia, de la Confederación Intersindical Galega. Por eso, permítannos \nque no compartamos el argumento reiterado de que el contenido de esta ley está hablado y consensuado \ncon el sector, pues la gran mayoría del profesorado gallego de Enseñanzas Artísticas no lo ve así y optaría \npor mayores avances, por una situación que entendemos que mejoraría la aplicación de esta ley.\nPor último, queremos defender nuestra propuesta para avanzar en la gratuidad de la enseñanza \npública, una enmienda ya presentada en la tramitación de la LOSU, la Ley de Organización del Sistema \nUniversitario. Nos preocupa mucho la posibilidad que dejan estas leyes de incluir al alumnado de centros \nprivados respecto al acceso a becas y ayudas públicas al estudio. Debemos reforzar el sistema docente \npúblico y gratuito, garantizar una oferta adecuada y repartida territorialmente para facilitar el acceso, junto \na un sistema de bolsas de becas. No podemos aceptar que se permita legalmente abrir la posibilidad de \notorgar ayudas a alumnos que voluntariamente prefieran ir a la enseñanza privada. Desde nuestro punto \nde vista, los recursos públicos deben reforzar la enseñanza pública.\nEn definitiva, podemos coincidir en que el texto actual es mejor que el presentado inicialmente gracias \nal esfuerzo de las distintas fuerzas que participaron en el debate. No obstante, tenemos que señalar que \nel resultado final no nos satisface plenamente y hay puntos que nos preocupan especialmente por los \nproblemas futuros que puedan generar. Parece evidente que al Partido Socialista le ha faltado flexibilidad \ny capacidad de negociación para conseguir que esta ley saliese mejorada y tuviese apoyos más amplios.\nMuchas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Rego.\nPor el Grupo Parlamentario Euskal Herria Bildu, tiene ahora la palabra la señora Fullaondo la Cruz por \nun tiempo de siete minutos."
+  },
+  {
+   "speaker": "FULLAONDO LA CRUZ",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "",
+   "text": "Mahaiburu andrea, eskerrik asko. Jaun-andreak.\nZalantzarik gabe, irakaskuntza artistikoaren legea beharrezkoa zen duela denbora asko. Horrela \neskatzen zuten sektoreko eragileek eta baita zentzunak ere. Beraz, legea onartua bada, aurrera urrats \ngarrantzitsua izango da. Aurkeztu zen lege proiektua aspektu askotan hobetu izan dela uste dugu, batetik \ntalde parlamentarioen lanarengatik eta…\nGracias, señora presidenta.\nSeñorías, sin duda, la ley de enseñanzas artísticas era necesaria desde hace mucho tiempo, y así lo \nreclamaban los agentes del sector y también el sentido común. Por tanto, si la ley es aprobada, supondrá \nun importante paso hacia adelante. Consideramos que el proyecto de ley que se presentó ha sido mejorado \nen muchos aspectos, por un lado, gracias al trabajo de los grupos parlamentarios…\n… y por otro lado, y sobre todo, gracias a las aportaciones que nos han llegado desde quienes más \nconocen el tema, desde las asociaciones del sector. Vaya nuestro más sincero agradecimiento desde aquí \na todas ellas, porque sin su trabajo estas mejoras no habrían sido posibles.\n¿El resultado es una ley perfecta? No, ninguna lo es, y esta también tiene aún muchos aspectos mejorables. \nEstamos seguras de que no contentará a todo el mundo, y, probablemente, no contentará a nadie al cien por \ncien, y tampoco a nosotras. De hecho, muchas de las enmiendas que desde Euskal Herria Bildu hemos \npresentado, obviamente porque considerábamos que mejoraban el proyecto, han sido rechazadas.\nEta atzera bota zaizkigun emendakinen artetik batzuk berreskuratzea erabaki dugu. Ikaslegoarengan, \nirakaslegoarengan edo goi mailako hezkuntzaren espazioan izan ditzaketen eraginengatik.\nY hemos decidido recuperar algunas de las enmiendas que se nos han rechazado por el potencial \nimpacto en el alumnado, en el profesorado o en la educación superior.\ncve: DSCD-15-PL-31\n \nSon nueve las enmiendas que hemos rescatado. Intentaré enumerar y describir muy brevemente \nalgunas de ellas. Hablamos de la enmienda 151, que se refiere al cumplimiento de leyes y normas de \ncarácter básico sobre los derechos de las personas discapacitadas; también del paquete de las enmiendas \n124, 34, 36, 39 y 66, referidas todas ellas a la creación de un registro estatal de enseñanzas artísticas \nsuperiores, al que no encontramos justificación, dado que ya existe el Registro de Universidades, Centros \ny Títulos, que es el que sirve de referencia para el espacio de la educación superior, y de la enmienda 167, \nque habla de promover la especialización de los centros que imparten simultáneamente enseñanzas \nartísticas superiores y profesionales. Sin haberse tenido en cuenta que la impartición simultánea de estos \nestudios ha dado excelentes resultados durante los últimos veinte años, no hay ninguna razón objetiva \nque nos diga que esto no pueda seguir siendo así. Por último, nos referimos a la enmienda 178, porque \nsería una contradicción irresoluble exigir, de entrada, grado universitario o titulación equivalente para \nespecialidades, por ejemplo, de maestros y maestras de taller, cuando hoy en día no existe oferta de \nestudios de grado que formen en ebanistería, forja u otras especialidades.\nBukatzeko, zentroen autonomiari bultzada eta babes are zabalagoa emateko aukera bat pasatzen utzi \ndugula uste dugu. Eta harritzen gaitu, esaterako, doktoretza eta titulu propioei buruzko errezeloak.\nMila esker.\nPor último, creemos que se ha dejado pasar una oportunidad para dar un impulso y apoyo aún más \namplio a la autonomía de los centros, y nos sorprenden, entre otras, las reticencias referentes a doctorados \ny títulos propios.\nDe cualquier modo, como decíamos al principio, el paso que representa esta ley es muy importante y \nconsideramos que sienta unas bases lo suficientemente sólidas como para apoyarla. Además, estamos \nseguras de que todavía hay muchas opciones de mejora para su desarrollo.\nBesterik ez. Mila esker."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora Fullaondo.\nPor el Grupo Parlamentario Junts per Catalunya, tiene la palabra el señor Pujol Bonell, también por un \ntiempo de siete minutos."
+  },
+  {
+   "speaker": "PUJOL BONELL",
+   "party": "Junts",
+   "role": "diputado",
+   "topic": "",
+   "text": "Bé, presidenta Armengol, senyories, avui és un bon dia, un molt bon dia, \nja ho saben, hem salvat les presses, les pressions, aprovarem la llei d’amnistia, haurà costat, però ho \nfarem, i s’ho valdrà, sòlida, ben vestida. I en aquest primer punt també aprovarem la llei d’ensenyances \nartístiques, que és una norma molt esperada, de fet, és fàcil pensar que el de la creativitat és un món \nsense regles. De fet, es fa difícil imaginar Tàpies, Belbel, Flotats atrapats en una teranyina de normes per \naprendre. En canvi, una cosa és el talent i la creativitat i una altra la formació necessària. Aquest voler \naprendre necessita un entorn segur, reglat, que ordeni la manera com es rep aquest coneixement. Es \ntracta de fixar qui és l’ensenyant i definir on i com s’ensenya. Se n’ha de garantir la qualitat i és el que \nfarem. Globalment ho aconseguirem, ho farem, està bé i, per tant, ens en podem felicitar tots plegats.\nAra bé, cada vegada que parlem d’un nou marc normatiu ens tornem a col·locar tots plegats davant \ndel mirall de les certeses. Primera certesa, com n’és de complex dibuixar entre els grups d’aquest \nParlament un perímetre d’entesa mínim. Per què? Doncs perquè hi ha mirades profundament de dretes, \nhi ha mirades d’esquerres, d’esquerres light, també n’hi ha de més liberals, però tenim clar aquest puzle \nde moltíssimes sensibilitats. Hi ha una aresta més complicada de fer quadrar, és l’aresta, són les peces \ndel puzle que expliquen el perquè de les moltes discussions en aquest Congrés, de les discussions \nimportants, que no són les de pati d’escola entre els uns i els altres, parlo de les mirades nacionals, els de \nl’estat nació i els altres, els de la nació que no som Estat. No només defensem idees oposades sobre el \nque és l’Estat espanyol o el que hauria pogut ser, no només demanem que respectin les competències de \ncadascú i que l’Estat no faci permanentment trampes, no, el quid de la qüestió és un altre, en el fons \n— i aquí vaig—, en el fons hi ha un debat cultural profund, un xoc cultural intricat, perquè el que està en joc \nés com mirem el món. De fet, discutint aquesta llei d’ensenyaments artístics, el debat també ha hagut de \ntrampejar si l’Espanya política és capaç o no de respectar Catalunya i la resta de nacions de l’Estat. Els \ngobiernos d’Espanya, ai las, sempre tenen la temptació de passar la ratlla. I, és clar, algú els ha de dir... \nels de Junts els hem de dir: ei, quietons, calma, calma, stop, pareu calma. I aquesta necessitat de saber \nrespectar és molt àmplia. Va d’intangibles, ja ho he dit alguna vegada, i va de qüestions materials.\ncve: DSCD-15-PL-31\n \nEn el quilòmetre zero dels intangibles hi ha, per exemple — i avui és un bon dia de dir-ho—, la necessitat \nque Catalunya decideixi quin és el camí de la seva plenitud, cosa que acabarà passant, senyories, cosa \nque acabarà passant. I a l’altre extrem, el de les coses concretes, hi ha una llei com la d’avui, que per \nmolts només va de posar ordre i prou, però no, no, no, no, també s’hi fa notar el conflicte de nacions. De \nfet, els que sostenen que Espanya és una sola nació uniforme haurien d’analitzar què proposem des de \nCatalunya en cada esmena d’aquesta llei, haurien de fer atenció a allò que diem els grups catalans, els \nbascos, els gallecs, que no som terroristes, sinó representants dels electors, i aportem matisos absolutament \ndiferents al que proposen els dos grans partits amb visió d’Estat. I ho haurien d’analitzar per entendre que, \nal marge del debat ideològic, recurrent, habitual en qualsevol societat, sa, aquí també hi ha un xoc de \nmirades nacionals. És un xoc cultural i per això és tan, tan difícil de resoldre.\nPer ser gràfics i no em perdo, no m’estic perdent, no. No m’estic perdent. Per ser pedagògics, mentre \na Madrid s’aixecava el Teatro Real amb els diners de l’Estat, a Catalunya, a Barcelona, la societat civil \nconstruïa el Liceu o el Palau amb els seus propis mecenes i impulsors. Aquest detall, que sembla menor, \naquest detall, ens porta a l’epicentre de la discussió d’avui, a la col·laboració també entre la cosa pública \ni la iniciativa privada, i la necessitat de fer-ho compatible. No és, hi insisteixo, no és una anècdota, també \nen l’ensenyament artístic no és una anècdota.\nA Catalunya sempre ens hem mogut a partir de la força de la societat civil, perquè mai no hem estat \nEstat, i estaria bé que fessin silenci els que són Estat. És per això que sabem que l’excés de normes \nacaba encotillant o pot acabar encotillant qualsevol tipus d’iniciativa, i per això, quan se n’escriu una, de \nnorma, de nova, s’ha d’evitar fer malbé precisament la capacitat de crear, precisament la innovació i el fet \nd’avançar-nos o la capacitat d’avançar-nos als temps. La norma no pot fer nosa, i això és el que hem \nprocurat en aquesta llei d’ensenyaments artístics.\nAvui tindrem llei d’ensenyances de les arts i és bo, però els ensenyaments artístics, senyores i senyors, \nno comencen avui, no comencen a aquesta hora, no començaran quan haguem fet la votació, les coses \n— oh, sorpresa— no comencen quan ho decideix aquest Congreso, aquest hemicicle o l’Espanya política. \nEn cada sector hi ha vida prèvia. En cada societat hi ha vida prèvia, al marge de l’activitat legislativa del que \nes digui aquí, en aquest Congreso, i Catalunya, com a nació, precisament n’és la prova. Som nació i ho som \nal marge del que ens digui l’Estat, del que s’aprovi o no s’aprovi en aquest hemicicle. Aquesta també és la \nclau de tot plegat. I avui és un bon dia per recordar-ho. Entendre-ho o no, aquesta és la qüestió.\nSenyores i senyors diputats, gràcies per la seva atenció. Gaudeixin del dia.\nPresidenta, señorías, hoy es un buen día, muy buen día. Hemos salvado las prisas, las presiones y \nvamos a aprobar la ley de amnistía. Habrá costado, pero lo haremos, y saldrá investida y sólida. Y en este \nprimer punto, vamos a aprobar también la ley de enseñanzas artísticas, que es una norma muy esperada. \nEs fácil pensar que el de la creatividad es un mundo sin reglas. De hecho, se hace difícil imaginar a \nTàpies, Bellver o Flotats atrapados en una telaraña de normas. En cambio, una cosa es el talento y la \ncreatividad y otra la formación necesaria. Este querer aprender requiere un entorno seguro, reglado, que \nordene la forma referente a cómo se brinda ese conocimiento. Se trata de fijar al enseñante y definir cómo \ny dónde se enseña. Hay que garantizar la calidad, y es lo que vamos a hacer. Globalmente, lo \nconseguiremos, lo haremos, está bien, y, por tanto, podemos felicitarnos por ello todos juntos.\nAhora bien, cada vez que hablamos de un nuevo marco normativo nos colocamos de nuevo ante el \nespejo de las incertidumbres: primera, cómo es de complejo dibujar entre los grupos de este Parlamento \nun perímetro de entendimiento mínimo. ¿Por qué? Porque hay miradas profundamente de derechas, \nmiradas de izquierdas y también más liberales, y tenemos claro este puzle de muchas sensibilidades, pero \nhay una lista más complicada que hacer cuadrar, la de las piezas del puzle que explican el porqué de las \nmuchas discusiones en este Congreso, de las discusiones importantes, que no son las de patio de escuela \nentre unos y otros. Hablo de las miradas nacionales, las del Estado nación y las de las demás, las naciones \nque no somos Estado. No solo defendemos ideas opuestas entre lo que es el Estado español y lo que \nhabría podido ser, no solo pedimos que se respeten las competencias de cada uno y que el Estado no \nhaga trampas continuamente. No, el quid de la cuestión es otro. En el fondo, y ahí voy, hay un debate \ncultural profundo, un choque cultural intrincado, porque lo que está en juego es cómo miramos el mundo. \nDe hecho, debatiendo esta ley de enseñanzas artísticas, también ha tenido que centrarse el debate en si \nla España política es capaz o no de respetar Cataluña y el resto de naciones del Estado. Los Gobiernos \nde España siempre tienen la tentación de pasar la línea, y, claro, alguien tiene que decir, o los de Junts \ncve: DSCD-15-PL-31\n \ntenemos que decir: ¡Calma! ¡Stop! ¡Paremos! Y esta necesidad de saber respetar es muy amplia, va de \nintangibles, ya lo he dicho en alguna ocasión, y de cuestiones materiales.\nEn el kilómetro cero de los intangibles, por ejemplo, y hoy es un buen día para decirlo, tenemos la \nnecesidad de que Cataluña decida cuál es el camino de su futuro, lo que acabará sucediendo, señorías, \ny en el otro extremo, respecto a una de las cosas concretas, en una ley como la de hoy, que para algunos \nsolo va de poner orden y ya está, también se hace notar el conflicto de naciones. De hecho, los que \nsostienen que España es una sola nación uniforme deberían analizar qué proponemos desde Cataluña en \ncada enmienda a esta ley. Deberían prestar atención a lo que dicen los grupos catalanes, vascos, gallegos, \nque no son terroristas sino representantes de los electores y aportan matices absolutamente distintos a \nlos que proponen los dos grandes partidos con esta visión de Estado. Y deberían ver que, al margen del \ndebate ideológico recurrente y habitual en cualquier sociedad sana, aquí también hay un choque de \nmiradas nacionales y que es un choque cultural y que por eso es tan difícil de resolver.\nY no me pierdo, no. Para ser pedagógicos, mientras que en Madrid se levantaba el Teatro Real con el \ndinero del Estado, en Cataluña la sociedad construye el Liceo, con sus mecenas e impulsores, con sus \npropias manos. Y este detalle, que puede parecer menor, nos lleva al epicentro de la discusión de hoy, a \nla colaboración también entre la cosa pública y la iniciativa privada y la necesidad de hacerlo compatible; \ninsisto, no es una anécdota, tampoco en la enseñanza artística es una anécdota. En Cataluña siempre \nnos hemos movido a partir de la fuerza de la sociedad civil, porque nunca hemos sido Estado, y estaría \nbien que hicieran un silencio los que son Estado. Por eso sabemos que el exceso de normas puede \nencasquillar cualquier tipo de iniciativa. Por eso, cuando se escribe una norma nueva precisamente hay \nque evitar estropear la capacidad de crear, la innovación, la capacidad de avanzar con los tiempos. La \nnorma no puede perjudicar, y eso es lo que hemos intentado en esta ley de enseñanzas artísticas. Estamos \nhablando de la enseñanza de las artes, y es bueno, pero las enseñanzas artísticas no empiezan aquí a \nesta ahora, cuando hayamos hecho la votación. Las cosas, ¡oh, sorpresa!, no empiezan cuando lo decide \neste Congreso, este hemiciclo o la España política. En cada sector hay una vida previa, en cada sociedad \nhay una vida previa, al margen de la actividad legislativa y de lo que se diga en este Congreso. Y Cataluña, \ncomo nación, precisamente es prueba de ello. Somos nación, y lo somos al margen de lo que nos diga el \nEstado, de lo que se apruebe o no se apruebe en este hemiciclo. Esa también es la clave de todo ello y \nhoy es un buen día para recordarlo. Entenderlo o no, esa es la cuestión.\nSeñoras y señores diputados, muchas gracias por su atención y que disfruten del día."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Pujol.\nPor el Grupo Parlamentario Republicano, tiene ahora la palabra la señora Bassa Coll por un tiempo de \nsiete minutos."
+  },
+  {
+   "speaker": "BASSA COLL",
+   "party": "",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gràcies, presidenta. L’art és omnipresent a les nostres societats, a les nostres \nvides. Les nostres llars, els restaurants, la consulta del dentista, els aparadors no serien els mateixos sense \nquadres, fotografies o estàtues. Les nostres festes populars no serien tan festives sense música i balls. El \nnostre oci no es pot entendre sense el cinema, el teatre, el circ. Totes les arts ens entretenen, ens fan \nreflexionar, ens emocionen fins al punt de posar-nos la pell de gallina o bé fer-nos lliscar alguna llagrimeta. \nEns regalen felicitat. Quin valor té això per a la nostra societat? Quin suport li donem des de les institucions \na unes arts que ens aporten felicitat i són part essencial de les nostres cultures?\nDes d’Esquerra Republicana, que somiem amb una República de la cultura i les arts amb, per exemple, \nun IVA cultural reduït del 2 %, donem suport a aquesta llei perquè suposa avançar en el reconeixement \nformatiu i professional dels artistes i les artistes. Per fi ja no s’haurà d’estudiar per amor a l’art, també per \ngaudir d’una titulació i, en definitiva, d’una professió digna. De totes maneres, per a aquells que els costa \nentendre el valor de l’art, els diré que precisament per la seva omnipresència, són una font d’economia i \nriquesa. Pensin, per exemple, que no es pot entendre la publicitat sense la fotografia, la música o \nl’audiovisual. Els recursos destinats a les arts no són una despesa, sinó una inversió. Ho repeteixo, els \nrecursos destinats a les arts no són una despesa, sinó una i de les millors inversions.\nDes d’Esquerra Republicana de Catalunya ens felicitem perquè aquesta llei, entre molts temes, acaba \namb la injustícia de no gaudir de beques els estudiants artístiques. Atorga major facilitat per a realitzar part \ndels seus estudis aquí i en modalitat dual o en un altre país europeu. Els professionals de les arts, si és la \nseva voluntat, podran exercir amb reconeixement la seva professió fora de les nostres terres. Es creen, a \nmés, nous cossos docents als centres públics, afavorint la investigació i la creació artística. Es potencia \n— i ens agrada molt des de Catalunya— la creació dels Campus de les Arts, etcètera. I ens felicitem també \ncve: DSCD-15-PL-31\n \nperquè gràcies a la nostra negociació hem aconseguit augmentar l’autonomia per fer i desfer segons les \nnecessitats i especificitats de Catalunya. Però també, i sobretot, hem respectat la importància de disposar \nd’una major autonomia pedagògica i organitzativa per als centres i, especialment, hem aconseguit introduir \na la llei les nostres dues línies vermelles. La primera, la que sempre reclamem, assegurar el finançament \nadequat per garantir l’aplicació d’aquesta llei. I la segona, fer canviar la disposició del títol competencial \nper respectar l’article 131 de l’Estatut d’Autonomia de Catalunya, que reconeix a la Generalitat competències \nexclusives, compartides i executives en matèria d’ensenyament.\nMalauradament, però, la llei té mancances que Esquerra Republicana reivindicava, com la inclusió de \ncentres i titulacions al RUCT i el reconeixement específic del món del circ. Perquè, tot i que en la negociació \nvam aconseguir que les comunitats autònomes tinguéssim la potestat de crear noves disciplines com el \ncirc, en no reconèixer l’Estat espanyol titulacions oficials, els dificulta el camí per a formar-se i acreditar-se \ncom a futurs professionals, també per accedir a una educació superior o per obtenir un grau o un doctorat, \no, per exemple, per facilitar la mobilitat a la Unió Europea, entre altres, perquè tampoc gaudiran de \nl’homologació de les titulacions fora de l’Estat espanyol. I tot plegat afectarà totes les professions lligades \nal sector que tampoc estan reconegudes: professionals que treballen en l’àmbit artístic, la tècnica, la \nformació, la producció, la gestió, la dramatúrgia i també dificultarà, evidentment, les transicions \nprofessionals.\nPerò bé, malgrat les mancances, i a l’espera d’una República catalana de la cultura i les arts, aquesta \nllei suposa un important pas endavant. I ho suposa perquè reconeix tots els professionals de les arts, i \nconfiem que sigui la base perquè en un futur es puguin reconèixer els àmbits professionals artístics que \navui també queden exclosos en aquesta llei. Moltes gràcies.\nGracias, presidenta.\nEl arte es omnipresente en nuestras sociedades y en nuestras vidas. Está en nuestros hogares, en los \nrestaurantes, en la consulta del dentista. Los escaparates no serían los mismos sin cuadros, fotografías o \nestatuas. Nuestras fiestas populares no serían tan festivas sin música y bailes. Nuestro ocio no se puede \ncomprender sin el cine, el teatro o el circo. Todas las artes nos entretienen, nos hacen reflexionar, nos \nemocionan, hasta el punto de ponernos la piel de gallina o hacernos llorar. Nos regalan felicidad.\n¿Qué valor tiene esto para nuestra sociedad? ¿Qué apoyo brindamos desde las instituciones a unas \nartes que nos aportan felicidad y que son parte esencial de nuestras culturas? Desde Esquerra Republicana, \nque sueña con la república de la cultura y las artes, con un IVA cultural reducido del 2 %, apoyamos esta \nley porque supone avanzar en el reconocimiento formativo y profesional de los artistas y las artistas. Por \nfin, ya no habrá que estudiar por amor al arte, sino también para disfrutar de una titulación y, en definitiva, \nde una profesión digna.\nDe todos modos, para aquellos a quienes les cuesta entender el valor del arte, les diré que, precisamente \npor su omnipresencia, son una fuente de economía y riqueza. Piensen, por ejemplo, en que no se puede \nentender la publicidad sin la fotografía, la música o el audiovisual. Los recursos destinados a las artes no \nson un gasto, sino una inversión. Repito, los recursos destinados a las artes no son un gasto, sino una, y \nde las mejores, inversiones.\nDesde Esquerra Republicana de Cataluña nos felicitamos de que esta ley acaba, entre muchas otras \ncosas, con la injusticia de que no haya becas para los estudiantes del arte, permite más facilidades para \nestudiar aquí o, en modalidad dual, en otro país europeo. Los profesionales de las artes, si así lo desean, \npodrán ejercer, con reconocimiento, su profesión fuera de nuestras tierras. Se crean, además, nuevos \ncuerpos docentes en los centros públicos que favorecen la investigación y la creación artística. Se \npotencia, y nos gusta mucho desde Cataluña, la creación de los campos de las artes, entre otras cosas, y \nnos congratulamos también porque, gracias a nuestra negociación, hemos conseguido aumentar la \nautonomía para hacer y deshacer según las necesidades y especificidades de Cataluña, pero también y, \nsobre todo, hemos respetado la importancia de disponer de una mayor autonomía pedagógica y \norganizativa para los centros. Y especialmente hemos conseguido introducir en la ley nuestras dos líneas \nrojas: la primera, la que siempre reclamamos, asegurar la financiación adecuada para garantizar la \naplicación de esta ley, y, la segunda, hacer cambiar la disposición del título competencial para respetar el \nartículo 131 del Estatuto de Autonomía de Cataluña, que reconoce a la Generalitat competencias exclusivas \ncompartidas y ejecutivas en materia de enseñanza.\nSin embargo, desgraciadamente, la ley mantiene carencias que Esquerra Republicana ya señalaba, \ncomo en lo referente a la inclusión de centros y titulaciones en el RUCT y el reconocimiento específico del \ncve: DSCD-15-PL-31\n \nmundo del circo, porque, si bien en la negociación conseguimos que las comunidades autónomas \ntuviéramos la potestad de crear nuevas disciplinas, como el circo, al no reconocer el Estado español \ntitulaciones oficiales, eso dificulta el camino para acreditarse como futuros profesionales y acceder también \na la educación superior y obtener un grado o doctorado o, por ejemplo, facilitar su movilidad en la Unión \nEuropea, entre otras porque tampoco van a disfrutar de la homologación de las titulaciones fuera del \nEstado español. Y todo ello va a afectar a todas las profesiones vinculadas al sector que tampoco están \nreconocidas, las profesiones de quienes trabajan en el ámbito artístico, la técnica, la producción, la \ndramaturgia, entre otros, al tiempo que va a dificultar también las transiciones profesionales.\nNo obstante, a pesar de las carencias y a la espera de una república catalana de la cultura y las artes, \nesta ley supone un paso adelante importante, y lo supone porque reconoce a todos los profesionales de \nlas artes y confiamos en que ello sea la base para que en un futuro se puedan reconocer los ámbitos \nprofesionales y artísticos que también hoy quedan excluidos de esta ley.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Moltes gràcies, señora Bassa.\nSeñora Valido, ¿había pedido usted la palabra?"
+  },
+  {
+   "speaker": "VALIDO GARCÍA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Sí, presidenta. Gracias.\nÚnicamente para que se entiendan defendidas las enmiendas de Coalición Canaria, de la 1 a la 9, ya \nque, al no intervenir y corresponder el turno al compañero del BNG, no ha quedado claro. Me gustaría que \nla Mesa tomara nota de que estas enmiendas se mantienen vivas para su votación.\nGracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias. Tomamos nota.\nPor el Grupo Parlamentario VOX, tiene ahora la palabra el señor Ramírez del Río por un tiempo de \nsiete minutos."
+  },
+  {
+   "speaker": "RAMÍREZ DEL RÍO",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señora presidenta.\nEste proyecto de ley estaba bastante avanzado en la pasada legislatura. Cuando Pedro Sánchez \ndisolvió las cámaras esperábamos que el siguiente Gobierno fuera bastante más responsable y, sin \nembargo, nos hemos encontrado, por desgracia, con otro todavía más irresponsable y apartado de los \nintereses de todos los españoles. Tratar la ley de enseñanzas artísticas la misma semana en que se \nproduce un asalto a la división de poderes en España, en que, utilizando palabras de los mismos miembros \ndel PSOE, se produce la eliminación de uno de los poderes del Estado, provoca una auténtica sensación \nde irrealidad. Señorías, han convertido ustedes hoy a todos los diputados del Congreso en la orquesta del \nTitanic. (Aplausos).\nEste proyecto busca regular las enseñanzas artísticas superiores y alude a toda una serie de problemas \nderivados de las leyes anteriores, pero es evidente que no solo no resuelve muchos de esos problemas, \nsino que va a crear muchos otros nuevos, como, por ejemplo, el hecho de que haya dos grupos de \ncatedráticos, uno de ellos a extinguir. Esa exigencia afecta, fundamentalmente, a escuelas superiores que \nno tienen un análogo universitario. Creo que todos los grupos recibimos ayer el correo electrónico de una \nasociación de catedráticos que nos señalaba los errores que se habían producido en la introducción de \ndos enmiendas. Es evidente que la técnica legislativa utilizada no ha sido la adecuada. Estas escuelas, \ncomo, por ejemplo, las de música, tenían, en líneas generales, un comportamiento bastante correcto, muy \ndiferente dependiendo de las comunidades autónomas en las que se encontraran — por desgracia, pasa \ncon todo en España—, y, sin embargo, contaban con catedráticos que no eran doctores, pero que eran \nvirtuosos instrumentistas. Con la ley que están ustedes a punto de aprobar, Andrés Segovia no habría \npodido llegar a ser catedrático en ningún conservatorio de música de España, cuando, además de su \nextraordinaria obra musical, aportó incluso grandes innovaciones en la fabricación de ese instrumento. \n(Aplausos). Andrés Segovia, con la ley que están ustedes a punto de aprobar en esta sala, no habría \npodido ser catedrático en ningún centro de España. Gracias, señorías del PSOE.\nLa tendencia a imponer este tipo de condiciones académicas viene de lejos y ya condujo a que \ntitulaciones no directamente concernidas con el objeto de la docencia tuvieran mucho más peso que las \ncapacidades docentes, la habilidad o el virtuosismo de una persona tocando un instrumento. Entendemos \nla necesidad de homologar titulaciones, pero creemos que se ha hecho con muchísima ligereza y, en \nalgunos casos, con auténtica inconsciencia.\ncve: DSCD-15-PL-31\n \nTambién es evidente que el hecho de dar pleno control a las autonomías va a suponer que haya \nproblemas legales importantes, que en buena medida replicarán los ya sucedidos en el caso del Centro \nSuperior de Música del País Vasco, Musikene. En 1998 se produjo la asunción por parte del Gobierno \nvasco de los conservatorios musicales de las tres capitales vascas, Bilbao, San Sebastián y Vitoria, y se \npuso en marcha el proyecto para crear un conservatorio de música superior en el País Vasco. En el año \n2000, o sea, después de no haber tenido esas enseñanzas durante dos años, el Gobierno vasco lanzó un \nproyecto para poder impartirlas en esos tres conservatorios, después de perder dos años, como digo.\nEl Gobierno vasco constituyó una fundación privada y volvió a impartir ese grado superior en esta \ncomunidad. Como la fundación no tenía el mismo tipo de contratación que los organismos públicos, \nmuchas personas no pudieron acceder a impartir docencia en este centro y todas lo llevaron ante los \ntribunales del País Vasco. El propio Tribunal Vasco de Cuentas Públicas señaló en un informe las \nilegalidades cometidas en su constitución. Estos problemas aún no han sido resueltos y el centro se \nfinancia con las subvenciones del Gobierno vasco, convirtiéndolo en una fundación privada de financiación \npública. Con esto no queremos señalar que el resultado final haya sido ningún desastre ni que haya sido \nmalo. Al no haber tenido que ceñirse a las condiciones de contratación pública, se ha podido seleccionar \nun profesorado bastante competente y esta escuela tiene muy buena reputación. Sin embargo, todos \nestos problemas que les hemos comentado, todos estos tribunales llenos de gente litigando por plazas en \nestos centros, se van a replicar en toda España y vamos a tener los mismos problemas que ustedes ya \nhan provocado con otra serie de leyes que se han tramitado aquí. Pensamos que ustedes deberían \naprender algo de los errores que han cometido previamente. Pensábamos también que el resultado de la \ncatástrofe que ya han provocado con la contratación de profesores en la FP los habría llevado a ser un \npoco más prudentes a la hora de tramitar una ley, pero no han aprendido nada de esa tramitación. Aquí \ntambién van a provocar unos graves problemas laborales.\nEsta ley se ha hecho de manera muy apresurada y se ha vulnerado el artículo 113 del Reglamento de \nla Cámara al no permitírsenos ni siquiera exponer nuestras enmiendas en Ponencia. Por supuesto, \nmantenemos todas vivas. Por desgracia, este atropello a la tercera fuerza política de nuestro país, de \nEspaña se viene produciendo desde 2019. Aparte de que evidentemente ustedes no están respetando los \nderechos de muchísimos españoles que nos han votado, esto les impide recibir información acerca de \nerrores de los proyectos que han estado ustedes tramitando. Les avisamos por activa y por pasiva de \nerrores en esas leyes que tramitan. Ustedes no los tienen en cuenta y, al final, esto concluye muchas \nveces en tragedias, como la que sucedió con la ley del solo sí es sí. (Aplausos). Dicen que nadie les \navisó. Pues les hemos avisado por activa y por pasiva y ustedes no han hecho caso a nada de ello.\nTambién han aprovechado la tramitación de esta ley para poner un parche a los problemas acuciantes \nque ha supuesto la LOSU, cuando les habíamos advertido ya de los problemas económicos y laborales \nque dicha ley iba a producir en las universidades.\nEsta forma de legislar a golpe de ocurrencia y rectificación es una de las vergüenzas que lastra la \nactividad de este Congreso desde 2019. Este proyecto va a crear más problemas de los que va a resolver, \nagudiza las diferencias en el derecho a la educación entre los españoles y está muy deficientemente \ntramitado. Por todo ello, votaremos no.\nGracias, señora presidenta. (Aplausos de las señoras y los señores diputados del Grupo \nParlamentario VOX, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Ramírez.\nPor el Grupo Parlamentario Popular tiene la palabra el señor Clavell López, también por un tiempo de \nsiete minutos."
+  },
+  {
+   "speaker": "CLAVELL LÓPEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, señora Armengol.\nDesde que a mediados del siglo XIX la ley de instrucción pública recogiese las enseñanzas artísticas \nbajo la denominación común de bellas artes, han existido durante los últimos treinta años diversos marcos \nlegislativos que han regulado este tipo de enseñanzas. Llegados a este nivel, es necesario plantearnos si \nel proyecto de ley que tenemos entre manos en este instante es el que realmente necesita el sector o deja \nciertas incertidumbres abiertas.\nEsta ley, paralizada por el adelanto electoral, era la última en materia educativa que quedaba por \nreformar bajo el Gobierno de Pedro Sánchez. Contamos con los antecedentes de la LOMLOE, la de \nformación profesional y la LOSU. Las tres han demostrado, con el tiempo, carencias y debilidades que \nperjudican al sistema educativo español, siendo los estudiantes los grandes damnificados, incluso con \ncve: DSCD-15-PL-31\n \nenmiendas presentadas durante la tramitación de esta ley que afectan a las de formación profesional y \nuniversidades, claro ejemplo de que van legislando una ley sobre otra y no las desarrollan a tiempo. No \nes mi intención entrar en detalles sobre esas tres leyes, porque necesitaría más de una intervención como \nesta y ni siquiera podría comentar ciertos aspectos de la ley de enseñanzas artísticas que nos atañe en \neste momento.\nEl texto inicial partía con muchas lagunas y dejaba para posteriores desarrollos normativos cuestiones \nque consideramos imprescindibles. En estos temas se han centrado nuestras enmiendas, que hemos \npresentado para su debate y votación tanto en Ponencia como en Comisión y, finalmente, en el Pleno de \nla Cámara. Hemos de reconocer que muchas han sido aprobadas, pero no con el apoyo de los partidos \nque conforman el Ejecutivo, sino gracias a sus socios. Era inconcebible que el Gobierno no se \ncomprometiera desde el principio a una financiación. Por otra parte, ya nos tiene acostumbrados a esta \nforma de actuar bajo la fórmula de yo invito, tú pagas, máxime cuando hemos conocido recientemente que \nno va a haber presupuestos generales del Estado para el presente ejercicio y quedarán huérfanas de \nfinanciación esta y otras medidas educativas que ustedes, señora ministra, han ido anunciando durante \nlos últimos meses. ¿Dónde se quedan esos 500 millones de refuerzo para matemáticas y lengua castellana, \nseñora ministra?\nEn un inicio no se regulaban los títulos de técnico y técnico superior para las enseñanzas de música \ny danza, la necesaria regulación de la que adolecían estas disciplinas artísticas, en un agravio comparativo \nfrente a otras que merecen el reconocimiento al esfuerzo, al sacrificio y a la exigencia que implica \ncompaginar estos estudios con las enseñanzas generales; mejoras para el profesorado y estudiantado \npara garantizar una movilidad en el Espacio Europeo de Educación y compaginar su profesión y las \nenseñanzas; impulso a la investigación; reconocimiento de la competencia de esta materia del ministerio \nen las ciudades autónomas de Ceuta y Melilla (aplausos) —competencia directa suya, señora ministra, y \nolvidó Ceuta y Melilla—; aprobación de un calendario de implantación; acceso a la universidad para \nartistas de trayectoria profesional reconocida, como existe para los deportistas de élite; reconocimiento de \nlos derechos de los catedráticos, que no quedan integrados en los nuevos cuerpos; reserva de acceso \npara alumnos con discapacidad; un estudio sobre la integración de estas enseñanzas al Espacio Europeo \nde Educación Superior, y otras tantas enmiendas que han mejorado el documento original. Por otro lado, \nsería deseable que se modificara la convocatoria de becas y ayudas al estudio para el próximo curso — se \nqueda en nada si no hay presupuestos generales del Estado para el 2024— para conseguir su adaptación \na lo establecido en esta ley.\nPero los partidos que sustentan al Gobierno no han tenido en consideración otras aportaciones del \nPartido Popular que, sin lugar a dudas, hubiesen enriquecido esta ley. Me refiero a fortalecer el Consejo \nSuperior de Enseñanzas Artísticas; a que se ha rebajado la competencia del Gobierno en la elaboración \nde la prueba específica de acceso a las enseñanzas superiores; a que no se recogen especialmente las \nenseñanzas del videojuegoanimación, un sector pujante y consolidado que requiere de artistas cualificados, \ncomo tampoco de las artes circenses; a que no denominan los centros superiores de audiovisual o de \nescritura creativa; a que se renuncia a la especificidad necesaria de los servicios de inspección y a los \nrecursos humanos y materiales para la evaluación; a que no ha aceptado la participación de los alumnos \nen la elaboración del Estatuto del Estudiante; a que ignora la atención solicitada de las zonas rurales; a \nque la obligación de cotizar —¡ojo, señora ministra!— a la Seguridad Social, implantada desde el 1 de \nenero, no recogía a los alumnos de enseñanzas artísticas. ¿Qué va a pasar con esa bonificación/\nfinanciación para el 2024 si no hay presupuestos generales del Estado, señora Alegría? (Aplausos).\nEl Partido Popular atendió con mucha atención las propuestas y requerimientos que nos hicieron llegar \ngobiernos autonómicos, colectivos, entidades o personas a título particular. Visitamos centros de enseñanzas \nartísticas de diferentes comunidades, donde recogimos sus preocupaciones. Somos sensibles a las \ndramáticas tasas de abandono en esto tipo de enseñanzas, que conducen a la pérdida de talento en nuestro \npaís, llegando, en algunos casos, al 90 %, y criticamos, desde el primer momento, las prisas por aprobar esta \nley, que han provocado errores y deficiencias, algunas de ellas subsanadas con nuestras aportaciones.\nSomos conscientes de que hay mucha gente pendiente y expectante del resultado de la tramitación \nparlamentaria, que concluirá esta semana entrante en el Congreso de los Diputados e iniciará su andadura \nen el Senado. Nuestra intención siempre ha sido constructiva y positiva y nos hemos esforzado para lograr \nun texto mejor. Todos ellos merecen el mayor de los respetos y nuestro esfuerzo para elaborar una ley que \nno solo regule, sino que también beneficie a las enseñanzas artísticas y a su impacto en la cultura de \nnuestro país.\ncve: DSCD-15-PL-31\n \nConcluyo, porque mi tiempo en esta intervención finaliza, pero si aquí hay alguien en tiempo de \ndescuento — usted lo sabe— es usted, señora Armengol. (Rumores). Su permanencia en el cargo es \ninsostenible y esta institución no se merece a una persona como usted. Dimita. (Protestas.—Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En turno de fijación de posiciones, empezamos con el Grupo Parlamentario \nVasco (PNV). Tiene la palabra el señor Agirretxea Urresti, por un tiempo de siete minutos."
+  },
+  {
+   "speaker": "AGIRRETXEA URRESTI",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "",
+   "text": "Eskerrik asko, Presidenta anderea. Egun on.\nPasa den astean goi-mailako ikasketa artistikoen lege onartu genuen hezkuntza batzordean eta gaur \nbizirik geratu diren emendakinen bozketari ekingo diogu, baina garrantzitsua dela deritzogu lege honen \nekarpenari buruz bi hitz esatea behintzat. Ez naiz asko luzatuko.\nGoi-mailako hezkuntza artistikoei buruzko lege hau onartzeak lehenik eta behin sektore osoaren \naspaldiko eskaera bati erantzuten dio. Aspalditik eskatzen da kultur esparru guztietatik, eta azkenik \neskaera horri erantzun egoki bat ematea lortu dugu lege honen bitartez. Horren ondorioz, irakaskuntza \nartistikoak goi-mailako irakaskuntzaren esparruan sartzea bermatzen du lege honek. Eta bere idazketan \nelkarlanean aritu izana poztekoa da, bai euskal hezkuntza administrazioak bere aurrekarietan zein gure \ntaldeak bere emendakinen bidez egin duen lanari esker. Hala ere, bide hau hasi baino besterik ez da egin, \neta garapena izan dezala espero dugu, behar duen garapen egokia.\nZiur gaude lege honen etorkizuneko garapenak zentzu horretan lege hau hobetzea ahalbidetuko \nduela. Behin goi-mailako irakaskuntza artistikoak unibertsitate irakaskuntzaren maila berean egon \ndaitezenean. Aitzitik, ikasketa hauek eskaintzen dituzten zentroei dagokienez, titulutartasun publikoko \nzentroek autonomia handiagoa izatea espero genuen. Hala ere, egokia iruditzen zaigu sektore publikoko \nfundazioei ematen zaie tratamendua. Eta baita ere goi-mailako hezkuntza ingurune integratuen sorrera \nsustatu ahal izatea goi-mailako ikasketa artistikoen, zentroen, eta unibertsitateen arteko lankidetza hori \nahalbidetzeko. Eta horrek aukera handia zabaltzen die ikasketa hauei.\nSeñora presidenta, diputados, diputadas, buenos días a todos, a todas.\nLa semana pasada aprobamos la ley de enseñanzas artísticas superiores en la Comisión de Educación \ny hoy abordamos la votación de las enmiendas que se mantienen vivas. Pero antes consideramos \nimportante dedicar unas pocas palabras a la aportación de esta ley, sin alargarnos mucho.\nLa aprobación de la ley de enseñanzas artísticas superiores responde a una antigua demanda \nproveniente de todo el sector. Es una petición manifestada por diferentes ámbitos culturales desde hace \ntiempo y, por fin, hemos conseguido darle una respuesta adecuada mediante esta ley. Esta ley garantiza \nla integración de las enseñanzas artísticas en la enseñanza superior. Nos congratula la colaboración \nllevada a cabo en su redacción, tanto de la Administración educativa vasca, por su aportación en los \nantecedentes, como la de nuestro grupo con las enmiendas. Sin embargo, este camino no ha hecho más \nque empezar y esperamos que tenga el desarrollo posterior que se merece. Estamos convencidos y \nconvencidas de que el futuro desarrollo de esta ley permitirá muchas mejoras, una vez que las enseñanzas \nartísticas superiores estén al mismo nivel que la enseñanza universitaria. Aun así, esperamos una mayor \nautonomía de los centros de titularidad pública que ofrecen estos estudios. Por el contrario, consideramos \nadecuado el tratamiento que se da a las fundaciones del sector público, así como a la posibilidad de \npromover la creación de entornos integrados de educación superior que permitan la colaboración entre los \ncentros de enseñanza artística superior y las universidades. Esto abre un amplio abanico de posibilidades \na estos estudios.\nEste ha sido, precisamente, el objetivo que perseguían las enmiendas del Grupo Parlamentario Vasco, \ndignificar estas enseñanzas colocándolas en el lugar que les corresponde y aumentar la autonomía de los \ncentros que las imparten, para asemejarlos a los centros universitarios. Hubiéramos querido que esa \nautonomía de los centros hubiera sido mayor, pero no ha sido posible. Entendemos que nuestras \nenmiendas han enriquecido el texto y lo han ubicado en el ámbito competencial que le corresponde. Uno \nde los principales quehaceres de este grupo parlamentario ―lo ha sido siempre― ha sido salvaguardar \nla capacidad competencial en materia educativa de Euskadi.\nAlgo hemos hecho bien, porque el grupo de la ultraderecha en Comisión se escandalizó, porque esta \nley no centraliza estas enseñanzas y regala esta competencia a las comunidades autónomas. No voy a \nhacer ningún comentario, solo me alegro. Me alegro por que la ley sea así y me alegro por su enfado. \nSomos conscientes de que llegar al final de todo esto llevará tiempo y mucho trabajo y de que, especialmente \ncve: DSCD-15-PL-31\n \nen el caso de los centros de titularidad pública, los cambios que traen en la gestión del personal van a ser \ncomplejos. Ya lo sabemos, pero son pasos que hay que dar. Las cosas no se consiguen solo porque \naparezcan en una ley o porque lo diga una ley, pero han de aparecer en la ley para que se consigan.\nNuestro grupo ha retirado las enmiendas que mantenía vivas porque considera que se ha llegado a un \nacuerdo razonable y no porque renunciemos a lo que decían esas enmiendas ni porque creamos que \ncarecen de sentido. En cualquier caso, quiero agradecer la disposición del grupo del Gobierno para \nconsensuar. Gracias, entre otros, al Departamento de Educación del Gobierno vasco por el trabajo que ha \ndesarrollado previamente y a mi compañera Josune Gorospe por al trabajo que inició y desarrollo en la \nanterior legislatura en esta ley. Somos conscientes de que seguramente esta ley no será del todo \nsatisfactoria — se ha dicho aquí, y lo sabemos— para todas las personas de este sector. Hay gente que \nno ha quedado satisfecha, que no ha quedado contenta, pero creo que necesitábamos fijar estas bases \npara poder ir luego desarrollándola. Creemos que ha mejorado la situación existente y que se abre una \ngran oportunidad en su desarrollo legislativo.\nBesterik ez. Eskerrik asko, Presidenta anderea."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Agirretxea.\nPor el Grupo Parlamentario Plurinacional SUMAR, tiene la palabra el señor González López, por un \ntiempo de siete minutos."
+  },
+  {
+   "speaker": "GONZÁLEZ LÓPEZ",
+   "party": "Sumar",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gràcies, presidenta. Buenos días, señorías.\nHoy debatimos y votamos la primera ley orgánica de la legislatura. Pero necesito empezar diciendo lo \nsiguiente. Cuando llegué a este hemiciclo me entusiasmó la posibilidad de legislar, de trabajar para otorgar \nderechos y libertades y mejoras a la gente común, a la mayoría. Sin embargo, estos días he sentido \nvergüenza, hemos sentido vergüenza. El día de ayer fue un día dramático para este hemiciclo (aplausos), \nun episodio bochornoso para la historia de nuestro país. ¡Ya está bien! Esta Cámara tiene que ser una \nherramienta útil y de mejora colectiva para la gente trabajadora, tiene que ser útil para sectores como el \nartístico y el cultural, que hoy venimos a mejorar, para la gente que no llega a final de mes y no puede \npagar el alquiler y para quienes pueden, pero anhelan vivir mejor. Merecen más, merecen debates \nproductivos y no la constante crispación y una oposición que no quiere estar a la altura. Hago un \nllamamiento a que cambiemos el caos reinante del ruido y lo vayamos al terreno de la política útil. Eso \npedimos desde nuestro grupo parlamentario, que llevemos el trabajo a las leyes y a medidas que permitan \navanzar a nuestro país, a la gente común. Para eso hemos venido aquí, señorías. (Aplausos).\nHoy aprobamos una ley muy importante para nuestro país, por lo que suponen las artes y la cultura \npara todos y todas. Como dijo el poeta Joan Brossa, el arte y la literatura nos permiten ver los \nensanchamientos del horizonte hacia la libertad. El arte nos acompaña desde que nacemos hasta que \nmorimos, porque la cultura es la esencia de nuestras identidades y de la forma en la que decidimos vivir. \nPor eso hoy, con la cabeza alta, agradecemos y mejoramos derechos para los creadores y creadoras, \nescritores, profesionales de la danza, el sector audiovisual, actores y actrices de arte dramático, \nconservadores y restauradores, músicos de todos los ámbitos y trabajadores de las artes plásticas, una \nindustria que es orgullo para nuestro país y para nuestros territorios. (Aplausos). Hace treinta años, con \nla LOGSE, se abrió la primera puerta a las enseñanzas superiores, pero la ley no se completó, y hoy \nvenimos a hacerlo realidad.\nVoy a darles datos. Esta ley impactará en más de 140 000 estudiantes y 14 000 docentes y mejorará \nsensiblemente un sector que emplea a 690 000 personas, el 3,5 del empleo promedio de nuestro país. \nPara que nos hagamos una idea de la importancia en materia económica que supone esta ley, basta un \ndato. El sector de la agricultura, la pesca y la silvicultura representa el 2,3 el PIB, según los datos de \nEurostat, la Oficina Estadística de la Comisión Europea para el año 2022. Pues bien, el sector del que esta \nnorma se ocupa supone el 3,3 del PIB, un 43 % más que el sector agrario y pesquero. Pocas bromas con \nesto, porque el impacto económico de esta norma será muy positivo. Y es que los centros que imparten \nenseñanzas artísticas garantizan la formación de profesionales altamente cualificados que ejercen \nposteriormente en las industrias culturales y del conocimiento; todo ello conlleva y coadyuva al crecimiento \neconómico del país. Hay 128 741 empresas cuya actividad económica principal es la cultural. Supone el \n3,8 % de las empresas recogidas en el directorio central de las empresas elaborado por el INE. Fíj ense, \nseñorías, en la importancia que esta aprobación tiene para todas estas empresas, dado que mejorará la \ncualificación de docentes y estudiantes.\ncve: DSCD-15-PL-31\n \nPor lo tanto, hoy venimos a hacer justicia, y lo hacemos de la forma correcta, en las formas y en el \ncontenido. En las formas, porque esta ley viene de la mano de las principales asociaciones y federaciones \ndel ámbito artístico ―sindicatos, comunidades autónomas, asociaciones de estudiantes, docentes y \ncentros― y ha recibido el respaldo mayoritario del sector. Y porque, digámoslo también, se va a aprobar \ncon el respaldo mayoritario de esta Cámara en momentos donde es muy difícil lograr consensos. \n(Aplausos). Bueno, de casi todos; la extrema derecha, una vez más, se pone de espaldas a un sector que \nconsidera hostil, y dice una vez más, como en mi tierra, en Valencia, que la cultura solo puede ser lo que \nellos dictan: el espectáculo feudal de torturar a un animal, censurando la libertad de expresión y poniendo \nmordaza a cantantes, actrices o escritores. No les gusta la cultura ni la libertad y tampoco otorgar derechos \nsociales y laborales. No hay otra explicación de que hoy voten en contra de esta ley. Pero volvamos a lo \nimportante. Hoy nos ponemos de acuerdo y es motivo de alegría para nuestro grupo. Y también me \ngustaría mencionar a quienes trabajaron en la anterior legislatura por conseguir esta ley, a tantas y tantos \ntrabajadores y, especialmente, al compañero diputado Joan Mena, que, junto con diversos compañeros, \ntrabajaron para conseguir esta ley. (Aplausos). Y también en el contenido, porque con la nueva ley las \nenseñanzas artísticas superiores estarán homologadas al Espacio Europeo de la Educación Superior, \nequiparándolas a las universitarias y a las enseñanzas profesionales, al Catálogo Nacional de \nCualificaciones Profesionales superiores, al Espacio Europeo de la Educación Superior, equiparándolas a \nlas universitarias, y las enseñanzas artísticas profesionales al Catálogo Nacional de Cualificaciones \nProfesionales, es decir, el nuevo sistema de Formación Profesional, abriendo también la posibilidad del \nreconocimiento y acreditación de estas competencias a los trabajadores del sector. Gracias a esto, \ntambién los estudiantes tendrán mayor facilidad para realizar parte de sus estudios en otro país europeo \ny para poder ejercer su profesión fuera de nuestras fronteras. Se introduce la modalidad dual, por la que \npodrán realizar parte de su formación, como prácticas en empresas e instituciones, y cotizarán a la \nSeguridad Social, como sucede con los estudiantes de Formación Profesional. Además, los estudiantes \nde enseñanzas artísticas superiores podrán recibir una beca en las mismas condiciones que los \nuniversitarios, incluido el pago de las tasas de matrícula, que suelen ser muy elevadas y que hasta ahora \nno se compensaban. Se reconoce el paro académico y el derecho a la huelga en el alumnado.\nEn cuanto al profesorado de los centros públicos, el proyecto de ley favorece su actividad investigadora \ny su contribución a la creación artística. Se crean cuatro nuevos cuerpos docentes, de profesores y de \ncatedráticos de enseñanzas superiores y de profesores y de catedráticos de enseñanzas profesionales, \nademás de los maestros de taller en enseñanzas artísticas, en los que la integración será voluntaria y \nhabrá un amplio calendario transitorio para hacerlo.\nEntre las novedades que introduce la ley está la creación de nuevas enseñanzas, como la audiovisual \no la escritura creativa, y también abre la puerta a la incorporación del circo en las artes circenses, que \nmerecen todo el reconocimiento y que las leyes autonómicas contemplan, como la valenciana y la catalana. \nEn definitiva, señorías, es una buena norma que mejorará la vida de muchísima gente, una buena noticia \nentre tanto ruido. En eso consiste la política útil, en darles buenas nuevas a quienes están ahí fuera.\nUna vez aprobada esta ley, la vida de miles de trabajadores y trabajadoras de la cultura, de estudiantes \ny de futuros creadores será mejor. Gracias a las entidades, escuelas superiores, asociaciones y sindicatos \npor ser parte del proceso y parte de la solución. Estoy seguro de que mañana nuestro país será mejor.\nDedico esta intervención a los miles de artistas, escritores, plásticos y actrices exiliados durante \nmuchísimos años, y especialmente a la memoria de Josep Renau, de Federico García Lorca, de Picasso \no de artistas como Remedios Varo, pintora exiliada en México, que ojalá hubiesen visto la luz de esta ley. \nSeguimos adelante trabajando por el país.\nMuchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario \nPlurinacional SUMAR, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor González.\nPor el Grupo Parlamentario Socialista, tiene la palabra la señora Martínez Seijo, por un tiempo de siete \nminutos. (Rumores). Ruego silencio."
+  },
+  {
+   "speaker": "MARTÍNEZ SEIJO",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, presidenta. Buenos días, señorías.\nQuiero comenzar esta intervención dando mi enhorabuena a todo el sector de las enseñanzas \nartísticas, de las superiores y de las profesionales. Hoy, por fin, aprobamos vuestra ley (dirigiéndose a la \ntribuna de invitados), una ley esperada desde hace más de treinta años, así que, de prisas, nada, \ncve: DSCD-15-PL-31\n \nporque llegamos por segunda vez a la tramitación de esta ley, después de haber madurado diferencias \nentre unas enseñanzas artísticas muy diferentes y dispares entre sí.\nLa ley de enseñanzas artísticas sale adelante con un amplio consenso, posiblemente el mayor que ha \nexistido en las leyes educativas de nuestro país. Sin duda, se debe al apoyo de los distintos grupos \nparlamentarios que, con su trabajo y ganas de llegar al consenso, hemos logrado acercar posiciones para \nque esta ley salga adelante; pero también, y sin ninguna duda, gracias a la disposición y al gran trabajo \nque hemos realizado con todas las organizaciones, asociaciones y centros docentes de las distintas \nenseñanzas artísticas. Gracias a todos ellos, porque hoy, además, nos estáis acompañando aquí. \n(Aplausos dirigidos a la tribuna de invitados).\nEs una de esas leyes en la que los ponentes nos hemos sentido muy a gusto, nos hemos empapado \nde ella. Hemos visitado escuelas y centros que son referentes en las distintas comunidades autónomas \nde nuestro país. Hemos conocido a sus docentes, a sus alumnos y sus experiencias, que nos han hecho \nsentir profundamente orgullosos y orgullosas del altísimo nivel de formación de nuestras artes en nuestro \npaís y de la cultura en España; a profesionales que nos permiten disfrutar de las distintas manifestaciones \nartísticas y culturales, como la música, la danza, las artes escénicas, nuestros bienes culturales, las artes \nplásticas o el diseño. A partir de ahora, como novedad, introducimos en esta ley también las artes \naudiovisuales y la escritura creativa como enseñanzas artísticas superiores, e incorporamos además las \nopciones para abrir las enseñanzas artísticas a otras nuevas disciplinas, como el circo.\nHemos apostado decididamente por estas enseñanzas para dotarlas del marco apropiado y específico \nque requieren, respetando sus peculiaridades e integrándolas plenamente — y lo digo alto y claro— en el \nEspacio Europeo de Educación Superior. En este proceso hemos avanzado en la democratización y en la \nigualdad de oportunidades en el acceso a esta formación, garantizando al estudiantado una formación de \nalto nivel y de alta calidad. Impulsamos la transferencia, el intercambio de conocimientos en el campo de \nlas artes y la innovación y la investigación en sus dimensiones teórica, tecnológica, científica, creativa y \nperformativa, y para ello hemos introducido un nuevo capítulo específico dedicado a la investigación y, \nademás, con perspectiva de género.\nEra necesario ordenar estas enseñanzas y sus titulaciones, los estudios de grado y máster, las pruebas \nde acceso; dotar de mayor autonomía organizativa y de gestión a los centros; reconocer derechos al \nalumnado; ordenar los cuerpos docentes; establecer las relaciones con las universidades y el reconocimiento \ny características que acompañan al proceso de investigación. Lo hemos hecho, señorías. Podemos estar \norgullosos del alto nivel de diálogo y consenso alcanzado, que se traduce en la incorporación de nada más \ny nada menos que 182 enmiendas. Son 182 enmiendas de las 348 presentadas a la ley, más de la mitad. \nAsí que enhorabuena a todos los grupos por esa capacidad de diálogo y de consenso, porque con estas \nenmiendas hemos logrado ampliar la autonomía académica de los centros para poder concretar sus \nplanes de estudio, las pruebas de acceso y, también, la participación de las agencias de calidad.\nLas estudiantes y los estudiantes de estas disciplinas van a tener reconocidos más derechos, como el \nderecho a la participación en los órganos de gobierno, en el Consejo Superior de Enseñanzas Artísticas, \na compatibilizar estudios y otras actividades; además, creamos un estatuto básico del estudiante, y algo \nque es de justicia, señorías: se les reconoce a los estudiantes por primera vez ese derecho a acceder en \nigualdad de condiciones que los estudiantes universitarios a las becas y ayudas al estudio, algo de lo que \nme siento profundamente orgullosa. (Aplausos).\nPor primera vez, regulamos en las enseñanzas artísticas profesionales itinerarios académicos \nespecíficos que permiten obtener titulación y una acreditación oficial de determinadas competencias \nprofesionales, favoreciendo así la empleabilidad del alumnado que finalice estos estudios, y algo \nfundamental en este sector: las equivalencias de las enseñanzas profesionales con otras enseñanzas y la \ncompatibilización de la actividad docente con la contratación laboral artística.\nLos docentes también tienen un papel muy destacado en esta ley. Se crean cuatro cuerpos docentes \ny se regula el profesorado especialista y visitante, profesorado de alto prestigio de cualquier nacionalidad. \nPor cierto, no nos olvidamos tampoco de crear las licencias por actividad profesional.\nLa ley es innovadora en su apertura ante otras instituciones para impulsar la calidad de la oferta, o \npara enfoques interdisciplinares, o para abrir nuevas vías de cooperación a través de redes de centros, o \npara la creación de los campus de las artes. Y, finalmente, se abre la posibilidad de algo tan importante \ncomo la convocatoria de premios, reconocimientos y concursos de carácter estatal que pueden beneficiar \na estudiantes, docentes y centros de enseñanzas artísticas. En definitiva, vamos a aprobar la ley de \ncve: DSCD-15-PL-31\n \nenseñanzas artísticas, la cuarta ley de este Gobierno, que cierra una reforma integral de toda la educación \nen nuestro país. Enhorabuena al sector.\nNo obstante, no podemos entender la posición de VOX, cuyas únicas enmiendas se han centrado en \nun rechazo frontal al lenguaje inclusivo y al Estado de las autonomías, pero nada que ver con el contenido \nde esta ley. Y tampoco podemos entender la posición del Partido Popular. Por cierto, señor Clavell, a usted \nle puede la condición; nos parece lamentable que ataque a la única persona que no se puede defender en \neste hemiciclo. (Prolongados aplausos). Es incomprensible su abstención, llegan solo con doce \nenmiendas vivas, lo que muestra el gran acuerdo y consenso que hemos alcanzado. Son doce enmiendas \nvivas, una de las cuales, además, va sobre la cotización a la Seguridad Social. Por cierto, se olvidan de \nmencionar a los estudiantes de las enseñanzas artísticas. Absolutamente incomprensible, no tienen \nninguna excusa y una vez más se van a quedar fuera de ese gran acuerdo, como ya lo han hecho con \notras leyes educativas anteriormente.\nFinalizo. Debemos estar muy satisfechos con el trabajo realizado y con un acuerdo del que, sin duda, \nse van a beneficiar los artistas y los profesionales de este mundo. Gracias a ellos, tendremos múltiples \nocasiones de poder asistir a manifestaciones artísticas de las distintas disciplinas, que además son motivo \nde un gran reconocimiento nacional e internacional y son un orgullo para nuestro país, marca España. \nEnhorabuena otra vez al sector y muchas gracias a los grupos y a todas las organizaciones por su apoyo \na esta ley. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora Martínez.\nEn nombre del Gobierno, tiene ahora la palabra la ministra de Educación, Formación Profesional y \nDeportes. Cuando quiera.\nLa señora MINISTRA DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES (Alegría \nContinente): Muchísimas, gracias. Gracias, presidenta.\nSeñorías, tan solo unas breves palabras antes de este turno final previo a la votación para expresar \nespecialmente mi agradecimiento a todos los que han participado en la elaboración de esta importante ley \nde enseñanzas artísticas, que se va a someter a votación en próximos minutos en esta Cámara.\nPor supuesto, ya saben — lo han dicho todos ustedes— que esta es una ley largamente demandada, \nque además ha generado muchísimas expectativas y mucha participación. Yo estoy profundamente \nsatisfecha, porque la ley que hoy se aprueba es una ley coral, profundamente participada. Hemos recogido \nmultitud de aportaciones de colectivos, asociaciones, sindicatos, administraciones y también de los \ndistintos grupos parlamentarios. Quiero también en estas breves palabras trasladar mi agradecimiento, \nporque muchos de ellos están hoy en la tribuna de invitados. Gracias, mis gracias más sinceras y un \nabrazo por haber hecho de esta ley una ley muchísimo mejor de la que llegó a esta Cámara. (Aplausos).\nCuando una ley se presenta, la primera pregunta que tenemos que hacer es qué teníamos hasta \nahora y, sobre todo, en qué va a mejorar la vida de la gente cuando aprobemos esa ley. Ustedes lo han \ndicho: nos encontrábamos ante un vacío legal desde el año 1990, con la LOGSE, cuando se refería a las \nenseñanzas artísticas como esas enseñanzas de régimen especial. Por eso, con la aprobación de esta ley \nnos hemos querido dirigir, en primer lugar, a las propias enseñanzas artísticas, porque había que \nordenarlas, actualizarlas, incorporarlas además a esa realidad del siglo XXI y reforzar, sobre todo, la \nvalidez de las enseñanzas y de las titulaciones dentro del Espacio Europeo de la Educación Superior. \nTambién queríamos dirigirnos a los centros educativos, dotándoles de la necesaria autonomía y dándoles \nde mejores y mayores estructuras. Queríamos y queremos dirigirnos al profesorado; había que ordenar \nsus cuerpos docentes, mejorar su estatus y dar cauce a toda la libertad creativa. Igualmente, por supuesto \nque queríamos dirigirnos a los alumnos, ampliando sus ofertas formativas, el acceso, la movilidad y sus \nderechos de participación y representación. Además, cómo no, hemos querido dirigirnos claramente a \ntodos los artistas y creadores que ya están fuera del sistema educativo, encontrando fórmulas que \nacrediten sus competencias y su trayectoria profesional para favorecer su empleabilidad y su movilidad \nlaboral. Y, cómo no, atender a uno de los principales sectores que tiene nuestro país, que es el sector \nartístico y cultural, que da empleo nada más y nada menos que a más de 700 000 personas en nuestro \npaís. Por supuesto, todo ello siempre desde el absoluto respeto a las competencias de cada cual, no solo \nsin invadir los ámbitos competenciales de las comunidades autónomas, sino dotándolas de una plataforma \nnormativa en la que acoger todo lo que actualmente ya existe o desarrollar nuevos proyectos de futuro.\nComo les decía, estamos ante una ley participada y dialogada, una ley auténticamente coral y, por eso, \nhoy tenemos delante de nosotros una ley abierta y flexible, donde los distintos agentes y administraciones \ncve: DSCD-15-PL-31\n \nvan a tener un papel fundamental en su desarrollo reglamentario; donde van a quedar integrados todos los \nniveles y modalidades de las enseñanzas artísticas; donde vamos a asistir a la conversión de los centros en \nverdaderos focos de creación cultural y artística; donde vamos a ver la creación de los campus de las artes; \ndonde el profesorado verá aumentadas sus expectativas de carrera profesional, su movilidad y su libertad \ncreativa, y el alumnado va a aumentar también sus derechos, sus posibilidades y va a compatibilizar estudios \no incluso sus becas. Lo más importante es que cuando hablamos de estas enseñanzas artísticas estamos \nhablando de 689 centros educativos, de más de 141 000 alumnos y alumnas y de más de 14 000 docentes \nque hoy claramente están de enhorabuena. (Aplausos).\nSeñorías, una última reflexión. Las sociedades, los gobiernos y las distintas administraciones debemos \ncuidar de nuestros artistas, brindarles más oportunidades, reconocer su labor y fomentar nuevas \nvocaciones; pero no es solo por ellos, la creatividad y el arte son palancas imprescindibles del desarrollo \nsocial y económico de nuestra identidad colectiva, de nuestro crecimiento ético e intelectual. Nuestra \nfelicidad, nuestro bienestar, nuestra libertad y nuestra prosperidad se componen, seguramente, de muchas \ncosas, pero ninguna de ellas puede concebirse en una sociedad libre y culta sin el arte y la cultura.\nMuchas gracias a todos los que lo han hecho posible, y especialmente, en este momento decisivo, a los \ngrupos parlamentarios que van a apoyar este proyecto de ley de enseñanzas artísticas. Siempre hemos \ndemandado los necesarios consensos, especialmente en las distintas leyes educativas. Hoy tienen ustedes \nla oportunidad de hacer realidad esa demanda social que siempre nos han requerido. Hoy tienen ustedes \nque sacar adelante una importante ley que viene siendo demandada en nuestro país desde el año 1990, que \natiende a necesidades y a demandas de un importante sector de nuestro país, el sector artístico y cultural. \nHoy tienen ustedes la oportunidad de dar ese consenso, que es tan importante, también en materia educativa.\nMuchísimas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora ministra.\nLes anuncio que votaremos en tres minutos. (Pausa).\nVOTACIÓN."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Empezamos la votación.\nProyecto de ley por la que se regulan las enseñanzas artísticas superiores y se establece la organización \ny equivalencia de las enseñanzas artísticas profesionales. Enmiendas presentadas por la señora Valido \nGarcía, del Grupo Parlamentario Mixto. Votamos las enmiendas 5 y 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 1; en contra, 290; \nabstenciones, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos la enmienda número 9, del Grupo Parlamentario Mixto, señora Valido.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 6; en contra, 182; \nabstenciones, 159."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos el resto de enmiendas de la señora Valido, del Grupo Mixto.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 1; en contra, 319; \nabstenciones, 28."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nPasamos a votar las enmiendas presentadas por el Grupo Parlamentario Mixto, en este caso por el \nseñor Rego Candamil. Empezamos votando la enmienda número 59.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 13; en contra, 321; \nabstenciones, 14.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos la enmienda número 60.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 12; en contra, 333; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos la enmienda número 61.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 171; en contra, 170; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda aprobada.\nVotamos el resto de enmiendas que ha presentado el señor Rego Candamil.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 21; en contra, 320; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nPasamos a votar las enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu. Votamos, \nen primer lugar, la enmienda número 169.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 22; en contra, 316; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos el resto de enmiendas presentadas por el Grupo Parlamentario Euskal Herria Bildu.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 30; en contra, 316; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nPasamos a votar las enmiendas presentadas por el Grupo Parlamentario Junts per Catalunya. \nVotamos, en primer lugar, la enmienda 84.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 12; en contra, 321; \nabstenciones, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos conjuntamente las enmiendas 83, 87, 94 y 96.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 19; en contra, 322; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos la enmienda número 89.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 158; en contra, 183; \nabstenciones, 7.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos la enmienda número 95.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 150; en contra, 197; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos la enmienda 97.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 175; en contra, 170; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda aprobada.\nVotamos la enmienda 103.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 18; en contra, 320; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos el resto de las enmiendas presentadas por Junts per Catalunya.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 26; en contra, 321; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Pasamos a votar las enmiendas presentadas por el Grupo Parlamentario \nRepublicano.\nVotamos, en primer lugar, las enmiendas 212 y 265.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 167; en contra, 180; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos el resto de las enmiendas presentadas por el Grupo Parlamentario Republicano.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 25; en contra, 317; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nPasamos a la votación de las enmiendas presentadas por el Grupo Parlamentario VOX.\nVotamos, en primer lugar, las enmiendas 299, 301 a 303, 306 y 308.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 33; en contra, 177; \nabstenciones, 138."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos de la enmienda 304.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 171; en contra, 175; \nabstenciones, 1.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos el resto de las enmiendas presentadas por el Grupo Parlamentario VOX.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 33; en contra, 312; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos las enmiendas presentadas por el Grupo Parlamentario Popular.\nEn primer lugar, votamos las enmiendas 315, 317 y 320.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 172; en contra, 175; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos la enmienda 321.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 137; en contra, 208; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos la enmienda 322.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 151; en contra, 196; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos la enmienda 327.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 150; en contra, 193; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos las enmiendas 332 y 340.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 138; en contra, 207; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos la enmienda 339.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 141; en contra, 170; \nabstenciones, 35."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nVotamos el resto de las enmiendas presentadas por el Grupo Parlamentario Popular.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 138; en contra, 209; \nabstenciones, 1.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nVotamos las correcciones técnicas.\nEn primer lugar, corrección técnica número 1 a la exposición de motivos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 314; en contra, 1; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda aprobada.\nVotamos la corrección técnica número 2 a la disposición transitoria segunda.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 313; en contra, 1; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda aprobada.\nAVOCACIÓN DE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY DE PREVENCIÓN DE LAS PÉRDIDAS Y EL DESPERDICIO ALIMENTARIO. \n(Número de expediente 121/000004)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Continuamos con el punto del orden del día relativo a la propuesta de \navocación por el Pleno de la Cámara de la deliberación y votación final del Proyecto de ley de prevención \nde las pérdidas y el desperdicio alimentario. Este asunto se somete a votación sin debate previo, tal y \ncomo acordamos en la Junta de Portavoces. Esta propuesta se someterá a votación presencial en el \nhemiciclo, junto con el resto de los asuntos pendientes, al final de la sesión. Desde las 10:40, que son \nahora, hasta las 11:10, podrán votar telemáticamente todos estos asuntos. Por tanto, se suspende la \nsesión hasta las 11:25. La votación presencial se producirá una vez reanudada la misma.\nSe suspende la sesión a las diez y cuarenta minutos de la mañana.\nSe reanuda la sesión a las once y veinticinco minutos de la mañana."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Reanudamos la sesión. Continuamos con las votaciones.\nPROPOSICIONES NO DE LEY. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, RELATIVA AL IMPULSO DE LA \nRED FERROVIARIA DE ALTA VELOCIDAD-Y VASCA. (Número de expediente 162/000087)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Vamos a empezar votando las proposiciones no de ley.\nEn primer lugar, votamos la proposición no de ley presentada por el Grupo Parlamentario Popular en \nel Congreso relativa al impulso de la red ferroviaria de Alta VelocidadY vasca. Se vota en los términos \nresultantes de la incorporación de la enmienda presentada por el Grupo Parlamentario Mixto.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 339; a favor, 181; en contra, 16; \nabstenciones, 142."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada. (Aplausos).\n— DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA MOVILIDAD SOSTENIBLE Y EL \nFOMENTO DEL USO DE LA BICICLETA. (Número de expediente 162/000078)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "la movilidad sostenible y el fomento del uso de la bicicleta",
+   "text": "Votamos la proposición no de ley del Grupo Parlamentario Socialista sobre \nla movilidad sostenible y el fomento del uso de la bicicleta. Se vota en los términos de la enmienda \ncve: DSCD-15-PL-31\n \ntransaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional \nSUMAR y el Grupo Parlamentario Republicano.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 339; a favor, 172; en contra, 33; \nabstenciones, 134."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobada. (Aplausos).\nMOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO VOX, SOBRE LAS POLÍTICAS QUE VA A DESARROLLAR EL \nMINISTRO DE CULTURA PARA DEFENDER EL LEGADO CULTURAL Y CIVILIZADOR DE ESPAÑA. \n(Número de expediente 173/000013)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Pasamos ahora a la votación de las diferentes mociones.\nEmpezamos con la votación de la moción consecuencia de interpelación urgente del Grupo \nParlamentario VOX sobre las políticas que va a desarrollar el ministro de Cultura para defender el legado \ncultural y civilizador de España. Se vota en los términos resultantes de la incorporación de la enmienda \npresentada por el Grupo Parlamentario Popular en el Congreso.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 170; en contra, 173."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazada.\n— DEL GRUPO PARLAMENTARIO MIXTO (SEÑORA BELARRA), EN RELACIÓN CON LA POLÍTICA \nGENERAL DEL GOBIERNO SOBRE LA SITUACIÓN DE LOS TRABAJADORES Y TRABAJADORAS \nDEL CAMPO. (Número de expediente173/000014)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Votamos la moción consecuencia de interpelación urgente del Grupo \nParlamentario Mixto, en relación con la política general del Gobierno sobre la situación de los trabajadores \ny trabajadoras del campo. Votamos separadamente por puntos.\nPunto número 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 42; en contra, 299; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 162; en contra, 143; \nabstenciones, 38."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPunto número 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 336; a favor, 146; en contra, 154; \nabstenciones, 36.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 169; en contra, 142; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPunto número 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 44; en contra, 13; \nabstenciones, 286."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPunto número 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 341; a favor, 44; en contra, 152; \nabstenciones, 145."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 56; abstenciones, 288."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPunto número 8.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 160; en contra, 152; \nabstenciones, 32."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPunto número 9.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 44; en contra, 292; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 10.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 57; en contra, 170; \nabstenciones, 118."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 11.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 46; en contra, 253; \nabstenciones, 45.\ncve: DSCD-15-PL-31"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 12.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 43; en contra, 287; \nabstenciones, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 13.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 36; en contra, 293; \nabstenciones, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 14.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 32; en contra, 275; \nabstenciones, 38."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPunto número 15.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 43; en contra, 290; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nFinalmente, punto número 16.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 162; en contra, 176; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, RELATIVA A LA RESPONSABILIDAD \nDEL GOBIERNO EN LOS HECHOS QUE DERIVARON EN LAS DETENCIONES POR EL PRESUNTO \nCOBRO DE COMISIONES ILEGALES EN LA VENTA DE MASCARILLAS DURANTE LA PANDEMIA \nDE LA COVID-19. (Número de expediente 173/000015)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Vamos a votar la moción consecuencia de interpelación urgente del Grupo \nParlamentario Popular en el Congreso, relativa a la responsabilidad del Gobierno en los hechos que \nderivaron en las detenciones por el presunto cobro de comisiones ilegales en la venta de mascarillas \ndurante la pandemia de la COVID-19. Se vota en los términos resultantes de la incorporación de la \nenmienda presentada por el Grupo Parlamentario VOX.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 171; en contra, 160; \nabstenciones, 15."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "INICIATIVAS LEGISLATIVAS",
+   "text": "Se aprueba la moción. (Aplausos).\ncve: DSCD-15-PL-31\n \nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN. CONTINUACIÓN):\n— PROYECTO DE LEY POR LA QUE SE REGULAN LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES \nY SE ESTABLECE LA ORGANIZACIÓN Y EQUIVALENCIAS DE LAS ENSEÑANZAS ARTÍSTICAS \nPROFESIONALES. (Número de expediente 121/000005)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "INICIATIVAS LEGISLATIVAS",
+   "text": "Votamos ahora el dictamen del Proyecto de Ley por la que se regulan las \nenseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas \nartísticas profesionales. Votamos. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 175; en contra, 32; \nabstenciones, 139."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "INICIATIVAS LEGISLATIVAS",
+   "text": "En consecuencia, queda aprobado dicho dictamen. (Aplausos de las señoras \ny los señores diputados del Grupo Parlamentarios Socialista y del Grupo Parlamentario Plurinacional \nSUMAR, puestos en pie, y de algunos miembros del Gobierno, también puestos en pie).\nAVOCACIÓN DE INICIATIVAS LEGISLATIVAS. (VOTACIÓN):\n— PROYECTO DE LEY DE PREVENCIÓN DE LAS PÉRDIDAS Y EL DESPERDICIO ALIMENTARIO. \n(Número de expediente 121/000004)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "INICIATIVAS LEGISLATIVAS",
+   "text": "Pasamos ahora a la votación de las solicitudes de avocación por el Pleno \nde la Cámara de la deliberación y votación final del Proyecto de Ley de prevención de las pérdidas y el \ndesperdicio alimentario, presentadas por los grupos parlamentarios Republicano y Popular. Empezamos \nla votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 344."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "INICIATIVAS LEGISLATIVAS",
+   "text": "En consecuencia, queda avocado al Pleno el proyecto de ley.\nSe levanta la sesión. La siguiente sesión plenaria comenzará en cinco minutos.\nEran las once y cuarenta y cinco minutos de la mañana.\nEn el caso de las intervenciones realizadas en las lenguas españolas distintas del castellano que son también oficiales en las \nrespectivas Comunidades Autónomas de acuerdo con sus Estatutos, el Diario de Sesiones refleja la interpretación al \ncastellano y la transcripción de la intervención en dichas lenguas facilitadas por servicios de interpretación y transcripción.\ncve: DSCD-15-PL-31\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}

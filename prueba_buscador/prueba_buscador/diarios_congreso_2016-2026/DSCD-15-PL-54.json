@@ -1,0 +1,1088 @@
+{
+ "id": "DSCD-15-PL-54",
+ "legislatura": 15,
+ "fecha": "27 de junio de 2024",
+ "tema_sesion": "Dictámenes de comisiones sobre iniciativas legislativas. — Proyecto de ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres. «BOCG. Congreso de los Diputados», serie A, número 1-1, de 15 de diciembre de 2023. (Número de expediente 121/000001). — Proyecto de ley de cr",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 25,
+   "en_contra": 293,
+   "abstenciones": 27
+  },
+  {
+   "emitidos": null,
+   "a_favor": 176,
+   "en_contra": 158,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": null,
+   "a_favor": 178,
+   "en_contra": 137,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": null,
+   "a_favor": 339,
+   "en_contra": 1,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 24,
+   "en_contra": 322,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 29,
+   "en_contra": 318,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 25,
+   "en_contra": 296,
+   "abstenciones": 26
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 12,
+   "en_contra": 334,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 24,
+   "en_contra": 322,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 46,
+   "en_contra": 300,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 20,
+   "en_contra": 327,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 17,
+   "en_contra": 318,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 44,
+   "en_contra": 291,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 138,
+   "en_contra": 208,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 138,
+   "en_contra": 176,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 136,
+   "en_contra": 176,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 144,
+   "en_contra": 203,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 171,
+   "en_contra": 175,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 175,
+   "en_contra": 171,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 18,
+   "en_contra": 322,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 25,
+   "en_contra": 322,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 18,
+   "en_contra": 327,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 25,
+   "en_contra": 322,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 17,
+   "en_contra": 324,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 168,
+   "en_contra": 177,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 25,
+   "en_contra": 293,
+   "abstenciones": 27
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 176,
+   "en_contra": 158,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 182,
+   "en_contra": 44,
+   "abstenciones": 121
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 144,
+   "en_contra": 162,
+   "abstenciones": 40
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 138,
+   "en_contra": 176,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 184,
+   "en_contra": 42,
+   "abstenciones": 119
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 176,
+   "en_contra": 36,
+   "abstenciones": 134
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 174,
+   "en_contra": 172,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 181,
+   "en_contra": 166,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 171,
+   "en_contra": 169,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 170,
+   "en_contra": 163,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 176,
+   "en_contra": 170,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 137,
+   "en_contra": 178,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 182,
+   "en_contra": 166,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 171,
+   "en_contra": 176,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 33,
+   "en_contra": 176,
+   "abstenciones": 138
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 33,
+   "en_contra": 177,
+   "abstenciones": 138
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 33,
+   "en_contra": 177,
+   "abstenciones": 137
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 170,
+   "en_contra": 177,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 171,
+   "en_contra": 177,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 171,
+   "en_contra": 177,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 177,
+   "en_contra": 171,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 177,
+   "en_contra": 171,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 348,
+   "a_favor": 178,
+   "en_contra": 137,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 347,
+   "a_favor": 339,
+   "en_contra": 1,
+   "abstenciones": 7
+  }
+ ],
+ "n_intervenciones": 111,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Buenos días, señores y señoras diputadas.\nSe reanuda la sesión.\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY ORGÁNICA DE REPRESENTACIÓN PARITARIA Y PRESENCIA EQUILIBRADA \nDE MUJERES Y HOMBRES. (Número de expediente 121/000001)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Continuamos con el punto relativo a dictámenes de comisiones sobre \niniciativas legislativas. En concreto, el relativo al Proyecto de ley orgánica de representación paritaria y \npresencia equilibrada de mujeres y hombres. Para defender las enmiendas formuladas a esta iniciativa \nlegislativa, tiene la palabra en primer lugar, por el Grupo Parlamentario Mixto — que en este turno también \nfijará posición—, don Alberto Catalán Higueras, por un tiempo de un minuto y medio."
+  },
+  {
+   "speaker": "CATALÁN HIGUERAS",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señora presidenta. Señorías, muy buenos días.\nMantenerse en el poder a cualquier precio, esta es la obsesión del Gobierno. Para ello ha contado \ncon el apoyo incondicional de sus socios de investidura. Señorías, en ninguna ensoñación del \nsecesionismo de la extrema izquierda y de los herederos políticos de ETA se hubiesen imaginado esta \nsituación; tienen al Gobierno en sus manos y lo van a exprimir todo lo que puedan. Pero es que los \ncontrapoderes del Estado de derecho en este momento están siendo atacados, insultados, despreciados. \nAhora, con esta ley, le ha tocado al Senado, al que el Gobierno ha vuelto a someter a la irrelevancia. \nAdemás, la decisión se ha realizado atacando los derechos de los representantes de la soberanía \npopular. Se han introducido en el texto enmiendas de manera ilegal e inconstitucional, como han puesto \nde manifiesto los servicios jurídicos de la Cámara. Luego se hablará de regeneración, de derechos, de \nlibertad. Pura hipocresía.\nPero si escandaloso es el fondo, vergonzosa es también la forma. A ustedes todo les vale. Utilizan una \nley que se dice para profundizar en los derechos entre los hombres y las mujeres y lo hacen, además, de \nmanera trilera. Utilizan la ley de paridad a su antojo. Lo hemos denunciado con ejemplos claros, como lo \nque ocurrió en el Ayuntamiento de Pamplona. Ustedes, para pagar la compra de votos de Bildu, les \nentregan el Ayuntamiento de Pamplona, quitando de la alcaldía a una mujer para poner a un hombre \ncalificado por una portavoz del Grupo Socialista como machista (aplausos), y para colocar como teniente \nde alcalde en dicho ayuntamiento a otra persona condenada, señorías — condenada—, por agredir a una \nconcejal y a una policía municipal. Esta es la triste y vergonzosa realidad.\nMuchas gracias.\ncve: DSCD-15-PL-54"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Catalán.\nTiene ahora la palabra doña Cristina Valido García, también por un tiempo de un minuto y medio."
+  },
+  {
+   "speaker": "VALIDO GARCÍA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Buenos días, señorías.\nHoy se cumple con un mandato constitucional, hoy se cumple con los mandatos europeos, hoy \ncumplimos con la justicia social. Si no hay paridad, si no hay igualdad, si esto no es real, no es posible la \ndemocracia.\nAyer se presentaba un libro en este Congreso que habla de momentos estelares del parlamentarismo \nhasta el año 1978. Reúne algunos de los mejores discursos que se han producido desde que tenemos \nParlamento hasta esa fecha. Yo espero que, en algunos años, cuando se publique una segunda edición y \nse vuelva a hablar de momentos estelares, podamos hablar del día de hoy y podamos hablar de grandes \ndiscursos en favor de la igualdad y de la paridad a la que tenemos derecho.\nYo espero que hoy no enturbiemos y mezclemos un día tan importante para las mujeres no solo en el \nEstado español, sino en Europa, y que en el resto del mundo allí donde las mujeres no tienen voz también \nse planteen que es una cuestión de justicia. Insisto, no hay democracia si no estamos representadas como \ndebemos. Todavía hoy hemos visto, en esos acuerdos en la Unión Europea para formar el nuevo Consejo, \nreuniones en las que no aparece una sola mujer, siendo un número muy importante en esa Cámara. Por eso, \nnosotros no solo lo apoyamos, lo defendemos, lo promocionamos y lo exigimos allí donde no se cumple. \nOjalá que los discursos de hoy puedan ser recogidos como momentos estelares de la justicia social.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora Valido.\nAhora es el turno de don Néstor Rego Candamil, también por un tiempo de un minuto y medio."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Grazas, señora presidenta. Bo día.\nSen dúbida, hoxe dáse un paso importante na igualdade cunha lei que é imperfecta, como todas, que \nresponde ó que é xa unha demanda social e que, ó mesmo tempo, a reforza rompendo inercias que \nexisten na sociedade. Nós traballamos para tentar mellorar o texto inicial e alegrámonos, congratulámonos \nespecialmente, de que, polo menos nun aspecto, a achega do BNG fose incorporada de maneira clara.\nGaliza tiña a que é sen dúbida a lexislación máis avanzada do Estado español para protexer, para \nevitar a discriminación das mulleres no ámbito da ciencia e a investigación: unha proposta do BNG \nchamada Lei Ángeles Alvariño que agora, grazas a unha emenda do BNG, se traslada tamén a esta lei de \nparidade, como digo, para evitar que nese ámbito as mulleres poidan ser prexudicadas na súa carreira \nprofesional por razóns como permisos de maternidade ou de coidado de fillos.\nEn todo caso, hai unha emenda do BNG que mantemos viva que non entendemos por que non foi \nincorporada, que é a número 68, que fai referencia ó feito de que, respectando o criterio xeral de listas \ncremalleira, se poida excepcionar precisamente para promover unha maior presenza de mulleres no \námbito institucional. Cal é o problema de que nunha lista electoral poidan ir tres mulleres seguidas en cada \ntramo de cinco, como, por exemplo, fixo o BNG nas últimas eleccións no caso de Galiza? Tendo en conta \nademais, que, se non se regulan as cabezas de lista, temos casos como as eleccións municipais nas que \nmaioritariamente continúan sendo homes os cabezas de lista.\nParécenos unha pena que isto non se incorpore. Estamos a tempo de facelo e, por tanto, solicitamos \na todos os grupos políticos que apoien esta emenda do BNG, porque vai en beneficio xustamente do que \npretende a lei, que é garantir unha maior presenza das mulleres no espazo público e, neste caso, na \nrepresentación institucional. Moito obrigado.\nGracias, señora presidenta. Buenos días.\nSin duda, hoy se da un paso importante en la igualdad. Es una ley que es imperfecta, como todas, que \nresponde a lo que ya es una demanda social y que al mismo tiempo la refuerza, rompiendo inercias que \nexisten en la sociedad. Nosotros trabajamos para intentar mejorar el texto inicial y nos alegramos y felicitamos \nespecialmente de que por lo menos en un aspecto, lo que ha aportado el BNG, su contribución haya sido \nincorporada de manera clara. Galicia tenía la que sin duda es la legislación más avanzada del Estado \nespañol para proteger y evitar la discriminación de la mujer en el ámbito de la ciencia y de la investigación, \nuna propuesta del BNG llamada ley Ángeles Alvariño, que ahora, gracias a una enmienda del BNG, se \ntraslada también a esta ley de paridad, como digo, para evitar que en ese ámbito las mujeres puedan ser \nperjudicadas en su carrera profesional por razones como permisos de maternidad o de cuidado de hijos.\ncve: DSCD-15-PL-54\n \nEn todo caso, hay una enmienda del BNG que mantenemos viva, y que no entendemos por qué no ha \nsido incorporada, que es la número 68, que hace referencia al hecho de que, respetando el criterio general \nde listas cremallera, se pueda excepcionar precisamente para promover una mayor presencia de mujeres \nen el ámbito institucional. ¿Cuál es el problema de que en una lista electoral puedan ir tres mujeres \nseguidas en cada tramo de cinco como, por ejemplo, hizo el BNG en las últimas elecciones en el caso de \nGaliza? Teniendo en cuenta, además, que si no se regulan las cabezas de lista, tenemos casos como las \nelecciones municipales en las que mayoritariamente continúan siendo hombres los cabeza de lista. Nos \nparece una pena que esto no se incorpore, estamos a tiempo de hacerlo y, por lo tanto, solicitamos a \ntodos los grupos parlamentarios que apoyen esta enmienda del BNG, porque va en beneficio justamente \nde lo que pretende la ley, que es garantizar una mayor presencia de las mujeres en el espacio público, y \nen este caso en la representación institucional.\nMuchas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nTiene ahora la palabra la señora Belarra Urteaga por un tiempo de dos minutos y medio."
+  },
+  {
+   "speaker": "BELARRA URTEAGA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, presidenta. Buenos días, señorías.\nQuerría que mis primeras palabras fueran de solidaridad con el pueblo de Bolivia, que ayer sufrió un \ngolpe de Estado por parte de unidades del ejército, que ha sido contenido por un Gobierno — el suyo— \nlegítimo y también por un pueblo movilizado que ha dicho basta a la violencia y a la barbarie. (Aplausos). \nDesde aquí, jayaya Bolivia. Todo el apoyo al pueblo de Bolivia.\nHoy debatimos aquí la ley de paridad y, desde mi punto de vista, esta ley evidencia con total claridad \nlo que el Partido Socialista quiere de esta Legislatura, que es pactar todo lo que consideran verdaderamente \nimportante con su nuevo socio, el Partido Popular, todas las cuestiones de Estado, y después traer aquí \ncuestiones que consideran de maquillaje; cuestiones menores que lo que buscan es darle una pátina \nsocial a este Gobierno. Desde luego, a nosotras nos parece lamentable que teniendo la mayoría \ndemocrática suficiente en esta Cámara para abordar transformaciones, como una nueva ley de medios o \ncomo una democratización verdadera de la justicia, se esté renunciando a ese camino y se esté buscando \nel apoyo del Partido Popular. Además, el Grupo Socialista trajo una ley de paridad a esta Cámara que \ntenía un error de bulto, un error de nacimiento, pues incluía una cuota de hombres. Hoy, con los votos \nimprescindibles de Podemos, hemos logrado romper esa cuota de hombres, que era un problema \nestratégico. Con la ley tal y como la había traído el Grupo Socialista, el gabinete ministerial de Irene \nMontero habría tenido que despedir a mujeres o, como ya ocurrió en el Parlamento de Canarias en la \npasada legislatura, una mujer no pudo acceder a la Mesa de gobierno del Parlamento precisamente por \nuna ley como esta. Nos parecía que ese gravísimo error hacía incompatibles nuestros votos con la ley y \ngracias a esa presión hoy hemos roto la cuota de hombres.\nSeñorías, el feminismo es acabar con la desigualdad estructural que sufrimos las mujeres por el hecho \nde ser mujeres. La cuota sirve como un mecanismo de justicia, pero no es suficiente, lo estamos viendo \nen el panorama internacional. No basta con que haya mujeres en los puestos de responsabilidad. Ahí \ntenemos a la señora Von der Leyen defendiendo un genocidio contra el pueblo de Palestina y defendiendo \nal Estado terrorista de Israel; ahí tenemos a la señora Meloni también, haciéndole un lavado de cara \nfeminista a un Gobierno de ultraderecha, que ataca directamente los derechos LGTBI y los derechos de \nlas mujeres. Nosotras estamos convencidas de que necesitamos mujeres feministas al frente, mujeres \ndispuestas a cambiarlo todo, que es lo que nos pide el feminismo.\nEl Gobierno ha demostrado en este año que ha metido el feminismo en un cajón, que ha relegado el \nfeminismo a la cuarta línea de la acción de Gobierno y, desde luego, nosotras no lo vamos a permitir. Si el \nGobierno no toma la iniciativa, nosotras desde aquí, de la mano de la mayoría democrática, vamos a \nempujar todo lo que llevan reclamando las mujeres de este país tanto tiempo, como, por ejemplo, ese \npermiso remunerado de ocho semanas para los niños y niñas hasta los ocho años, que está haciendo que \neste julio, una vez más, la emergencia de conciliación se lo ponga muy difícil a las familias.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora Belarra.\nPor el Grupo Parlamentario Vasco (EAJ-PNV) tiene la palabra el señor Agirretxea Urresti por un tiempo \nde siete minutos.\ncve: DSCD-15-PL-54"
+  },
+  {
+   "speaker": "AGIRRETXEA URRESTI",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "",
+   "text": "Egun on. Buenos días a todas y a todos.\nAgirretxea Urresti: Egun on.\nLege honen arrazoi azalpenak zioen bezalaxe, lege proiektu honek gizon eta emakumeen arteko \nberdintasunerako 2007/3 lege organikoaren xedapen gehigarriak zioenari jarraituz, gizon eta emakumeen \narteko presentzia orekatua bultzatzea du bere helburu nagusia. Zer da presentzia orekatu bat? Ziurrenik, \niritzi ezberdinak izan ditzakegu horren inguruan. Bada, legeak zioenaren arabera, sexu bakoitzeko \npertsonak gutxienez ehuneko 40ko presentzia izatea eta inola ez ere 60koa baino gehiago. Asmo honekin, \nlege proiektu honek aldaketa esanguratsuak ezartzen ditu zenbait legetan, legeak berak beste lege batzuk \naldatzen baititu. Ondorioz, eskaturiko berdintasun horri derrigortasunezko baldintza ezarriaz, bizitza \npolitiko zein ekonomikoan zein beste alor batzuetan erabakiorrak diren gobernu eta kudeaketa organo \nbatzuetan, orain arte, zoritxarrez, organo horietan emakumeen presentzia oso gutxia, oso urria baitzen.\nBuenos días.\nEl Gobierno decía que el motivo, este proyecto de ley busca una igualdad entre hombres y mujeres, y \nsegún la disposición adicional de la Ley de 2007 tenemos el objetivo de impulsar la igualdad de los \nhombres y las mujeres. ¿Qué es una presencia equilibrada? Seguramente tengamos diversas opiniones \nal respecto. Según dicha ley, cada persona de su sexo tendría que tener una presencia del 40 % y nunca \nuna presencia superior al 60 % de la totalidad, y esta ley añade diferencias sustanciales también en \nconsecuencia. Y a esa igualdad se le incorpora una obligatoriedad, una cuota por la cual, tanto en la vida \npolítica como en el resto de la vida, se tendrá una gestión más paritaria y más equilibrada. Actualmente, \nen este momento, lamentablemente la presencia de la mujer es escasa.\nCompartimos la idea central, como decía, del proyecto y diferimos de algunas propuestas y métodos \nque hacía el Grupo Socialista en la versión original del proyecto que se nos presentó. Sin duda alguna, \nhubo un acuerdo, una negociación importante, y a partir de eso, llegamos a ciertos acuerdos, como decía. \nEse es el objetivo que dice la ley, y que expresamente indica que continúa sin corregir por completo el \ndesequilibrio que se pretende solventar. Lo que no dice la ley en su proyecto original es que los parlamentos \nde las comunidades autónomas, por ejemplo, de Castilla-La Mancha, Andalucía o Baleares, cuyo sistema \nera de listas cremallera, tampoco lo han cumplido, porque el planteamiento era: pongamos las listas \ncremallera porque, si no, la presencia de la mujer no llega a lo que debe ser. Nosotros demostramos que \ncon otro tipo de listas la presencia de la mujer era mayor. Hemos podido acordar ciertas cuestiones, no \ndel todo lo que planteábamos, pero creo que la lista cremallera — como se lo dije a la portavoz socialista \nen la Comisión— es una opción de igualdad legítima, no es la única, ni es la que garantiza la igualdad \nsolamente. Hay otros sistemas, como el que hemos defendido, por ejemplo, nosotros, en los que incluso \nva a haber más mujeres que hombres. Entiendo que hay algunos criterios ideológicos que se plantean en \nalgunas leyes, pero a veces, cuando hacemos leyes con criterios solamente ideológicos, lo que hacemos \nes crear problemas en vez de solucionarlos. Vamos a tener problemas en muchos sitios para hacer listas.\nEn el caso de Euskadi, tenemos más mujeres que hombres dispuestas a participar en la política. Con \nesta ley seguramente vamos a tener problemas para encontrar hombres. En cualquier caso, para todo lo que \nsea en beneficio de la presencia de la mujer siempre estará el Partido Nacionalista Vasco, porque lo ha \ndemostrado, porque lo ha planteado y porque lo ha hecho. A veces nos resguardamos en lo legislativo, en \nla ley, pero necesitamos acciones positivas. Que cada partido, desde su ámbito interno, decida por sí mismo \nactuar con esa discriminación positiva en favor de la mujer y no esperar a que haya una ley que se lo obligue. \nEn ese sentido, creo que ahí tenemos la labor propia nosotros para hacer y desarrollar en pro de la mujer.\nHemos llegado a muchos acuerdos, creo que algunos salvan la posibilidad de que en las elecciones \nvascas, en juntas generales por ejemplo, o en el Parlamento Vasco, podamos tener métodos para que \nhaya más presencia de la mujer con la enmienda que hemos transaccionado para esta ley. También creo \nque las poblaciones de entre 3000 y 5000 habitantes deben tener cierto margen de flexibilidad, porque la \nrigurosidad de la ley al final lo que va a conseguir es que mucha gente no esté dispuesta a participar en \nla actividad política, y eso es lo que debemos evitar.\nMantenemos viva una enmienda, porque consideramos que, independientemente de todo, el ámbito \nde los colegios profesionales es un ámbito de competencia autonómica, y lo vamos a mantener hasta el \núltimo momento. Estamos muy de acuerdo con que en los órganos directivos de los colegios profesionales \nhaya más presencia de la mujer, faltaría más, por supuesto, pero eso lo va a decidir quien es competente, \ny consideramos que el ámbito de las colegios profesionales es competencia, en este caso, de la Comunidad \nAutónoma de Euskadi. Por lo tanto, mantenemos viva esa enmienda.\ncve: DSCD-15-PL-54\n \nHacemos una última pregunta: ¿por qué el Gobierno solo ha querido llegar hasta cierto punto? ¿Por \nqué no ha entrado, por ejemplo, en ámbitos como el militar? ¿O es que ahí no existe la posibilidad de que \nhaya paridad, equilibrio, etcétera? ¿Hay lugares vetados? ¿Exigimos mucho a unos y no nos metemos \nnada con otros? Por tanto, mantenemos el criterio de que tenía que haber llegado también a más sitios.\nPor último, sé que el debate de hoy algunos lo llevarán a otros lugares. El Partido Nacionalista Vasco \nnunca ha defendido que cosas que no tienen nada que ver con lo que se está tramitando sean introducidas \nen esas leyes; el histórico del PNV lo puede demostrar. Ahora bien, que el Partido Popular no se rasgue \nlas vestiduras, porque en el año 2003, el Pleno del Congreso debatió la reforma legal impulsada por el \nGobierno en el Senado para encarcelar a quien convocase un referéndum sin el visto bueno de las Cortes. \nEl Partido Popular impidió que el Poder Judicial opinara sobre la reforma legal contra el Plan Ibarretxe. El \nPartido Popular impidió la tramitación en el Parlamento de las enmiendas en la reforma del Código Penal \ne introdujo enmiendas en la Ley de Arbitraje para que los que convocaran referéndums fueran a la cárcel. \nAhora no se rasguen las vestiduras porque aquí haya habido una forma de introducir otra enmienda en \notra ley, que tienen su pecado original desde hace tiempo.\nPor nuestra parte, nada más. Votaremos a favor de la ley. Esperemos que esta ley sirva, entre otras \ncosas, para movilizar conciencias, para que desde los ámbitos internos la gente, los partidos, los poderes, \nlos estamentos incluyan a las mujeres en sus ámbitos de gobierno, como ha de ser.\nMuchas gracias, señora presidenta."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Agirretxea.\nPor el Grupo Parlamentario Junts per Catalunya, tiene la palabra la señora Calvo Gómez por un \ntiempo de siete minutos."
+  },
+  {
+   "speaker": "CALVO GÓMEZ",
+   "party": "Junts",
+   "role": "diputado",
+   "topic": "",
+   "text": "Doncs gràcies, presidenta, i benvinguda. Senyories, senyora ministra. Bé, \nnosaltres donem per defensada la nostra esmena, que també té a veure amb els col·legis professionals, \nperò passo també a aprofitar aquesta intervenció per fer el nostre posicionament per dir que no ha estat \nfàcil ni ha estat ràpid i que, com saben totes vostès, la lluita feminista mai ho és. Però avui podem fer \nrealitat dues fites importants gràcies al terreny de joc que ens ha facilitat aquesta llei de paritat: que \ngairebé 40 anys després, el Reial decret 1006/1985, que regula la contractació dels esportistes \nprofessionals, reconegui el dret de les esportistes a la maternitat i a la conciliació, i que la llei espanyola \nde l’esport inclogui l’assetjament per raó d’autoritat o de sexe com a falta molt greu a sancionar amb \ninhabilitació immediata.\nJunts va presentar aquestes reivindicacions de justícia com a esmenes al projecte de llei de paritat, i \nla sororitat de la comissió les ha inclòs en el dictamen. I avui toca rematar la feina, aprovar la llei i pujar-les \nal marcador en favor de les esportistes i en contra del masclisme. És un avenç històric que no hauria estat \npossible sense la tossuderia feminista d’algunes persones com la María José López de l’AFE, que ens \nacompanya avui, i a qui donem la benvinguda i agraïm la seva lluita contínua, permanent i inexpugnable, \ni a qui li refermem el nostre compromís amb la igualtat, partit a partit.\nFa gairebé 40 anys, aquesta cambra va convalidar el Reial decret 1006/1985 per regular la contractació \ndels esportistes professionals. En aquest temps, la legislació laboral ha anat avançant en igualtat, però qui \nconeix el món de l’esport professional sap perfectament que vulnerar el dret a la maternitat i a la conciliació \nde les esportistes professionals era tan fàcil com marcar penals a porta buida. Estaven indefenses. Per \nmolt que aquest Reial decret 1006 deixés clar el caràcter supletori de l’Estatut dels Treballadors i la \nlegislació laboral a l’hora de defensar el dret dels i les esportistes, dels professionals, perquè la llei, el \nproblema que hi havia és que la llei laboral no aplica dins de l’especificitat dels contractes curts que \nnormalment tenen les esportistes. AFE i altres sindicats, com ara FUTPRO, demandaven una resposta per \nles necessitats de conciliació davant la maternitat o les especials condicions de preparació física que han \nde tenir les esportistes durant l’embaràs o després del part o, fins i tot, a la fase final d’una adopció. \nBraves. Ho hem aconseguit.\nI seguirem millorant la seva situació des de l’Estatut de l’Esportista. La sororitat també ha fet possible \npoder sancionar, a partir d’ara, directament, casos com el piquito no consentit de Rubiales a Jennifer \nHermoso. No podem parlar d’esmena Rubiales perquè Junts va demanar molt abans la màxima sanció \nper aquest tipus d’actituds durant la tramitació de la llei de l’esport. Però saben què? Aquesta esmena li \ndediquem a ell i a tots els que han convertit la testosterona en masclisme i en abús. S’ha acabat. Parlem \nja de paritat o representació equilibrada entre dones i homes. Ho deia l’altre dia: moltes dones estem \ncve: DSCD-15-PL-54\n \nfartes de defensar quotes, però sense quotes, moltes dones mai haurien arribat aquí, malgrat haver fet \nmèrits, algunes d’elles potser més mèrits que alguns homes.\nAmb 19 anys vaig començar en el món del periodisme esportiu del futbol. Sé com funciona el masclisme \ni he après com fer-li front. Com els deia l’altre dia, potser som nosaltres les que anem a la botiga de \ncosmètica, però alguns homes, afortunadament, cada cop menys, saben molt de maquillatge del que tapa \nla taca de la discriminació. A qui diu que aquesta llei no té en compte les dones que no se senten \nempoderades, a qui diu que està feta per les dones de les elits, les executives de les grans empreses o \nper membres del Govern, els dic: no podem canviar la base si no fem el cim. La paritat de dalt afecta a \nbaix. I necessitem que cada dona que ocupa un lloc de poder treballi pel seu relleu. Hem de crear les \ncircumstàncies perquè les nenes d’avui siguin les dones que ocupin els llocs de poder demà.\nTambé toca dir que malauradament hi ha dones més masclistes que molts homes, que aquests \nutilitzen. Són les que, enlloc d’empoderar altres dones, omplen els seus discursos d’estereotips del \npatriarcat. Avui, però, han perdut una batalla més, sempre que fem possible que la llei s’apliqui des de la \nlletra, però també des de l’esperit. Omplir els consells de dones perquè segueixin decidint i manant els \nhomes no és paritat. Per això és important saber què passa més enllà de les taules del poder.\nAlgunes dades de l’Observatori Dona, Empresa i Economia de la Cambra de Barcelona: més del 60 % \ndels titulats universitaris o de les persones que fan formació contínua són dones, però la bretxa salarial és \ndel 13,3 %, del 21 % si parlem de salaris directius. El 86 % de les excedències per tenir cura de la família \nsón de dones. La bretxa a les pensions és del 26 %, i tenim un 8 % més de risc de pobresa que els homes. \nHem guanyat el 45 % de les regidories, però ocupem, només, la tercera part de les alcaldies. I també \nestem en el mateix percentatge a la gerència i direcció de les empreses, als consells d’administració o a \nles juntes directives. I això són dades de Catalunya, millors, que consti, que a la resta de l’estat.\nPer tant, calia una llei com la que avui s’aprovarà. I seguim tenint present aquesta mentalitat \nd’observatori, per exemple, de les companyes de l’Associació 50a50 per seguir controlant que la igualtat \ns’apliqui, es respecti i es practiqui a l’esport, a l’educació, a l’empresa, a la política, a qualsevol terreny de \njoc. Avui hem marcat uns quants gols, companyes. Ara toca seguir lluitant, però no vull acabar aquest \ndiscurs sense dir unes paraules de suport a totes les persones del col·lectiu LGTBI que estan veient com \nels seus drets estan en retrocés allà on l’extrema dreta ha pres el poder. I no parlo només del poder polític, \nparlo també del que s’exerceix a través de les xarxes socials. Estem amb totes i amb tots vosaltres i el \nvostre orgull és, també, nostre. Gràcies.\nGracias, presidenta.\nSeñorías, señora ministra, nosotros damos por defendida nuestra enmienda, que también tiene que \nver con los colegios profesionales, pero paso también, aprovechando esta intervención, a presentar \nnuestro posicionamiento para decir que no ha sido fácil ni rápido y que, como todas ustedes saben, la \nlucha feminista nunca lo es.\nHoy podemos hacer realidad dos hitos importantes gracias al terreno de juego que nos ha facilitado \nesta ley de paridad, casi cuarenta años después, el Real Decreto 1006/1985, que regula la contratación \nde deportistas profesionales: que se reconozca el derecho de las deportistas a la maternidad y a la \nconciliación y que la Ley española del Deporte incluya el acoso por razón de autoridad o de sexo como \nfalta muy grave a sancionar, con inhabilitación inmediata. Junts presentó estas reivindicaciones de justicia \ncomo enmiendas al proyecto de ley de paridad y la sororidad de la Comisión las ha incluido en el dictamen. \nY hoy toca rematar la jugada, aprobar la ley y subirlas al marcador en favor de las deportistas y en contra \ndel machismo. Es un avance histórico, que no habría sido posible sin la tozudez feminista de algunas \npersonas como María José López, de la AFE, que nos acompaña hoy y a quien damos la bienvenida; \nagradecemos su lucha continua, permanente e inexpugnable, y reafirmamos nuestro compromiso con la \nigualdad; partido a partido.\nHace casi cuarenta años, esta Cámara convalidó el Real Decreto 1006/1985 para regular la contratación \nde deportistas profesionales. En ese tiempo, la legislación laboral ha ido avanzando en igualdad, pero el \nque conozca el mundo del deporte profesional sabe perfectamente que vulnerar el derecho a la maternidad \ny a la conciliación de las deportistas profesionales era tan fácil como marcar penaltis en una portería \nvacía. Estaban indefensas, por mucho que este Real Decreto 1006/1985 dejara claro el carácter supletorio \ndel Estatuto de los Trabajadores y la legislación laboral a la hora de defender el derecho de los y las \ndeportistas profesionales, porque el problema que había es que la ley laboral no se aplica dentro de la \nespecificidad de los contratos cortos que normalmente tienen las deportistas. La AFE y otros sindicatos \ncve: DSCD-15-PL-54\n \ncomo FUTPRO exigían una respuesta para las necesidades de conciliación ante la maternidad o las \nespeciales condiciones de preparación física que deben tener las deportistas durante el embarazo, \ndespués del parto o incluso en la fase final de una adopción. Bravas; lo hemos conseguido, y seguiremos \nmejorando su situación desde el estatuto del deportista.\nLa sororidad también ha hecho posible que se pueda sancionar, a partir de ahora directamente, casos \ncomo el piquito no consentido de Rubiales a Jennifer Hermoso. No podemos hablar de enmienda Rubiales, \nporque Junts pidió mucho antes la máxima sanción para este tipo de actitudes durante la tramitación de \nla Ley del Deporte. Pero ¿saben qué? Esta enmienda se la dedicamos a él y a todos aquellos que han \nconvertido la testosterona en machismo y en abuso. Se ha acabado.\nHablemos ya de paridad o representación equilibrada entre hombres y mujeres. Lo decía el otro día: \nmuchas mujeres estamos hartas de defender cuotas, pero sin cuotas, muchas mujeres nunca habrían \nllegado aquí, a pesar de haber hecho méritos, algunas de ellas muchos más que algunos hombres. A \nlos 19 años empecé en el mundo del periodismo deportivo, en el fútbol. Sé cómo funciona el machismo y \nhe aprendido cómo hacerle frente. Como les decía el otro día, quizás somos nosotras las que vamos a las \ntiendas de cosméticos, pero algunos hombres — afortunadamente cada vez menos— saben mucho de \nmaquillaje, de lo que mancha la discriminación. A quien dice que esta ley no tiene en cuenta a las mujeres \nque no se sienten empoderadas, a aquellos que digan que está hecha para mujeres de las élites, ejecutivas \nde grandes empresas o miembros del Gobierno, les digo que no podemos cambiar la base si no coronamos \nla cima, la cumbre. La paridad de arriba afecta abajo, y necesitamos que cada mujer que ocupe un puesto \nde poder trabaje para el relevo de hoy. Tenemos que crear las circunstancias para que las niñas de hoy \nsean las mujeres que ocupen los puestos de poder de mañana. También hay que decir que desgraciadamente \nhay mujeres machistas, más machistas que muchos hombres, a las que estos utilizan. Son ellas las que, \nen lugar de empoderar a otras mujeres, llenan los discursos de estereotipos del patriarcado; pero hoy han \nperdido una batalla más siempre que hagamos posible que la ley se aplique desde la letra y no desde el \nespíritu. Llenar los consejos de mujeres para que sigan decidiendo los hombres no es paridad. Por eso es \nimportante saber qué pasa más allá de las mesas del poder.\nAlgunos datos del Observatorio Mujer, Empresa y Economía, de la Cámara de Barcelona: más \ndel 60 % de los titulados universitarios o de las personas que hacen formación continua son mujeres, pero \nla brecha salarial es del 13,3 % y del 21 % cuando hablamos de salarios directivos; el 86 % de las \nexcedencias para ocuparse de la familia y cuidarla son de mujeres; la brecha en las pensiones es del \n26 %; tenemos un 8 % más de riesgo de pobreza que los hombres; hemos ganado el 45 % de las regidurías, \npero ocupamos solo la tercera parte de las alcaldías; y también estamos en el mismo porcentaje en la \ngerencia y dirección de las empresas, en los consejos de administración o en las juntas directivas. Esos \nson datos de Cataluña, y que conste que son mejores que en el resto del Estado. Por eso hacía falta una \nley como la que se aprobará hoy.\nSeguimos teniendo presente esta mentalidad del observatorio, por ejemplo, el de las compañeras de \nla Asociación 50a50, para seguir controlando que la igualdad se aplique, se respete y se practique en el \ndeporte, en la educación, en la empresa, en la política, en cualquier terreno de juego. Hoy hemos marcado \nunos cuantos goles, compañeras. Ahora toca seguir luchando.\nPero no quiero concluir este discurso sin decir unas palabras de apoyo a todas las personas del \ncolectivo LGTBI, que están viendo cómo sus derechos están retrocediendo allí donde la extrema derecha \nha ocupado el poder, y no hablo solo del poder político, hablo también del que se ejerce a través de las \nredes sociales. Estamos con todas y con todos vosotros, y vuestro orgullo también es el nuestro.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Moltes gràcies, senyora Calvo.\nPor el Grupo Parlamentario Republicano, tiene la palabra la señora Vallugera Balañà, por un tiempo \nde siete minutos.\nLa señora VALLUGERA BALAÑÀ: Gràcies, presidenta. Bon dia, diputades. Bon dia, diputats. Ja em \nperdonaran que trenqui una miqueta l’emocionalitat i la solemnitat del dia, perquè la veritat és que hi ha \ndues coses que entenem que s’han de posar en relleu. La primera: aquesta llei no és una iniciativa \ngraciosa del Govern altament inspirada en conceptes ideològics. Aquesta llei és la transposició d’una \ndirectiva europea. I, per tant, s’havia de fer tant sí com no. Però es podia fer de moltes maneres, i la veritat \nés que nosaltres tenim una sensació d’oportunitat perduda molt, molt, molt contundent.\ncve: DSCD-15-PL-54\n \nPer tant, no estem contentes. És, per nosaltres, una aprovació de pur tràmit perquè, malgrat sí que és \ncert que a la comissió hi ha hagut una certa dosi de sororitat i alguna cosa s’ha introduït, el que també és \ncert és que el que no s’ha volgut introduir demostra fins a quin punt les majories d’aquest Congrés estan, \nallò que es diu, «empenyades» o estan concernides per fer efectiva la paritat. Què volem dir? Doncs que \nentre totes les esmenes que nosaltres hem aconseguit negociar en aquesta llei, n’hi ha una que ens fa \nsentir especialment orgulloses, que és aconseguir que els consells informatius de Ràdio i Televisió \nEspanyola s’hagin de compondre obligatòriament d’un mínim de 40 i un màxim de 60. Per què? Doncs \nperquè, al final, el que interessa és que la mirada de les dones, també en els consells d’informatius, \ntraspuï cap a la comunicació pública. I des d’aquesta perspectiva, considerem que és un guany.\nQuè no hem aconseguit? Tota la resta. No hem aconseguit l’obligatorietat de combinar la paritat vertical \namb l’horitzontal. No hem aconseguit les sancions per empreses i per societats que no compleixin amb els \ncriteris de paritat. I, per tant, sabem perfectament que una llei que no va acompanyada de sancions... \nCompte, que no són penals. És a dir, no es tracta de populisme punitiu, es tracta de no repartir dividends \nsi no s’ha complert, es tracta de modificar els òrgans representatius si no s’ha complert... Doncs de tot \naixò, res de res. Per tant, podem solemnitzar molt, però al final la veritat és que hem avançat molt poc \ntenint en compte el gran recorregut que hauríem pogut tenir.\nQuè més no hem aconseguit que aquesta llei reflectís? Doncs, per exemple, que en els òrgans directius \ndels partits hi hagués una composició paritària. I aquí hem sentit de tot: des de l’autonomia, dels estatuts, \ncada partit, fins a «Això és una qüestió de legislació autonòmica». Mirin, no. Ho vam introduir amb una llei \npròpia i ens ho va tombar el Tribunal Constitucional. Per tant, era el moment per incorporar-ho. Doncs \ntampoc ens n’hem sortit. Per tant... Perdonin. Em sembla que mig congrés estem constipats. Ens ho anem \npassant. Aquí sí, amb molta sororitat.\nDeia: tot el que hauríem pogut fer i no hem fet són oportunitats perdudes. I són oportunitats perdudes \nperquè les característiques d’aquesta legislació que tenen a veure amb l’intent de trencament dels sostres \nde vidre no s’han traspassat a l’intent de trencament dels terres enganxosos. I perquè, si bé estem \naconseguint mínimament que aquella frase de «Quan una dona entra en política, canvia la dona, però \nquan moltes dones entren en política, canvia la política» sigui aplicable a totes les esferes de la societat. \nI saben què passa? Que les legislatures cada vegada són més curtes i més evanescents. I el nostre deure, \nquan tenim la sort, la sort, per entendre’ns, de ser legisladores i legisladors, és fer tot el que puguem en \nel moment en què puguem. Perdre oportunitats com aquesta em sembla que no ens ho podem permetre.\nI, per tant, amb un cert desànim, amb una certa decepció, amb una certa sensació d’oportunitat única \nperduda, votarem a favor de la llei perquè, al final, qualsevol avanç no serà entorpit per Esquerra \nRepublicana de Catalunya. Però també és cert que tots els avanços que hauríem pogut impulsar no han \nestat possibles. Amb un cert dolor, amb una certa pena, mantenim les nostres esmenes. Si, en l’estona \nque queda, els grups de la majoria decideixen que s’han d’imposar sancions per al compliment efectiu de \nles previsions d’aquesta llei, saben que ens les poden votar. Moltes gràcies.\nGracias, presidenta. Buenos días, diputadas. Buenos días, diputados.\nMe van a perdonar que rompa un poquito la emocionalidad y la solemnidad del día, y es que hay un \npar de cosas que entendemos debemos poner de relieve. Primero, esta ley no es una iniciativa graciosa \ndel Gobierno, altamente inspirada en conceptos ideológicos, esta ley es la trasposición de una directiva \neuropea y, por tanto, tenía que hacerse, sí o sí Pero se podía hacer de muchas maneras, y la verdad es \nque nosotros tenemos una sensación muy contundente de oportunidad perdida. Así que no estamos \ncontentas, para nosotros es un puro trámite esta aprobación, porque, si bien es cierto que en la Comisión \nha habido cierta dosis de sororidad y algo se ha introducido, lo que también es cierto es que lo que no se \nha querido introducir demuestra hasta qué punto las mayorías de este Congreso están, como se dice, \nemperradas, empeñadas en hacer efectiva la paridad. ¿Qué queremos decir con ello? Pues que, de entre \ntodas las enmiendas que hemos conseguido negociar nosotras en esta ley, hay una de la que estamos \nespecialmente orgullosas, y es conseguir que los consejos de Televisión Española tengan que estar \nrepresentados por un mínimo de cuarenta y un máximo de sesenta. ¿Por qué? Porque al final lo que \ninteresa es que la mirada de las mujeres, también en los consejos de informativos, se ‘transpue’ hacia la \ncomunicación pública, y desde esta perspectiva consideramos que es un logro.\n¿Qué no hemos logrado? Todo lo demás, ni la obligatoriedad de combinar la paridad horizontal con la \nvertical ni las sanciones. No hemos conseguido las sanciones para empresas y para sociedades que no \ncumplan con los criterios de paridad, con lo cual sabemos perfectamente que una ley que no va acompañada \ncve: DSCD-15-PL-54\n \nde sanciones… ¡Cuidado!, no son penales, no se trata de populismo punitivo, se trata de no repartir \ndividendos si no hay cumplimiento, se trata de modificar los órganos representativos si no hay cumplimiento. \nPues bien, de todo esto nada de nada. Así que podemos solemnizar tanto como queramos, pero al final \nbien poco hemos avanzado, teniendo en cuenta el largo recorrido que hubiéramos podido tener.\n¿Qué más no hemos conseguido que reflejase esta ley? Por ejemplo, que en los órganos directivos de \nlos partidos hubiera una composición paritaria. Aquí hemos oído de todo, desde la autonomía de los \nestatutos de cada partido hasta que si esto es una cuestión de legislación autonómica. Miren ustedes, no; \nlo introdujimos con una ley propia y nos lo tumbó el Tribunal Constitucional, así que este era el momento \npara incorporarlo. Pues tampoco lo hemos conseguido…(Pausa). Disculpen, mi garganta… (Pausa). Creo \nque estamos todos resfriados, media Cámara; nos lo vamos contagiando. Ahí, sororidad, la que queramos.\nDecía que todo lo que hubiéramos podido hacer y no hemos hecho son oportunidades perdidas, \nporque las características de esta legislación que tienen que ver con el intento de romper los techos de \ncristal no han traspasado los intentos de romper los suelos pegajosos, porque estamos consiguiendo — sí, \nmínimamente— que aquella frase de que cuando una mujer entra en política cambia la mujer, pero que \ncuando muchas mujeres entran en política cambia la política sea aplicable a todas las esferas de la \nsociedad. Y ¿saben lo que ocurre? Que las legislaturas cada vez son más cortas y más evanescentes y \nnuestro deber, cuando tenemos la suerte — la suerte— de ser legisladoras y legisladores, es hacer todo \ncuanto podamos en cuanto podamos, y perder oportunidades como esta me parece que es algo que no \nnos podemos permitir.\nPor tanto, con cierto desánimo, con cierta decepción y con esta sensación de oportunidad única \nperdida, votaremos a favor de la ley, porque a fin de cuentas cualquier avance no lo va a entorpecer \nEsquerra Republicana de Catalunya, pero es cierto también que todos los avances que hubiéramos \npodido impulsar no han sido posibles. Así que desde el dolor, desde cierta pena y lástima, mantenemos \nnuestras enmiendas, y, si en el ratito que queda, los grupos de la mayoría deciden que hay que imponer \nsanciones para el cumplimiento efectivo de las previsiones de esta ley, saben que nos las pueden votar.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Gràcies, senyora Vallugera.\nPor el Grupo Plurinacional SUMAR, tiene la palabra la señora Gil de Reboleño Lastortres, también por \nun tiempo de siete minutos."
+  },
+  {
+   "speaker": "GIL DE REBOLEÑO LASTORTRES",
+   "party": "Sumar",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Buenos días, señora ministra.\n¡Qué raro! Otra vez no está el señor Abascal.\nQuería hacerles una pregunta: ¿qué entienden ustedes por paridad? Se me ocurre, primero, una \nrespuesta sencilla. Algunos grupos políticos aquí presentes piensan que la paridad es una ocurrencia, una \nparanoia, un objetivo innecesario al que no merece la pena dedicarle esfuerzo, porque, total, las mujeres \nno tienen que reclamar ni pelear por sus derechos, ya que todos estos siglos de patriarcado no han \ncondicionado nada sus vidas ni sus expectativas. Otros entienden la paridad como una representación \nmás o menos equitativa entre mujeres y hombres en espacios de decisión, de poder o de representatividad, \nlo entienden como una cuestión de números, un problema de porcentajes o una necesidad imperiosa de \nvisibilizar a las mujeres y dar ejemplo al resto de la sociedad.\nEsta última definición es la que recoge el proyecto de ley que hoy vamos a apoyar y a aprobar y, \naunque creemos que traerá mejoras y ayudará a romper muchos de los techos de cristal con los que se \nencuentran las mujeres hoy en día, desde SUMAR tenemos una idea bastante distinta del concepto de \nparidad. Y es que, señorías, el feminismo que defendemos desde SUMAR quiere ofrecer horizontes de \ntransformación a todas las mujeres. (Aplausos). La realidad de la mayoría de las mujeres no está en \nacceder a un consejo de administración. Claro que es necesario que estemos en esos consejos de \nadministración, pero tenemos que ensanchar esa mirada: no podemos quedarnos en esa mirada elitista, \nen esa mirada clasista relacionada con el IBEX y olvidarnos del resto de las mujeres. La realidad palpable \nestá en las mujeres cuyos salarios se van en el pago del alquiler o en la cesta de la compra. La realidad \nestá en las madres monomarentales que hacen malabares para atender sus casas y los cuidados, que \nestán desbordadas y que en lo último en que piensan es en acceder a un consejo de administración.\nEn SUMAR queremos paridad, por supuesto, pero también la mayor accesibilidad posible para las que \nnunca tienen oportunidades o para que las que están siempre a la cola de esas oportunidades tengan más \ntiempo, más dinero o más oportunidades para llegar a lo que ellas quieren. Escuchemos las realidades de \nlas de abajo, las de las mujeres de clases trabajadoras, las de las que madrugan para acabar doblando \ncve: DSCD-15-PL-54\n \nturnos con sus propias vidas, las de la generación sándwich que no tienen el privilegio de tener a otra \npersona que se haga cargo de los cuidados de sus criaturas o de sus mayores. Señorías, escuchemos la \nrealidad de la mayoría social.\nCuando afrontemos esos problemas y esas carencias cotidianas, esos grandes y pequeños signos de \ndesigualdad, estaremos de verdad buscando soluciones específicas para alcanzar la paridad entre \nmujeres y hombres. (Aplausos). Por eso, quiero poner en valor que entre las propuestas que hemos \nhecho en SUMAR para enriquecer esta ley se encuentra la creación de unas becas de apoyo al estudio y \nde acceso a puestos de alto nivel en la Función pública, como la judicatura, destinadas a madres \nmonoparentales con dificultades económicas. Es una apuesta clara por democratizar la justicia, y \naprovecho para pedirles su apoyo y que voten a favor.\nY aquí estamos otro día más hablando de igualdad, este y los que hagan falta, para conseguir una \nigualdad real y efectiva en cada rinconcito de nuestra sociedad, no solo en las altas esferas. Miren, en \nCádiz, mi tierra, tenemos la palabra jartible. Ser jartible es ser una persona pesada o insistente con algo. \nLas gaditanas, insistentes en nuestros objetivos y cometidos, sabemos muy bien lo que es ser jartible, y \nno os digo nada si eres gaditana y feminista, porque, entonces, hay feminismo, feminismo y feminismo \nhasta que llegue la verdadera igualdad entre hombres y mujeres (aplausos), lo que viene siendo pico y \npala de toda la vida; por ahí van los tiros. También seguiremos haciendo pedagogía feminista para los \ndespistados que todavía creen que eso del feminismo es la predominancia de la mujer sobre el hombre, \nporque se equivocan, ya que queremos igualdad entre mujeres y hombres.\nHablar de paridad es importante porque, aunque no acaba con el problema estructural de machismo \ny patriarcado, que, además de excluirnos, nos asesina, hace tambalear y recoloca los cimientos sobre los \nque se sostiene nuestra sociedad, a efectos de oportunidades, referentes o representatividad en los \ndiferentes espacios de vida. Durante muchos años esta sociedad machista y patriarcal nos relegó al \námbito doméstico, a sostener a las familias a través del cuidado o a lo que más adelante se acuñó como \ntrabajo reproductivo, un trabajo no remunerado, invisible y no reconocido. Decía Silvia Federici en su \nexcelente ensayo El patriarcado del salario: «Porque tan pronto como levantamos la mirada de los \ncalcetines que remendamos y de las comidas que preparamos observamos que, aunque no se traduce en \nun salario para nosotras, producimos ni más ni menos que el producto más precioso que puede aparecer \nen el mercado capitalista: la fuerza de trabajo». (Aplausos).\nLa revolución industrial ya pasó, estamos en el siglo XXI, la mujer ya se incorporó al mercado laboral \ny no nos conformamos con las migajas que aún algunos quieren que aceptemos. En SUMAR lo tenemos \nclaro y en el Ministerio de Derechos Sociales, que lidera SUMAR, acabamos de aprobar una estrategia \nestatal de cuidados. El ministro Bustinduy lo ha dejado claro: los cuidados tienen que pasar por garantizar \nlas condiciones económicas y los tiempos necesarios para llevarlos a cabo y por acabar con la brecha de \ndesigualdad entre hombres y mujeres basada en las diferentes cargas de cuidados que soportan.\nVoy terminando, presidenta. Aquí, en nuestra sociedad, la idea de paridad, señorías, es la necesidad \nde luchar por la igualdad, la necesidad de independencia y de soberanía sobre nuestros cuerpos y nuestras \ndecisiones. Las mujeres queremos derechos laborales que nos permitan conciliar nuestra vida con el \ntrabajo. Las mujeres queremos, en definitiva, las mismas oportunidades que los hombres, y eso pasa por \nocupar espacios que se nos negaron durante años, durante décadas y durante siglos y pasa por que \nentendamos como sociedad que la desigualdad, por la razón que sea, solo genera odio, violencia, \nfrustración y dolor. ¿Ese es el mundo en el que queremos vivir? Confío en que no.\nMuchísimas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchísimas gracias, señora Gil de Reboleño.\nPor el Grupo Parlamentario Popular, tiene ahora la palabra el señor De los Santos González por un \ntiempo de siete minutos. (Rumores). El Grupo Parlamentario VOX no tiene enmiendas presentadas. \nInterviene en el turno de fijación de posiciones."
+  },
+  {
+   "speaker": "DE LOS SANTOS GONZÁLEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gracias, presidenta.\nSeñorías, cuando en unas horas votemos el dictamen del proyecto de ley de representación paritaria, \ndesvirtuado por sus señorías de la izquierda, asistiremos a la constatación, por si había alguna duda, de \nla radicalidad en la que ha embarcado Pedro Sánchez a todo el Partido Socialista, una formación hoy de \nextrema izquierda que avergüenza a sus líderes históricos, mientras se apoya en toda esa ralea de \npartidos casi tan radicales como el suyo propio, pero igualmente oportunistas y en franca descomposición, \nsí, los que están a punto de desaparecer al amparo de la medio dimisionada Yolanda Díaz. Ellos y sus \ncve: DSCD-15-PL-54\n \nseñorías de Junts, Bildu o PNV son quienes han destrozado esta ley — que nadie se lleve a equívocos—, \nlos que, instrumentalizando nuevamente a las mujeres, han vuelto a asestar un golpe al Estado de derecho \nal incluir unas enmiendas en su texto, que, además de robarle al Senado una de sus prerrogativas y, por \ntanto, a los ciudadanos y las ciudadanas a los que representamos en las Cortes Generales, contravienen \nla Constitución. Me consta, nos consta, que a sus señorías de la izquierda radical socialista hace mucho \nque no les preocupa la Constitución (aplausos) ni la sacrosanta separación de poderes ni nada que sea \nsinónimo de respeto institucional.\nLas que quizá no sepan que pueden estar incurriendo en un posible delito de prevaricación son las \ndiputadas que, desde la Mesa de la Comisión de Igualdad, decidieron obviar el informe en el que la letrada \nalertaba de la inconstitucionalidad que representa la inclusión de las enmiendas 76 y 96 en este proyecto \nde ley. Se lo digo, señoras presidenta, vicepresidenta y secretaria primera, por advertirlas, para que no se \nvayan a creer que luego en sus partidos las van a salvar — no, no lo harán—, a no ser que, como el señor \nÁbalos, tengan ustedes algún secreto inconfesable del presidente del Gobierno y las proteja un silencio \npreventivo desde el ático de este hemiciclo. (Aplausos). ¿Saben que hay sentencias a ese respecto? \n¿Saben que hay infinita jurisprudencia que las apunta como presuntas prevaricadoras? Se lo digo a la \npresidenta, a la vicepresidenta y a la secretaria primera porque están a tiempo de cambiar su voto — sí, \nsí—. No lo olviden, señorías, cuando tengan que verse en un juzgado.\nBien. Hablamos de sentencias. ¿Conocen todos los que han bendecido este impúdico proyecto de ley \ntoda la jurisprudencia del Tribunal Constitucional que obliga a que — y abro comillas— «toda enmienda \nparcial tenga que tener un carácter subsidiario respecto al texto enmendado»? A ellos les da lo mismo, ya \nlo han visto, porque hace mucho que les dejó de importar todo aquello que pueda poner límites a sus \ndesmanes. Señorías, que nadie olvide que la Directiva 2022/2381, para la representación paritaria, fue \nuna propuesta del Partido Popular europeo que todos los países miembros tienen la obligación de \ntrasponer en sus respectivos territorios. Dejen de hacerse las interesantes. (Aplausos). Ahora, cuando \nestá a punto de expirar el plazo para dicha implementación, el Gobierno de Pedro Sánchez la destroza, \nliteralmente, hasta lo imaginable, borrando incluso su propio espíritu, haciendo saltar por los aires el \nartículo 5 al vender la paridad real por un puñado de votos, exactamente cuatro, los de Podemos, que han \ndecidido que solo se respete el límite de género infrarrepresentado, o sea, ese 40 %, cuando estemos \nhablando de mujeres. Y yo me pregunto: ¿sus señorías de Podemos se acuerdan de que, a pesar de ser \nimprescindible sus votos para el señor Pedro Sánchez, fue este quién les desahució del Gobierno de \nEspaña mientras Yolanda Díaz urdía torpes manejos para aniquilarlos? Ahí están. Lo digo por si también \nustedes se quieren replantear el voto cuando regrese del Senado.\n¿Y por qué todo esto? Está muy claro. Porque, asfixiado el partido radical socialista, por la vergonzante \nconcatenación de votaciones perdidas, y asolado, porque le exigen transferencias económicas \ninaceptables, lo único que le preocupa es aprobar unos presupuestos generales del Estado, para lo que \nnecesita fijar un techo de gasto, pero no para mejorar la vida de los ciudadanos, no, no, no, sino para \nseguir ejecutando una política de infinita desigualdad entre los españoles, la de la amnistía, la de la \nsingularidad económica para Cataluña o la de las listas cremallera para toda España, menos para Euskadi, \nclaro. (Aplausos). Y para eso asfixia la Cámara Alta, donde mejor — se lo recuerdo— están representadas \nlas autonomías. Ya pregunté a sus señorías de SUMAR si esto lo han hablado con sus socios de \nCompromís, por más que estos anden más preocupados por la reimputación de la señora Oltra por \npresunto encubrimiento de delitos sexuales, aunque en el PSOE de las Islas Baleares algo saben de \ndelitos sexuales encubiertos. ¿Reconocen los representantes de SUMAR en Andalucía que están \nsubastando — exactamente, la señora Gil de Reboleño— a sus votantes?\nEnsucian, señorías de la izquierda radical socialista, este proyecto de ley, como casi todo lo que tocan. \nPervierten la vida pública con declaraciones como la de la portavoz nacional de su partido hace unos días \nllamando indigna a la presidenta de todos los madrileños y las madrileñas. Se enfangan cuando jalean al \nministro Puente enfangando, a su vez, a todo el que pasa por delante. Instrumentalizan el feminismo hoy \no cuando utilizan a las más vulnerables, a las mujeres prostituidas, para vender un falso feminismo, sin \ncaer en la cuenta de lo que realmente les importa y negándose a negociar con quienes deberían. \nDemuestran, en definitiva, que se han convertido en lo que nadie nunca se debería convertir, en \nabanderados de la falta de límites, de moral y de verdad. Pero, claro, con eso gobiernan y por eso \ngobiernan e intentan sobrevivir, porque están vendiendo España a los que no creen en ella y se ríen de \nustedes y de todos nosotros desde Waterloo, Bruselas, Zúrich o Girona y porque no han dudado en invadir \nlas instituciones para alcanzar los fines de un solo hombre, él, el absolutista y absoluto líder, su amado y \ncve: DSCD-15-PL-54\n \ntemido líder, el del feminismo divertido, el de la ley del solo sí es sí, el que nunca hará nada por ustedes, \n¿o es que se creen que se ha olvidado de que fueron todos ustedes quienes le echaron de Ferraz? No, \nno lo ha olvidado, lo tiene a esperar de poder dar el golpe final.\nMientras tanto, ustedes sí olvidan el constructo feminista, ese con el que estuvieron comprometidos. \nPregúntenles a ellas qué opinan de su mal llamada ley trans. Pregúntenles a ellas sobre la famosa ley del \nsolo sí es sí. Pregúntenles a ellas sobre la razón de que intenten vender esta ley como una ley feminista, \ncuando solo se preocupa de las mujeres que ocupan sillas en los consejos de administración. (Aplausos). \n¿Y de todas las demás? ¿Y de todas las demás que engrosan las listas del paro hasta ser España la \nsegunda democracia con el peor dato de paro femenino en toda la Unión Europea? Pero, claro, a ellos no \nles importan las mujeres ni, por supuesto, les importa nada.\nY, ahora, si queda algún socialista de verdad, de los que no avergüenzan a Felipe González, les \npediría (rumores y protestas) que recuperen la senda del respeto institucional. Repito: si queda algún \nsocialista de verdad, de los que no ofenden ni avergüenzan al señor Felipe González, reconsideren su \nvoto y digan un no inmenso a esta salvajada."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Señor De los Santos, tiene que terminar."
+  },
+  {
+   "speaker": "DE LOS SANTOS GONZÁLEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Muchas gracias. (Varios diputados del Grupo Parlamentario \nPopular en el Congreso: ¡Muy bien!—Prolongados aplausos de las señoras y los señores diputados \ndel Grupo Parlamentario Popular en el Congreso)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Gracias, señor De los Santos.\nEn turno de fijación de posiciones, por el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra la \nseñora Pozueta Fernández por un tiempo de siete minutos."
+  },
+  {
+   "speaker": "POZUETA FERNÁNDEZ",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gracias, señora presidenta.\nSeñora ministra, egun on guztioi.\nEl 5 de noviembre de 1933 las mujeres votaron por primera vez en Euskadi con motivo de la votación \ndel estatuto, en plena Segunda República, dos semanas antes que el resto de las mujeres del Estado \nespañol. Previamente a este reconocimiento legal, se fue avanzando en la ejecución de este derecho de \nmanera paulatina. Inicialmente, el voto pasivo, ser elegida, pero no poder elegir, en consultas a elecciones \nmunicipales, demostrando determinadas capacidades (hace el signo de comillas con los dedos) o \nsituaciones personales, como ser esposa, viuda o madre, saber leer o escribir o gozar de un nivel mínimo \nde ingresos.\nEl camino histórico fue muy largo y duro y estuvo estrechamente ligado a la lucha colectiva por la \nigualdad, sobre todo por parte de las mujeres. Entonces, también se vivió un debate con posiciones \ncontrapuestas en lo ideológico, incluso en el seno de los partidos de izquierda. Hoy, noventa y un años \ndespués, muchas de esas posiciones, indiscutiblemente machistas, que se amparan en los principios de \nmérito y capacidad para poner trabas a los avances en igualdad efectiva o a la libertad de empresa y el \nderecho a la igualdad entre todos los españoles, volvemos a escucharlas de la mano de la extrema \nderecha o de algunos que no se tienen como tal. Seguro que Clara Campoamor también escuchó en este \nhemiciclo argumentos contrarios al sufragio universal amparados en los principios supuestamente a favor \nde todos los españoles. Posteriormente, la Dictadura acabó con el sufragio universal democrático y sus \nsucesores — sus sucesores— hoy vuelven a poner obstáculos al avance de la igualdad efectiva entre \nhombres y mujeres.\nA pesar del margen temporal que media entre estas conquistas y la situación actual, la presencia de \nlas mujeres en el ámbito político y, sobre todo, en los ámbitos donde se toman decisiones, todavía deja \nmucho que desear. Si bien la igualdad jurídico formal se encuentra reconocida, las realidades sociales se \nsuperponen, limitando la realización efectiva de una democracia paritaria con representación equilibrada \nentre mujeres y hombres. Una y otra vez nos encontramos con el llamado techo de cristal a medida que \nlas mujeres ascendemos o ascienden profesionalmente. En la mayoría de las organizaciones llega el \nmomento en el que nos topamos con un techo invisible que supone la disminución de nuestra presencia \nen los órganos de decisión, un techo que tiene razones estructurales, que están muy presentes todavía y \nque nos llevarán a estar en pie de lucha hasta acabar con ellas. No olvidemos que una cosa es estar en \npuestos de poder y otra cosa es ejercerlo.\ncve: DSCD-15-PL-54\n \nPor todo ello, podemos compartir parte de la filosofía de esta ley, pero para poner herramientas que \nposibiliten avanzar en la igualdad. Nos tememos que van a ser todavía necesarias muchas más medidas \ny de otro tipo.\nExigir la paridad en las jerarquías empresariales y en los consejos de dirección es un avance, pero no \nsiempre mejora la vida del resto de las mujeres; y yo diría que el resto de las mujeres son la mayoría de las \nmujeres. Quiero hacer alusión, como han hecho algunas diputadas que me han precedido, al llamado suelo \npegajoso. A nosotras, las mujeres, el rol de cuidadoras interiorizado desde la niñez, debido a una socialización \nsexista, nos pesa demasiado durante todo el ciclo vital. Y esto no se trata, como algunos quieren hacer creer, \nde opciones personales o de factores personales. Trabajar dos e incluso tres jornadas nos machaca \nliteralmente e impide que podamos optar realmente a intereses vitales diversos, que finalmente quedan \napartados. Pensamos que las tareas en el hogar y de cuidado deberían ser asumidas preferentemente por \nla comunidad y las instituciones públicas desde un planteamiento de colectividad: tareas del hogar colectivas, \ncrianza colectiva, cuidados adultos colectivos. Los hombres también deben asumir estas tareas, como una \nresponsabilidad colectiva redistribuida, en aras de la equidad que beneficiaría a todas las personas. Trabajar \npara ello es poner herramientas efectivas para la paridad. Paridad es trabajar para que se ponga fin a la \nbrecha salarial entre hombres y mujeres, brecha que repercutirá en las futuras pensiones. Paridad es \ndignificar y valorar el trabajo de los sectores feminizados, como el cuidado, la limpieza, la salud y el asistencial, \nsectores en los que en la actualidad la precariedad es sangrante. ¿Y cómo plantear la paridad en el sector \nde las trabajadoras de hogar, a las que se les niegan los derechos mínimos como trabajadoras? Pongámonos \na dar respuesta digna y efectiva a esta pregunta. Paridad es avanzar en conciliación e impulsar políticas que \nincorporen a los hombres a las tareas del cuidado de personas mayores, de la infancia y de la vida doméstica. \nParidad es realizar políticas de vivienda que faciliten el acceso de las mujeres a una vivienda digna. Paridad \nes realizar una apuesta firme por la redistribución de la renta.\nPensamos que las políticas públicas deben poner el foco en la mayoría de las mujeres, que muchas \nde ellas viven en precariedad y en condiciones de vulnerabilidad que impiden avanzar hacia una sociedad \nmás justa. No queremos que se quede en implantar cuotas en los consejos de administración, partidos y \nórganos constitucionales, queremos que acabe con las diferencias radicales del salario y las condiciones \nentre los distintos trabajos. En definitiva, aplicar un planteamiento feminista y transformador a todas las \npolíticas que posibiliten acabar con la desigualdad que hoy, 27 de junio de 2024, todavía sufrimos.\nEsan bezala, bat gatoz parekidetasuna xede duen lege honen filosofiarekin eta helburuarekin. Hala \nere, uste dugu motz geratuko dela eta berdintasunaren bidean neurri sakonagoak hartuko beharko ditugu \naurreratzean. Mugimendu feministaren borrokari esker, egoera asko aldatu da azken urte honetan, bai, \nbaina oraindik emakumeon presentzia bai politikan eta baita erabakiguneetan ere oso urrun dago \nberdintasunaren errealetik. Horregatik, ezin ditugu besoak jaitsi eta determinazioz lan egiten jarraitu behar \ndugu dagokigun tokia aldarrikatzeko, genero arrakala guztiekin errotik amaitu arte. Egungo parekidetasun \nfalta ez delako konponduko kuota jakin batzuk jarrita administrazio, kontseilu, alderdi politiko edo estatuaren \nerakundeetan. Arazoaren oinarria soldata arrakalan eta lan baldintza ezberdinetan dago. Ez dezagun \nahaztu parekidetasuna lortzeko, beraz, ezinbestean hitz egin behar dugula kontziliazioaz, zaintzaz, \netxebizitza politika aurreratuez eta aberastasunaren banaketaz. Mila esker.\nComo hemos dicho, estamos de acuerdo con la filosofía de equidad que tiene por objetivo esta ley. \nSin embargo, pensamos que quedará corto y que se tendrán que adoptar medidas de más calado de cara \nal futuro. Gracias al movimiento feminista, la situación ha cambiado mucho durante los últimos años, es \ncierto, pero aun así la presencia de las mujeres tanto en la política como en los centros de decisión está \nmuy lejos de la realidad de la igualdad. Por eso, no podemos bajar los brazos y tenemos que seguir \ntrabajando con determinación para reivindicar el espacio que nos corresponde, para terminar con la \nbrecha de género de raíz, porque la falta de equidad actual no terminará con una serie de cuotas que se \nestablezcan en los organismos de administración institucionales. La brecha salarial depende de muchos \ncondicionantes. No olvidemos que para lograr la paridad debemos hablar de la conciliación, de los \ncuidados, de las políticas de vivienda avanzadas y de la distribución de la riqueza.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señora Pozueta.\nPor el Grupo Parlamentario VOX, tiene ahora la palabra la señora Aguirre Gil de Biedma, por un \ntiempo de siete minutos. (Aplausos).\ncve: DSCD-15-PL-54"
+  },
+  {
+   "speaker": "AGUIRRE GIL DE BIEDMA",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Muchas gracias, presidenta.\nSeñora ministra, señorías, antes de empezar mi intervención, quiero hacer un recuerdo especial a las \nvíctimas del terrorismo, pues hoy ha sido el día declarado por el Congreso como Día de las víctimas del \nterrorismo. (Aplausos).\nHoy nos traen ustedes un proyecto de ley orgánica que quiere imponer por la fuerza tanto un principio \nde composición paritaria en listas electorales como un principio de composición equilibrada, con al menos \nun 40 % del sexo menos representado en órganos constitucionales, gobiernos organismos públicos, \nsindicatos, universidades, deportes, colegios profesionales, consejos de administración de empresas, \nempresas privadas, empresas familiares y en todo lo que se les ha ocurrido, porque no se han dejado \nprácticamente nada. No contentos con eso, aprovechan ustedes esta ley orgánica para introducir cambios \nlegislativos que nada, absolutamente nada tienen que ver con el objeto de esta ley. ¿Por qué no explican \ncon claridad a los españoles que han introducido una enmienda para quitar poder de decisión al Senado \nsobre los objetivos presupuestarios y que así puedan ustedes seguir despilfarrando el dinero de los \nsufridos contribuyentes sin ningún control y utilizándolo para su propio beneficio? (Aplausos).\nNosotros consideramos que esta norma es del todo innecesaria, porque el artículo 14 de la Constitución \nya garantiza la igualdad de los españoles ante la ley y es la que nos hace iguales en derechos hace \nmuchísimos años, pero ya sabemos el respeto que tienen ustedes por nuestra Constitución y, en particular, \npor el principio de igualdad que esta consagra. (Aplausos). Por cierto, ¿cómo van ustedes a explicar a los \nespañoles que el criterio de representación paritaria podrá no aplicarse cuando las mujeres sean más del \n60 %, pero en el caso de los hombres no? ¿Cómo se lo van a explicar? Pero como a ustedes ni la \nConstitución española ni la verdadera igualdad ni tan siquiera el sentido común les importa nada, nos \npresentan hoy esta ley que obedece a los dictados de la nefasta Agenda 2030, cuyo Objetivo de Desarrollo \nSostenible número 5 es, literalmente, lograr la igualdad entre los géneros y empoderar a todas las mujeres \ny niñas. ¿De verdad ustedes creen que una ley que dice que tenemos que tener un determinado porcentaje \nen consejos de administración, gobiernos y todas esas cosas nos empodera? (Un señor diputado: ¡Sí!). \nA mí, no. A mí, no me empodera. A mí, como mujer, me parece humillante que me vayan a dar un cargo o \nun consejo o una vicepresidencia del Gobierno por una cuota y no por mi capacidad y mérito. (Aplausos). \nPorque me imagino que las tres vicepresidentas del Gobierno de Pedro Sánchez, que hoy no han venido, \nson las que más saben de su respectiva materia, de la Hacienda pública, de la contratación laboral o de \nlas fuentes de energía. ¿O es que no es así? ¿O es que están ahí solo por cumplir una cuota? (Aplausos).\nHoy en día las mujeres pueden estudiar lo que quieran, pueden trabajar en lo que quieran y pueden \nconseguir lo que quieran por sus méritos y por su esfuerzo, y ustedes lo que van a conseguir con esta ley \nes que las llamen de una empresa importante para ofrecerles un puesto en un consejo de administración \nsolo por cumplir una cuota. Eso, señorías, es denigrar a las mujeres, tan feministas que son ustedes. \n(Aplausos).\nUstedes, además, no quieren la igualdad y la presencia equilibrada; ustedes quieren quitarnos nuestra \nlibertad, imponer su ideología de género y dividir a la sociedad. ¿Por qué no piden cuotas en el sector de \nla construcción, en el cuerpo de bomberos o en las tropas del ejército que van a luchar? Ustedes quieren \nque estudiemos lo que ustedes digan, que trabajemos en lo que ustedes nos mandan y que nuestro propio \ncriterio no exista. Pues esto se llama dictadura, señorías. Ustedes quieren una gente colectivizada a la \nque puedan controlar, pero nosotras no queremos eso, queremos la libertad de elegir el tipo de vida que \nqueramos y no el que ustedes nos quieran imponer. (Aplausos). Porque las mujeres somos diferentes a \nlos hombres, porque la naturaleza nos ha hecho diferentes, y a la vez somos complementarios. Nosotras \ntenemos los mismos derechos que los hombres, pero por mucho que se empeñen no vamos a ser iguales \nen nuestras cualidades, en nuestras destrezas, en nuestras aptitudes, en nuestras preferencias y en \nnuestros intereses. Ustedes no están haciendo una ley en favor de las mujeres; ustedes están haciendo \nuna ley en favor de un colectivo abstracto del que se erigen en únicos representantes y que no responde \na los intereses y a las necesidades reales de todas las mujeres.\nSeñorías de la izquierda, de la extrema izquierda, del nacionalismo, del independentismo, todos \nustedes, su pulsión totalitaria se manifiesta en todas sus iniciativas, y en esta me he quedado especialmente \nimpresionada al ver que han creado una nueva profesión a la que han llamado agente de igualdad. O sea, \nlos españoles vamos a tener a partir de ahora unos comisarios políticos que van a controlar nuestras vidas \ny van a decir si somos obedientes al autócrata, si estamos haciendo lo que ellos dicen, y, si no, nos van a \ncastigar. Dan ustedes miedo.\ncve: DSCD-15-PL-54\n \nY como no podía ser de otra manera, esta ley va acompañada de un presupuesto millonario para \ndesarrollar sus medidas con el llamado Plan Estratégico para la Igualdad Efectiva de Mujeres y \nHombres 2022-2025, del que ustedes están ya gastando dinero bien a espuertas. ¿Y saben quién está \npagando todo esto? Los españoles, con sus impuestos. ¿Y saben cuánto dinero hay para este plan? 20 000 \nmillones de euros; sí, 20 000 millones, 20 000 millones. ¿Saben lo que se podría hacer con este dinero? \nMuchísimas cosas, entre otras, por ejemplo, construir 100 000 viviendas después del caos que tienen \nustedes con el tema de la vivienda. (Aplausos). Pero nada, ustedes, como siempre, a lo suyo, que es \nutilizar el dinero de los españoles para sus propios intereses, que son: vender su ideología, dividir a la \nsociedad, repartir dinero entre sus afines, controlar las instituciones y a los ciudadanos, y mantenerse en el \npoder a cualquier precio.\nYa termino. Señorías, señora ministra, esta ley no va a traer ningún beneficio a las mujeres ni al \nconjunto de los españoles, más bien al contrario, va a suponer, primero, la vulneración de la igualdad; \nsegundo, el menoscabo de los principios del mérito y capacidad; tercero, una creciente inseguridad \njurídica; cuarto, un ataque frontal a la libertad de empresa; quinto, nefastas consecuencias para la \neconomía y el empleo, y sexto y último, pero no por ello menos importante, paradójicamente, ya que se \nsupone que esta ley está hecha para proteger a las mujeres, va a suponer la degradación de la valía \npersonal y profesional de la mujer.\nMuchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario \nVOX, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señora Aguirre.\nPor el Grupo Parlamentario Socialista, tiene la palabra la señora Fernández Benéitez, por un tiempo \nde siete minutos."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gracias, presidenta. Buenos días, señorías. Buenos días y \nbienvenida, señora ministra.\nHoy llega a su fin la tramitación de esta ley, una ley de las que hacen historia y también de las que \namplían el cauce de la libertad. La democracia paritaria ha sido siempre uno de los ejes del pensamiento \nfeminista, porque una de las injusticias más lacerantes que nos ha acompañado durante toda la historia \nes la exclusión sistemática de las mujeres en el acceso al poder. Los espacios de poder, que aún hoy \nresponden a lógicas y a dinámicas masculinas, siguen siendo un obstáculo para que las mujeres estemos \nen igualdad de condiciones. La ausencia de mujeres, señorías, es el ejemplo más visible; sin embargo, \nexisten muchas otras formas de excluir al género femenino, algunas infinitamente más sutiles, pero que \nlogran el mismo resultado, que no es otro que conculcar la posibilidad de participación de las mujeres.\nNo habrá igualdad plena mientras sigan existiendo fenómenos como los acantilados de cristal o las \nmujeres sigan dependiendo del poder de los hombres. No habrá igualdad plena mientras las alcaldesas \nsigan siendo una minoría o las presidentas de diputación o comunidad autónoma, una anécdota. No habrá \nigualdad plena, señorías, mientras las presidentas de los consejos de administración sigan siendo una \nexcepción. Porque, señorías, si más de la mitad de la población no puede acceder en condiciones de \nigualdad real a los espacios de influencia, nuestras libertades no son tales. Si el traje y la corbata siguen \nsiendo el uniforme neutro del statu quo, señorías, no hay igualdad. (Aplausos). Y si las decisiones \nimportantes, las de verdad, se siguen tomando en sobremesas, señorías, no hay ni meritocracia ni \ntransparencia. Y fíjense, habrá quien hable de cuotas, pero nada más lejos de la realidad. Proteger \nlegalmente el hecho de que las mujeres estén presentes no es facilitarles absolutamente nada, es remover \nun sistema que hace que muchos hombres copen injustamente posiciones que, sin el machismo operando, \nno ocuparían. (Aplausos).\nSeñorías, tampoco caemos en esencialismos. Que una mujer lidere no es garantía de igualdad ni es \nuna garantía para las políticas de igualdad ni para el progreso ni merece un trato especial, porque no se \ntrata de un ejercicio de condescendencia ni de generosidad ni de representatividad, es pura justicia, es un \nmínimo básico democrático del que partir, ni más ni menos. Por eso, esta es una ley necesaria. Algunos \nde ustedes lo han comentado, es cierto que trasponemos una directiva europea, pero, como saben, \nhemos ido mucho más allá. Exigimos listas electorales que no solo sean paritarias, sino también cremallera; \nademás, la paridad será obligatoria en los consejos de administración, en los colegios profesionales, en \nsindicatos, en organizaciones sociales, en órganos constitucionales y un largo etcétera. Señorías, además, \nesta ley es puro legado democrático, porque viene a dar continuidad a un trabajo que se inició hace varias \ndécadas y que se tradujo en una de las leyes más innovadoras y determinantes de la etapa del Gobierno \ncve: DSCD-15-PL-54\n \nde José Luis Rodríguez Zapatero, la ley de igualdad de 2005. (Aplausos). Señorías, aquella ley revolucionó \nnuestro país como lo hará a partir de ahora la ley que aprobamos hoy, ministra.\nEn relación con esto, quiero señalar que estamos acostumbrados, señorías, a no poner nombre a los \navances en materia de igualdad. Precisamente, debido a esa cultura de la discreción, de la cooperación y \nla colaboración que impera entre las mujeres, estas suelen quedarse en el olvido; parecemos prescindibles \no intercambiables. Y hoy, precisamente por ello, desde esta tribuna quiero mostrar mi hondo agradecimiento \na todas las mujeres, casi todas socialistas, que han trabajado sin descanso para que hoy lleguemos a \ndonde hemos llegado. (Aplausos). Les hablo de las que trabajaron para poner en marcha las políticas en \nmateria de igualdad; les hablo de aquellas que pelearon por el 5 % de presencia femenina dentro del PSOE \nen los ochenta y que fue el germen de la paridad hoy en día en España; les hablo de todas aquellas que \nnos enseñaron cómo hacerlo, cómo resistir y cómo ser libres; les hablo de Paca Sauquillo, de Matilde \nFernández, de Soledad Murillo, de Carmen Montón, de Adriana Lastra o de Bibiana Aído. (Aplausos). Son \nalgunas de ellas — son muchas más—, pero yo hoy quiero que su nombre nunca se borre de la historia. \nEn este punto, quiero nombrar también a las ponentes socialistas de esta ley, a María Guijarro y a Milena \nHerrera, porque, en gran medida gracias a su inteligencia política y a su trabajo esta ley va a salir adelante \nhoy. (Aplausos). Y, por supuesto, gracias al Gobierno de España y a nuestra ministra de Igualdad, Ana \nRedondo, por su liderazgo y por su valentía en este proceso. Muchísimas gracias, ministra.\nPara terminar, solo puedo lamentar la actitud del Partido Popular. Señoría De los Santos, sus \nbravuconerías lo definen a usted y a quienes le jalean; pero, sí le voy a pedir una cosa, y es que no vuelva \na amenazar a mis compañeras desde esta tribuna, no lo vuelva hacer, no lo vuelva a hacer. Por decoro y \npor respeto a esta Cámara, no vuelva a amenazar a mis compañeras, no lo vuelva a hacer. (Aplausos—\nEl señor De los Santos González pronuncia palabras que no se perciben).\nSeñorías de la derecha, para terminar… (Rumores.—Un señor diputado: ¡Que se callen!—\nProtestas)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Ruego silencio, por favor."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Señorías de la derecha, para terminar, solo voy a decirles que \nnos encanta verlos disfrutar de más igualdad y de más libertad; desde los enlaces LGTBI hasta los \nderechos vinculados a la planificación familiar, de verdad que nos gusta mucho verlos reconocer y dar uso \na libertades que nos hacen una sociedad mejor. Fíjense cómo será que hasta el señor García-Gallardo se \nha cogido el permiso por paternidad que le corresponde después de haber sido papá, con todo lo que él \ndice de las feministas. Así que, bienvenidos. Nos encanta verlos disfrutar de los derechos y de las \nlibertades; sí, señorías de la derecha, sí. (Aplausos).\nPara terminar, señorías, hoy aprobamos una ley que permitirá que ninguna niña crezca nunca más sin \nun referente en el que mirarse si quiere ser magistrada, letrada, ejecutiva, sindicalista, enfermera o \nabogada. Hoy ponemos una nota más de color a nuestro crisol de libertades. Hoy, señorías, legamos un \npaís mejor.\nGracias, presidenta. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario \nSocialista y de la señora ministra de Igualdad, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señora Fernández.\nEn nombre del Gobierno, tiene la palabra la señora ministra de Igualdad."
+  },
+  {
+   "speaker": "Redondo García (Ministra De Igualdad)",
+   "party": "",
+   "role": "ministro",
+   "topic": "Mociones",
+   "text": "Gracias, presidenta.\nIntervengo muy brevemente. Simplemente, quiero agradecer el trabajo. Sé que ha sido duro, sé que \nhan sido momentos difíciles y complicados para, finalmente, llegar a un consenso que nos permite avanzar. \nEso es lo importante, seguir avanzando en derechos, seguir avanzando en igualdad y seguir avanzando \nen consensos. Creo que el consenso es el exponente claro de lo que es el parlamentarismo democrático, \ndonde la mayoría decide con la incorporación de las propuestas, las iniciativas y las mejoras de las \nminorías de los grupos de oposición. Creo que, al final, avanzamos precisamente en ese gran consenso \nque necesita la democracia y que necesita la igualdad.\nHoy es un gran día — yo creo que lo han dicho aquí quienes me han precedido—, es un día histórico. \nSe ha trabajado, y agradezco ese trabajo colectivo. Es un día histórico por tres motivos. En primer lugar, \nporque se remueve una injusticia social e histórica. No se puede avanzar, no cabe mérito y capacidad sin \nigualdad. No existe esa idea que aquí se ha expuesto de que se puede avanzar únicamente con mérito y \ncve: DSCD-15-PL-54\n \ncapacidad. Si previamente no hay igualdad, el mérito y la capacidad no se pueden lograr. Por lo tanto, hoy \navanzamos en mérito y capacidad real; mérito y capacidad partiendo de la igualdad de oportunidades, que \nes la única manera de avanzar en mérito y capacidad. (Aplausos). Que no se engañe nadie, ese es el \núnico camino del mérito y la capacidad, es decir, la igualdad real de oportunidades.\nEn segundo lugar, creo que es un avance histórico porque es cierto que removemos techos de cristal \ny, como se decía, hacemos que niñas puedan tener referentes donde antes no existían. Pero esta no es \nuna legislación aislada; en un sistema jurídico, nuestra norma, esta que hoy avanza hacia su aprobación \ndefinitiva, va complementada con otras muchas leyes que tratan de limpiar ese fango en el suelo, esa \nsuciedad que todavía impide que muchas mujeres sean libres y avancen. Por supuesto, hemos avanzado, \nporque hoy más de 10 millones de mujeres están trabajando, y están dadas de alta en la Seguridad Social. \nEstamos avanzando en la limpieza de esos suelos pegajosos porque, evidentemente, el salario mínimo \ninterprofesional, cuando crece, también limpia esos suelos; porque tenemos una ley de familias pendiente, \ny porque hay muchos recursos y muchos programas que permiten, precisamente, avanzar en la \ncorresponsabilidad real. En ese sentido, creo que esta ley viene a complementar toda una serie, toda una \nbatería, toda una agenda feminista que nos acerca a esa igualdad real de oportunidades y remueve todos \nlos obstáculos que todavía existen para la igualdad real de oportunidades.\nEn tercer lugar, y no menor, creo que esta ley avanza precisamente en desarrollar mandatos europeos. \nEstamos trasponiendo una directiva comunitaria, pero no solamente la trasponemos, sino que vamos más \nallá, y ser más ambiciosos supone un ejemplo para el mundo, un ejemplo en un momento en el que la ola \nde conservadurismo que azota muchísimos países hace que las mujeres teman que sus derechos vuelvan \na ser sojuzgados, vuelvan a ser ninguneados, vuelvan a ser suprimidos. Con esta ley abrimos la esperanza \na las mujeres y a los hombres de todos los países que ven que están en regresión sus derechos y les \ndecimos que hay otra forma de hacer política, que hay otra forma de ser Gobierno, que hay otra forma, \ndesde luego, de hacer un mundo mejor. Esta ley es precisamente ese ejemplo, es decir, ejemplo de \ndemocracia, ejemplo de paridad, ejemplo de igualdad y ejemplo para todas y todos de que un mundo \nmejor existe y es posible.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señora ministra.\n— PROYECTO DE LEY DE CREACIÓN DE LA AUTORIDAD ADMINISTRATIVA INDEPENDIENTE \nPARA LA INVESTIGACIÓN TÉCNICA DE ACCIDENTES E INCIDENTES FERROVIARIOS, \nMARÍTIMOS Y DE AVIACIÓN CIVIL. (Número de expediente 121/000010)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Continuamos ahora con el dictamen del Proyecto de ley de creación de la \nautoridad administrativa independiente para la investigación técnica de accidentes e incidentes ferroviarios, \nmarítimos y de aviación civil.\nLes recuerdo que, finalizado este debate, se votarán las enmiendas correspondientes a los dos \ndictámenes de Comisión.\nPara defender las enmiendas formuladas a esta iniciativa legislativa, por el Grupo Parlamentario \nMixto, que en este turno también fijará posición, tiene la palabra, en primer lugar, la señora Valido García, \npor un tiempo de dos minutos.\nRuego silencio, por favor."
+  },
+  {
+   "speaker": "VALIDO GARCÍA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Señorías, mis primeras palabras tienen que ser, necesariamente, para \nlas víctimas del avión de Spanair JK5022 que el 10 de agosto de 2008 tenía que haber aterrizado en Gran \nCanaria, tenía que haber llegado a su destino. Ciento cincuenta y cuatro personas, muchísimas de ellas \ncanarias, perdieron la vida en ese accidente aéreo, de los más importantes que se han producido en la \nhistoria de la aviación española. (Aplausos).\nAgradezco el aplauso para víctimas y familiares, porque, de verdad, todavía lo tenemos a flor de piel. \nY estoy viendo a la diputada de Gran Canaria, a Noemí Santana, y por aquí también a Luc André y a \nDolores Corujo. Sabemos muy bien cómo cada año, el 10 de agosto, recordamos a esas personas que \nfallecieron en este terrible accidente; pero también la situación de sus familiares y de las víctimas, que \nsobrevivieron con importantes secuelas. Desde entonces, la asociación de víctimas, afectados y familiares \nha peleado denodadamente por una comisión de investigación que se creó en este Congreso para \npromover una ley; ley que hoy traemos para su aprobación. No es la ley que ellos querían, no es la ley que \nesperaban, pero, desde luego, es una ley que apoyan, que nosotros apoyamos y que esperamos que se \ncve: DSCD-15-PL-54\n \npueda mejorar en el Senado. ¿Por qué? Porque hay una cuestión fundamental que no se recoge en este \ntexto y que pido a todos que apoyen en el Senado, que es la unidad de asistencia familiar y de apoyo a \nvíctimas y familiares, porque es fundamental que los familiares y las víctimas que sobrevivieron cuenten \ncon todo el apoyo del Estado. Y no hablamos solo de cuestiones económicas, que también; hablamos de \nnecesidades de apoyo médico y psicológico; hablamos de que sean protagonistas en primera línea, de \nque sean entendidos y escuchados después de pasar por una tragedia tan grave. Insisto, hoy para ellos \nes un buen día, pero lo será más si en el Senado ustedes apoyan que se incorpore a la ley esta unidad \nasistencial, que para ellos es clave.\nTermino como empecé. Recordemos hoy a las víctimas de estos y otros accidentes, pero permítanme \nque todos los compañeros y compañeras, diputadas y diputados canarios que no subirán a esta tribuna \npero en nombre de los cuales quiero hablar, hoy tengamos un especial recuerdo para esas 154 personas, \npara ese vuelo que tenía que haber aterrizado en Gran Canaria.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Tiene ahora la palabra el señor Rego Candamil por un tiempo de dos \nminutos."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Grazas, señora presidenta. Moi bo día.\nQuero que as miñas primeiras palabras nesta intervención sexan en lembranza das persoas falecidas \nno tráxico accidente do Alvia do 24 de xullo de 2013 en Santiago de Compostela, tamén para as 21 falecidas \nno naufraxio do pesqueiro galego Vila de Pitanxo e, loxicamente, para as vítimas do accidente de Spanair.\nCando se producen situacións como estas que, en todo caso, sempre é necesario tratar de evitar, o \nque esperan os familiares e as familiares das vítimas é que, como mínimo, haxa unha investigación que \nesclareza o que aconteceu e que esclareza a totalidade das responsabilidades, que poida haber xustiza, \nque poida haber verdade, que poida haber reparación e que tamén se poñan medidas para que nunca \nmáis eses accidentes se repitan.\nE no caso do accidente do Alvia quedou en evidencia que o feito de que a Comisión de Investigación \ndependese do Ministerio de Transportes fixo que non fose posíbel unha investigación real e en profundidade, \nunha investigación independente. Porque, ademais, se deu a circunstancia de que había intereses comúns \nentre as dúas grandes forzas políticas que tiveron responsabilidades en que nesa curva da Grandeira, \nnese punto no que se produciu o accidente, non estivesen instalados os sistemas de seguridade \nadecuados: o Partido Socialista da man do seu ministro naquela altura, Xosé Blanco, e o Partido Popular \nda man da súa ministra de Fomento, Ana Pastor.\nPor tanto, fronte a situacións como esta nas que sempre hai intereses en ocultar as responsabilidades \npolíticas, é necesario que haxa comisións realmente independentes. Nós pelexamos da man das \nasociacións de vítimas para que esta lei saíse adiante, para que poida haber unha comisión que realmente \npoida ser independente e que investigue calquera tipo de accidente de mobilidade.\nEvidentemente, esta lei pode ser mellor, pero, en todo caso, entendemos que é un paso moi positivo \nna boa dirección e, por tanto, imos votar a favor. Moito obrigado.\nGracias, señora presidenta. Buenos días.\nQuiero que mis primeras palabras en esta intervención sean en recuerdo de las personas fallecidas \nen el trágico accidente del Alvia el 24 de julio de 2013, en Santiago de Compostela; también para los \nveintiún fallecidos en el naufragio del pesquero gallego Villa de Pitanxo, y lógicamente para las víctimas \ndel accidente de Spanair.\nCuando se producen situaciones como estas, que, en todo caso, siempre hay que intentar evitar, lo \nque esperan los familiares de las víctimas es que, como mínimo, haya una investigación que aclare lo que \nocurrió y la totalidad de las responsabilidades, que pueda haber justicia, que pueda haber verdad, que \npuede haber reparación y que se pongan medidas para que esos accidentes no se repitan nunca más. En \nel caso del accidente del Alvia, quedó en evidencia que el que la Comisión de investigación dependiera \ndel Ministerio de Transportes hizo que no fuera posible una investigación real y en profundidad, \nindependiente, porque además se dio la circunstancia de que había intereses comunes entre las dos \ngrandes fuerzas políticas que tuvieron responsabilidades en que en esa curva, en ese punto en el que se \nprodujo el accidente, no estuvieran instalados los sistemas de seguridad adecuados, el Partido Socialista, \nde la mano de su ministro en aquel entonces, José Blanco, y el Partido Popular, de la mano de su ministra \nde Fomento, Ana Pastor.\ncve: DSCD-15-PL-54\n \nPor lo tanto, ante situaciones como estas, en que siempre hay intereses en ocultar responsabilidades \npolíticas, es necesario que haya comisiones verdaderamente independientes. Nosotros hemos peleado \ncon las asociaciones de víctimas para que esta ley saliera adelante, para que haya una comisión \nclaramente independiente y que investigue cualquier tipo de accidente de movilidad. Evidentemente, esta \nley puede mejorarse, pero, en todo caso, creemos que es un paso muy positivo en la buena dirección. Por \nlo tanto, votaremos a favor de ella.\nMuchas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señor Rego.\nTiene ahora la palabra la señora Santana Perera por un tiempo de tres minutos."
+  },
+  {
+   "speaker": "SANTANA PERERA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gracias, presidenta.\nEste proyecto de ley busca lo que llevamos demandando durante muchos años algunas políticas y \nasociaciones de víctimas, que no es otra cosa que la investigación técnica de accidentes ferroviarios, \nmarítimos y de aviación civil a través de una autoridad independiente, que se esclarezcan las causas y \nque se evite que vuelvan a repetirse, así como que se propongan recomendaciones que mejoren la \nseguridad de nuestros transportes. La pasada legislatura no pudo ver la luz porque se convocaron \nelecciones generales, pero creo que este es un buen momento para retomar el trabajo.\nComo canaria ―como decía la compañera Cristina Valido―, no puedo evitar pensar en la Asociación \nde Afectados del Vuelo JK5022 de Spanair. Ya lo ha dicho Cristina, esto fue un acontecimiento que nos \natravesó el alma a todos los canarios y canarias. Y también me viene a la mente la presidenta de la \nasociación, Pilar Vera, y lo luchadora que ha sido. Que hoy estemos aprobando la tramitación de este \nproyecto de ley también es fruto de su trabajo. Es verdad que probablemente es un paso pequeño para lo \nque ellos y ellas quieren, pero hay que reconocer que, sin la lucha de las asociaciones de víctimas por \nconocer la verdad, por depurar responsabilidades, por poder volar con más seguridad, seguramente hoy \nno estaríamos aquí.\nCreemos que esta autoridad independiente, tal cual recoge el proyecto de ley, debe tener su propio \nestatuto orgánico y debe tener presupuesto para su puesta en marcha. Esto es fundamental para que \npueda tener una personalidad jurídica y autonomía financiera que verdaderamente pueda funcionar como \nuna autoridad independiente. Para nosotros también es fundamental que se reconozcan las relaciones \nque debe haber en la propia ley entre las distintas instituciones, ya sean las Cortes Generales, el Poder \nJudicial o las asociaciones de víctimas. Es verdad que echamos de menos esa unidad de asistencia \nfamiliar. También es verdad que este proyecto de ley da más garantías a las víctimas, fortalece su posición \njurídica en el procedimiento con respecto a la situación actual, pero no solo debe haber esa protección \njurídica, sino que también tiene que haber un acompañamiento de las víctimas y sus familiares.\nPor lo tanto, creo que hoy estamos de enhorabuena. Debemos seguir trabajando, porque es muy duro \nque te pase algo así en la vida. Lo que más queremos es que se conozca la verdad y que se evite el \nsufrimiento de otras tantas personas en el futuro.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señora Santana.\nPor el Grupo Parlamentario Republicano, tiene la palabra la señora Granollers Cunillera por un tiempo \nde siete minutos."
+  },
+  {
+   "speaker": "GRANOLLERS CUNILLERA",
+   "party": "ERC",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gràcies, presidenta. Bon dia, diputats i diputades. Avui fem \nun pas més en la votació d’un projecte de llei per la creació d’una autoritat administrativa independent \nd’incidents ferroviaris, marítims i d’aviació civil. Abans d’entrar en matèria, però, vull fer un recordatori dels \naccidents més destacats del que portem de segle. Com a accidents ferroviaris, tenim l’accident de Santiago \nde Compostela, que va ser el 24 de juliol de 2013; l’accident del metro de València, el 3 de juliol de 2006; \nl’accident de Chinchilla, el 3 de juny del 2003, i sumant, en total, 141 persones mortes i centenars de \nferides entre els tres accidents. D’accidents marítims, tenim el desastre del Prestige del 19 de novembre \nde 2002, alliberant milers de tones de petroli al mar, o el naufragi del pesquer Nuevo Pepita Aurora, el 5 \nde setembre del 2007, que va causar la mort de vuit tripulants. I d’accidents aeris, tenim l’accident del vol \nJK 5022 de Spanair el 20 d’agost de 2008. Va causar la mort de 154 persones i només va deixar 18 \nsupervivents. L’accident del Iak-42 el 26 de maig de 2003 va causar la mort de 75 persones entre militars \ni civils.\ncve: DSCD-15-PL-54\n \nAquests tràgics accidents han deixat una petjada inesborrable en la nostra història. Els qui van perdre \néssers estimats en aquests desastres han viscut un calvari marcat per la tristesa, la desesperació i la \nrecerca incessant de respostes. Hem corroborat la manca de suport i de transparència per part de les \ninstitucions. I, en conseqüència, hem presenciat com això ha agreujat encara més el dolor de les famílies. \nRevertir aquest greuge és una responsabilitat de tots nosaltres. Per això pensem que avui fem un pas \nimportant. La creació de l’autoritat independent té com a objectiu garantir la revisió exhaustiva de cada \ncas, per evitar una repetició d’errors i per rendir comptes a les famílies. Per tant, per responsabilitat i per \nla memòria de les víctimes, donarem suport a aquesta iniciativa.\nAra bé, per dignitat i pel respecte que es mereixen totes les víctimes, Esquerra Republicana va \npresentar una sèrie d’esmenes amb l’objectiu que els accidents no civils, és a dir, els militars, també fossin \nobjecte de l’autoritat d’investigació d’accidents. Les nostres propostes van ser rebutjades en tramitació de \nla comissió. Tanmateix, avui les portem a ple perquè novament siguin preses en consideració. I per tal que \npuguin reflexionar el seu vot, els faré tres preguntes. Per què, quan l’accident és en l’àmbit militar, les \nvíctimes han de quedar excloses d’una investigació fiable i transparent? Què s’amaga dins les institucions \nmilitars espanyoles, que no poden ser investigades? Són els alts càrrecs de l’exèrcit capaços de \ncomprometre la seguretat dels seus propis soldats per enriquir-se? Aquestes preguntes són les que ens \nhaurien de fer pensar el nostre vot avui. Per tant, els demanem que no continuïn amb aquesta negativa \nd’esborrar la paraula civil del text de la llei. Totes les víctimes mereixen la mateixa transparència.\nLuis Gonzalo Segura, un extinent expulsat precisament per denunciar la corrupció, descriu una sèrie \nde casos i situacions que reflecteixen el deteriorament i la mala gestió de l’exèrcit. Els recomano el llibre \nEl llibre negre de l’exèrcit espanyol. Ofereix una visió detallada i crítica sobre les profundes deficiències i \nla corrupció sistemàtica dins les Forces Armades Espanyoles. Un dels casos més importants és l’accident \ndel Iak-42. La tragèdia va ser resultat de greus negligències en la contractació dels serveis de transport, \namb irregularitats i actes de corrupció en l’adjudicació de contractes a empreses de molt mala reputació. \nÉs a dir, aquest incident va exposar una trama empresarial amb connexions polítiques que va alimentar la \ncorruptela dins de l’exèrcit. Aquest malbaratament de recursos públics forma part de l’entramat de les \nclavegueres de l’Estat, i torna a exhibir la corrupció endèmica i estructural que, emparada per la justícia \nmilitar, regne impunement dins l’exèrcit espanyol, una institució que, mai està de més recordar, viu \nancorada en el passat mes franquista, amb estructures i comportaments resistents al canvi democràtic.\nI per anar concloent, aquesta llei que avui comença a caminar és el resultat d’anys de lluita per part de \nles famílies de les víctimes civils i militars, també, que mai han deixat de buscar la veritat i la justícia. És \nun testament del seu coratge i de la seva determinació per fer del món un lloc més segur. Totes les \ninvestigacions haurien de ser transparents per tal d’evitar que torni a repetir-se el fet.\nAcabo expressant el meu més profund agraïment a tots els que han contribuït a fer realitat aquests \nprojectes i els que em van precedir en les comissions d’investigació, com són el diputat Joan Tardà o el \ndiputat Joan Josep Nuet. I, sobretot, a les famílies de les víctimes. La seva dedicació i compromís són una \ninspiració per tots nosaltres. A tots ells vull dir-los que el vostre dolor no ha estat en va, i que avui fem un \npas important cap a la justícia, cap a la memòria i cap a la seguretat dels nostres transports. Gràcies.\nGracias, presidenta. Buenos días, diputados y diputadas.\nHoy damos un paso más en la votación de un proyecto de ley para la creación de una autoridad \nadministrativa independiente de incidentes ferroviarios, marítimos y de aviación civil. Antes de entrar en \nmateria, sin embargo, un recordatorio de los accidentes más destacados de lo que llevamos de siglo. \nComo accidentes ferroviarios tenemos el de Santiago de Compostela, el 24 de julio de 2013; el accidente \nen el Metro de Valencia, 3 de julio de 2006; el accidente en Chinchilla, el 3 de junio de 2003. Sumando, \nen total, son unas 141 personas muertas y cientos de heridos entre estos tres accidentes. Como accidentes \nmarítimos tenemos el desastre del Prestige, 19 de noviembre de 2002, liberando miles de toneladas de \npetróleo al mar; el naufragio del pesquero Pepita Aurora, 5 de septiembre de 2007, que causó la muerte \nde ocho tripulantes. Y como accidentes aéreos tenemos el del vuelo JK5022 de Spanair, 20 de agosto \nde 2008, que causó la muerte de 154 personas y solo dej ó a dieciocho supervivientes; el accidente del \nYak-42, 26 de mayo de 2003, que causó la muerte de setenta y cinco personas, entre militares y civiles. \nEstos trágicos accidentes han dejado una huella imborrable en nuestra historia. Los que perdieron a seres \nqueridos en esos desastres han vivido un calvario marcado por la tristeza, la desesperación y la búsqueda \nincesante de respuestas.\ncve: DSCD-15-PL-54\n \nHemos corroborado la falta de apoyo y de transparencia por parte de las instituciones y, en \nconsecuencia, hemos presenciado c ómo ello ha agravado todavía más el dolor de las familias. Revertir \neste agravio es una responsabilidad de todos nosotros. Por eso pensamos que hoy damos un paso \nimportante. La creación de la autoridad independiente tiene por objetivo garantizar la revisión exhaustiva \nde cada caso, para evitar repetición de errores y para rendir cuentas ante las familias. Así que, por \nresponsabilidad y por la memoria de las víctimas, vamos a dar apoyo a esta iniciativa. Sin embargo, por \ndignidad y por el respeto que se merecen todas las víctimas, Esquerra Republicana presentó una serie de \nenmiendas con el objetivo de que estos accidentes no civiles, es decir, los militares, fueran también sujeto \nde la autoridad independiente. Nuestras propuestas fueron rechazadas en el trámite de la Comisión. No \nobstante, hoy las traemos al Pleno para que sean tomadas en consideración de nuevo.\nPara que puedan reflexionar sobre su voto, les voy a formular tres preguntas. ¿Por qué cuando el \naccidente se produce en el ámbito militar las víctimas tienen que quedar excluidas de una investigación \nfiable y transparente? ¿Qué se oculta dentro de las instituciones militares españolas que no puede ser \ninvestigado? ¿Los altos cargos del Ejército son capaces de comprometer la seguridad de sus propios \nsoldados para enriquecerse? Esas preguntas son las que tendrían que llevar a plantear nuestro voto, así \nque hoy les pedimos que no continúen con esa negativa de borrar la palabra civil de texto de la ley. Todas \nlas víctimas merecen la misma transparencia.\nLuis Gonzalo Segura, un exteniente expulsado precisamente por denunciar la corrupción, describe \nuna serie de casos y situaciones que reflejan el deterioro y la mala gestión del Ejército. Les recomiendo \nEl libro negro del Ejército español, que ofrece una visión detallada y crítica sobre las profundas deficiencias \ny la corrupción sistemática dentro de las Fuerzas Armadas españolas. Uno de los casos más importantes \nes el accidente del Yak-42. La tragedia fue resultado de graves negligencias en la contratación de los \nservicios de transporte, con irregularidades y actos de corrupción en la adjudicación de contratos a \nempresas de muy mala reputación. Es decir, ese incidente expuso un entramado empresarial con \nconexiones políticas que alimentó la corruptela dentro del Ejército. Este malgasto de recursos p úblicos \nforma parte del entramado de las cloacas del Estado y exhibe de nuevo la corrupción endémica y estructural \nque, amparada por la justicia militar, reina impunemente dentro del Ejército español, una institución que, \nno está de más recordarlo, vive anclada en el pasado más franquista, con estructuras y comportamientos \nresistentes al cambio democrático.\nPara ir concluyendo, esta ley que hoy empieza a caminar es el resultado de años de lucha por parte \nde las familias de las víctimas civiles y militares también, que nunca han dejado de buscar la verdad y la \njusticia. Es un testamento de su coraje y su determinación para hacer del mundo un lugar más seguro. \nTodas las investigaciones deberían ser transparentes para evitar que pueda volver a repetirse el hecho.\nAcabo, expresando mi más profundo agradecimiento a todos aquellos que han contribuido a hacer \nrealidad estos proyectos y a los que me precedieron en las comisiones de investigación, como son el \ndiputado Joan Tardà o Joan Josep Nuet, y, sobre todo, a las familias de las víctimas (dirigiéndose a la \ntribuna de invitados), su dedicación y compromiso es una inspiración para todos nosotros. A todos ellos \nquiero decirles que su dolor no ha sido en vano; no ha sido en vano, y hoy vamos a dar un paso importante \nhacia la justicia, hacia la memoria y hacia la seguridad de nuestros transportes.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Moltes gràcies, señora Granollers.\nPor el Grupo Parlamentario Popular, tiene la palabra el señor Delgado Arce, por un tiempo de siete \nminutos."
+  },
+  {
+   "speaker": "DELGADO ARCE",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Señora presidenta, señorías, debatimos esta mañana el dictamen del \nproyecto de ley de creación de una autoridad administrativa independiente para investigar técnicamente \nlos accidentes e incidentes ferroviarios, marítimos y de aviación civil; una autoridad multimodal que va a \nejercer las funciones que actualmente desarrollan las tres comisiones especializadas que ya existen, que \nestán adscritas orgánicamente al Ministerio de Transportes y Movilidad Sostenible pero que están en \nrégimen de independencia funcional. A los presidentes, a los vocales, a los directivos y al personal \ninvestigador de estas comisiones les quiero reconocer su trabajo, que va a continuar hasta que, después \nde aprobar esta ley, se constituya la nueva autoridad independiente. Y también quiero enviar nuestro \nrecuerdo a las víctimas de los diferentes accidentes que han ocurrido en estos tres modos, pero no solo \nlos que han sido citados, sino el conjunto de ellos.\ncve: DSCD-15-PL-54\n \nEn nombre del Grupo Parlamentario Popular, los ponentes Cristina Teniente, Juan Antonio Rojas y \nquien les habla preparamos nueve enmiendas con total ánimo constructivo para mejorar un proyecto de \nley que era exactamente igual al que entró en la pasada legislatura a tramitación, que no se pudo culminar \njustamente por la disolución anticipada. Fruto de este trabajo parlamentario en Comisión fueron aceptadas \ntres enmiendas, y también hemos transaccionado otras tres con el objetivo de mejorar el procedimiento \nde investigación en su fase de inicio, para que tuviese lugar tan pronto se conociera que han ocurrido, \nincluyendo la referencia a que la persona que ostente la Presidencia de esta autoridad no solo tendrá que \ntener reconocido prestigio, sino también una experiencia y un conocimiento en seguridad en el transporte \ny previendo, por ejemplo, una unidad de apoyo técnico para dar soporte a las direcciones de investigación.\nDefendemos en este Pleno la única enmienda que ha quedado viva del Grupo Parlamentario Popular, \nque es la enmienda 136, que propone la modificación del apartado 2 del artículo 27, en el sentido de incluir \nen la ley la previsión de que el personal investigador de la autoridad no pueda ser requerido por los \nórganos judiciales para emitir informes periciales sobre accidentes o incidentes sobre los que investigue \no haya investigado. Lo hacemos atendiendo a una sensata propuesta del Consejo Fiscal en aras de \nasegurar la independencia y la investigación técnica del personal de la autoridad de las actuaciones que \nrealizan los órganos judiciales. Consideramos que esto en modo alguno afecta al cumplimiento del \nartículo 118 de la Constitución, que obliga a que todos colaboremos con los jueces y tribunales en la \ntramitación de los procesos. Y jamás debemos olvidar que la finalidad de la investigación técnica de esta \nautoridad, como de las comisiones que hoy están haciendo esas funciones, es establecer causas del \naccidente o incidente y la formulación de recomendaciones de seguridad para evitar que se produzcan \nnuevos accidentes, pero bajo ningún caso persigue la investigación técnica determinar culpabilidades o \natribuir responsabilidades.\nSeñorías, por lo que hemos dicho hasta este momento, quizás todos pensarían que nuestro voto en \nComisión debería haber sido positivo o, en todo caso, una abstención, y votamos en contra. ¿Por qué lo hemos \nhecho? Porque hoy no estamos hablando de un proyecto de ley, estamos hablando de dos proyectos de ley; \nporque a través de una enmienda que ha sido incluida en el dictamen, la disposición final nueva, se está \naumentando el límite de endeudamiento de ADIF-Alta Velocidad y de Renfe-Operadora para el ejercicio 2024 \nen unas cifras que les paso a comentar. En el caso de ADIF, sería un incremento para endeudarse hasta 1750 \nmillones de euros en 2024 para deudas a largo plazo y, en el caso de Renfe-Operadora, para que se incremente \nsu endeudamiento hasta el límite de 800 millones de euros en el ejercicio 2024 para deudas a corto y a largo \nplazo. ¿Esto es algo regular o irregular? A nuestro juicio, es manifiestamente ilegal. Se está incumpliendo la \nLey General Presupuestaria, la Ley 47/2023, en cuyo artículo 111.2 se determina que solo se pueden concertar \noperaciones de endeudamiento de los entes públicos empresariales a través de la Ley General de Presupuestos \ndel Estado. Claro, el Gobierno socialista ha incumplido una obligación, la mayor obligación que tiene un \ngobierno, que es traer el Proyecto de Ley de Presupuestos Generales del Estado a esta Cámara. Ni tan \nsiquiera los han traído. Por lo tanto, en aplicación de la ley, están prorrogados los presupuestos del año 2023, \nque determinan muy claramente en su artículo 47.1 los límites de endeudamiento para el año 2023, prorrogados \na 2024, de ADIF y Renfe. Así que estamos hablando de que Renfe no podría sobrepasar 622 millones de euros \nde endeudamiento y ADIF-Alta Velocidad, 1191.\nPues bien, si se aceptan estas enmiendas que se han incluido en el dictamen, nos encontramos con \nque ADIF-Alta Velocidad pasa a incrementar su endeudamiento en 558 millones y Renfe-Operadora \nen 258 millones; es decir, se incrementarían en un 41 y en un 47 %. Simplemente, es una actuación ilegal, \nes manifiestamente irresponsable y, además, incumple lo previsto en el convenio entre la Administración \nGeneral del Estado y el Administrador de Infraestructuras Ferroviarias, ADIF-Alta Velocidad.\nSeñorías, 800 millones de euros adicionales de endeudamiento. En el caso de ADIF, ya tiene en este \nmomento una deuda auditada a 31 de diciembre de 2023 de 17 414 millones de euros. Bueno, nos \ntomamos a la ligera estas cuestiones, pero, señorías, el Grupo Parlamentario Popular no se puede tomar \na la ligera estas cuestiones porque afectan al erario público. (Aplausos). Hay que tomárselo en serio. El \nParlamento es algo serio. No se puede, a través de una enmienda en un proyecto de ley con una temática \ntotalmente ajena, introducir este tipo de enmiendas. Es cierto que hemos transaccionado otras enmiendas \nque no tienen exactamente que ver con el proyecto de ley en materia portuaria, pero no tenían esta \nafectación al gasto público ni lógicamente afectaban a una ley tan importante como la Ley General \nPresupuestaria y la Ley de Presupuestos Generales del Estado. Además, esto se produce en el marco de \nuna transacción entre el Gobierno y el Grupo Parlamentario SUMAR con el Grupo Parlamentario de \nEsquerra Republicana, en un momento político en el que se está hablando claramente de una financiación \ncve: DSCD-15-PL-54\n \nunilateral con la Comunidad Autónoma de Cataluña, en la que se habla de 15 000 millones de euros de \ncondonación o de financiación adicional; en un contexto en el que no se traen leyes a este Parlamento, \ncomo tendría que ser la de presupuestos — se dice que porque no se tienen los votos suficientes— y, sin \nembargo, se trae una ley que ha creado una división extraordinaria en la sociedad española como la ley \nde amnistía y, por supuesto, entre los grupos políticos, y para esa sí que hay apoyo.\nSeñorías, nosotros queremos actuar en los procedimientos parlamentarios con seriedad y, por eso, \nnuestro sentido de voto se expresará justamente en eso, en unos términos de seriedad.\nNada más, señora presidenta. Muchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señor Delgado.\nEn turno de fijación de posiciones, en primer lugar, por el Grupo Parlamentario Vasco (EAJ-PNV), \ntiene la palabra la señora Vaquero Montero por un tiempo de siete minutos."
+  },
+  {
+   "speaker": "VAQUERO MONTERO",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Bai? Egun on. Mila esker, presidente, zure baimenarekin, eserlekutik \negingo dut. Orain arte garraio eta mugikortasun jasangarriko ministerioari atxikitutako hiru ikerketa batzordeari \nesleitutako eskumenak erakunde multimodal bakar batean biltzen dituen lege proiektu baten aurrean gaude, \ntrenbideko, itsasoko eta abiazio zibileko garraio istripuei dagozkionak. Lege honekin sortzen den erakunde \nberriak, hau da, administrazio agintaritza independenteak, autonomia eta independentzia osoa izango ditu \ngobernuarekiko eta parlamentuaren eta epaileen kontrolpean egongo da. Aginte publikoaren izaera ematen \nzaien ikertzaileen independentzia teknikoa bermatzen du, administrazio agintaritzak beregain duen xedea \ngauzatzeko beharrezkoa den independentzia. Eta, era berean, biktimei eta haien senideei eta biktimen \nelkarteei informazioa emateko araubidea ezartzen ditu legeak, baita informazioa eskuratzeko. Araubide \njuridikoa eta erretserba betebeharraren hedadura eta mugak ere ezartzen ditu. Honela, Europako zuzentarau \neta erregelamenduetan eta esparru bakoitzeko nazioarteko hitzarmenetan ezarritako irizpideak betetzen \ndira, araudi hauetara egokituz. Gure taldeak, Euskal Taldeak lege proiektu honen izapidetzean zuzenketa \nbakarra aurkeztu zuen, xedapen gehigarri bat, lege proiektuaren testuan autonomia erkidegoak bere \naraudiaren arabera, ikerketa eginkizuna betetzeko duen eskumena inplizituki aitortzeko eta Estatuko \nerakunde horri berariaz askatuta, autonomia erkidegoak egin dezakeen ikerketa eskaeraren aurrean \nlaguntzeko. Zuzenketa hau beste talde batzuekin transakzionatua izan da, gaur bozkatzen dugun irizpidean \nbarneratua izan da, beraz. Hori dela eta, gure taldeak aldeko botoa emango dio lege honi. Mila esker.\nBuenos días. Muchas gracias, señora presidenta. Con su permiso, desde el escaño.\nEstamos ante un proyecto de ley que aglutina en un único organismo multimodal las competencias \nhasta ahora atribuidas a tres comisiones de investigación adscritas al Ministerio de Movilidad Sostenible, \ncorrespondientes a accidentes e incidentes en el transporte ferroviario, marítimo y de aviación civil. El \nnuevo organismo que se crea con esta ley — es decir, la Autoridad administrativa independiente para la \ninvestigación técnica de accidentes e incidentes ferroviarios, marítimos y de aviación civil— tendrá \nautonomía y plena independencia del Gobierno, sometiéndose al control parlamentario y judicial, y \nconsagra la independencia técnica de las personas investigadoras, a las que se les atribuye la condición \nde autoridad pública, independencia necesaria para realizar el objeto que tiene encomendada la autoridad \nadministrativa. Asimismo, la ley establece el régimen de información a las víctimas, familiares y \nasociaciones de víctimas, así como el régimen jurídico de acceso a la información, y regula la extensión y \nlímites del deber de reserva. Cumplimos así con los criterios establecidos en las directivas y reglamentos \neuropeos y en los convenios internacionales en cada uno de los ámbitos.\nDesde el Grupo Vasco, en la tramitación de este proyecto de ley presentamos una única enmienda, \nuna nueva disposición adicional, para plasmar en el texto del proyecto de ley el reconocimiento implícito \nde la competencia autonómica para el desempeño de la función de investigación conforme a su propia \nnormativa, así como contemplar el expreso requerimiento a este organismo estatal de prestar su \ncolaboración ante la solicitud de investigación que eventualmente pueda realizar la comunidad autónoma, \nenmienda finalmente transaccionada con otros grupos e incorporada al dictamen que hoy votamos. Por \ntanto, nuestro grupo votará a favor de este proyecto de ley.\nGracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Eskerrik asko, señora Vaquero.\nPor el Grupo Parlamentario Junts per Catalunya, tiene la palabra el señor Gavin i Valls, por un tiempo \nde siete minutos.\ncve: DSCD-15-PL-54"
+  },
+  {
+   "speaker": "GAVIN I VALLS",
+   "party": "Junts",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gràcies, presidenta. Senyores i senyors diputats. Cada vegada que hi ha \nun accident aeri, naval o ferroviari, hi ha una catàstrofe humana. Hi ha patiment de les persones. \nEspecialment, lògicament, de les víctimes, de vegades, amb víctimes mortals; a vegades, amb ferits. \nMolts o pocs. Però hi ha un patiment de les persones que directament pateixen el dany, però també hi ha \nel patiment de les famílies. Spanair, Alvia, Vacarisses, Germanwings són casos que han generat molt de \npatiment. Jo vull tenir un record aquí per totes les víctimes i per totes les seves famílies. Sovint aquestes \nfamílies o aquests afectats han patit el patiment afegit de no veure’s acompanyats ni entesos ni compresos \nper les administracions que han hagut d’actuar i que no ho han fet sovint, o almenys no s’ha tingut aquesta \npercepció, en defensa dels legítims interessos d’aquestes víctimes.\nQuan hi ha un accident d’aquestes característiques, i ningú no n’ha parlat, també hi ha patiment dels \nprofessionals o dels tècnics que estan directament implicats en l’accident. De vegades hem pogut tenir \nresponsabilitat o no. De vegades hem pogut tenir una participació directa o relativament indirecta. Però els \nasseguro que els tècnics i els professionals que es veuen involucrats en aquestes situacions també tenen \npatiment. Tenen angoixa, de vegades, sentiment de culpa o la incertesa del què passarà, també, amb \naquestes investigacions. Vull tenir un record, també, per tots aquests tècnics i per tots aquests professionals.\nAquest és un dels motius principals pel qual s’han de produir investigacions sobre els fets que siguin \nel màxim de rigoroses possibles, que siguin professionals, que siguin àgils i eficients, entre altres coses, \nper reduir aquest temps d’espera que té a tanta gent pendent del resultat d’aquestes investigacions. Quan \nhi ha accidents d’aquest tipus, també es generen incerteses i dubtes sobre la fiabilitat del transport. Tots \ntenim responsabilitat amb minimitzar les incerteses i amb aconseguir que hi hagi la màxima seguretat i la \nmàxima confiança en els sistemes de transport. Unes investigacions independents i professionals han \nd’ajudar, també, en aquest propòsit. Quan hi ha accidents d’aquestes característiques, també hi ha moltes \npèrdues econòmiques, importants pèrdues econòmiques que, òbviament, també cal minimitzar.\nA la vida i al transport no hi ha risc zero. Ningú no vol que passi un accident. Només en casos molt \nestranys hi ha hagut alguna intencionalitat. En general, ningú no vol que passin aquestes situacions. I, per \ntant, la recerca de les causes dels accidents, cercar la veritat, contribueix a escatir responsabilitats, \ncontribueix a donar confort o compensació a les víctimes o les persones implicades, i en pot evitar de nous.\nPer tots aquests motius, la Unió Europea ha anat creant tot un marc reglamentari per tal que tots els \npaïsos de la Unió creïn eines i mecanismes que garanteixin instruments, que garanteixin investigacions \nindependents i professionals. Aquest és el cas d’aquest projecte. La proposta d’aquesta llei va en aquest \nsentit i hauria de permetre que no torni a succeir, s’ha esmentat per part d’algun altre diputat, com hi ha \ninvestigacions que s’eternitzen, que no es veu una intencionalitat d’esclarir els fets, que no dona la sensació \nde donar el confort i l’acompanyament o respectar les garanties dels afectats, o que fins i tot ha donat la \nsensació que pretén més protegir una part dels implicats que uns altres. Això no hauria de tornar a passar.\nEl nostre grup ha presentat algunes esmenes per millorar aquesta llei. El primer bloc fa referència a \nun tema que és típic del nostre grup parlamentari. Aquesta llei, com no podia ser d’una altra manera, \narribava amb una visió centralista i uniformista. És una llei que obviava, per exemple, que Catalunya té \ncompetències exclusives en transport o que té un cos de policia propi com els Mossos d’Esquadra. Les \nnostres esmenes han corregit aquesta mancança. El text que ara ens arriba és respectuós amb aquesta \nrealitat i permet, per exemple, que les investigacions que es facin a Catalunya, encara que sigui en \ninfraestructures que són competències de l’Estat, es facin de forma coordinada i amb diàleg i amb \ncol·laboració amb el Govern de la Generalitat. En segon lloc, hi havia alguna esmena per enfortir el rol de \nprofessionalitat i expertesa en els professionals que participen en la investigació. I un tercer en garantir \nl’agilitat i la reducció de terminis d’aquestes investigacions.\nTotes aquestes esmenes han estat transaccionades o incorporades total o parcialment, com també \nn’hi ha hagut algunes altres d’altres grups. Mantindrem el vot favorable a alguna de les esmenes concretes \nque s’han mantingut vives, alguna en la direcció del que he esmentat abans, alguna en relació amb la \nigualtat de gènere i alguna en relació amb el personal de SASEMAR, que té unes condicions de treball \nprou específiques. Ara el que caldrà és posar aquest instrument en mans de persones realment \nprofessionals, amb la voluntat de cercar la veritat, la transparència i l’acompanyament de les víctimes. \nMoltes gràcies.\nGracias, presidenta.\nSeñoras y señores diputados, cada vez que hay un accidente aéreo, naval o ferroviario se produce una \ncatástrofe humana y sufrimiento de las personas, especialmente y lógicamente de las víctimas, a veces con \ncve: DSCD-15-PL-54\n \nvíctimas mortales, a veces con heridos, muchos o pocos, pero sufrimiento de las personas que directamente \nsufren el daño. Pero también está el sufrimiento de las familias. Spanair, Alvia, Vacarisses o Germanwings son \ncasos que han generado mucho sufrimiento, y quiero tener un recuerdo hoy aquí por todas las víctimas y sus \nfamilias. A menudo, estas familias o esos afectados han padecido el sufrimiento añadido de no verse \nacompañados ni entendidos ni comprendidos por las instituciones que han debido actuar y que no lo han hecho \na menudo, o al menos ha sido así la percepción, en defensa de los legítimos intereses de esas víctimas.\nCuando se produce un accidente de estas características — nadie lo ha comentado— también sufren \nlos profesionales o los técnicos que están directamente implicados en el accidente. A veces han podido \ntener responsabilidad, o no, a veces han podido tener una participación directa o relativamente indirecta, \npero les aseguro que los técnicos y los profesionales que se ven involucrados en esas situaciones también \nsufren; sufren angustia, sensación de culpa o la incertidumbre de lo que va a suceder con estas \ninvestigaciones también. Así que vaya un recuerdo también para todos esos técnicos y todos esos \nprofesionales. Este es uno de los motivos principales por el que debemos realizar investigaciones sobre los \nhechos que sean lo más rigurosas posible, que sean profesionales, ágiles y eficientes, entre otras cosas \npara reducir este tiempo de espera que tiene a tanta gente pendiente del resultado de dichas investigaciones.\nCuando hay accidentes de este tipo se generan incertidumbres y dudas sobre la fiabilidad del transporte. \nTodos tenemos responsabilidad a la hora de minimizar las incertidumbres y en conseguir que se ofrezca la \nmáxima seguridad y máxima confianza en los sistemas de transportes. Unas investigaciones independientes \ny profesionales deben ayudar también en este propósito. Cuando hay accidentes de estas características \ntambién hay importantes pérdidas económicas que, evidentemente, hay que minimizar. Ni en la vida ni en \nel transporte hay riesgo cero; nadie quiere que se produzca un accidente. Solo en casos muy extraños ha \nhabido alguna intencionalidad; en general, nadie desea que se produzcan estas situaciones. Por tanto, la \nbúsqueda de las causas de los accidentes y perseguir la verdad contribuye a dilucidar responsabilidades, \ncontribuye a dar confort o compensación a las víctimas o a las personas implicadas y puede que se eviten \nnuevos accidentes. Por todas estas razones, la Unión Europea ha ido creando todo un marco reglamentario \npara que todos los países de la Unión creen herramientas, mecanismos e instrumentos que garanticen \ninvestigaciones independientes y profesionales. Este es el caso de este proyecto. La propuesta de esta ley \nva en este sentido y debería permitir que no vuelva a suceder, lo ha mencionado algún otro diputado. \n¿Cómo es posible que haya investigaciones que se eternicen? No se ve intención de esclarecer los hechos. \nNo da la sensación de que se pretenda ofrecer confort, acompañamiento, respetar las garantías de los \nafectados. Incluso, a veces, se ha dado la sensación de que se pretende más proteger a una parte de los \nimplicados que a otros, y esto no debería volver a suceder.\nNuestro grupo ha presentado algunas enmiendas para mejorar esta ley. El primer bloque se refería a un \ntema que es típico de nuestro grupo parlamentario. Esta ley, como no podía ser de otra manera, llegaba con \nuna visión centralista y uniformista; una ley que obviaba, por ejemplo, que Cataluña tiene competencias \nexclusivas en transporte o que tiene un cuerpo de policía propio, como los Mossos d’Esquadra. Nuestras \nenmiendas han corregido esta falta. El texto que ahora nos llega es respetuoso con esta realidad y permite \nque las investigaciones que se realicen en Cataluña, aunque sea en infraestructuras competencia del \nEstado, se hagan de manera coordinara, en dialogo y colaboración con el Gobierno de la Generalitat. En \nsegundo lugar, había alguna enmienda para fortalecer el rol de profesionalidad y experiencia en los \nprofesionales que participan en la investigación. Y en tercer lugar, para garantizar la agilidad y la reducción \nde plazos de estas investigaciones. Todas estas enmiendas han sido transaccionadas o incorporadas total \no parcialmente, igual que algunas otras también de otros grupos. Mantendremos el voto favorable a algunas \nenmiendas que se han mantenido vivas, alguna en la dirección de la que hablaba antes, alguna en relación \ncon la igualdad de género, alguna en relación con el personal de SASEMAR, que tiene sus condiciones de \ntrabajo específico. Ahora, este instrumento hay que ponerlo en manos de personas realmente profesionales, \ncon la voluntad de buscar la verdad, la transparencia y el acompañamiento de las víctimas.\nGracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Moltes gràcies, senyor Gavin.\nPor el Grupo Parlamentario Plurinacional SUMAR, tiene la palabra el señor Alonso Cantorné, por un \ntiempo de siete minutos."
+  },
+  {
+   "speaker": "ALONSO CANTORNÉ",
+   "party": "Sumar",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gràcies, presidenta.\nSeñorías, en primer lugar, quiero mostrar palabras de agradecimiento a todos los que han hecho \nposible que este proyecto se convierta hoy en ley y se termine aprobando con un amplio consenso. Quiero \ncve: DSCD-15-PL-54\n \nmostrar mi agradecimiento a todos los ponentes miembros de la Comisión; evidentemente, a la capacidad \ncorreosa y negociadora del señor César Ramos. Enhorabuena, César. (Aplausos). Asimismo, a los \nmiembros del ministerio; a los asesores parlamentarios, especialmente a Magda Muñoz; a los servicios de \nla Cámara, al señor letrado Fabio Pascua, y a nuestra presidenta de Comisión, Esther Peña. No quiero \ndejar de mencionar a Celso Delgado, que, desde el respeto y la discrepancia, es persona que genera \nambiente educado y de acuerdo, en un momento en el que su partido, el Partido Popular, se suma a la \nestrategia de los que buscan la corrosión democrática.\nHemos de retroceder, sí; hemos de retroceder en el tiempo para recordar que esta ley que hoy \naprobamos surge del dolor, del dolor de tragedias que costaron vidas humanas, el sufrimiento de sus \nfamiliares y allegados, y esto nos ha impulsado a mejorar las herramientas de las que disponíamos. \nRecordemos: noviembre de 2002, el accidente marítimo más presente entre todos nosotros, el del \nPrestige. Los hilillos de plastilina se nos dibujan a todos al recordar una mala gestión técnica y, sobre todo, \npolítica; todo fue un chapapote. Petroleros y buques, como el Casón, el Urquiola o el Mar Egeo, que se \nsuman a los demasiado habituales accidentes de la flota pesquera de este siglo. Pongamos un ejemplo, \ncomo el Oh Bahía, Siempre Cansina, Nuevo Pepita Aurora, Rosamar, Santana, y el más reciente de Villa \nde Pitanxo. También están las tragedias ferroviarias, que ya se han citado, como Torre del Bierzo, metro \nde Valencia, Castelldefels, Angrois. Y tragedias aéreas, como la de Los Rodeos, Málaga, Mejorada del \nCampo, monte Oiz, y la tragedia del vuelo JK5022 de la T-4, en Barajas. El próximo 20 de agosto se \ncumplirán dieciséis años del accidente más grave de los últimos años; 154 personas fallecieron en la pista \nde despegue de Madrid-Barajas. En noviembre de 2017, Unidas Podemos y Esquerra Republicana \nsolicitaron la creación de una comisión parlamentaria a petición expresa de la Asociación de Afectados del \nVuelo JK5022, que presentó en este congreso sesenta mil firmas reclamando su puesta en marcha. El \nPleno del Congreso, el 30 de enero de 2018, con la abstención del Grupo Popular, aprobó la creación de \nuna Comisión de investigación sobre el accidente del avión Spanair. Los familiares consideran que sirvió \nde poco, pero nos ha ayudado para que, desde la correlación de fuerzas que hoy representan la voluntad \npopular expresada en las urnas y en esta Cámara, aprobemos este paso que consideramos importante. \nLa correlación de fuerzas tampoco nos ha permitido introducir una enmienda sobre la desindexación de la \neconomía española, para poder incorporar mecanismos claros que revisen los precios a lo largo de la \nduración del contrato, así como la revisión motivada de cambios normativos.\nLa nueva autoridad tendrá autonomía financiera, orgánica y funcional, y sustituirá a las comisiones de \ninvestigación técnica de accidentes e incidentes marítimos, ferroviarios y de Aviación Civil. El consejo será \nel máximo órgano de gobierno de la autoridad, y sus miembros, un presidente y seis consejeros, serán \nnombrados por real decreto a propuesta del Ministerio de Transportes y Movilidad Sostenible, con el visto \nbueno de nosotros, del Congreso. La futura ley incluye un régimen jurídico relativo a la investigación de \naccidentes y un régimen de información para las víctimas, familiares y asociaciones de víctimas. El objetivo \nes reforzar la independencia del organismo de investigación, ya que, a la independencia funcional, que ya \ntenemos, se sumará la orgánica, al poseer personalidad jurídica diferenciada; y la financiera, importantísimo, \nya que obtendrá sus ingresos a través de la participación en la recaudación de las tasas. La ley incluye un \nrégimen de información específico para las víctimas, familiares y asociaciones de víctimas, que ven \nfortalecida su posición en el procedimiento respecto a la situación actual. Además, se ha incorporado un \nprincipio, el principio de cultura justa, que no paguen siempre los trabajadores y trabajadoras, los que están \nen primera línea del accidente y en la última de la jerarquía, aunque no hayan cometido ninguna negligencia.\nAbrimos una ventana de oportunidad, señorías, para que la experiencia acumulada, y que, \ndesgraciadamente, acumularemos, sirva para minimizar los accidentes. Que el dolor de las familias, su \nexperiencia y la de los técnicos nos ayuden a ser más justos y, sobre todo, a acompañar con mayor \nempatía. Un Estado que se precie debe cuidar a su ciudadanía. Estamos ante una muestra más de que \nla democracia es garantía de justicia social, que avanza en la mejora de mecanismos para evitar la \npérdida de vidas humanas, y esta ley debe cumplir ese objetivo. Señorías, sin justicia social no hay \ndemocracia.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señor Alonso.\nPor el Grupo Parlamentario VOX, tiene ahora la palabra la señora Rueda Perelló, por un tiempo de \nsiete minutos. (Aplausos).\ncve: DSCD-15-PL-54"
+  },
+  {
+   "speaker": "RUEDA PERELLÓ",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Cuando uno se levanta por la mañana está en sus cosas, pero no \npiensa que va a recibir una llamada en la que te comunican que en un accidente ha muerto lo que más \nquieres: tu padre, tu hijo, tu hermano. Hoy, la mayoría de los que estamos aquí presentes recordamos \ndónde estábamos cuando conocimos la fatídica noticia del accidente del vuelo de Spanair en el que \nmurieron 154 personas. Lo recordamos porque nos consternó. Al igual que recordamos con un nudo en la \ngarganta el accidente ferroviario de Santiago de Compostela, cuando un tren Alvia descarriló en una \ncurva; un accidente en el que fallecieron 80 personas y resultaron heridas 145. El Gobierno trae una \nnorma sobre la creación de un organismo único que asume competencias de investigación técnica de \naccidentes ferroviarios, marítimos y de Aviación Civil, hasta ahora atribuidas a las tres comisiones adscritas \nal Ministerio de Transportes. Una norma que en el artículo 1 expresa que «se crea la Autoridad Administrativa \nIndependiente». ¿Es necesaria una actividad administrativa independiente para la investigación de \nincidentes y accidentes en el transporte? Sí, es muy necesaria, pero no nos fiamos. No nos fiamos porque \nla autoridad de la que habla se relacionará con el Gobierno a través del ministerio competente en materia \nde transportes, un ministerio que tiene al frente a un ministro que declara que los incendios y las incidencias \nen los trenes son normales y hay que acostumbrarse.\nLa norma habla de independencia, pero ¿qué independencia habrá en un organismo cuya Presidencia \nserá nombrada por el Consejo de Ministros? ¿Qué independencia habrá cuando se habla de ese \nnombramiento previo a la confirmación de la comisión competente del Congreso de los Diputados, un \nCongreso de los Diputados que está doblegado a separatistas, a delincuentes y a herederos de ETA? \n(Aplausos). ¿Qué independencia habrá cuando la financiación del organismo será consignado por los \npresupuestos generales del Estado? ¿Qué independencia habrá cuando estamos en manos de un \nGobierno que pisotea la independencia del Poder Judicial, que pisotea la Constitución y que asalta las \ninstituciones y que hace constantemente desdenes al Estado de derecho? (Aplausos).\nLa norma también establece una nueva tasa, una tasa que pagarán los pasajeros y — cito textualmente— \n«otras fuentes que pudieran preverse en posteriores normas de rango de ley». Una ley que muestra \nideología cuando dice que los puestos de responsabilidad serán en función de una presencia equilibrada \nde mujeres y hombres. Soy mujer y claro que quiero las mismas oportunidades, pero no por cuota, porque \nlo que debe prevalecer es la formación y la experiencia, las habilidades, las destrezas, las competencias \ny no que seas de un sexo u otro (aplausos), y más en cuestiones que son técnicas. Cuestionamos \ntambién la eficiencia de esta norma porque habla del ámbito de las comunidades autónomas, y esto \npuede generar disparidad de criterios y dificultar la estructura administrativa. Preocupa en esta ley el \nartículo que dice: «La investigación técnica que se lleve a cabo no perseguirá la determinación de \nresponsabilidad ni la atribución de culpabilidad», y manifiesta: Este organismo «podrá finalizar el \nprocedimiento de investigación con la publicación de un informe técnico simplificado». Estamos hablando \nde accidentes, estamos hablando de heridos y de víctimas mortales, estamos hablando de sueños rotos \ny corazones destrozados ¿y no van a exigir responsabilidad?\nEsta norma no garantiza ni el ordenamiento jurídico, ni la seguridad jurídica, ni la independencia, \nporque viene de manos de un Gobierno que, como ya hemos visto, se reparte los jueces esta semana en \nconnivencia con el Partido Popular; viene de manos de un Gobierno que pone en el Tribunal Constitucional \na los suyos para exculpar a ministros que han sido condenados por delitos de prevaricación; es un \nGobierno en el que Sánchez ha colocado a dedo a 35 directores generales que debían ser funcionarios; \nun Gobierno en el que Sánchez ha colocado a dedo a 1062 asesores y altos cargos; un Gobierno que en \nsus nombramientos en el Poder Judicial, en Correos y en organismos que deberían ser independientes, \npara influir sobre decisiones estratégicas en la política económica y social de España está poniendo a \nlacayos al frente; un Gobierno, un Sánchez que está cercado por la corrupción económica y moral. Hoy \ntenemos una gran responsabilidad, porque estamos hablando de seguridad, porque estamos hablando de \njusticia para los heridos, para los fallecidos y para sus familiares, porque estamos hablando de saber la \nverdad, porque estamos hablando de transparencia e independencia.\nMe dirijo a la presidente de la Asociación de Afectados del Vuelo JK5022. Pronto se cumplirán dieciséis \naños de la tragedia. Sabemos que su asociación no ha cejado en el empeño de trabajar por la memoria \nde sus seres queridos y en favor de la sociedad en general. Cito sus palabras — abro comillas—: «Se \ntardó más de tres años en hacer un informe final de las causas de la tragedia del vuelo, echándole la culpa \na los pilotos fallecidos, que fueron unas víctimas más de la cadena de errores que provocó el accidente». \n— Cierro comillas—. Desde el año 2009 están luchando para que su voz sea escuchada, exigiendo criterios \nde credibilidad, independencia, transparencia y profesionalidad dentro y fuera de España. Me dirijo \ncve: DSCD-15-PL-54\n \ntambién a los familiares de las víctimas del tren Alvia. Nosotros estamos a su lado, pero no estamos al \nlado de un Gobierno que hace todo lo contrario a lo que ustedes justamente exigen: memoria y dignidad, \nbelleza y bondad. Cuando lleguen a casa, o incluso antes, cojan sus móviles y díganles a sus familiares \nlo mucho que los quieren, porque no sabemos lo que puede pasar.\nGracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, \npuestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señora Rueda.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Ramos Esteban, por un tiempo de \nsiete minutos."
+  },
+  {
+   "speaker": "RAMOS ESTEBAN",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Mociones",
+   "text": "Gracias, presidenta.\nHace varios días escuchaba al portavoz del Partido Popular, Borja Semper, que decía que en la \npolítica tenemos que estar para mejorar la vida de la gente y que teníamos que olvidar los tacticismos que \nse dan hoy en día muchas veces en los grupos parlamentarios a la hora de votar determinadas iniciativas. \nVoy a decir que estoy de acuerdo, y una muestra de ello es esta ley. Con esta ley queremos mejorar la \nvida de la gente. La mayoría de los portavoces lo han dicho aquí: es una ley que mejora la vida de la gente, \nque mejora la dignidad de las víctimas de accidentes. Estoy de acuerdo con el portavoz del Partido \nPopular, lo que no tengo claro es que esté de acuerdo el Partido Popular, pero es lo que suele pasar en \nun partido que ha hecho de la táctica y de la estrategia su forma de actuación en este Parlamento. Le \npuede pasar como pasó el otro día con Milei, que le trajeron aquí y acabó hablando del hermano y de la \npareja, pero todos entendimos perfectamente que seguramente hablaba de Ayuso. Seguramente no \nvuelvan a traer a Milei aquí y a Borja Semper le pueda pasar algo parecido, porque la política y la \nincoherencia llevan a que pasen cosas como estas. La verdad es que yo tengo mucho aprecio al portavoz \ndel Grupo Popular, el señor Celso Delgado, y le tengo una alta estima. Sé que ha tenido que hacer aquí \nun papel, un papelón, para decir que no va a apoyar una ley en la que no tengo ninguna duda en la que \ncree. Además, lo ha justificado de una forma bastante extraña. Dice que los socialistas hemos decidido \nmeter una enmienda que permite que Renfe y ADIF se puedan endeudar más. Claro, ello mejora la \nseguridad ferroviaria. Si se puede invertir más en los servicios ferroviarios, evidentemente irá en beneficio \nde todo el sistema ferroviario y ello evitará que se produzcan accidentes y que haya una comisión que \ntenga que investigarlos.\nHay una cosa además de esa intervención que me indigna. El señor Celso Delgado es gallego, de \nOurense. Tiene AVE, tiene trenes Talgo Avril y él no quiere que se incremente la deuda de ADIF y Renfe. \nSeñor Celso Delgado, ¿sabe que los extremeños no tenemos lo que tienen ustedes? ¿Sabe que los \nextremeños queremos tener los mismos derechos? (Aplausos). ¿Sabe que los extremeños queremos \ntener las infraestructuras que tienen los gallegos? Por eso, el que diga que no está de acuerdo con que \nincrementemos la deuda de ADIF me parece un insulto a la mayoría de los diputados de esta Cámara, que \nno tienen lo que tiene usted. Usted, para venir de Orense, que son 500 kilómetros, 200 más de los que \nhay a Cáceres, tarda una hora menos. ¿No cree que los extremeños tengamos el mismo derecho? ¿Cree \nque somos españoles de segunda? (Aplausos). ¿Se cree que los extremeños tenemos que seguir \nesperando porque el Gobierno del Partido Popular decidió parar las obras del AVE? Sí, ese incremento de \nendeudamiento va a servir para que ese bloqueo de la línea en la parte de Castilla-La Mancha que \nprovocó el Partido Popular lo podamos impulsar este año y que podamos ver más cerca lo que siempre \nestuvimos deseando.\nYo quiero reconocer el trabajo de la mayoría de los portavoces, que han hecho una buena labor para \nintentar acordar. Se mejora la vida de la gente cuando se busca el acuerdo. Se mejora la vida de la gente \ncuando nos ponemos de acuerdo en qué enmienda podemos transaccionar. Incluso con el Partido Popular \nnos hemos puesto de acuerdo en tres enmiendas. Incluso con el Partido Popular hemos transaccionado. \nIncluso con el Partido Popular hemos mejorado la norma. Pero el Partido Popular ha decidido, por \nestrategia política, no apoyar una iniciativa que piensa en las víctimas, a las que quiero hacer mi \nreconocimiento. (Aplausos). Es algo que no tenía que haber ocurrido, ni un accidente en el mar, ni un \naccidente en el aire, ni un accidente ferroviario. El que hoy aprobemos esto aquí no va a quitar el dolor de \nque sus familiares no vayan a volver, pero creo que les devuelve la dignidad y el Partido Popular ha \ndecidido no apoyar esta iniciativa. Esta iniciativa también garantiza la estabilidad de los puertos y el \nPartido Popular ha dicho que no apoya una norma que garantiza que los puertos españoles puedan seguir \nsiendo competitivos y tengan una estabilidad para seguir funcionando y que la economía española \ncve: DSCD-15-PL-54\n \nfuncione. ¿Qué le va a decir a las empresas estibadoras? ¿Les va a decir que no está de acuerdo con lo \nque le han pedido que vote? ¿Les va a decir que no está de acuerdo, porque se han inventado una teoría \nde la conspiración diciendo que el dinero que vamos a dar a Renfe y a ADIF — que va también para los \nextremeños— va para otras cosas? Sinceramente, creo que el Partido Popular tiene que plantearse, lo \nantes posible, abandonar la estrategia que se ha montado para intentar crear un relato que compren los \nespañoles. Este Gobierno saca leyes adelante, este Gobierno mejora la vida de la gente y este Gobierno \nva a seguir haciéndolo durante los tres años que quedan de legislatura. (Aplausos). El Partido Popular \ntiene que decidir si se pone a hacer política o si sigue los mandatos de su jefe, que no asumió que los \nespañoles le dieron la espalda, que no querían que gobernara y nos tiene aquí, durante un año, decidiendo, \nen parte, la estrategia política en base a unos intereses de una persona. Ayer vimos, además, una parte \nde ese espectáculo, de ese relato, de su intentar mostrar ante los españoles algo que no es real y que hay \ngente que, incluso, lo puede comprar. Vimos cómo cuando el señor Feij óo entraba por aquí todos sus \ndiputados se levantaban y aplaudían. A mí me recordaba a algo que vivimos aquí hace unos años los \ndiputados que estábamos: cuando se fue el señor Rajoy, después de una moción de censura, y la gente \nle aplaudía. No creo que le hayan hecho un favor sus diputados levantándose para aplaudirle intentando \nfortalecerse, porque creo que lo que demuestran cuando no votan a favor de iniciativas como esta es que \nestán más débiles que nunca. Han renunciado a hacer política por interés personal, interés partidista, \nincluso en contra de las víctimas. Recuperen para lo que vinieron aquí, lo que dice su portavoz Borja \nSemper: para mejorar la vida de la gente. Esta norma se ha demostrado que mejora la vida de la gente, \npor lo que, si de verdad se creen lo que dicen a los medios de comunicación, voten a favor como van a \nhacer la mayoría de los diputados de esta Cámara, mejoren la vida de la gente y devuelvan la dignidad a \nlas víctimas y a sus familias.\nNada más y muchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Muchas gracias, señor Ramos.\nVotamos en un minuto. (Pausa).\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN):\n— PROYECTO DE LEY ORGÁNICA DE REPRESENTACIÓN PARITARIA Y PRESENCIA EQUILIBRADA \nDE MUJERES Y HOMBRES. (Número de expediente 121/000001)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Vamos a empezar las votaciones. En primer lugar, votamos las enmiendas \nal Proyecto de ley orgánica de representación paritaria y presencia equilibrada de mujeres y hombres. \nEmpezamos votando las enmiendas presentadas por el Grupo Parlamentario Mixto. Votamos en bloque \nestas enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 24; en contra, 322; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos la enmienda número 68, presentada por el señor Rego Candamil, del Grupo Parlamentario \nMixto.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 29; en contra, 318."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nVotamos la enmienda 24, presentada por el Grupo Parlamentario Vasco (EAJ-PNV).\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 25; en contra, 296; \nabstenciones, 26."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nVotamos la enmienda 32, presentada por el Grupo Parlamentario Junts per Catalunya.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-54\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 12; en contra, 334; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nVotamos las enmiendas presentadas por el Grupo Parlamentario Republicano. En primer lugar, la \nenmienda 49.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 24; en contra, 322."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nVotamos la enmienda 50.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 46; en contra, 300."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nVotamos conjuntamente las enmiendas 53, 55, 60 y 62.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 20; en contra, 327."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos ahora el resto de enmiendas presentadas por el Grupo Parlamentario Republicano.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 17; en contra, 318; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nPasamos ahora a votar la enmienda presentada por el Grupo Parlamentario Plurinacional SUMAR, \nenmienda 27.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 44; en contra, 291; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nPasamos ahora a votar las enmiendas presentadas por el Grupo Parlamentario Popular. Votamos, en \nprimer lugar, conjuntamente, las enmiendas números 97 y 106.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 138; en contra, 208."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos ahora las enmiendas 98 y 110.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 138; en contra, 176; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos ahora la enmienda 101.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 136; en contra, 176; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nPasamos ahora a votar la enmienda 105.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-54\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 144; en contra, 203."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nPasamos ahora a votar el resto de las enmiendas presentadas por el Grupo Parlamentario Popular.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 171; en contra, 175."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos ahora la enmienda transaccional a la enmienda 35 del Grupo Parlamentario Junts per \nCatalunya.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 175; en contra, 171; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda aprobada. (Aplausos).\n— PROYECTO DE LEY DE CREACIÓN DE LA AUTORIDAD ADMINISTRATIVA INDEPENDIENTE \nPARA LA INVESTIGACIÓN TÉCNICA DE ACCIDENTES E INCIDENTES FERROVIARIOS, \nMARÍTIMOS Y DE AVIACIÓN CIVIL. (Número de expediente 121/000010)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Pasamos ahora a las enmiendas presentadas al Proyecto de ley de creación \nde la autoridad administrativa independiente para la investigación técnica de accidentes e incidentes \nferroviarios marítimos y de aviación civil.\nVotamos, en primer lugar, las enmiendas presentadas por el Grupo Parlamentario Mixto. Enmienda \nnúmero 89.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 18; en contra, 322; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nPasamos ahora a votar de las enmiendas presentadas por el Grupo Parlamentario Mixto, la enmienda \nnúmero 92.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 25; en contra, 322."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nVotamos ahora el resto de las enmiendas presentadas por el Grupo Parlamentario Mixto.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 18; en contra, 327."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos ahora las enmiendas presentadas por el Grupo Parlamentario Republicano. En primer lugar, \nconjuntamente las enmiendas 70 y 83.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 25; en contra, 322."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\nVotamos ahora el resto de enmiendas presentadas por el Grupo Parlamentario Republicano.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 17; en contra, 324; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Quedan rechazadas.\ncve: DSCD-15-PL-54\n \nVotamos ahora la enmienda presentada por el Grupo Parlamentario Popular, enmienda 136.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 168; en contra, 177; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Queda rechazada.\nDICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS:\n— DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS SOBRE DECLARACIÓN DE \nACTIVIDADES DE EXCELENTÍSIMOS SEÑORES DIPUTADOS. (Número de expediente 042/000012)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "Continuamos con el punto del orden del día relativo al dictamen de la \nComisión del Estatuto de los Diputados sobre declaración de actividades de los excelentísimos señores \ndiputados y diputadas.\nDe conformidad con lo acordado en la Junta de Portavoces, este punto será sometido a votación sin \ndebate previo.\nPALABRAS DE LA PRESIDENCIA."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señorías, les informo de que desde las 11:45 y hasta las 12:15 horas de hoy \nse podrán votar telemáticamente todos los asuntos pendientes del orden del día que serán objeto de \nvotación presencial en el hemiciclo al final de esta sesión. Asimismo, les informo de que la presente sesión \nplenaria incluye el debate y votación del dictamen del Proyecto de ley orgánica de representación paritaria \ny presencia equilibrada de mujeres y hombres. Por tener carácter orgánico, esta iniciativa tiene que ser \nsometida a una votación final que, de conformidad con el artículo 131.2 del Reglamento, debe ser \nanunciada con antelación por la Presidencia. Por ello, y en cumplimiento de esta disposición, anuncio que \nlas votaciones no se producirán antes de las 12:30 del día de hoy. En consecuencia, se suspende la \nsesión hasta las 12:30. La votación presencial se producirá una vez reanudada la misma.\nMuchísimas gracias.\nSe suspende la sesión a las once y cuarenta minutos de la mañana.\nSe reanuda la sesión a las doce y treinta minutos del mediodía.\nPROPOSICIONES NO DE LEY. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO JUNTS PER CATALUNYA, PARA EL RECONOCIMIENTO DE LA \nREPÚBLICA DE KOSOVO COMO ESTADO SOBERANO POR PARTE DEL ESTADO ESPAÑOL. \n(Número de expediente 162/000257)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Reanudamos la sesión.\nEmpezamos con las votaciones. En primer lugar, votamos la Proposición no de ley, del Grupo \nParlamentario Junts per Catalunya, para el reconocimiento de la República de Kosovo como Estado \nsoberano por parte del Estado español. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 25; en contra, 293; \nabstenciones, 27."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, RELATIVA A LA CONSECUCIÓN \nURGENTE DE SOLUCIONES A LA NECESIDAD EXTREMA DE PROFESIONALES SANITARIOS \nDE ATENCIÓN PRIMARIA EN EL CONJUNTO DEL SISTEMA NACIONAL DE SALUD ESTE \nVERANO. (Número de expediente 162/000258)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Ahora pasamos a votar la Proposición no de ley, del Grupo Parlamentario \nPopular, relativa a la consecución urgente de soluciones a la necesidad extrema de profesionales sanitarios \nde atención primaria en el conjunto del Sistema Nacional de Salud este verano. Se vota en sus términos.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-54\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 176; en contra, 158; \nabstenciones, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobada. (Aplausos).\nMOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LAS POLÍTICAS EN MATERIA \nDE TRANSICIÓN ECOLÓGICA DESARROLLADAS POR EL GOBIERNO Y EL IMPACTO EN EL SISTEMA \nALIMENTARIO, LA LUCHA CONTRA LA DESPOBLACIÓN Y LA GARANTÍA DE ABASTECIMIENTO DE \nRECURSOS HÍDRICOS DE NUESTRO PAÍS. (Número de expediente 173/000035)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Pasamos ahora a votar la moción consecuencia de interpelación urgente, \ndel Grupo Parlamentario Popular, sobre las políticas en materia de transición ecológica desarrolladas por \nel Gobierno y el impacto en el sistema alimentario, la lucha contra la despoblación y la garantía de \nabastecimiento de recursos hídricos de nuestro país. Votamos separadamente por puntos. Votamos el \npunto número 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 182; en contra, 44; \nabstenciones, 121."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPasamos ahora a votar el punto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 144; en contra, 162; \nabstenciones, 40."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPasamos ahora a votar el punto número 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 138; en contra, 176; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPasamos a votar ahora el punto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 184; en contra, 42; \nabstenciones, 119."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\nPasamos ahora a votar el punto número 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 176; en contra, 36; \nabstenciones, 134."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado.\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE EL RESPETO A LAS \nCORTES GENERALES Y EL EJERCICIO DE SUS FUNCIONES CONSTITUCIONALES. (Número \nde expediente 173/000036)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Pasamos ahora a votar la moción consecuencia de interpelación urgente, \ndel Grupo Popular, sobre el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales. \nVotamos separadamente por puntos. Votamos el punto número 1.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-54\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 174; en contra, 172."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda aprobado. (Aplausos).\nVotamos ahora el punto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 181; en contra, 166."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda aprobado. (Aplausos).\nVotamos ahora el punto número 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 171; en contra, 169; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda aprobado. (Aplausos).\nPasamos ahora a votar el punto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 170; en contra, 163; \nabstenciones, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda aprobado. (Aplausos).\nVotamos ahora el punto número 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 176; en contra, 170; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda aprobado. (Aplausos).\nVotamos ahora el punto número 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 137; en contra, 178; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 182; en contra, 166."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "el respeto a las Cortes Generales y el ejercicio de sus funciones constitucionales",
+   "text": "Queda aprobado. (Aplausos).\n— DEL GRUPO PARLAMENTARIO VOX, ACERCA DE CUÁLES VAN A SER LAS LÍNEAS PRINCIPALES \nDE ACCIÓN EN TORNO AL PODER JUDICIAL PARA OCULTAR LA CORRUPCIÓN DEL GOBIERNO. \n(Número de expediente 173/000037)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Votamos ahora la moción consecuencia de interpelación urgente, del Grupo \nParlamentario VOX, acerca de cuáles van a ser las líneas principales de acción en torno al Poder Judicial \npara ocultar la corrupción del Gobierno.\nVotamos separadamente por puntos. Votamos el punto número 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 171; en contra, 176."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nPasamos ahora a votar el punto número 2.\nComienza la votación. (Pausa).\ncve: DSCD-15-PL-54\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 33; en contra, 176; \nabstenciones, 138."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 33; en contra, 177; \nabstenciones, 138."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 33; en contra, 177; \nabstenciones, 137."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 170; en contra, 177."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 171; en contra, 177."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nVotamos ahora el punto número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 171; en contra, 177."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda rechazado.\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN. CONTINUACIÓN):\n— PROYECTO DE LEY ORGÁNICA DE REPRESENTACIÓN PARITARIA Y PRESENCIA EQUILIBRADA \nDE MUJERES Y HOMBRES. (Número de expediente 121/000001)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Pasamos ahora al Proyecto de ley Orgánica de representación paritaria y \npresencia equilibrada de mujeres y hombres. Votamos el dictamen.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 177; en contra, 171."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\n— VOTACIÓN DE CONJUNTO."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Pasamos ahora a la votación de conjunto del Proyecto de ley orgánica de \nrepresentación paritaria y presencia equilibrada de mujeres y hombres, por tener el mismo carácter de ley \norgánica.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 177; en contra, 171."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Prolongados aplausos de las señoras y los señores \ndiputados de los grupos parlamentarios que han apoyado esta iniciativa, puestos en pie).\ncve: DSCD-15-PL-54\n \n— PROYECTO DE LEY DE CREACIÓN DE LA AUTORIDAD ADMINISTRATIVA INDEPENDIENTE \nPARA LA INVESTIGACIÓN TÉCNICA DE ACCIDENTES E INCIDENTES FERROVIARIOS, \nMARÍTIMOS Y DE AVIACIÓN CIVIL. (Número de expediente 121/000010)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Votamos ahora el dictamen del Proyecto de ley de creación de la autoridad \nadministrativa independiente para la investigación técnica de accidentes e incidentes ferroviarios, \nmarítimos y de aviación civil.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 348; a favor, 178; en contra, 137; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\nDICTÁMENES DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS. (VOTACIÓN):\n— DICTAMEN DE LA COMISIÓN DEL ESTATUTO DE LOS DIPUTADOS SOBRE DECLARACIÓN DE \nACTIVIDADES DE EXCELENTÍSIMOS SEÑORES DIPUTADOS. (Número de expediente 042/000012)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Pasamos ahora a la votación del dictamen de la Comisión del Estatuto de \nlos Diputados sobre declaración de actividades de los excelentísimos señores diputados y diputadas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 347; a favor, 339; en contra, 1; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado. (Aplausos).\nNo habiendo más asuntos a tratar, se levanta la sesión.\nMuchas gracias.\nEran las doce y cincuenta minutos del mediodía.\nEn el caso de las intervenciones realizadas en las lenguas españolas distintas del castellano que son también oficiales en las \nrespectivas Comunidades Autónomas de acuerdo con sus Estatutos, el Diario de Sesiones refleja la interpretación al \ncastellano y la transcripción de la intervención en dichas lenguas facilitadas por servicios de interpretación y transcripción.\ncve: DSCD-15-PL-54\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+# ============================================================
+# Configuración del Buscador Plenario Inteligente
+# Valores por defecto ajustados a una RTX 3050 Laptop (4 GB VRAM)
+# ============================================================
+
+# --- Bloque A: descarga de YouTube (yt-dlp) ---
+download:
+  # Normalmente NO hacen falta cookies: la descarga anónima va bien con deno + EJS.
+  # Solo si YouTube empezara a estrangular, pon aquí tu navegador.
+  cookies_from_browser: null   # "chrome" | "edge" | "firefox" | "brave" | null
+  cookies_file: null           # producción: ruta a un cookies.txt exportado
+
+# --- Bloque A: transcripción (faster-whisper) ---
+asr:
+  model: large-v3-turbo  # ~5x más rápido que large-v3, calidad casi igual (clave en plenos de horas)
+                         #   large-v3 -> máxima calidad si sobra tiempo;  medium -> si hay OOM
+  compute_type: int8     # int8 entra en ~3 GB; float16 solo si sobra VRAM
+  device: cuda           # cuda | cpu
+  language: es           # castellano (forzar evita autodetección errónea)
+  vad_filter: true       # recorta silencios -> más rápido y menos alucinaciones
+  vad_min_silence_ms: 200  # parte en pausas CORTAS: evita bloques largos donde Whisper se salta texto
+  vad_max_speech_s: 10     # trozos de voz más cortos -> decodificación más fiable en habla rápida
+  condition_on_previous_text: false  # evita bucles de texto repetido en aplausos/silencios/maza
+  # prompt de dominio: orienta el vocabulario parlamentario y mejora nombres/términos
+  initial_prompt: "Sesión plenaria del Congreso de los Diputados. Intervienen la Presidencia, ministros del Gobierno y diputados de los grupos parlamentarios Socialista, Popular, Vox, Sumar, Republicano, Junts, EH Bildu, Vasco (PNV) y Mixto. Real decreto-ley, convalidación, escudo social, revalorización de las pensiones, desahucios, vulnerabilidad."
+  # large-v3 (no turbo) da más PRECISIÓN si se busca máxima fiabilidad (más lento)
+
+# --- Bloque B: diarización (pyannote) ---
+diarization:
+  model: pyannote/speaker-diarization-3.1
+  hf_token_env: HF_TOKEN # nombre de la variable de entorno con el token HF
+  min_speakers: null     # opcional: fijar nº de oradores si se conoce
+  max_speakers: null
+
+# --- Bloque C: embeddings, troceado, temas y LLM ---
+embeddings:
+  model: BAAI/bge-m3           # mejor retrieval multilingüe; altern.: intfloat/multilingual-e5-large
+  device: cuda                 # cuda | cpu
+  batch_size: 4                # pequeño para no quedarnos sin VRAM (4 GB)
+
+# Reranker opcional: reordena los candidatos del retrieval (gran salto de precisión)
+reranker:
+  enabled: false               # cross-encoder: en este portátil NO compensa — en la GPU de
+                               # 4 GB no cabe junto a BGE-M3 (Windows desborda a memoria
+                               # compartida y la búsqueda se eterniza sin error) y en CPU
+                               # cuesta ~1,3s/candidato (medido: top1 idéntico en 2/3
+                               # consultas). En el servidor UV (16 GB) sí: device cuda.
+  model: BAAI/bge-reranker-v2-m3
+  device: cpu                  # cpu | cuda
+
+# Parámetros de búsqueda
+retrieval:
+  top_k: 24                    # candidatos que trae el embedding (el server filtra
+                               # oradores sin identificar: necesita pool holgado)
+  final_k: 5                   # resultados finales (tras reranker si está activo)
+
+chunking:
+  max_chars: 1200              # tamaño aprox. de cada fragmento indexable
+  overlap_segments: 1          # nº de segmentos de solape entre fragmentos
+  respect_speaker: true        # no mezclar oradores en un mismo fragmento
+
+vector_db:
+  provider: chromadb
+  path: data/processed/chroma
+  collection: plenos
+
+# El LLM es OPCIONAL y solo para resúmenes / etiquetar temas (NO para responder por el
+# político: la búsqueda es extractiva y muestra la cita literal). Requiere Ollama corriendo.
+llm:
+  enabled: true                # Qwen3-4B local vía Ollama
+  provider: ollama             # ollama | openai (fallback API permitido por el brief)
+  model: qwen2.5:3b            # cabe ENTERO en 4 GB, rápido y no "piensa"; buena calidad en español
+                               # respaldo rápido: gemma3:1b · (qwen3:4b NO cabe: 5.4 GB -> CPU, lento)
+  # api_key_env: OPENAI_API_KEY
+
+# --- Rutas ---
+paths:
+  raw_audio: data/raw_audio
+  transcripts: data/transcripts
+  processed: data/processed

@@ -1,0 +1,60 @@
+# =============================================================================
+#  config.yaml  ·  colócalo en la RAÍZ del proyecto (junto a la carpeta src/)
+#  Lo lee src/config.py -> load_config(). Ajusta los modelos a los que usaste
+#  en los Bloques A–C; las rutas y el resto pueden quedarse así.
+# =============================================================================
+
+# --- Bloque A: transcripción (faster-whisper) -------------------------------
+asr:
+  model: large-v3          # o "medium" / "small" si vas justo de VRAM
+  device: cuda             # "cpu" si no quieres usar GPU
+  compute_type: int8_float16   # en CPU usa "int8"
+  language: es
+
+# --- Bloque B: diarización (pyannote) ---------------------------------------
+diarization:
+  model: pyannote/speaker-diarization-3.1
+  hf_token_env: HF_TOKEN   # nombre de la variable en .env con tu token de HuggingFace
+
+# --- Embeddings (BGE-M3), compartidos por audio y por el corpus de diarios ---
+embeddings:
+  model: BAAI/bge-m3
+  device: cuda             # "cpu" si te quedas sin VRAM al indexar
+  batch_size: 16           # baja a 8 o 4 si hay OOM en la RTX 3050 (4 GB)
+
+# --- Troceado de texto ------------------------------------------------------
+chunking:
+  max_chars: 1200
+  respect_speaker: true    # usado por el pipeline de audio
+  overlap_segments: 1      # solape (audio)
+  overlap_sents: 1         # solape del corpus de diarios (frases)
+  skip_procedural: true    # NO indexar el trámite de Presidencia (apertura/turnos/votaciones)
+  min_words: 0             # NO indexar intervenciones con menos de N palabras (0 = sin filtro)
+
+# --- Base de datos vectorial (ChromaDB) -------------------------------------
+vector_db:
+  path: data/chroma
+  collection: plenos_audio        # colección del pipeline de audio (Bloques A–C)
+  corpus_collection: diarios_congreso   # colección NUEVA del corpus oficial de JSON
+
+# --- Recuperación -----------------------------------------------------------
+retrieval:
+  top_k: 20                # candidatos que trae ChromaDB
+  final_k: 5               # fragmentos finales tras reordenar
+  focus: true              # deja en cada fragmento solo las frases afines a la pregunta
+  focus_sents: 3           # nº de frases a conservar por fragmento (0 = no comprimir)
+
+# --- Reranker (CrossEncoder) ------------------------------------------------
+reranker:
+  enabled: false           # OFF en 4 GB: el reranker (2,2 GB VRAM) + embedder + LLM no caben a la vez
+  model: BAAI/bge-reranker-v2-m3
+
+# --- LLM local (Ollama) -----------------------------------------------------
+llm:
+  enabled: true            # en false, recap solo da ficha + fragmentos (sin respuesta redactada)
+  model: qwen2.5:3b        # ajustado a 4 GB (llama3.1:8b no cabe); es el que hay servido en Ollama
+
+# --- Rutas (relativas a la raíz del proyecto) -------------------------------
+paths:
+  raw_audio: data/raw_audio
+  transcripts: data/transcripts

@@ -1,0 +1,93 @@
+# ==========================================================================
+#  .gitignore BLINDADO — Buscador Plenario Inteligente
+#  Objetivo: que NUNCA se suban secretos, datos personales (RGPD) ni binarios.
+#  Revisa SIEMPRE `git status` antes del primer commit.
+# ==========================================================================
+
+# --- SECRETOS (jamás al repo, ni privado) ---------------------------------
+.env
+.env.*
+!.env.example
+servidor.txt
+*.pem
+*.key
+*_token*
+*secret*
+
+# --- DATOS PERSONALES / RGPD ----------------------------------------------
+# Todo data/ fuera: huellas de voz (biometría), BD, rosters, audio, actas...
+data/
+!data/.gitkeep
+*.db
+*.db.bak
+voiceprints/
+roster*.json
+registro_diputados.json
+party_overrides.csv
+
+# --- ENTORNO Y CACHÉS ------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.cache/
+models/
+
+# --- BINARIOS PESADOS (rompen el límite de 100 MB de GitHub) --------------
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.pt
+*.onnx
+*.zip
+*.bak
+yolo*.pt
+
+# --- COPIAS / BACKUPS DE TRABAJO ------------------------------------------
+*.bak/
+app_completa_ENVIAR.bak/
+*_ENVIAR.zip
+
+# --- VÍDEOS Y CAPTURAS DE DEMO (pesados; pueden mostrar datos reales) ------
+videos/
+**/chroma/
+
+# --- CONFIG LOCAL DE HERRAMIENTAS -----------------------------------------
+.claude/settings.local.json
+
+# --- SO / EDITORES ---------------------------------------------------------
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# --- BULTO OPCIONAL (descomenta si no quieres subir el corpus/duplicado) ---
+# prueba_buscador/prueba_buscador/
+# prueba_buscador/**/diarios_congreso_2016-2026/
+# docs/carta_interes_ayuntamiento.pdf
+# docs/guion_visita_ayuntamiento.pdf
+# docs/piloto_y_rgpd.pdf
+# docs/tratamiento_datos.pdf
+
+# --- MATERIAL PÚBLICO (va en su propio repo, no aquí) ---------------------
+showcase_publico/
+
+# --- DOCUMENTOS INTERNOS / COMERCIALES (no publicar) ---------------------
+docs/carta_interes_ayuntamiento.*
+docs/guion_visita_ayuntamiento.*
+docs/piloto_y_rgpd.*
+docs/tratamiento_datos.*
+docs/linkedin_post.md
+docs/post_linkedin_*.txt
+docs/newsletter_*
+docs/showcase_readme_completo.md
+voto_vision_YOLO/voto_vision/NOTA_PARA_COMPANERO.md
+R2_extra/Sedipualba_Data/
+Reto_Buscador_Plenario.pptx
+Reto_2.pdf
+R2_extra/Reto_2_Ampliacion_Multimodal.pdf

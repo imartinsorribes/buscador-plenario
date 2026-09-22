@@ -1,0 +1,11 @@
+# Deteccion de votaciones a mano alzada (vision) - dependencias
+# Python 3.10+  (probado con 3.12)
+ultralytics>=8.4
+torch>=2.2
+torchvision>=0.17
+opencv-python>=4.8
+numpy>=1.24
+matplotlib>=3.7
+
+# Nota: el modelo de pose (yolo11x-pose.pt, ~113 MB) se descarga solo la
+# primera vez que se ejecuta detectar_votaciones.py (hace falta internet).

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "V1_ratificacion_urgencia",
+    "punto": "Punto 1 - Ratificacion de la urgencia",
+    "asientos_detectados": 12,
+    "recuento": {
+      "a_favor": 5,
+      "en_contra": 0,
+      "abstencion": 1
+    },
+    "recuento_confianza_alta": {
+      "a_favor": 4,
+      "en_contra": 0,
+      "abstencion": 1
+    },
+    "sin_voto": 6,
+    "asientos_a_revisar": [
+      {
+        "x": 88.5,
+        "voto": "a_favor",
+        "confianza_frac": 0.59
+      }
+    ],
+    "detalle_asientos": [
+      {
+        "asiento": 0,
+        "x": 20.3,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 1,
+        "x": 66.8,
+        "voto": "a_favor",
+        "confianza_frac": 0.65,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 2,
+        "x": 88.5,
+        "voto": "a_favor",
+        "confianza_frac": 0.59,
+        "fiabilidad": "media-revisar"
+      },
+      {
+        "asiento": 3,
+        "x": 126.0,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 4,
+        "x": 170.0,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 5,
+        "x": 206.9,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 6,
+        "x": 245.2,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 7,
+        "x": 283.8,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 8,
+        "x": 329.7,
+        "voto": "a_favor",
+        "confianza_frac": 0.95,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 9,
+        "x": 374.0,
+        "voto": "a_favor",
+        "confianza_frac": 0.74,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 10,
+        "x": 425.7,
+        "voto": "a_favor",
+        "confianza_frac": 0.88,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 11,
+        "x": 575.0,
+        "voto": "abstencion",
+        "confianza_frac": 0.62,
+        "fiabilidad": "alta"
+      }
+    ]
+  },
+  {
+    "id": "V2_PAI_FEDER",
+    "punto": "Punto 2 - Aprobacion PAI / fondos FEDER",
+    "asientos_detectados": 13,
+    "recuento": {
+      "a_favor": 7,
+      "en_contra": 0,
+      "abstencion": 1
+    },
+    "recuento_confianza_alta": {
+      "a_favor": 4,
+      "en_contra": 0,
+      "abstencion": 0
+    },
+    "sin_voto": 5,
+    "asientos_a_revisar": [
+      {
+        "x": 64.7,
+        "voto": "a_favor",
+        "confianza_frac": 0.43
+      },
+      {
+        "x": 84.3,
+        "voto": "a_favor",
+        "confianza_frac": 0.43
+      },
+      {
+        "x": 120.8,
+        "voto": "a_favor",
+        "confianza_frac": 0.43
+      },
+      {
+        "x": 598.4,
+        "voto": "abstencion",
+        "confianza_frac": 0.47
+      }
+    ],
+    "detalle_asientos": [
+      {
+        "asiento": 0,
+        "x": 6.6,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 1,
+        "x": 64.7,
+        "voto": "a_favor",
+        "confianza_frac": 0.43,
+        "fiabilidad": "media-revisar"
+      },
+      {
+        "asiento": 2,
+        "x": 84.3,
+        "voto": "a_favor",
+        "confianza_frac": 0.43,
+        "fiabilidad": "media-revisar"
+      },
+      {
+        "asiento": 3,
+        "x": 120.8,
+        "voto": "a_favor",
+        "confianza_frac": 0.43,
+        "fiabilidad": "media-revisar"
+      },
+      {
+        "asiento": 4,
+        "x": 165.7,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 5,
+        "x": 206.0,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 6,
+        "x": 245.9,
+        "voto": "a_favor",
+        "confianza_frac": 0.61,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 7,
+        "x": 284.2,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      },
+      {
+        "asiento": 8,
+        "x": 328.1,
+        "voto": "a_favor",
+        "confianza_frac": 0.96,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 9,
+        "x": 373.9,
+        "voto": "a_favor",
+        "confianza_frac": 0.74,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 10,
+        "x": 420.8,
+        "voto": "a_favor",
+        "confianza_frac": 0.78,
+        "fiabilidad": "alta"
+      },
+      {
+        "asiento": 11,
+        "x": 598.4,
+        "voto": "abstencion",
+        "confianza_frac": 0.47,
+        "fiabilidad": "media-revisar"
+      },
+      {
+        "asiento": 12,
+        "x": 627.0,
+        "voto": null,
+        "confianza_frac": 0.0,
+        "fiabilidad": "-"
+      }
+    ]
+  }
+]

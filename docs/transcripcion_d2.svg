@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="760" fill="#ffffff"/>
+
+  <text x="50" y="62" font-size="34" font-weight="bold" fill="#9d1535">Distinción de voz</text>
+
+  <!-- icono audio (ondas) -->
+  <rect x="100" y="290" width="170" height="120" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2" rx="12"/>
+  <g stroke="#c23a50" stroke-width="6" stroke-linecap="round">
+    <line x1="135" y1="335" x2="135" y2="365"/>
+    <line x1="160" y1="320" x2="160" y2="380"/>
+    <line x1="185" y1="305" x2="185" y2="395"/>
+    <line x1="210" y1="320" x2="210" y2="380"/>
+    <line x1="235" y1="335" x2="235" y2="365"/>
+  </g>
+  <text x="185" y="445" text-anchor="middle" font-size="18" font-weight="bold" fill="#9d1535">Audio del pleno</text>
+  <text x="185" y="470" text-anchor="middle" font-size="13" fill="#8a7a7d">wav 16 kHz + transcripción con tiempos</text>
+
+  <!-- flecha 1 -->
+  <line x1="290" y1="350" x2="390" y2="350" stroke="#9d1535" stroke-width="3.5"/>
+  <polygon points="405,350 387,341 387,359" fill="#9d1535"/>
+
+  <!-- caja diarización -->
+  <rect x="420" y="285" width="320" height="130" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2" rx="14"/>
+  <text x="580" y="340" text-anchor="middle" font-size="24" font-weight="bold" fill="#9d1535">Diarización</text>
+  <text x="580" y="374" text-anchor="middle" font-size="13.5" fill="#b06a78">pyannote speaker-diarization 3.1</text>
+  <text x="580" y="445" text-anchor="middle" font-size="13" fill="#8a7a7d">voces anónimas:</text>
+  <text x="580" y="467" text-anchor="middle" font-size="13" fill="#8a7a7d">VOZ 1 · VOZ 2 · VOZ 3…</text>
+
+  <!-- flecha 2 -->
+  <line x1="760" y1="350" x2="860" y2="350" stroke="#9d1535" stroke-width="3.5"/>
+  <polygon points="875,350 857,341 857,359" fill="#9d1535"/>
+
+  <!-- caja identificación -->
+  <rect x="890" y="285" width="330" height="130" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2" rx="14"/>
+  <text x="1055" y="340" text-anchor="middle" font-size="24" font-weight="bold" fill="#9d1535">Identificación</text>
+  <text x="1055" y="374" text-anchor="middle" font-size="13.5" fill="#b06a78">ECAPA-TDNN · similitud coseno</text>
+
+  <!-- registro de voces (azul) alimentando desde abajo -->
+  <rect x="925" y="475" width="260" height="90" fill="#dbe7f3" stroke="#9cb8d8" stroke-width="2" rx="12"/>
+  <text x="1055" y="510" text-anchor="middle" font-size="15" font-weight="bold" fill="#3a6ea8">Registro de voces</text>
+  <text x="1055" y="532" text-anchor="middle" font-size="12" fill="#5a7a9e">huella consentida y borrable</text>
+  <text x="1055" y="552" text-anchor="middle" font-size="12" fill="#5a7a9e">vector de 192 dimensiones, no el audio</text>
+  <line x1="1055" y1="475" x2="1055" y2="438" stroke="#3a6ea8" stroke-width="3"/>
+  <polygon points="1055,424 1046,441 1064,441" fill="#3a6ea8"/>
+
+  <!-- flecha 3 -->
+  <line x1="1240" y1="350" x2="1330" y2="350" stroke="#9d1535" stroke-width="3.5"/>
+  <polygon points="1345,350 1327,341 1327,359" fill="#9d1535"/>
+
+  <!-- doc acta -->
+  <text x="1442" y="225" text-anchor="middle" font-size="18" font-weight="bold" fill="#9d1535">Acta</text>
+  <text x="1442" y="250" text-anchor="middle" font-size="13" fill="#8a7a7d">quién dijo qué</text>
+  <path d="M1370,275 L1485,275 L1515,305 L1515,425 L1370,425 Z" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2"/>
+  <path d="M1485,275 L1485,305 L1515,305" fill="#f9dee2" stroke="#e8b8c0" stroke-width="2"/>
+  <line x1="1390" y1="335" x2="1495" y2="335" stroke="#c23a50" stroke-width="2.5"/>
+  <line x1="1390" y1="360" x2="1475" y2="360" stroke="#c23a50" stroke-width="2.5"/>
+  <line x1="1390" y1="385" x2="1490" y2="385" stroke="#c23a50" stroke-width="2.5"/>
+
+  <!-- la secretaría revisa (azul) alimentando el acta desde abajo -->
+  <rect x="1330" y="475" width="230" height="90" fill="#dbe7f3" stroke="#9cb8d8" stroke-width="2" rx="12"/>
+  <text x="1445" y="510" text-anchor="middle" font-size="15" font-weight="bold" fill="#3a6ea8">la secretaría revisa</text>
+  <text x="1445" y="532" text-anchor="middle" font-size="12" fill="#5a7a9e">editor con reproductor:</text>
+  <text x="1445" y="552" text-anchor="middle" font-size="12" fill="#5a7a9e">escucha, confirma y el acta se regenera</text>
+  <line x1="1445" y1="475" x2="1445" y2="440" stroke="#3a6ea8" stroke-width="3"/>
+  <polygon points="1445,426 1436,443 1454,443" fill="#3a6ea8"/>
+
+  <!-- bucle de aprendizaje: las voces confirmadas vuelven al registro como huellas nuevas -->
+  <path d="M1445,565 L1445,635 L1055,635 L1055,573" fill="none" stroke="#9d1535" stroke-width="2.5" stroke-dasharray="7,5"/>
+  <polygon points="1055,565 1048,578 1062,578" fill="#9d1535"/>
+  <text x="1250" y="620" text-anchor="middle" font-size="13" font-weight="bold" fill="#9d1535">las voces confirmadas se guardan como huellas nuevas</text>
+  <text x="1250" y="660" text-anchor="middle" font-size="12" fill="#8a7a7d">el siguiente pleno se atribuye solo · similitud de coseno</text>
+</svg>

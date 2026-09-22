@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="760" fill="#ffffff"/>
+
+  <text x="50" y="62" font-size="34" font-weight="bold" fill="#9d1535">Transcripción del pleno</text>
+
+  <!-- icono vídeo -->
+  <rect x="100" y="290" width="170" height="120" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2" rx="12"/>
+  <polygon points="160,325 160,375 205,350" fill="#c23a50"/>
+  <text x="185" y="445" text-anchor="middle" font-size="18" font-weight="bold" fill="#9d1535">Vídeo del pleno</text>
+  <text x="185" y="470" text-anchor="middle" font-size="13" fill="#8a7a7d">YouTube · yt-dlp</text>
+
+  <!-- flecha 1 -->
+  <line x1="290" y1="350" x2="395" y2="350" stroke="#9d1535" stroke-width="3.5"/>
+  <polygon points="410,350 392,341 392,359" fill="#9d1535"/>
+  <text x="350" y="332" text-anchor="middle" font-size="12" font-style="italic" fill="#8a7a7d">audio</text>
+
+  <!-- caja whisper -->
+  <rect x="425" y="285" width="330" height="130" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2" rx="14"/>
+  <text x="590" y="340" text-anchor="middle" font-size="23" font-weight="bold" fill="#9d1535">Whisper large-v3-turbo</text>
+  <text x="590" y="374" text-anchor="middle" font-size="13.5" fill="#b06a78">faster-whisper · int8 · CUDA</text>
+  <text x="590" y="445" text-anchor="middle" font-size="13" fill="#8a7a7d">idioma auto por intervención</text>
+  <text x="590" y="467" text-anchor="middle" font-size="13" fill="#8a7a7d">valencià / castellano</text>
+
+  <!-- flecha 2 -->
+  <line x1="775" y1="350" x2="880" y2="350" stroke="#9d1535" stroke-width="3.5"/>
+  <polygon points="895,350 877,341 877,359" fill="#9d1535"/>
+
+  <!-- caja lexfix -->
+  <rect x="910" y="285" width="330" height="130" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2" rx="14"/>
+  <text x="1075" y="340" text-anchor="middle" font-size="23" font-weight="bold" fill="#9d1535">Corrección léxica</text>
+  <text x="1075" y="374" text-anchor="middle" font-size="13.5" fill="#b06a78">glosario municipal · sustitución segura</text>
+
+  <!-- glosario (azul) alimentando desde abajo -->
+  <rect x="960" y="490" width="230" height="74" fill="#dbe7f3" stroke="#9cb8d8" stroke-width="2" rx="12"/>
+  <text x="1075" y="522" text-anchor="middle" font-size="15" font-weight="bold" fill="#3a6ea8">glosario del municipio</text>
+  <text x="1075" y="546" text-anchor="middle" font-size="12" fill="#5a7a9e">se crea en el alta</text>
+  <line x1="1075" y1="490" x2="1075" y2="432" stroke="#3a6ea8" stroke-width="3"/>
+  <polygon points="1075,418 1066,435 1084,435" fill="#3a6ea8"/>
+
+  <!-- flecha 3 -->
+  <line x1="1260" y1="350" x2="1345" y2="350" stroke="#9d1535" stroke-width="3.5"/>
+  <polygon points="1360,350 1342,341 1342,359" fill="#9d1535"/>
+
+  <!-- doc de salida -->
+  <path d="M1385,275 L1500,275 L1530,305 L1530,425 L1385,425 Z" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="2"/>
+  <path d="M1500,275 L1500,305 L1530,305" fill="#f9dee2" stroke="#e8b8c0" stroke-width="2"/>
+  <line x1="1405" y1="335" x2="1510" y2="335" stroke="#c23a50" stroke-width="2.5"/>
+  <line x1="1405" y1="360" x2="1490" y2="360" stroke="#c23a50" stroke-width="2.5"/>
+  <line x1="1405" y1="385" x2="1505" y2="385" stroke="#c23a50" stroke-width="2.5"/>
+  <text x="1457" y="460" text-anchor="middle" font-size="18" font-weight="bold" fill="#9d1535">Transcripción</text>
+  <text x="1457" y="485" text-anchor="middle" font-size="13" fill="#8a7a7d">JSON · timestamps por frase</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="760" fill="#ffffff"/>
+  <text x="800" y="52" text-anchor="middle" font-size="17" font-style="italic" fill="#7a7a7a">indexar una vez · fase costosa, offline</text>
+
+  <!-- fuente: manuales PDF -->
+  <path d="M95,150 L195,150 L222,177 L222,285 L95,285 Z" fill="#f7ecc3" stroke="#d9b95e" stroke-width="2"/>
+  <path d="M195,150 L195,177 L222,177" fill="#eeddad" stroke="#d9b95e" stroke-width="2"/>
+  <line x1="113" y1="205" x2="205" y2="205" stroke="#c9a53e" stroke-width="2.5"/>
+  <line x1="113" y1="228" x2="188" y2="228" stroke="#c9a53e" stroke-width="2.5"/>
+  <line x1="113" y1="251" x2="200" y2="251" stroke="#c9a53e" stroke-width="2.5"/>
+  <text x="158" y="315" text-anchor="middle" font-size="17" font-weight="bold" fill="#8b2440">Manuales PDF</text>
+  <text x="158" y="338" text-anchor="middle" font-size="13" fill="#7a7a7a">13 oficiales + los que se suban</text>
+
+  <!-- fuente: vídeo -->
+  <rect x="95" y="470" width="127" height="90" fill="#f7ecc3" stroke="#d9b95e" stroke-width="2" rx="10"/>
+  <polygon points="140,495 140,535 175,515" fill="#c9a53e"/>
+  <text x="158" y="592" text-anchor="middle" font-size="17" font-weight="bold" fill="#8b2440">Vídeos tutoriales</text>
+
+  <!-- proceso 1: texto por páginas -->
+  <rect x="360" y="105" width="330" height="105" fill="#f7e3e6" stroke="#d9a3ad" stroke-width="2" rx="12"/>
+  <text x="525" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="bold" fill="#8b2440">Texto por páginas</text>
+  <text x="525" y="184" text-anchor="middle" font-size="13.5" fill="#8a6a70">fragmento citable = manual + pág.</text>
+
+  <!-- proceso 2: capturas con visión -->
+  <rect x="360" y="255" width="330" height="105" fill="#f7e3e6" stroke="#d9a3ad" stroke-width="2" rx="12"/>
+  <text x="525" y="298" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="bold" fill="#8b2440">Capturas descritas</text>
+  <text x="525" y="330" text-anchor="middle" font-size="13.5" fill="#8a6a70">visión: gemini-3.5-flash</text>
+  <rect x="385" y="385" width="280" height="56" fill="#ddeee4" stroke="#9cc4ab" stroke-width="2" rx="10"/>
+  <text x="525" y="409" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1d6b4f">caché por hash</text>
+  <text x="525" y="429" text-anchor="middle" font-size="12" fill="#5a8a6e">cada imagen se paga UNA vez (céntimos)</text>
+  <line x1="525" y1="385" x2="525" y2="368" stroke="#1d6b4f" stroke-width="2.5"/>
+  <polygon points="525,360 518,372 532,372" fill="#1d6b4f"/>
+
+  <!-- proceso 3: vídeo transcrito -->
+  <rect x="360" y="470" width="330" height="105" fill="#f7e3e6" stroke="#d9a3ad" stroke-width="2" rx="12"/>
+  <text x="525" y="513" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="bold" fill="#8b2440">Ventanas por minuto</text>
+  <text x="525" y="545" text-anchor="middle" font-size="13.5" fill="#8a6a70">Whisper turbo · cita = minuto exacto</text>
+
+  <!-- flechas fuentes -> procesos -->
+  <line x1="230" y1="195" x2="348" y2="160" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="358,157 344,153 348,167" fill="#8b2440"/>
+  <line x1="230" y1="255" x2="348" y2="300" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="358,304 347,294 343,307" fill="#8b2440"/>
+  <line x1="230" y1="515" x2="348" y2="520" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="358,521 345,513 344,527" fill="#8b2440"/>
+
+  <!-- embeddings -->
+  <rect x="820" y="255" width="300" height="105" fill="#f7e3e6" stroke="#d9a3ad" stroke-width="2" rx="12"/>
+  <text x="970" y="298" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#8b2440">Embeddings</text>
+  <text x="970" y="330" text-anchor="middle" font-size="13.5" fill="#8a6a70">BGE-M3 · un solo espacio vectorial</text>
+
+  <line x1="695" y1="157" x2="808" y2="285" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="815,293 803,289 811,278" fill="#8b2440"/>
+  <line x1="695" y1="307" x2="808" y2="307" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="818,307 805,300 805,314" fill="#8b2440"/>
+  <line x1="695" y1="522" x2="808" y2="335" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="813,326 813,340 801,332" fill="#8b2440"/>
+
+  <!-- cilindro ChromaDB -->
+  <g>
+    <path d="M1230,270 L1230,380 A105,26 0 0 0 1440,380 L1440,270" fill="#ddeee4" stroke="#9cc4ab" stroke-width="2.5"/>
+    <ellipse cx="1335" cy="270" rx="105" ry="26" fill="#e9f4ee" stroke="#9cc4ab" stroke-width="2.5"/>
+    <text x="1335" y="342" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="bold" fill="#1d6b4f">ChromaDB</text>
+  </g>
+  <text x="1335" y="450" text-anchor="middle" font-size="13.5" fill="#7a7a7a">929 fragmentos · texto + capturas + vídeo</text>
+  <text x="1335" y="474" text-anchor="middle" font-size="13.5" fill="#7a7a7a">recarga en caliente: subir un PDF no reinicia nada</text>
+
+  <line x1="1125" y1="307" x2="1212" y2="315" stroke="#1d6b4f" stroke-width="3"/>
+  <polygon points="1222,316 1209,309 1208,323" fill="#1d6b4f"/>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="800" fill="#ffffff"/>
+
+  <text x="50" y="60" font-size="32" font-weight="bold" fill="#9d1535">¿Cuánto cuesta? Tres formas de desplegarlo</text>
+  <text x="50" y="92" font-size="15" font-style="italic" fill="#7a7a7a">municipio tipo: 24 plenos/año + 6.000 consultas de manuales · precios de API en vivo (julio 2026)</text>
+
+  <!-- ============ COLUMNA 1: TODO LOCAL ============ -->
+  <rect x="50" y="130" width="470" height="520" fill="#fdf4f4" stroke="#9d1535" stroke-width="2.5" rx="16"/>
+  <text x="285" y="175" text-anchor="middle" font-size="20" font-weight="bold" fill="#9d1535">Todo local</text>
+  <text x="285" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#c23a50">nuestra elección</text>
+
+  <text x="285" y="285" text-anchor="middle" font-size="46" font-weight="bold" fill="#9d1535">≈ 2 €/año</text>
+  <text x="285" y="318" text-anchor="middle" font-size="13" fill="#8a7a7d">(electricidad de la GPU)</text>
+
+  <text x="80" y="380" font-size="13.5" fill="#5a4a4d">· GPU de 8-16 GB: 300-450 € una sola vez</text>
+  <text x="80" y="408" font-size="13.5" fill="#5a4a4d">  (o el equipo que ya exista)</text>
+  <text x="80" y="436" font-size="13.5" fill="#5a4a4d">· transcripción, voces, búsqueda, alertas: 0 €</text>
+  <text x="80" y="464" font-size="13.5" fill="#5a4a4d">· coste plano: sin cuotas ni sorpresas</text>
+  <text x="80" y="492" font-size="13.5" fill="#5a4a4d">· única compra: visión de capturas,</text>
+  <text x="80" y="520" font-size="13.5" fill="#5a4a4d">  1,4 € TODA la documentación (una vez)</text>
+
+  <rect x="80" y="555" width="410" height="66" fill="#dbe7f3" stroke="#9cb8d8" stroke-width="2" rx="10"/>
+  <text x="285" y="582" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a6ea8">el dato no sale del ayuntamiento</text>
+  <text x="285" y="604" text-anchor="middle" font-size="12" fill="#5a7a9e">RGPD · sin dependencia de proveedor</text>
+
+  <!-- ============ COLUMNA 2: TODO NUBE ============ -->
+  <rect x="565" y="130" width="470" height="520" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="16"/>
+  <text x="800" y="175" text-anchor="middle" font-size="20" font-weight="bold" fill="#9d1535">Todo en la nube</text>
+  <text x="800" y="200" text-anchor="middle" font-size="13" fill="#8a7a7d">APIs comerciales</text>
+
+  <text x="800" y="285" text-anchor="middle" font-size="46" font-weight="bold" fill="#b06a78">30-130 €/año</text>
+  <text x="800" y="318" text-anchor="middle" font-size="13" fill="#8a7a7d">según gama del modelo</text>
+
+  <text x="595" y="380" font-size="13.5" fill="#5a4a4d">· la partida que manda: transcribir</text>
+  <text x="595" y="408" font-size="13.5" fill="#5a4a4d">  (≈1 € por pleno de 3 h — API Whisper)</text>
+  <text x="595" y="436" font-size="13.5" fill="#5a4a4d">· LLM por pleno: 0,005 € (mistral-small)</text>
+  <text x="595" y="464" font-size="13.5" fill="#5a4a4d">  a 0,18 € (gpt-5.2)</text>
+  <text x="595" y="492" font-size="13.5" fill="#5a4a4d">· consulta de manuales: 0,001-0,02 €</text>
+  <text x="595" y="520" font-size="13.5" fill="#5a4a4d">· a 100 municipios: 3.000-13.000 €/año</text>
+
+  <rect x="595" y="555" width="410" height="66" fill="#ffffff" stroke="#e8b8c0" stroke-width="2" rx="10"/>
+  <text x="800" y="582" text-anchor="middle" font-size="13" font-weight="bold" fill="#c23a50">el audio del pleno viaja fuera</text>
+  <text x="800" y="604" text-anchor="middle" font-size="12" fill="#8a7a7d">y el coste crece lineal con los municipios</text>
+
+  <!-- ============ COLUMNA 3: VIDEOACTA COMERCIAL ============ -->
+  <rect x="1080" y="130" width="470" height="520" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="16"/>
+  <text x="1315" y="175" text-anchor="middle" font-size="20" font-weight="bold" fill="#9d1535">Videoacta comercial</text>
+  <text x="1315" y="200" text-anchor="middle" font-size="13" fill="#8a7a7d">referencia de mercado</text>
+
+  <text x="1315" y="285" text-anchor="middle" font-size="46" font-weight="bold" fill="#b06a78">miles €/año</text>
+  <text x="1315" y="318" text-anchor="middle" font-size="13" fill="#8a7a7d">licencias por sesión o anualidad</text>
+
+  <text x="1110" y="380" font-size="13.5" fill="#5a4a4d">· lo que hoy contratan muchos consistorios</text>
+  <text x="1110" y="408" font-size="13.5" fill="#5a4a4d">· sin búsqueda semántica ni alertas</text>
+  <text x="1110" y="436" font-size="13.5" fill="#5a4a4d">  a vecinos ni asistente de manuales</text>
+  <text x="1110" y="464" font-size="13.5" fill="#5a4a4d">· dependencia del proveedor</text>
+
+  <rect x="1110" y="555" width="410" height="66" fill="#ffffff" stroke="#e8b8c0" stroke-width="2" rx="10"/>
+  <text x="1315" y="582" text-anchor="middle" font-size="13" font-weight="bold" fill="#c23a50">2-3 órdenes de magnitud más caro</text>
+  <text x="1315" y="604" text-anchor="middle" font-size="12" fill="#8a7a7d">que el despliegue local (estimación de mercado)</text>
+
+  <!-- pie -->
+  <text x="800" y="705" text-anchor="middle" font-size="14" font-weight="bold" fill="#9d1535">La elección local no es (solo) por dinero: es soberanía del dato — el pleno, con nombres de vecinos, no sale del ayuntamiento.</text>
+  <text x="800" y="735" text-anchor="middle" font-size="12.5" fill="#8a7a7d">Precios de API: catálogo de OpenRouter y tarifa de Whisper (julio 2026), convertidos a euros (1 $ ≈ 0,92 €) · cargas de trabajo medidas en nuestro sistema · detalle completo en el estudio de costes</text>
+</svg>

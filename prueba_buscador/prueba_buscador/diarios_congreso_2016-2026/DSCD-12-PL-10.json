@@ -1,0 +1,1257 @@
+{
+ "id": "DSCD-12-PL-10",
+ "legislatura": 12,
+ "fecha": "20 de octubre de 2016",
+ "tema_sesion": "Tramitación directa y en lectura única de iniciativas legislativas: — Proposición de ley orgánica de reforma de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. «BOCG. Congreso de los Diputados», serie B, número 47-1, de 7 de octubre de 2016. (Número",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 255,
+   "en_contra": 85,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 95,
+   "en_contra": 248,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 85,
+   "en_contra": 250,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 94,
+   "en_contra": 249,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 91,
+   "en_contra": 251,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 260,
+   "en_contra": 1,
+   "abstenciones": 82
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 90,
+   "en_contra": 251,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 86,
+   "en_contra": 256,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 87,
+   "en_contra": 255,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 78,
+   "en_contra": 256,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 80,
+   "en_contra": 256,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 79,
+   "en_contra": 256,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 80,
+   "en_contra": 256,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 79,
+   "en_contra": 256,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 86,
+   "en_contra": 256,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 80,
+   "en_contra": 255,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 80,
+   "en_contra": 256,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 88,
+   "en_contra": 256,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 86,
+   "en_contra": 256,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 78,
+   "en_contra": 256,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 266,
+   "en_contra": 1,
+   "abstenciones": 77
+  },
+  {
+   "emitidos": null,
+   "a_favor": 255,
+   "en_contra": 84,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 17,
+   "en_contra": 321,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 24,
+   "en_contra": 256,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 84,
+   "en_contra": 248,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 84,
+   "en_contra": 248,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 87,
+   "en_contra": 248,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 86,
+   "en_contra": 254,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 78,
+   "en_contra": 256,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 86,
+   "en_contra": 256,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 340,
+   "en_contra": 1,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 337,
+   "en_contra": 4,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 93,
+   "en_contra": 249,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 332,
+   "en_contra": 1,
+   "abstenciones": 11
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 88,
+   "en_contra": 256,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 80,
+   "en_contra": 256,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 88,
+   "en_contra": 256,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 23,
+   "en_contra": 321,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 342,
+   "a_favor": 25,
+   "en_contra": 256,
+   "abstenciones": 61
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 14,
+   "en_contra": 264,
+   "abstenciones": 66
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 86,
+   "en_contra": 254,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 106,
+   "en_contra": 232,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 77,
+   "en_contra": 256,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 337,
+   "en_contra": 4,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 341,
+   "a_favor": 90,
+   "en_contra": 251,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 342,
+   "a_favor": 338,
+   "en_contra": 2,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 86,
+   "en_contra": 255,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 70,
+   "en_contra": 263,
+   "abstenciones": 11
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 69,
+   "en_contra": 264,
+   "abstenciones": 11
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 103,
+   "en_contra": 233,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 343,
+   "a_favor": 73,
+   "en_contra": 268,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 82,
+   "en_contra": 259,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 78,
+   "en_contra": 256,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 326,
+   "en_contra": 6,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 316,
+   "en_contra": 5,
+   "abstenciones": 23
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 316,
+   "en_contra": 5,
+   "abstenciones": 23
+  }
+ ],
+ "n_intervenciones": 130,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Se reanuda la sesión.\nSeñorías, antes de proceder con el orden del día, quisiera agradecer la presencia y saludar en nombre \nde todos los diputados al vicepresidente de la Asamblea Nacional de Hungría, señor István Jakab, quien \nhoy nos acompaña en la tribuna. (Aplausos). En el marco de la conmemoración del sexagésimo aniversario \nde la revolución de 1956, el señor Jakab se ha desplazado a España, donde, entre otros actos, ha asistido \na la inauguración en Madrid del monumento a los héroes de 1956. Sean muy bienvenidos a esta Cámara. \n(Aplausos).\nSeñorías, la presente sesión plenaria incluye el debate y aprobación en tramitación directa y lectura \núnica de la proposición de ley orgánica de reforma de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad \nPresupuestaria y Sostenibilidad Financiera, y de la proposición de ley orgánica de modificación de la Ley \nOrgánica 5/1985, de 19 de junio, del Régimen Electoral General, para el supuesto de convocatoria \nautomática de elecciones… (Las señoras y los señores diputados del Grupo Parlamentario Confederal \nde Unidos Podemos-En Comú Podem-En Marea, puestos en pie, exhiben varias pancartas con las \nletras mayúsculas DH, al tiempo que gritan: Ningún ser humano es ilegal).\nSeñorías, guarden silencio. (Las señoras y los señores diputados del Grupo Parlamentario \nConfederal de Unidos Podemos-En Comú Podem-En Marea depositan las pancartas en los bancos \ndel Gobierno).\nSeñorías, guarden los símbolos que están exhibiendo. Les recuerdo que tienen que guardar los \nsímbolos. Están incumpliendo el Reglamento de la Cámara. Les llamaré al orden a todos y cada uno. \n(Aplausos de las señoras y los señores diputados del Grupo Parlamentario Confederal de Unidos \nPodemos-En Comú Podem-En Marea, puestos en pie).\nRecuerdo a sus señorías que el artículo 103.3 del Reglamento señala unas obligaciones que son de \nobligado cumplimiento para sus señorías. Como todos ustedes saben, estamos obligados todos a cumplir \nel Reglamento. no dejemos nunca que una foto valga más que una palabra. (Aplausos.—Aplausos de \nlas señoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, puestos en \npie.—Rumores.—El señor Iglesias Turrión pide la palabra.—Las señoras y los señores diputados \ndel Grupo Parlamentario Confederal de Unidos Podemos-En Comú Podem-En Marea vuelven a \nexhibir varias pancartas con las letras mayúsculas DH).\nSeñorías, les ruego a todos que, en cumplimiento del Reglamento, ocupen sus asientos, porque, \ncomo les estaba diciendo, vamos a tramitar estas dos proposiciones de ley. (El señor Iglesias Turrión \npide de nuevo la palabra). No tiene la palabra, señoría. (Protestas.—Aplausos.—El señor Iglesias \nTurrión pronuncia palabras que no se perciben , terminando: Hay una norma jurídica por encima \ndel Reglamento parlamentario; por encima del Reglamento está la Declaración Universal de los \nDerechos Humanos).\nSeñor Iglesias, no tiene la palabra. (Protestas.—Aplausos).\ncve: DSCD-12-PL-10\n \nRecuerdo a todas sus señorías —a todas y cada una de sus señorías—, la obligación que tenemos \ntodos de conocer, en primer término, el Reglamento y, después, la obligación que tiene la Presidencia de \nla Cámara de aplicarlo. Por eso continúo con el orden del día. (El señor Iglesias Turrión: El Parlamento \nde Panamá). Señor Iglesias, le llamo al orden. (Rumores).\nSeñorías, al tener dichas iniciativas carácter orgánico deben ser sometidas a una votación final que, \nde conformidad con el artículo 131.2 del Reglamento, ha de ser anunciada con antelación por la \nPresidencia. Por ello, en cumplimiento de esta disposición, anuncio que la votación no tendrá lugar antes \nde las 11:30 horas.\nTRAMITACIÓN DIRECTA Y EN LECTURA ÚNICA DE INICIATIVAS LEGISLATIVAS:\n— PROPOSICIÓN DE LEY ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 2/2012, DE 27 DE \nABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. (Número de \nexpediente 122/000036)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Corresponde, en primer lugar, debatir la proposición de ley de reforma de la \nLey Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. A dicha \nproposición de ley se ha presentado una enmienda a la totalidad con texto alternativo y cuarenta enmiendas \nal articulado. Para la defensa de sus enmiendas y para posicionarse en relación con el resto, los grupos \nparlamentarios intervendrán en un único turno de quince minutos, de menor a mayor. En el caso del Grupo \nParlamentario Mixto se fijará posición en ese mismo turno.\nEn consecuencia, para la defensa de las enmiendas presentadas tiene la palabra, en primer término, \nla señora Oramas González-Moro."
+  },
+  {
+   "speaker": "ORAMAS GONZÁLEZ-MORO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta.\nIntervengo para defender la enmienda que hemos presentado conjuntamente varias fuerzas políticas \n—Partido Popular, Partido Socialista, Ciudadanos y el Grupo Mixto en mi persona— a la Ley del Impuesto \nsobre Sociedades. Como saben, el decreto se votará posteriormente, pero en ese decreto los técnicos del \nministerio que lo prepararon obviaron la existencia del Régimen Económico y Fiscal de Canarias y de las \ncondiciones especiales de Ceuta y Melilla. Es un tema importantísimo porque, como saben ustedes, las \nsociedades canarias están recogidas en el Régimen Económico y Fiscal con unos tipos impositivos y unas \nbonificaciones distintas al impuesto sobre sociedades a nivel nacional. Eso no solo echaba por tierra \nnuestro fuero —que es el Régimen Económico y Fiscal— sino que dejaba en una absoluta situación de \nindefensión y de imposibilidad económica a las sociedades canarias; sociedades canarias que verían \nimposible acogerse a la llamada reserva de inversiones canarias, a las reglas y los beneficios de la zona \nespecial canaria y a la producción de bienes. En ese sentido, tengo que agradecer el esfuerzo al límite \npara buscar una solución, que es la enmienda que se presenta a la Ley de Estabilidad pero que, como \ndecía, afecta al posterior decreto para dar cumplimiento a una situación fiscal diferente de Canarias y que \nnosotros tenemos que valorar. Pero también debe ser una llamada de atención al ministerio, y sobre todo \na los técnicos del mismo, porque no es la primera vez que viene aquí un proyecto de ley que afecta al \nRégimen Económico y Fiscal sin el informe previo del Parlamento de Canarias y sin tener parte de un \nRégimen Económico y Fiscal que forma parte del bloque constitucional —está recogido en la Constitución—. \nQueremos expresar nuestro agradecimiento a las fuerzas políticas que han tenido la capacidad de avalar \nesta enmienda.\nQueremos aprovechar este momento para decir que Canarias no puede esperar más, que necesitamos \naprobar los aspectos económicos del Régimen Económico y Fiscal de Canarias. Canarias tiene que ser una \noportunidad para España y para Europa, no tiene por qué ser una carga. Ese nuevo Régimen Económico y \nFiscal —que está prácticamente consensuado no solo con el Gobierno, sino también con todas las fuerzas \npolíticas con un compromiso específico— tiene que ser una de las prioridades del próximo Gobierno. \nNecesitamos crear empleo, necesitamos que Canarias sea plataforma con África, necesitamos que Canarias \nsea una oportunidad para este país y para Europa. Quiero agradecerles su posición en este tema.\nRespecto al resto de las enmiendas, compartimos absolutamente la enmienda que plantea Compromís \npero creemos que la prioridad respecto de la Ley de Estabilidad Presupuestaria es que los 8.000 \nayuntamientos de este país y las diecisiete comunidades autónomas puedan sacar sus presupuestos en \nplazo y rápidamente para no paralizar las inversiones de este país, para poder seguir creando empleo y, \nsobre todo, para que funcione este país. No va a quedar más remedio que el presupuesto del Estado se \ncve: DSCD-12-PL-10\n \nprorrogue durante los primeros meses de 2017, pero todavía estamos a tiempo para esto. En lo que sí \ncoincidimos absolutamente es en que este nuevo sistema de financiación autonómica tiene que ser justo, \nequilibrado y solidario porque es injusta la forma en que se está repartiendo el déficit en este momento. \nLas comunidades autónomas financian la sanidad, la educación y los servicios sociales y soportan el gran \npeso de este país, y ese reparto del déficit que nos autoriza Europa no es el adecuado.\nMuchísimas gracias, señora presidenta."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nA continuación, por el Grupo Mixto también, tiene la palabra el señor Candela Serna."
+  },
+  {
+   "speaker": "CANDELA SERNA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Moltes gràcies, señora presidenta.\nEn primer lugar, no puedo dejar de aprovechar la situación para denunciar que mientras algunos se \nescandalizan porque algunos diputados enseñan un cartel por la injusticia que supone el CIE de Aluche, \nlo que ha pasado aquí es la muestra de vuestra hipocresía ante una situación de vulneración de los \nderechos humanos. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario \nConfederal de Unidos Podemos-En Comú Podem-En Marea). Eso es lo que está pasando aquí.\nVayamos al tema. Compromís ya lo dijo en el debate de la toma en consideración, el PP iba a venir \naquí otra vez de salvapatrias y, visto lo visto, no nos hemos equivocado, pero es que la situación es muy \ngrave. El Partido Popular aprobó la Ley de Estabilidad en solitario, aplicando su rodillo; una ley tan \nimportante como esta. Pero no se conformó solo con eso, sino que también se reservó la capacidad de \nrepartir el objetivo de déficit entre administraciones. Eso, ¿qué significa en la práctica? Que vosotros, el \nPartido Popular, habéis trasladado todo el peso de los recortes a las comunidades autónomas. Qué raro, \n¿verdad? El Partido Popular utilizando las leyes y las instituciones a su favor. Ver para creer. Vergüenza \notra vez. Ahora, el Gobierno en funciones quiere poder seguir fijando los objetivos de déficit. Un Gobierno \nen funciones que no comparece ante las Cortes quiere poder fijar los objetivos de déficit. Señorías, se lo \nvoy a explicar como lo haría el presidente en funciones. Lo que no puede ser, no puede ser y además es \nimposible. Por eso, Compromís ha enmendado el texto propuesto por el Partido Popular con un objetivo \nmuy claro, que un Gobierno en funciones no haga electoralismo con los objetivos de déficit. Esta enmienda \nquiere salvaguardar la necesaria lealtad institucional que el Partido Popular ha obviado durante todo este \ntiempo. Un Gobierno en funciones carece de la legitimidad necesaria para repartir los objetivos de déficit \nporque, simple y llanamente, no ha sido elegido por este Parlamento. ¿Cómo es posible que un Gobierno \nque no contesta a las preguntas que le hacemos los diputados de esta Cámara tenga la capacidad de fijar \nalgo tan determinante para las administraciones públicas como son los objetivos de déficit? Es evidente \nque no puede ser, y creo que en eso coincidimos la mayoría de la Cámara. Por ello les pedimos que \napoyen esta enmienda para que un Gobierno en funciones no pueda utilizar el reparto de déficit de \nmanera partidista. Lo que hoy proponemos es una modificación del texto que garantice un reparto objetivo \ndel déficit en función del volumen de gasto público asumido por las administraciones públicas. Pero, \ncuidado, señorías, eso no nos lo inventamos los de Compromís, eso lo dice la propia Airef e incluso la \npropia Fundación del BBVA.\nSeñorías, en otro momento tendremos que iniciar el debate sobre esta infame Ley de Estabilidad, pero \nlo que nos urge es impedir que un Gobierno en funciones pueda extralimitarse, por lo que pedimos vuestro \napoyo. Además, pedimos que los que hablan en los platós y dicen que hay una alternativa de cambio lo \ndemuestren donde hay que demostrarlo.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nA continuación, también por el Grupo Mixto, tiene la palabra el señor Bel Accensi."
+  },
+  {
+   "speaker": "BEL ACCENSI",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, presidenta.\nEl Partit Demòcrata Català presenta dos enmiendas, pero dada la interpretación que ha hecho el \nGobierno a lo largo de los últimos años de esta ley, seguramente cabría presentar más a una ley orgánica \nde estas características. En todo caso, para circunscribirnos al objeto de la modificación, hemos limitado \nla presentación a estas dos enmiendas, que presentamos por separado pero de forma idéntica con el \nGrupo de Esquerra Republicana de Cataluña porque entendemos que son básicas y fundamentales para \nCataluña. La primera de ellas recoge algunos de los informes de la Airef, algunos de los posicionamientos \ny manifestaciones… (Rumores).\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un momento, señoría.\nSeñorías, guarden silencio porque no se escucha al orador."
+  },
+  {
+   "speaker": "BEL ACCENSI",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Decía que recogen algunos de los informes de la Airef y de los posicionamientos \nde su presidente en esta Cámara en cuanto a la necesidad de que la distribución de los objetivos de déficit \nentre las comunidades autónomas responda a sus necesidades, a su punto de partida y a las competencias \nque gestionan, que son completamente diferentes. Por este motivo se debe asignar a cada comunidad \nautónoma un objetivo de déficit diferente. Una enmienda va en esta dirección pero, ¿cuál es el criterio? \nEl criterio no debe ser arbitrario, sino fijado por la ley. Por este motivo introducimos una modificación en el \npunto sexto de la disposición transitoria primera con el objeto de que la distribución de los objetivos de \ndéficit entre las comunidades autónomas se efectúe de acuerdo con el déficit estructural del 1 de enero \nde 2012, como debería haberse efectuado la distribución del déficit entre los diferentes niveles de \nadministración, que el ministerio no ha cumplido, señor ministro, desde el primer ejercicio. Desde nuestro \ngrupo y desde Cataluña se va a continuar reivindicando el cumplimiento de la disposición transitoria \nprimera de la ley orgánica.\n Les pido también que estudien la segunda enmienda. Entiendo que la coyuntura actual pueda hacer \nque hoy algunos grupos quieran aprobar rápidamente esta modificación, pero si no se aprueba hoy quizá \nla tengamos que volver a presentar para reflexionar y ver si es una buena propuesta. Conforme con la \nactual legislación, los objetivos de déficit los propone el Gobierno y esta Cámara y el Senado los aprueban \npero, de no ser así, el Gobierno tiene que volver a presentar en un mes esos objetivos de déficit. Nuestra \nenmienda es muy sencilla y responde a la nueva configuración de esta Cámara. El Gobierno va a presentar \nla propuesta de déficit, pero si el Congreso y el Senado le tumban las propuestas de asignación de déficit, \nserá esta Cámara la que en un mes hará y aprobará una nueva propuesta de los objetivos de déficit. Se \ntraslada la responsabilidad a esta Cámara. La primera oportunidad la va a tener el Gobierno, pero si el \nGobierno no es capaz de consensuar una posición, la responsabilidad radicará en esta Cámara. Por tanto, \nson dos enmiendas sencillas. Entiendo que a alguno de ustedes —y obviamente al señor ministro— no le \ngusten las enmiendas, pero nuestra obligación es presentarlas, defenderlas y, como usted conoce \nperfectamente, señor ministro, reiterarlas hasta que consigamos una mayoría suficiente. Esta vez \nentendemos que puede estar más cerca en esta Cámara que en las legislaturas anteriores y vamos a \ntrabajar por ello. Pedimos estas modificaciones simplemente para que no se estigmatice a las comunidades \nautónomas. Parece que las culpables de que el Estado español no cumpla los objetivos de déficit son las \ncomunidades autónomas, parece que el Gobierno siempre es generoso y da un plus de objetivos de \ndéficit. Da un plus de objetivos de déficit cuando ha asignado de forma absolutamente torticera el objetivo \nde déficit a las comunidades autónomas para que estas aparezcan como las grandes culpables. Por todo \nello, les pedimos, señoras y señores diputados, su apoyo a estas dos enmiendas.\nMuchísimas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nTambién por el Grupo Mixto tiene la palabra, en último término, el señor Martínez Oblanca."
+  },
+  {
+   "speaker": "MARTÍNEZ OBLANCA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señora presidenta.\nSeñor Montoro, la urgencia de esta reforma de ley orgánica tiene unos objetivos que compartimos por \ndos razones. (Rumores). En primer lugar, porque España precisa de un instrumento legal que evite los \nperjuicios sociales y económicos derivados de la lesiva situación de interinidad del Gobierno por más de \ntrescientos días. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un segundo, señor Martínez Oblanca.\nSeñorías, guarden silencio, por favor."
+  },
+  {
+   "speaker": "MARTÍNEZ OBLANCA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "En segundo lugar, porque es obligado renovar nuestro compromiso \neuropeo para establecer los objetivos comunes de estabilidad presupuestaria y deuda para las \nadministraciones públicas. No obstante, conviene advertir que esta reforma no puede servir de pretexto \npara dejar de aplicar, tal y como se hizo en el pasado, las medidas preventivas, coercitivas y correctivas \nque aseguren el cumplimiento de los objetivos de estabilidad presupuestaria, de deuda pública y de la \nregla de gasto. De no aplicarlas, el Gobierno volvería a incurrir en el trato discriminatorio que favoreció a \nlas comunidades autónomas incumplidoras con los objetivos de endeudamiento y que por el contrario \npenalizó a las que sí cumplieron, lo que perjudicó los intereses de sus habitantes, como es el caso de los \ncve: DSCD-12-PL-10\n \nasturianos, en términos de inversión pública, de crecimiento y de empleo. Votaré a favor de esta reforma \npero en el futuro, por mucho que lo avale el Consejo de Política Fiscal y Financiera, no se puede consagrar \nel reparto a la carta del déficit de las comunidades autónomas porque quiebra los mandatos constitucionales \nde solidaridad y de autonomía financiera, además de romper los principios básicos de la propia ley, como \nson los de lealtad y responsabilidad institucional. La tolerancia en el incumplimiento de esta ley supondría \nfavoritismo y asimetría en el reparto de los objetivos de déficit, lo que equivaldría a agrandar las \ndesigualdades entre los ciudadanos y los territorios que habitan. Eso no puede volver a suceder en \nEspaña.\nMuchas gracias, señora presidenta."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Vasco, PNV, tiene la palabra el señor Azpiazu Uriarte."
+  },
+  {
+   "speaker": "AZPIAZU URIARTE",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta.\nIntervendré brevemente y desde el escaño no ya para hablar de la Ley de Estabilidad, sobre la que ya \nhemos hablado largo y tendido en más de una ocasión, sino para defender la enmienda que ha planteado \nnuestro grupo a esta proposición de ley, la enmienda número 41.\nNuestro grupo ha presentado una enmienda a esta proposición que responde a una cuestión urgente \ny puntual. Su objetivo es que tanto ADIF, el Administrador de Infraestructuras Ferroviarias, como Sepes, \nla Entidad Pública Empresarial de Suelo, procedan a formalizar las garantías correspondientes a través \nde la suscripción de las oportunas comfort letter solicitadas por las entidades financieras para poder \nrenovar el contrato de crédito sindicado suscrito el 24 de junio de 2009 y renovado el 10 de mayo de 2016 \na favor de Bilbao Ría 2000. Para que ADIF y Sepes procedan a ello es preciso, tal y como establece el \nartículo 111 de la Ley General Presupuestaria, que el Gobierno lo autorice. Lo que procede es, por lo \ntanto, y dada la urgencia de la situación, hacerlo a través de esta proposición, puesto que la ley de \npresupuestos previsiblemente no se aprobará en el plazo que se requeriría para que no generara ningún \nproblema. Insisto en que este es un tema de urgencia y por ello lo planteamos en esta proposición. De no \naprobarse, provocaría un problema de funcionamiento en la marcha de Bilbao Ría 2000, lo que no es en \nabsoluto para este grupo parlamentario deseable y me imagino que tampoco para los demás. Es por ello \npor lo que solicito su voto. \nEskerrik asko."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario de Esquerra Republicana, tiene la palabra la señora Capella i Ferré."
+  },
+  {
+   "speaker": "CAPELLA I FARRÉ",
+   "party": "ERC",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Molt bon dia, presidenta.\nSenyores diputades, senyors diputats, como decía el diputado de la antigua Convergència Democràtica \nde Catalunya, hemos presentado enmiendas por separado, si bien son dos enmiendas que dicen lo \nmismo. Hemos visto a lo largo de estos meses que un Gobierno en funciones no puede tener las \ncompetencias de un Gobierno titular, y por eso el Gobierno en funciones no ha querido someterse al \ncontrol de la Cámara. El Grupo Popular, en su proposición de ley, nos pide prácticamente un cheque en \nblanco para un Gobierno en funciones, al considerar que este puede adoptar el acuerdo que prevé el \nartículo 15.1 de la ley cuya reforma se pretende, siempre y cuando la Unión Europea adopte decisiones \nque obliguen a revisar los objetivos de estabilidad presupuestaria.\nA criterio de Esquerra Republicana, esto no puede ser así y por ello sometemos a votación un cambio \nen la redacción de esta proposición de ley, en el sentido de que en el caso de que las Cortes Generales, \nCongreso y Senado, rechazaran los objetivos propuestos por el Gobierno, el Congreso de los Diputados \nen el plazo máximo de un mes deberá proponer y aprobar los objetivos de estabilidad presupuestaria y de \ndeuda pública. En definitiva, en el supuesto del rechazo, le corresponde la aprobación al Congreso de los \nDiputados, donde reside la soberanía popular. Si un Gobierno —y aquí viene la diferencia entre el criterio \ndel Gobierno del Estado español y el criterio de Esquerra Republicana— es incapaz de conformar una \nmayoría suficiente que le permita definir y aprobar los objetivos de estabilidad presupuestaria, debe dejarlo \nen manos de Congreso porque es quien garantiza la fortaleza y la viabilidad del acuerdo que se tenga que \nadoptar.\nAsimismo, planteamos una enmienda de adición al artículo único que incluye un nuevo apartado, en \nel sentido de que la distribución del objetivo de déficit entre comunidades autónomas debe fijarse de forma \ncve: DSCD-12-PL-10\n \ndiferenciada con la finalidad de exigir el mismo esfuerzo a cada una de ellas y garantizar su cumplimiento. \nEs evidente que no todas las comunidades autónomas ejercen las mismas competencias ni tienen el \nmismo nivel de gasto en cuanto a las competencias asumidas. En consecuencia, no todas tienen las \nmismas necesidades de financiación, por lo que resulta evidente que un reparto por igual y no diferenciado \ngenera desigualdades y comporta consecuencias no deseadas. En este sentido también se ha pronunciado \nde forma reiterada la Autoridad Independiente de Responsabilidad Fiscal.\nPor lo que respecta a Cataluña, a nadie se le escapa que todas las competencias que tiene son \ncompetencias queridas y, en definitiva, que se ejercen. El Gobierno del Partido Popular desde 2012 hasta \nahora ha intentado ahogar el crecimiento económico de Cataluña. Pueden ustedes imputarlo a mala fe o \na incompetencia, lo que a ustedes mejor les plazca. A pesar de ello, Cataluña crece económicamente —en \npalabras del ministro Montoro, es verdad que lo reconoce a menudo, aunque luego hace cosas que \nparece que no vayan en este sentido— y, así, en el segundo trimestre del año 2016 la economía catalana \nha crecido una media del 3,4 % interanual, por encima de la media española, que ha sido del 3,2 %, y casi \nel doble —casi el doble, ministro, y en esto me va a dar la razón también— de la media europea, que es \ndel 1,8 %. En definitiva, la deslealtad del Estado español con Cataluña no tiene fin y el ejemplo más claro \nes un hecho incontestable: Cataluña es la tercera comunidad autónoma en aportación de recursos \ntributarios al Estado y la décima —la décima— en recursos per cápita recibidos. Es evidente que también \nen esto, nosotros, Cataluña, estamos por debajo de la media.\nPero no se preocupen, señorías, las catalanas y los catalanes no les tenemos miedo. Por encima de \nsus leyes ad hoc creadas ex profeso pensando en cada acción del Govern de Catalunya, pensando en \ncada decisión tomada por el Parlament de Catalunya; a pesar de su reforma de la Ley antiterrorista —la \nque hicieron en el 2015—, a pesar de la reforma de la Ley Orgánica del Tribunal Constitucional —y así \nhasta un largo etcétera—, por encima de sus ejércitos de togas y puñetas, por encima de su Ministerio del \nInterior, fabricador de informes falsos que pretenden imputar delitos inexistentes a personas honorables, \nla ciudadanía de Cataluña emitió un mandato incontestable el pasado 27 de septiembre: una mayoría \nabsoluta a favor de la construcción de la república catalana, una mayoría absoluta en el Parlament de \nCatalunya, y eso es lo que estamos haciendo. Insisto, no les tenemos miedo, no tenemos miedo de sus \namenazas, sean proferidas en la forma que sean proferidas. No pararemos, no nos pararán. Interpongan \nlas querellas que quieran y les plazca, hagan trabajar a la fiscal general del Estado contra Cataluña y a \ndestajo. Por cierto, mientras, esa institución —igual que lo recordaba ayer con el Tribunal Constitucional—, \nla de la Fiscalía General del Estado, es incapaz, es incapaz, es incapaz —lo repito tres veces— de cumplir \ncon sus obligaciones legales y de dar respuesta en tiempos razonables a las funciones que tiene \nencomendadas como, por ejemplo, ejercer la acusación en tiempos óptimos y razonables en procedimientos \npenales que han sido lesivos, donde existen y se enjuician delitos lesivos para los intereses generales y \nel bien común. Como decía, nosotros, els catalans i les catalanes , somos persistentes y tenaces y nos \nmueve la convicción y determinación de construir un país libre, justo y próspero, que es en definitiva lo que \nnos merecemos.\nSeñorías, señora presidenta, quiero finalizar con un mensaje de apoyo a la presidenta del Parlament \nde Cataluña, la presidenta del meu país, que seguramente no es el suyo. Y termino utilizando las palabras \ndel president Companys: (Termina su intervención en catalán.—Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Ciudadanos, tiene la palabra el señor Roldán Monés."
+  },
+  {
+   "speaker": "ROLDÁN MONÉS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Buenos días, señorías. Presidenta, muchas gracias.\nComo ya anticipé el martes, Ciudadanos se va a pronunciar a favor de aprobar la pequeña reforma de \nla Ley de Estabilidad Presupuestaria que propone el Gobierno, básicamente porque no tenemos alternativa. \nSi las comunidades autónomas hubieran seguido con los objetivos de déficit del 0,3 % que venían en el \npresupuesto prorrogado no hubieran podido acceder a la financiación del FLA, con lo cual se hubieran \ncongelado los fondos y, entonces, las personas que viven en España hubieran dejado de poder acceder \na los servicios básicos. Se trata de un tapón, de un parche absolutamente necesario porque, si no, se \nhubieran colapsado las cuentas de las comunidades autónomas y se hubieran dejado de proveer servicios \nfundamentales como la sanidad y la educación; por tanto, reitero, votaremos a favor. Es una reforma \nademás muy ad hoc porque en realidad no se va a repetir probablemente en cinco o diez años porque va \ndirigida solamente a un Gobierno en funciones al que se le ha aplicado un cambio de la senda de déficit, \ncve: DSCD-12-PL-10\n \ncon lo cual este mecanismo probablemente no se repita en mucho tiempo. Pero, como digo, es un parche \nnecesario, aunque no deja de ser un parche.\nEl problema de fondo que tenemos en España —lo hemos discutido en esta Cámara ayer y lo \ntendremos que seguir discutiendo durante un tiempo— es de financiación autonómica. Tenemos una \nfinanciación autonómica que es un caos, tenemos un complejo de fondos que es un galimatías porque no \nse garantiza la igualdad entre las personas y entre las regiones; que es incapaz de ofrecer ningún tipo de \npredictibilidad para hacer unas cuentas sensatas y, por tanto, tiene que reformarse. Nosotros hemos \nplanteado varias propuestas en ese sentido, ayer las defendió en parte Francisco de la Torre en esta \nCámara, y seguiremos trabajando de forma sensata para reformar las cosas donde toca.\nRespecto a las enmiendas presentadas por el Grupo Mixto y por Podemos-En Comú Podem-En Marea \n—seguro que me olvido algo— no creemos que este sea el lugar ni el momento, es una reforma exprés \nde la Ley de Estabilidad precisamente para no ahogar a las comunidades, y no creemos que sea el lugar \npara hacer una enmienda a la totalidad ni creemos que sea un lugar para abordar problemas locales \nmenores de un tipo o de otro. Por tanto, no vamos a apoyar las enmiendas que han presentado los grupos \nde En Comú Podem y Mixto.\nHaré un pequeño comentario sobre el posicionamiento del señor Garzón, al que ya hemos oído hablar \naquí tres o cuatro veces sobre este tema. Creo que usted plantea o tú planteas una dicotomía que no \nexiste, que es entre las personas y la estabilidad presupuestaria. Imagínate que España hubiera \nimplementado lo que venía en tu programa —no sé si luego se quedó en el programa número siete que \nhizo Podemos—, que era la propuesta de crear un millón de empleos públicos —repito, un millón de \nempleos públicos— en un contexto de un país con un cien por cien de deuda. Lo que sucede cuando \nhaces eso, ¿sabes qué es? Que pierdes la confianza de los inversores, y si pierdes la confianza de los \ninversores y tienes una deuda que has de refinanciar de 300.000 millones, lo que pasa es que te acabas \ngastando el dinero en el pago de intereses y tienes que acabar recortando en hospitales, en pensiones, \nen sanidad y en educación, que es lo que ha pasado exactamente con sus amigos en Grecia. (Aplausos).\nNosotros tampoco estamos de acuerdo con la política fiscal que ha hecho el Partido Popular. También \npensamos que recortaron demasiado en algunas partes, nos hubiera gustado que se invirtiera en futuro, \nque no se recortara en educación, que no recortaran un 40 % los fondos en I+D, en investigación y \ndesarrollo, y que, en cambio, sí se centrarán en recortar donde es necesario, donde hay que aplicar \nausteridad y donde hay que ser rigurosos, pero fueron incapaces como también parece que lo es el \nPartido Socialista de enfrentarse a sus propias redes clientelares y recortar en duplicidades, en chiringuitos, \nen amiguismo y en instalaciones políticas múltiples que han creado durante años. Por lo tanto, austeridad \ndonde es necesario e inversión en las partidas de futuro, que es lo que importa.\nFinalmente, quería hacer un comentario breve sobre lo que ha sido esencialmente la política fiscal del \nseñor Montoro. Me parece que se podría resumir fácilmente. El señor Rajoy llamó al señor Montoro antes \nde las últimas elecciones de diciembre y le dijo: Oye, Cristóbal, tenemos que arreglar esto de las elecciones \ncomo sea; por favor, hazme una rebajita fiscal. Entonces el señor Montoro hizo una propuesta de reforma \ny proyectó unos ingresos en el impuesto de sociedades para este año de 25.000 millones. Pues bien, en \ncaja, en ingresos reales en el mes de julio y de septiembre íbamos exactamente por la mitad de los \ningresos que había proyectado el Señor Montoro. Al mismo nivel de crecimiento en 2007, con un 3 % más \no menos, teníamos 45.000 millones de ingresos. ¿Qué ha hecho la reforma del señor Montoro? Agujerear \ntodavía más un impuesto que ya era un auténtico queso gruyer en este país. La manera de hacer política \nfiscal no es ofrecer soluciones antes de unas elecciones para sacar cuatro votos aquí y allá. Nosotros \ncreemos que hay que hacer una reforma profunda para arreglar la fiscalidad en este país, para tener unos \ningresos adecuados, pero, al mismo tiempo, para poder seguir siendo competitivos, para que paguen los \nque tienen que pagar y los que defraudan y para que paguen menos los que cumplen.\nEn definitiva, es imprescindible hacer una reforma fiscal sensata, una reforma fiscal cuando empiece \nla legislatura y termine el bloqueo. Entonces, nos pondremos a trabajar tanto en esa reforma fiscal como \nen la reforma de la financiación autonómica, que es lo importante.\nMuchísimas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Confederal de Unidos Podemos-En Comú Podem-En Marea, tiene la \npalabra el señor Garzón Espinosa.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "GARZÓN ESPINOSA",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señora presidenta.\nContinuamos con el debate de la Ley de Estabilidad. El martes tuvimos la oportunidad de plantear \nnuestra posición y dijimos de forma muy clara que para nosotros esta Ley de Estabilidad lo que hace es \ninstitucionalizar un dogma, el de la estabilidad financiera, el de la estabilidad presupuestaria, y que, en \nrealidad, eso es regresivo para la economía. Seguimos manteniendo esa posición y lo que vamos a hacer \nes describir cuáles son nuestras enmiendas con el objeto de intentar convencerles a ustedes, a los \nmiembros de esta Cámara, de la pertinencia de aprobar estas enmiendas para modificar el contenido de \nla ley.\nEl dogma de la estabilidad presupuestaria suele explicarse a veces a través de una metáfora o, más \nbien, de un mito, el de Ulises y las sirenas, que, como ustedes bien saben, es un mito de la antigüedad \nsegún el cual Ulises convenció a sus marineros para que se taparan los oídos, al mismo tiempo que \nataban en el mástil al propio Ulises. De esta forma los marineros no escucharían a las sirenas porque, si \nlo hacían, las sirenas acabarían matando a los propios marineros. Con este mecanismo, Ulises sí \nescuchaba a las sirenas, pero estaba incapacitado para cambiar la dirección del propio barco en virtud de \nlo que le sugerían las sirenas. Así, salvaba la vida. Esto es utilizado por el Banco Central Europeo como \nuna metáfora que permite explicar cómo la política económica debe mantenerse al margen de criterios \ndemocráticos, de criterios que son importantes desde el punto de vista social, pero que desde el punto de \nvista de la estabilidad presupuestaria serían inconvenientes. Eso es, en última instancia, lo que está \nhaciendo esta ley, lo que fue el artículo 135, taparse los oídos para no escuchar a las sirenas. La cuestión \nes que pueden tener ustedes un problema de visión y que no estemos hablando de sirenas, sino de los \ngritos de las víctimas de la crisis, a los que están desoyendo y cuyo barco están dirigiendo hacia un \ndestino fatídico.\nEso es lo que nosotros creemos que significa la Ley de Estabilidad y, por tanto, presentamos enmiendas \ncon objeto de cambiar la naturaleza de la ley. No creemos que esto sea simplemente una oportunidad \npara cambiar un aspecto menor de la ley, sino una oportunidad para cambiar la sustancia, la naturaleza \nde la Ley de Estabilidad. Por eso necesitamos dirigirnos al resto de la Cámara, una vez entendemos que \nel Partido Popular, naturalmente, no va a aceptar nuestras enmiendas; pero, en este caso, contamos con \nun detalle importante: el Partido Popular no suma mayoría absoluta. Por lo tanto, podemos dirigirnos al \nresto de la Cámara, con objeto de convencerles de que cambiar la Ley de Estabilidad es necesario y es \nuna buena oportunidad, especialmente al grupo del Partido Socialista, que sabemos que ya prácticamente \ntiene decidido dar el Gobierno a Mariano Rajoy y al Partido Popular, aunque eso no debería implicar que \nademás ratificara la Ley de Estabilidad, tal y como está presente. Tienen ustedes la oportunidad de votar \nnuestras enmiendas —que además se van a votar por separado— para que, en aquellos aspectos que \nustedes consideren necesario y que, por cierto, aparecen en su programa electoral, se pueda modificar la \nsustancia de la ley. Porque, si eso es así, al final del día tendremos una Ley de Estabilidad totalmente \ndiferente a la que ha traído el Gobierno y el Partido Popular y que será mucho mejor para la mayoría social \ntrabajadora de este país. Es más, nuestras enmiendas no son extraordinariamente ambiciosas; son \nenmiendas dirigidas a minimizar los daños, dirigidas a que gentes del Partido Socialista y gentes de otros \npartidos políticos las puedan apoyar. Por eso ahora mis compañeros describirán el contenido específico \nde algunas de estas enmiendas con objeto de intentar convencerles de que esto es una oportunidad, que \nno es un mero trámite administrativo, sino una oportunidad para romper el eje vertebral de las políticas de \nausteridad y del dogma neoliberal que nos ha traído consecuencias dramáticas para nuestra sociedad y \npara nuestra economía.\nNo puedo terminar esta intervención sin referirme por alusiones a la intervención precedente del \nportavoz de Ciudadanos para recordarle que sí hay un trade-off en economía, un intercambio, un coste de \noportunidad. Cuando uno hace una Ley de Estabilidad como esta, que prosigue la línea del artículo 135 \nde la Constitución, sabe que está dando prioridad a recursos que se destinan al pago de intereses de la \ndeuda sobre recursos dirigidos a la sanidad pública y a la educación pública. Eso significa que uno tiene \nque elegir entre pagar la deuda y los intereses o pagar a los hospitales o la creación de empleo. Y como \nusted sabe también, porque me lo imagino, en economía existe una cosa que se llama multiplicadores \nfiscales y sabe que si en vez de destinar los recursos al pago de los acreedores internacionales los destina \na la creación de empleo, a través de esa creación de empleo puede usted pagar la deuda, pero como un \npaso secundario. Si en cambio usted prefiere hacer lo que quiere hacer el Gobierno del Partido Popular, \ny lleva haciendo tanto tiempo, que es destinar los recursos principalmente al pago de los acreedores \ninternacionales, sabrá usted que lo único que está haciendo es devolverle la deuda, una deuda que tiene \ncve: DSCD-12-PL-10\n \nun origen absolutamente ilegítimo porque es una deuda generada para la especulación inmobiliaria, para \nla especulación financiera y para, en última instancia, seguir saqueando por la vía financiera los recursos \nde este país. Es su opción, es legítima, pero no pretenda hacer creer que su opción, que es la del Partido \nPopular evidentemente, es la única opción posible. La nuestra es rigurosa, la nuestra es legítima y, desde \nluego, esperemos que cuente con la mayor aprobación posible.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el mismo grupo tiene la palabra el señor Vendrell."
+  },
+  {
+   "speaker": "VENDRELL GARDEÑES",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\nBon dia a tothom. El sentido de nuestras enmiendas es impulsar el cambio de la política económica \nrealizada hasta ahora para hacer frente a los dos grandes problemas que tenemos: el desempleo y la \nprecariedad. Un 20 % de desempleo es una cifra escandalosa. Una compañera me explicaba el caso de \nsu hermana que trabaja en el sector de la hostelería, 576 euros al mes de sueldo, ocho horas diarias, ocho \ndías a la semana, un único ingreso, una hipoteca y dos hijos. Así no se llega a final de mes. Y millones de \npersonas no gozan de sostenibilidad financiera alguna.\nEl segundo problema, las desigualdades. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un segundo señoría.\nSilencio, por favor. No se escucha al orador."
+  },
+  {
+   "speaker": "VENDRELL GARDEÑES",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias.\nRecientemente la directora del FMI ha afirmado con gran dosis de cinismo que el crecimiento ha \nbeneficiado a unos pocos, afirmación que se ajusta perfectamente a España donde el 1 % más rico \nconcentra tanta riqueza como el 80 % más pobre según Oxfam Internacional.\nHemos dicho en otras ocasiones, y no nos cansaremos de repetirlo, que no se puede hablar de cifras \nmacroeconómicas, de la deuda, del déficit y del PIB sin hablar de la realidad social del desempleo y la \ndesigualdad. Esta situación no es un accidente de la naturaleza, está provocada por los recortes del \nEstado del bienestar y la devaluación salarial del Gobierno del Partido Popular.\nNuestra enmienda a la totalidad se podría resumir en una sola idea. Para una política económica \ndecente y efectiva la creación de empleo y combatir la pobreza y las desigualdades gozará de prioridad \nabsoluta, utilizando el concepto del artículo 135 de la Constitución para el pago de los intereses y el capital \nde la deuda pública. Esta debe ser la prioridad. Y, por cierto, los derechos humanos deben ser la prioridad, \nderechos humanos para todos vengan de donde vengan, inmigrantes y autóctonos. (Aplausos). \n¿Es necesaria la sostenibilidad financiera? ¡Pues claro que es necesaria! Es insostenible incrementar \nel gasto militar como ustedes han hecho; es insostenible que solo Bankia nos haya costado a todos los \nciudadanos y ciudadanas 22.424 millones de euros cumpliéndose lo que predijo el inspector del Banco de \nEspaña al que nadie hizo caso: nacionalizar las pérdidas. Es insostenible que la corrupción haya costado \na las arcas públicas 47.000 millones de euros, según la Comisión Nacional de los Mercados y de la \nCompetencia. La sostenibilidad financiera y la seguridad presupuestaria claro que son necesarias. Pero \npara preservar los servicios públicos, no para ponerlos en peligro. Por lo tanto, ¿qué proponemos? La ley \nestablece que el límite de déficit estructural se puede superar en caso de recesión grave, de emergencia \nextraordinaria o catástrofes naturales. Pues bien, lo que proponemos es que los altos índices de desempleo \nsean considerados una emergencia social extraordinaria; que la pobreza y la exclusión social son \nemergencias a las que las administraciones públicas deben hacer frente. Y las crisis ecológicas provocadas \npor la acción humana, como el cambio climático, también son catástrofes que hay que prevenir y mitigar \ny que requieren un mayor esfuerzo de las administraciones públicas. La ley debe contemplar estas \nsituaciones y las administraciones deben tener un margen necesario para hacerles frente.\nEl señor Saura, del Partido Socialista, decía en el primer debate que si no hay estabilidad presupuestaria, \nnunca habrá una política fiscal única, nunca habrá en Europa un presupuesto único. Sí. Y si no hay unión \nsocial, si no hay criterios y políticas de convergencia en empleo, en condiciones laborales, en gasto social, \nal final lo que no habrá es Unión Europea porque la ciudadanía le habrá dado la espalda. Basta ya de que \nlos derechos sociales y las condiciones laborales sean utilizados como devaluaciones competitivas y \ncomo mecanismos de ajuste.\ncve: DSCD-12-PL-10\n \nEl otro gran objetivo de nuestras enmiendas es garantizar el autogobierno de las comunidades \nautónomas y de los ayuntamientos y su capacidad de actuar para realizar políticas públicas. Eliminamos \nuna regla de gasto absurda que tiene como objetivo recortar más, que impide a las administraciones \npúblicas utilizar el remanente de tesorería derivado de superávits fiscales para poder destinarlo a \ninversiones o gastos sociales. Porque, miren, ni el Estado ni muchas comunidades autónomas hacen \nfrente, como lo hacen muchos ayuntamientos, a emergencias sociales como, por ejemplo, la pobreza \nenergética o los desahucios. Eliminamos los artículos que vacían de contenido el autogobierno de las \ncomunidades autónomas. La ley incluye sanciones económicas, visitas de los hombres de negro, incluso \nla posibilidad de intervenir la autonomía. Con todo esto tenemos que terminar.\nEl debate de fondo es si permitimos que las políticas neoliberales se conviertan en una enfermedad \ncrónica —no termina de matarte pero te ahoga lentamente— o superamos de una vez estas políticas. \nEsperamos que el Grupo Socialista vote unas propuestas claramente socialdemócratas como las que \npresentamos. Hoy no conviertan las políticas neoliberales de austeridad en una enfermedad crónica de \nnuestra economía. La semana que viene, por favor, no avalen el autoritarismo, los recortes y la corrupción \ndel Gobierno del Partido Popular permitiendo que Rajoy sea presidente.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nTiene la palabra el señor Montero Soler."
+  },
+  {
+   "speaker": "MONTERO SOLER",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señorías, buenos días a todos y a todas.\nSeñor ministro, retomo el debate donde lo dejamos recordándole la obsesiva perspectiva con la que \nustedes contemplaban la estabilidad presupuestaria y financiera. Retomo el debate con la idea de que no \nsolo deberíamos mirar la estabilidad presupuestaria y financiera desde la perspectiva del gasto, sino que \nhabía que mirarla también desde la de los ingresos fiscales, la diferencia en términos de recaudación del \npeso de los ingresos fiscales en términos del PIB que mantenemos con la Unión Europea. Ahí es donde \nrealmente se encuentra el problema de la insuficiencia financiera de las comunidades autónomas y de las \nentidades locales y es para eso, precisamente, para lo que nos piden una reforma exprés de la Ley de \nEstabilidad Presupuestaria y Sostenibilidad Financiera, para aliviar una situación que han provocado \nustedes mismos. Sus reformas fiscales, y hemos visto la del impuesto sobre la renta y la del impuesto \nsobre sociedades, han tenido efectos perversos y un deterioro fundamental sobre los ingresos fiscales. \nHay medidas que casan muy mal con la estabilidad presupuestaria como son precisamente esas reformas \nfiscales y los errores de previsión en la recaudación.\nPor otro lado, nos parece tremendamente grave que ustedes ni siquiera denuncien y se conviertan en \nalumnos aventajados de un marco fiscal impuesto desde la Unión Europea que es muy riguroso y que \nconvierte la estabilidad en una regla excesivamente rígida. El saldo estructural que ustedes marcan en la \nLey de Estabilidad Presupuestaria lo fijan en el 0 %, cuando el Pacto de Estabilidad y Crecimiento permite \nun 0,5 %. Su obsesión por convertirse en los alumnos aventajados de la Unión Europea genera dolor y \nsufrimiento, señor Roldán. Decir que no hay un trade-off entre las elecciones cuando estoy seguro de que \nusted es partidario de la definición de la economía como una ciencia de la elección, decir que no hay un \ntrade-off entre la estabilidad presupuestaria y el gasto que se dedica al bienestar social, es una boutade \ncuando menos. Por eso mismo planteamos un conjunto de enmiendas a la Ley de Estabilidad \nPresupuestaria, que se pueden sintetizar por su relevancia en tres esencialmente. En primer lugar, no \nestamos en contra de la estabilidad, siempre y cuando esta no se considere un dogma ni una regla fija. \nEstamos a favor de la estabilidad pero no estamos a favor de la rigidez paralizante. La estabilidad hay que \nmedirla, como sabe todo el mundo, a lo largo del ciclo económico y no momento a momento, como si en \nla economía no existiera el tiempo histórico. Por lo tanto, planteamos una reforma del criterio de estabilidad \npresupuestaria que estoy seguro de que el señor Saura estaría dispuesto a apoyar. En segundo lugar, \nplanteamos que la estabilidad, como no es algo que deba ser rígido… (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un segundo, señoría. Ruego por favor silencio. Solamente puede hablar el \norador, se lo recuerdo.\nAdelante.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "MONTERO SOLER",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, presidenta, por recordar lo evidente.\nEn segundo lugar, el criterio de flexibilización en caso de que la situación económica del país se vea \ncomprometida. Pedimos simplemente que se flexibilice en situación de emergencia, algo que es evidente. \nEspaña no puede seguir teniendo una tasa de desempleo que es el doble que la de la Unión Europea. \nEn tanto no se reduzca esa tasa de desempleo al menos al nivel de la media de la Unión Europea, \ndeberíamos entender que vivimos en una situación de emergencia. Y, en tercer lugar —y con eso ya \nconcluyo—, es necesario eliminar esa vuelta de tuerca sobre la financiación de los entes locales y de las \ncomunidades autónomas que es la regla de gasto y que hace algo tan absurdo como impedir la \ndiscrecionalidad de esas instituciones para decidir qué hacen con sus superávits fiscales; no ya qué hacen \npara financiar el déficit, sino qué hacen cuando se han atenido a las directrices que marca la Ley de \nEstabilidad Presupuestaria y se les impide disponer discrecionalmente de los recursos de que disponen. \nPor todo ello, planteamos este conjunto de enmiendas que de lo que tratan esencialmente es de que la \nestabilidad presupuestaria se ponga al servicio del bienestar social y que no ocurra como ahora, \nexactamente lo contrario.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Saura García. (El señor vicepresidente, \nPrendes Prendes, ocupa la Presidencia)."
+  },
+  {
+   "speaker": "SAURA GARCÍA",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta; ahora, señor presidente.\nVengo en nombre de mi grupo parlamentario, como diputado y también como profesor universitario, \na ejercer mi libertad de expresión en el templo de la palabra, mientras ayer otras personas quisieron \nimponer sus ideas impidiendo ejercer la libertad de expresión. (Aplausos). Quisieron impedir la libertad \nde expresión en un lugar tan importante para la libertad de expresión como es la universidad y, en nombre \nde mi grupo parlamentario, quiero manifestar nuestra total repulsa por esa actitud, que impidió, como digo, \nque se ejerciera la libertad de expresión. Y lo digo, insisto, como diputado, pero también como profesor \nuniversitario.\nPaso ya, señorías, señor presidente, a hablar de esta modificación puntual de la Ley de Estabilidad \nPresupuestaria del año 2012. Digo puntual porque no es un debate sobre el fondo de la estabilidad \npresupuestaria; la ley del año 2012 no es la Ley de Estabilidad Presupuestaria del Partido Socialista. De \nlo que se trata es de permitir a un Gobierno en funciones que traiga aquí, para que el Congreso de los \nDiputados lo apruebe, la actualización de los objetivos de déficit para que las comunidades autónomas \npuedan hacer su presupuesto. En eso consiste esta modificación puntual de la Ley de Estabilidad \nPresupuestaria. Y también se trata de alguna chapuza más del Gobierno del señor Rajoy. En la X Legislatura \nyo hablaba de Gobierno Rajoy o Chapuzas Rajoy S.A. Bueno, pues esto es una chapuza más. Se les cae \nel ingreso por el impuesto de sociedades y entonces hacen un real decreto-ley para que efectivamente se \npuedan producir las entregas a cuenta —se habían olvidado de esas entregas a cuenta— pero no se \nacuerdan de que hay un régimen económico-fiscal para Canarias y unas deducciones fiscales en Ceuta y \nMelilla. Por consiguiente, tenemos que corregir esa chapuza para que no salgan perjudicados los \nciudadanos de Canarias y los de Ceuta y Melilla, que también son, por supuesto, españoles y españolas. \nEn eso consiste esta modificación puntual de la Ley de Estabilidad Presupuestaria.\nDecíamos que hay que modificar en profundidad la Ley de Estabilidad Presupuestaria porque no es \nnuestra ley, pero no se puede modificar, señorías, en veinticuatro horas porque podemos caer en algunas \nchapuzas. Voy a poner algún ejemplo. Podríamos hablar con tranquilidad de que los objetivos de déficit \nse repartan en función del peso de las administraciones públicas. Podemos hablar de eso; ahora bien, hay \nque hacerlo con rigor. Por ejemplo, de cara al año 2017 la Seguridad Social representa, como saben, \nel 35 % del gasto público; el año que viene la Seguridad Social va a tener un déficit que será prácticamente \nla mitad del total del déficit. Pero solamente representa el 35 %. ¿Qué hacemos? ¿No pagamos a los \npensionistas 5000 millones de euros el año que viene? Porque, insisto, el gasto total de la Seguridad \nSocial supone un 35 %, pero el año que viene muy probablemente el déficit de la Seguridad Social será \ndel 1,6 o el 1,7, casi el 50 % del déficit. ¿Qué hacemos con la Seguridad Social? ¿Qué hacemos con los \npensionistas, que haya 5000 millones de euros menos para ellos? Una chapuza. Tenemos que hablarlo \ncon tranquilidad. Estamos dispuestos a hablar de esta modificación que ha planteado algún grupo \nparlamentario, pero vamos a hacerlo con rigor porque estamos por mantener y mejorar el Estado del \nbienestar. Lo que queremos con esa modificación en profundidad de la Ley de Estabilidad Presupuestaria \ncve: DSCD-12-PL-10\n \nes acabar con la austeridad. Pero, señor Garzón, en primer lugar, si no hay un Gobierno de cambio es \nporque usted ha votado contra un presidente socialista como Pedro Sánchez. (Aplausos). Punto número \nuno. (Protestas de los señores Iglesias Turrión y Errejón Galván). Señor Iglesias, usted votó con \nmucho gusto, porque en realidad usted es fundamentalmente antisocialista. Por tanto, usted y el señor \nGarzón han posibilitado que el señor Rajoy sea presidente del Gobierno. Votaron en contra de un \npresidente socialista como Pedro Sánchez. (Rumores).\nContinúo si me lo permiten, señoras y señores diputados. Señor Garzón, lo que nos proponen ustedes \ncontra la austeridad es más endeudamiento. ¿Para qué? Para más austeridad en el futuro. Nosotros \nqueremos acabar con la austeridad con más ingresos públicos. Keynes pensaría que es un disparate que \ncreciendo al 3 % la economía española se tuviera que endeudar más y tuviera más déficit. ¿Qué haríamos \nentonces cuando la economía española estuviese en un momento de recesión? No tendríamos para \npoder financiar el Estado del bienestar, señor Garzón. Keynes hubiese pensado que es un disparate que \nel Gobierno del Partido Popular les haya regalado a los poderosos de este país 1,5 puntos del PIB este \núltimo año y medio. Ese es el problema, esa es la causa de la austeridad. La diferencia entre la izquierda \ny la derecha, señorías, señor Garzón, no es cuán grande es la deuda, cuán grande es el déficit. No, está \nusted equivocado, señor Garzón. Porque para campeones de la deuda los Gobiernos de la derecha \namericana o el señor Rajoy, que ha incrementado la deuda en 363.000 millones de euros en un abrir y \ncerrar de ojos. La diferencia es cuán grandes son los ingresos, cómo ingresamos y cómo gastamos. Esa \nes la diferencia entre la izquierda y la derecha, señor Garzón. (Aplausos).\nEn el año 2011 el gasto público en nuestro país era el 46 % en relación al PIB. Cuando acabe este año \n—lo ha reconocido el Gobierno en el plan presupuestario que ha enviado a Europa— el gasto público se \nva a situar en el 42 %. Pero no termina ahí la política fiscal de la derecha española. Quiere llevar el gasto \npúblico al 38 % con relación al PIB porque no quiere que crezcan los ingresos públicos más allá del 38 % \ncon relación al PIB. Este es el debate político de los próximos años: qué nivel de ingresos públicos quiere \nla sociedad española. Desde luego, lo que quieren la izquierda española y el Partido Socialista es que sus \ningresos públicos no sean el 38 % del PIB; ese es el debate. Lo que queremos es que el ajuste no se haga \npor el lado del gasto. Hay que incrementar los ingresos públicos. El keynesianismo del siglo XXI son los \ningresos públicos, no se equivoque, es la lucha contra el fraude, contra la evasión, contra la elusión fiscal \na nivel nacional y a nivel internacional, acabar con los privilegios de los poderosos. Ese es el debate de \nfuturo de la política económica y de la política fiscal.\nHemos leído todas las enmiendas, señor Garzón, y ¿cuál es el problema de las enmiendas? Cuando \nustedes quieren gobernar la globalización lo hacen por la vía ¿de qué? Por la vía de volver al nacionalismo \neconómico, volver a la autarquía. No; los ciudadanos tienen que tener su libertad y ganar su futuro, pero \nno por la vía de una política euroescéptica, sino por la vía de más Europa, de otra Europa y de una Europa \nplenamente federal. Sus enmiendas, señor Garzón, suponen de entrada, como le decía anteriormente, \nmás austeridad para el futuro; es decir, pan para hoy y hambre para mañana. No; la política de la izquierda \nes pan para hoy y pan para mañana. Es decir, más ingresos públicos para acabar con la austeridad. Sus \npropuestas implican que lo que quiere la izquierda, que es consolidar el pilar fiscal en Europa con un \npresupuesto europeo único, no lo va a haber nunca, porque con sus enmiendas para nada hay estabilidad \npresupuestaria a lo largo del ciclo. Ya me gustaría mí. Implican e imposibilitan que haya un presupuesto \neuropeo único a medio plazo. Eso es lo que imposibilitan. Pero además no es solamente eso sino que está \npensado para una economía cerrada, una economía autárquica, donde gran parte del gasto público se va \na gastar fuera de España y va a generar empleo fuera de España. Por tanto, la solución para acabar con \nla austeridad, para acabar con los poderosos no es renacionalizar la política económica sino otra Europa, \nmás Europa, una Europa plenamente fiscal. Pero tampoco es lo que está haciendo el Partido Popular: \ntratar de tener un Estado social mínimo, el 38 % en relación con el PIB. ¿Qué países tienen un ingreso \npúblico menor en relación con el PIB? Los países menos desarrollados. Hay algunas excepciones, pero \nlos ocho países más ricos de Europa tienen unos ingresos públicos en relación con el PIB del 48 % y el PP \nquiere situarlos en el 38 %. Eso sí, teniendo el déficit 2016 más alto de la Unión Europea, incluida Grecia; \nsi quitamos las ayudas financieras, más déficit que Grecia en el año 2016. Y con un incremento de la \ndeuda que ha situado la deuda pública como nunca en la historia en términos absolutos y en términos \nrelativos. Por tanto, esa política fiscal de regalar además un punto y medio, 16.000 millones de euros, a \nlos más poderosos ahora implica recortes en el Estado del bienestar.\nEste partido y este grupo parlamentario no van a aceptar ningún recorte del Estado del bienestar \nporque no creemos que atajar la desigualdad, que mejorar la productividad de nuestro país se tenga que \ncve: DSCD-12-PL-10\n \nhacer con un Estado social mínimo, con un Estado del bienestar raquítico, jibarizando el Estado del \nbienestar. Ese no es el camino para una sociedad moderna y no es el camino para acabar con la \ndesigualdad y la austeridad.\nMuchas gracias, señor presidente. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Por el Grupo Parlamentario Popular, tiene la palabra \nla señora Asian González."
+  },
+  {
+   "speaker": "ASIAN GONZÁLEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señor presidente, señorías, yo creo que hoy, después del debate \nsiempre enriquecedor que tuvimos el martes pasado y el que hemos tenido hasta ahora, todos los aquí \npresentes tenemos muy claro que el objetivo de la reforma de la Ley de Estabilidad Presupuestaria y \nSostenibilidad Financiera que hoy nos ocupa no es otro que el permitir que las limitaciones en materia \npresupuestaria que tiene un Gobierno en funciones no contaminen las legítimas aspiraciones a formular \nsus presupuestos de aquellos Gobiernos que no están en funciones en las comunidades autónomas. Esta \nlimitación presupuestaria del Gobierno de España en funciones no tiene por qué impedir, inferir, evitar o \nlimitar que el Gobierno de Asturias, que el Gobierno de Canarias, que el Gobierno de Andalucía, que los \nGobiernos autonómicos adopten sus decisiones. Y, sobre todo, la reforma pretende evitar que los \nciudadanos sean quienes en última instancia tengan que pagar las consecuencias de no tener un Gobierno \nen plazo.\nYo hoy quiero felicitarnos por el resultado de la votación de la toma en consideración porque 46 \nmillones de españoles se van a beneficiar de una mejor sanidad, de una mejor educación y de unos \nmejores servicios sociales. Votar no —ha quedado claro— significa votar no a la posibilidad de que las \ncomunidades autónomas se puedan financiar por encima de un déficit del 0,3 y puedan alcanzar el 0,7; \nsustraerles a las comunidades autónomas —a los servicios que prestan— 4.000 millones. Votar no \nsignifica obligar a las comunidades autónomas a que formulen sus presupuestos para 2017 con un déficit \ndel 0,1 cuando sabemos que lo pueden hacer con más holgura. Significaría someter a las comunidades \nautónomas y a todos los ciudadanos a unos sacrificios innecesarios. En todo caso, el votar no, el oponerse \na esta reforma, ¿qué significa en última instancia? ¿Qué se quiere, que a aquellas comunidades autónomas \nque han superado el déficit del 0,3 %, y lo han hecho de buena fe porque sabían que había mayor holgura \npresupuestaria, se les apliquen las medidas correctivas? ¿Les abrimos un expediente sancionador a \nestas comunidades autónomas que han actuado de buena fe y que han gastado legítimamente fondos \npara atender las competencias que tienen atribuidas? Esto es tan irreal que esta postura necesariamente \ntiene que ser muy minoritaria, como ya se acreditó en las votaciones que hemos realizado el martes \npasado.\nSe han presentado enmiendas a la totalidad con texto alternativo por parte del Grupo Parlamentario \nPodemos y treinta enmiendas parciales más en las cuales se vuelve a reiterar el contenido de la enmienda \na la totalidad para llegar al mismo punto. En estas enmiendas se plantea cambiarlo todo, por supuesto sin \nrecoger ni sentirse vinculado por el pacto europeo que sostiene al euro. Creo que únicamente se puede \nentender esto desde la perspectiva de que se quiera cumplir la resolución adoptada en el último Congreso \ndel Partido Comunista de España, que voy a leer textualmente para no equivocarme. Abro comillas: El \nPartido Comunista de España apuesta por la necesidad ineludible de romper con la Unión Europea y \nsalirnos del euro. Si esto no es así, si no se pretende cumplir esta resolución y esta enmienda no responde \na esa finalidad, me alegro, y además mucho. Con respecto al resto de las enmiendas presentadas, nos \nconsta a todos por los datos y antecedentes de que disponemos que existe un diálogo fluido entre el \nMinisterio de Hacienda, las comunidades autónomas y las entidades locales a través del Consejo de \nPolítica Fiscal y Financiera y de la Comisión Nacional de la Administración Local. No parece razonable \nmodificar lo que sí funciona pero sí centrarnos en modificar aquellos aspectos en los que necesitamos \nmejorar. Tampoco se pueden aceptar las enmiendas que proponen que desde nuestros escaños ejerzamos \nno solo funciones legislativas, sino también ejecutivas. Precisamente la Administración moderna nace \npara acreditar un cumplimiento efectivo de la norma, para acreditar que las normas se cumplen \ncorrectamente. ¿Qué diputado desde su escaño está en condiciones de garantizar que puede sustituir a \ntodos los funcionarios de la Administración General del Estado, a los muy buenos técnicos que tienen las \ncomunidades autónomas y las entidades locales? ¿Qué haríamos para manejar todo ese volumen de \ninformación, conocer los ingresos tributarios, su distribución por comunidades y las necesidades de todas \ny cada una de las comunidades? Evidentemente, no lo podríamos hacer solos. Posiblemente inventaríamos \ncve: DSCD-12-PL-10\n \nde nuevo la necesidad de crear una administración y tendríamos una administración paralela. Evidentemente \nesto tampoco lo podemos aceptar.\nEn el curso del debate se han utilizado de nuevo diversas cuestiones que podemos resumir en dos: \npor un lado, austeridad y, por otro lado, infrafinanciación de las comunidades autónomas. Por lo que \nrespecta a la austeridad, como una valoración subjetiva todas las opiniones son admisibles, pero si lo que \nqueremos es obtener una opinión fundada en datos tendremos que leer los datos para poder formarnos \nuna opinión. Y, ¿cuáles son estos datos? En 2011, ¿cuál fue el gasto social sin desempleo? Fueron 152.000 \nmillones. Y, ¿cuál es el gasto social sin desempleo en 2016? Son 168.000 millones. Sabemos que gran \nparte se debe al incremento de las pensiones y estamos orgullosos de ofrecer a nuestros pensionistas \nmás y mejores pensiones, pero también quiero que tengan en cuenta las señorías que han intervenido \nque cuando hablamos de comparativas de gasto tenemos que tener en cuenta que en 2016 hay una \npartida de 34.000 millones extra para las comunidades autónomas. Dado que las comunidades autónomas \ndestinan el 70 % de sus ingresos a gasto social, tendremos que computar en esta comparativa 24.000 \nmillones más de ingresos para las comunidades autónomas. En todo caso, ¿cuál es el gasto total de los \npresupuestos de 2011 si los comparamos con los presupuestos de 2016? En 2011, 315.000 millones; \nen 2016, 352.000 millones. El gasto se incrementa. Esto es lo que pasa cuando se toma distancia y en \nEuropa nos lo dicen: austeridad, austeridad, pero el gasto sigue aumentando. Resulta difícil sostener un \ncriterio de austeridad, hacer un discurso de austeridad pero no podemos vivir de espaldas a la realidad. \nRigor fiscal sí, eso sí lo aceptamos: tenemos rigor fiscal.\nEl portavoz del Partido Socialista ha dicho en su intervención que el señor Rajoy, que nosotros somos \nlos campeones de la deuda, pero ese título ya está otorgado, lo tiene el señor Zapatero, lo tiene el \nGobierno socialista, que duplicó la deuda. (Aplausos). Nosotros, como mucho, quizá podamos aspirar al \ntítulo de subcampeones y si lo hacemos es por herencia, no por querencia. (Protestas.—Aplausos). \nNosotros no queremos deuda, nosotros cogimos la deuda que ustedes dejaron pendiente. Y, ¿cuál es el \ndestino del incremento de deuda, que en términos relativos, por supuesto, es inferior? (Rumores)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un momento, por favor, señora Asian. Les ruego \nguarden silencio para que se pueda oír al orador. Gracias."
+  },
+  {
+   "speaker": "ASIAN GONZÁLEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "El destino del incremento de deuda no ha sido otro que los mecanismos \nextraordinarios de liquidez para financiar los servicios de las comunidades autónomas, amén de todas las \nfacturas que estaban en los cajones, que se han sumado y se han hecho transparentes. Todavía estamos \nesperando una explicación sobre a qué destinó el Gobierno socialista el incremento de deuda en su etapa \nde gobierno.\nNo voy a entrar en el tema de los ingresos con respecto al PIB porque olvidan el concepto de esfuerzo \nfiscal y podemos debatirlo otro día, si así me lo permiten. En cuando a la infrafinanciación autonómica, \ntampoco hay datos que avalen esta afirmación. ¿Estamos nosotros en contra de la actual Ley de \nfinanciación de las comunidades autónomas? Sí, lo estamos y por eso no la votamos. La aprobó el \nGobierno socialista rompiendo, además, una larga tradición de acuerdos. Nosotros sabemos que es uno \nde los grandes retos que tenemos pendientes y esperamos llegar a un acuerdo con todos los grupos \nparlamentarios y hacer una nueva ley de financiación. Ya hemos cubierto una primera etapa muy \nimportante: recuperar ingresos públicos con el fin de poder llegar a acuerdos para compartir mayores \ningresos con las comunidades autónomas. Porque, a veces, de algunas intervenciones parece deducirse \nque al Partido Popular le gusta infrafinanciar a las comunidades autónomas, aunque seamos nosotros \nmismos los que estamos gobernando en esa comunidad autónoma. ¿Cuál ha sido la reducción del déficit \nde la Administración General del Estado? Han sido 29.000 millones. ¿Cuál ha sido la reducción del déficit \nde las comunidades autónomas? Pues 18.000 millones. ¿Cuál es el déficit que se ha financiado en época \nde crisis desde 2007? Han sido 2.000 millones. ¿Cuál es el déficit que se financia en la actualidad a las \ncomunidades autónomas? Pues 17.000 millones. Es difícil decir que al Partido Popular no le gusta financiar \na las comunidades autónomas. Hay comunidades autónomas que cumplen, otras que no y otras que se \nesfuerzan por ir cumpliendo mejor, y creo que a los ciudadanos de estas comunidades también les \ninteresará saber a qué destinan sus gobernantes los fondos públicos. Me gustaría recordarles a algunos \nintervinientes —aunque ahora no está de moda el toreo— que el toreo de salón es muy interesante, no \ncabe la menor duda, pero no pasa de ahí y yo creo que la sociedad española en estos momentos es lo \nsuficientemente madura para distinguir perfectamente que una cosa es predicar y otra dar trigo.\ncve: DSCD-12-PL-10\n \nNo quiero terminar mi intervención sin poner en valor el acuerdo en esta Cámara para resolver \nproblemas, porque en esta Cámara hemos llegado a acuerdos para resolver problemas y lo hemos hecho \ncon esta ley a través de una enmienda que han suscrito el Partido Popular, el Partido Socialista, Ciudadanos \ny Coalición Canaria. Es una enmienda en la que se recoge una especial sensibilidad con Canarias, Ceuta \ny Melilla y las peculiaridades de estos territorios. No es necesario justificar, porque así lo hace nuestro \nordenamiento jurídico y lo hace Europa, la fragilidad geográfica y territorial que tienen estos queridos \nterritorios para nosotros.\nEspero que este acuerdo que hoy hemos adoptado para Canarias, Ceuta y Melilla sea el primer \nescalón para un acuerdo que también recoja con sensibilidad las necesidades de todos los territorios \nespañoles. Porque, sin duda, mediante el acuerdo podremos ofrecer mejores soluciones a los problemas, \na los ciudadanos, a los españoles; finalidad última de nuestra labor en esta Cámara.\nGracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señora Asian.\n— PROPOSICIÓN DE LEY ORGÁNICA DE MODIFICACIÓN DE LA LEY ORGÁNICA 5/1985, DE 19 DE \nJUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA EL SUPUESTO DE CONVOCATORIA \nAUTOMÁTICA DE ELECCIONES EN VIRTUD DE LO DISPUESTO EN EL APARTADO QUINTO DEL \nARTÍCULO 99 DE LA CONSTITUCIÓN. (Número de expediente 122/000037)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Pasamos al debate del segundo punto del orden del \ndía. (La señora vicepresidenta, Navarro Garzón, ocupa la Presidencia)."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Debate de la proposición de ley orgánica de \nmodificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para el supuesto \nde convocatoria automática de elecciones en virtud de lo dispuesto en el apartado quinto del artículo 99 \nde la Constitución. A dicha proposición de ley orgánica se han presentado dos enmiendas a la totalidad de \ntexto alternativo y 72 enmiendas al articulado. Para su defensa, los grupos parlamentarios intervendrán \nen un único turno de quince minutos de menor a mayor. En el caso del Grupo Parlamentario Mixto se fijará \nposición en ese mismo turno.\nEn consecuencia, para la defensa de las enmiendas presentadas tiene la palabra, por el Grupo \nParlamentario Mixto, el señor Salvador Armendáriz por un tiempo de tres minutos."
+  },
+  {
+   "speaker": "SALVADOR ARMENDÁRIZ",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Buenos días, señorías.\nComo saben, mi grupo presentó la primera proposición de ley para modificar la LOREG e intentar así \nevitar unas terceras elecciones y que estas coincidieran el día de Navidad. Es verdad que aún no sabemos \nsi lo conseguiremos evitar pero es obvio que nosotros estamos y estábamos preocupados por este tema. \nPor eso mismo, también hemos presentado unas enmiendas al texto que finalmente presentó el Gobierno \nque creemos que lo mejoran. Son las enmiendas que van de la 75 a la 78 y las resumo muy brevemente. \nEn la primera de ellas, es verdad que como estamos —y lo dice así el preámbulo en una situación \nanómala— se pretende que para los contratos que haya que hacer en este tiempo se acorten los plazos \npero se recurre a una tramitación por emergencia —se dice así— recogida del texto refundido de contratos \ndel sector público que nos parece inadecuada. Incluso coincidimos con Podemos en una misma enmienda \nsobre este caso. Creemos que es más adecuado —porque no se dan circunstancias de emergencia y sí \nde interés público, como se recoge en la Ley de Contratos— que se hable de tramitación por urgencia y \nno de emergencia.\nHemos presentado otra enmienda porque creemos que así como se mantienen algunas circunstancias \nhabilitaciones, solicitudes que se han hecho a la Junta Electoral, se deja fuera a los apoderados e \ninterventores y podría ser interesante que —ya que se ha hecho ese esfuerzo en las anteriores elecciones \ny ahora lo estamos repitiendo— lo mantuviéramos respecto a estas figuras tan importantes. Hemos \npresentado también una tercera enmienda que coincide con la número 10 del Partido Nacionalista Vasco \nporque creemos que faltaba la referencia al mantenimiento del estatus de los administradores generales \ny los administradores de las candidaturas. Creo que se va a llegar a una transacción. Por tanto, creo que \nesa se reflejará. Y una cuarta, en la que decimos que igual que hay una enmienda en la Ley de Estabilidad, \nque Partido Socialista y Partido Popular han pactado para recoger cuáles son los asuntos que tienen \nnaturaleza orgánica, pedimos que aquí se diga que solamente los apartados 1 y 2 tienen naturaleza \norgánica.\ncve: DSCD-12-PL-10\n \nRespecto a las otras enmiendas aplicaremos dos criterios a la hora de votarlas. Uno, como solemos \ndecir que nos gusta ver acuerdos entre los partidos importantes y grandes consensos, vamos a apoyar \naquellas que llevan las firmas y ese consenso. Por tanto, no apoyaremos aquellas que se refieren a los \nmismos temas que están consensuados por los grandes grupos. Dos, no vamos a votar a favor de todos \naquellos temas que aun pareciéndonos interesantes no tienen que ver con el contenido concreto de esta \nproposición de ley. Es decir, todas aquellas que se refieren a reducir la edad legal para votar, voto de \nextranjeros, tiempos de publicidad en la televisión, límite de acceso para tener representación los partidos \nen las elecciones locales, nuevos repartos de diputados, la Ley D´Hont, las circunscripciones autonómicas \nen elecciones generales, etcétera.\nRepitiendo lo que decía en mi intervención del martes, si al final, aun no habiendo elecciones y \nconsiguiendo evitarlas, esta legislatura solo se constituye para aprobar leyes en contra del Gobierno, para \ninventar conflictos o para desandar los esfuerzos que hemos hecho para salir de la crisis, al final lo que \nhoy parece un acto de responsabilidad no será sino una condena para todos los españoles. Esperamos \nque en esta legislatura disfrutemos menos de este antagonismo permanente que tenemos entre todos y \npodamos trabajar poniendo lo mejor de nosotros mismos, aun respetando las diferencias, en un proyecto \nmejor para España.\nTermino, señora presidenta. Señor Saura, mi partido se une a la denuncia que usted hace del ataque \nque ayer sufrió en su libertad de expresión el presidente González.\nMuchas gracias."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Salvador Arméndariz.\nPor el Grupo Mixto tiene la palabra el señor Bataller i Ruiz."
+  },
+  {
+   "speaker": "BATALLER I RUIZ",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señora presidenta, señorías.\nCompromís ha presentados dos enmiendas, las números 13 y 14, que intentan evitar la sensación de \nridículo que algunos tenemos ante una propuesta de reforma totalmente desmesurada en su espíritu y su \nfinalidad respecto al problema que aquí se plantea, porque, como ya apuntamos hace dos días en la toma \nen consideración, pensamos que está totalmente fuera de lugar pretender crear un procedimiento electoral \nespecial no previsto en la Constitución a partir de la simple y pura necesidad de resolver un problema de \ncalendario. ¿Qué le vamos a decir a la ciudadanía? ¿Que nosotros nos inventamos ese procedimiento \nespecial únicamente para evitar la eventualidad de votar el día de Navidad de 2016? Y los que nos \ndedicamos a ejercer la docencia en las facultades de Derecho, cuando volvamos allá, ¿vamos a tener que \ndecir a nuestros alumnos que nosotros y nuestros colegas de Cámara inventamos ese procedimiento \nespecial solamente por este problema de calendario tan puntual? Es algo que a mí particularmente me da \nmucha vergüenza, y me sorprendería que a ustedes no les diera.\nNuestra primera enmienda, la número 13, es a la exposición de motivos para que no se hable de un \nprocedimiento especial, sino de lo que es: una convocatoria electoral sobrevenida, en la cual, por simple \naplicación de economía, del principio bien conocido en derecho de conservación de los actos, lo que se \npretende es mantener aquellas actuaciones —las juntas electorales, los representantes designados, los \navales obtenidos— porque esto facilita el proceso, pero no hace falta ir más allá.\nEn la enmienda número 14 planteamos que en ese supuesto el proceso electoral dure lo que tiene que \ndurar: quince días, y que únicamente de manera excepcional, cuando por producirse la convocatoria de \nlas Cortes en un día en el que haya coincidencia con fiesta nacional, convenga hacer una alteración de \nfecha, en vez de celebrarse las elecciones en el quincuagésimo cuarto día posterior puedan celebrarse en \nel cuadragésimo séptimo. No hace falta nada más para solucionar el problema, porque no sé si ustedes \nhan caído en que con la redacción que se nos ofrece ahora resulta que, no en este momento, pero si por \nejemplo el año que viene hay que disolver las Cortes no el 31 de octubre, sino el 7 de noviembre, entonces \nsi contamos cuarenta y siete días nos iremos también al 25 de diciembre. ¿Qué haremos? ¿Otra reforma \nexprés con toda esta parafernalia para arreglar el problema? No, dejémoslo arreglado para siempre. \nDigamos: la campaña electoral dura lo de siempre, quince días, y si excepcionalmente ocurre —por el \ncarácter sobrevenido de la convocatoria— una coincidencia con fiesta nacional, entonces y solo entonces \nreduzcamos el periodo de campaña electoral a ocho días. Simplemente con esto, sin trastocar más \nnuestro ordenamiento, solucionamos el problema. Por ello les pido que consideren estas enmiendas 13 \ny 14 de Compromís.\nMuchas gracias.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "la reducción del gasto electoral",
+   "text": "Muchas gracias, señor Bataller i Ruiz.\nTiene la palabra, por el Grupo Mixto, el señor Xuclà i Costa.\nEl señor XUCLÀ I COSTA: Muchas gracias, señora presidenta.\nSeñorías, el martes en la toma en consideración de esta tramitación hiperexprés de la reforma electoral \nhablaba de una ocurrencia que está en el origen de lo que estamos discutiendo hoy y que era activar el \ncalendario de la primera votación para finales de agosto, de tal forma que se ponía la presión de una \nsegunda votación en el día de Navidad. Como sea que hay un consenso en la Cámara sobre la necesidad \nde hacer una modificación de la Ley Electoral —y así se quedó plasmado en la toma en consideración con \nunanimidad de votos afirmativos, de color verde—, ahora procede presentar las enmiendas parciales.\nSeñorías, desde el Partit Demòcrata no somos partidarios de hacer una reforma de mil aspectos de la \nLey Electoral en lectura única y con cuarenta y ocho horas. Hay muchos aspectos —algunos los señalaré \nen mi intervención— que son objeto de reflexión y que pueden apuntar algunas consideraciones de futuro \ny, evidentemente, sobre todo las enmiendas planteadas por los distintos grupos, como es propio en la \nactividad parlamentaria y en el acto de ejercer el voto; nosotros nos vamos a posicionar sobre cada una \nde las enmiendas, como una primera declaración de aproximación a su propuesta. La última gran reforma \nque se produjo en esta casa fue a través de una ponencia de trabajo en el año 2011; varios de los \nmiembros de aquella ponencia están presentes y también quiero recordar a José María Benegas, que fue \nuna contribución extraordinaria, de lujo, a la hora de hacer algunas consideraciones sobre aquella última \nreforma electoral. Algo que reformamos en el 2011, y que un año después fuimos los primeros en decir \nque lo habíamos reformado mal —y creo que en la vida en general, y en la política y en la legislación en \nparticular, es bueno reconocer los errores—, fue el nuevo sistema de voto rogado para los residentes \nespañoles en el extranjero. Pasamos de un extremo al otro y el sistema de voto rogado a través de la \ndiplomacia española —no adaptada, ni dispuesta ni predispuesta a facilitar el voto rogado— ha hecho \nque, en algunas elecciones, miles, miles de ciudadanos no hayan podido ejercer un derecho absolutamente \nfundamental como es el derecho a voto. Con lo cual, señorías, tenemos que movernos a otro sistema —\nesta es precisamente una de las dos enmiendas que planteamos—: ¿a qué sistema? Al voto electrónico. \nPrecisamente en España existen las dos empresas con más capacidad, más avanzadas, con el mejor \nsoftware mundial a la hora de implantar el voto electrónico y que han vendido su experiencia a otros \npaíses y a otros sistemas electorales. Algún día podremos votar electrónicamente muchas más cosas, \npero hagamos la propuesta de explorar el voto electrónico para los ciudadanos residentes en el exterior. \nY, como estamos tramitando una ley con carácter urgente, decimos que, en defecto del voto electrónico, \nmejor votar con el sistema anterior que con el sistema actual, que es más restrictivo, sabiendo que el \nsistema anterior tenía algunos problemas de seguridad jurídica; pero, a la hora de ejercer los derechos \nfundamentales, señorías, mejor siempre a favor del ciudadano, a favor del ejercicio del derecho \nfundamental.\nSegunda enmienda. En el año 2011, en la ponencia de reforma electoral, planteamos introducir —se \nconsiguió con una modificación posterior—, por fin, el voto secreto con papeleta en braille para las \npersonas invidentes. La legislación inicial planteaba que una persona invidente tenía que ir acompañada \nde alguien de su confianza para escoger la papeleta y, señorías, esta es una limitación del derecho \nindividual a votar secretamente y a que cada persona escoja su opción política a la hora de votar. Esta \ndecisión de introducir las papeletas en braille se adoptó para todas las elecciones excepto para las \nelecciones municipales con el argumento de la gran complejidad de articular un sistema de voto de \npapeletas braille para las municipales porque esas elecciones estaban cerca, no lejos. Señorías, esta es \nuna enmienda que incluso podrían tomar en consideración, podrían votar y podrían incorporar en esta \nreforma. Porque las próximas elecciones municipales son para dentro de dos años y medio y sería un \nbuen mensaje que en esta reforma se ampliara también el derecho de voto para las personas invidentes \na través de papeletas en braille. Estas son las dos enmiendas, señora presidenta, y con esto termino.\nTambién somos conocedores de una enmienda transaccional entre el PP, PSOE y Ciudadanos sobre \nla reducción del gasto electoral. Señorías, a nosotros nos gustaba más el redactado inicial del último \napartado de la proposición de ley del Partido Popular. Todos aquellos que hemos tenido episodios poco \nedificantes de corrupción sabemos que la mejor forma de atajar la corrupción es apostar por la financiación \npública de las campañas electorales y la democracia tiene un coste. Nosotros, con serenidad pero diciendo \nlas cosas claras, no estamos a favor de esta enmienda transaccional, vamos a abstenernos en la votación \nde la misma, vamos a abstenernos en el voto final, y nos parece que aquella ocurrencia de finales de \ncve: DSCD-12-PL-10\n \nagosto nos ha llevado a esta emergencia a pocos días de saber si tenemos o no legislatura y nuevo \nGobierno.\nNada más y muchas gracias, señora presidenta. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "la reducción del gasto electoral",
+   "text": "Gracias, señor Xuclà i Costa.\nPor el Grupo Mixto, tiene la palabra el señor Quevedo Iturbe."
+  },
+  {
+   "speaker": "QUEVEDO ITURBE",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "la reducción del gasto electoral",
+   "text": "Muchas gracias, señora presidenta. Señorías, buenos días a todas y a \ntodos.\nDesde el punto de vista de Nueva Canarias tenemos la sensación —que no podemos reprimir— de \noportunidad perdida o, si quieren, de cierto ridículo. ¡Venir aquí a actuar sobre ni más ni menos que la Ley \nOrgánica del Régimen Electoral General, no para corregir sus deficiencias, que las tiene, no para evitar \nsistemas electorales absolutamente inaceptables como es el caso de Canarias, no para corregir los \ndéficits democráticos que se producen en esta ley…! No, no. Venimos aquí para evitar que las elecciones \nen realidad se celebren —si las hubiera— el día 25 de diciembre. ¡Qué manera de sentirnos un poquito \nridículos!, porque ¿cómo se le explica a la gente que sobre las leyes orgánicas hay que actuar por esto?\nHemos llegado esta situación por dos razones que, en nuestra opinión, son igualmente lamentables: \nla primera, porque hemos sido incapaces de llegar al acuerdo al que había que haber llegado en opinión \nde Nueva Canarias para alcanzar el cambio político en España, y esto no deja de ser una sensación \ntremenda de oportunidad perdida que lamentamos profundamente. Pero, en segundo lugar, porque \npuestos a analizar las cosas adecuadamente, ya podía el candidato a la presidencia, el señor Rajoy, haber \nelegido otra fecha para su debate de investidura y así, con calendario en mano, algunos no hubiesen \ndicho que a ver quién se atreve a oponerse a la investidura porque entonces las elecciones caerían en el \ndía 25 de diciembre. Lo cual no deja de ser un asunto ruborizante.\nPor lo tanto, Nueva Canarias va a votar favorablemente a esta situación porque creemos que no hay \nmás remedio, apoyaremos enmiendas que traten de evitar la discrecionalidad que puede darse con el \ntexto en la mano y también trataremos de apoyar aquellas enmiendas que tratan de reducir los gastos del \nproceso electoral de acuerdo con la reducción de los tiempos en una semana.\nMuchas gracias, señora presidenta."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "la reducción del gasto electoral",
+   "text": "Muchísimas gracias, señor Quevedo Iturbe.\nPor el Grupo Mixto, tiene la palabra el señor Martínez Oblanca."
+  },
+  {
+   "speaker": "MARTÍNEZ OBLANCA",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "la reducción del gasto electoral",
+   "text": "Muchas gracias, señora presidenta.\nEn coherencia con mi intervención en el Pleno de la Cámara el pasado martes, voy a respaldar con mi \nvoto la reforma de la Loreg, que a efectos prácticos impedirá —si es que llega el caso— que los españoles \nse vean convocados a las urnas el 25 diciembre, fecha de gran tradición festiva y que, por sus especiales \ncaracterísticas, es absolutamente incompatible con el despliegue que supondría la celebración de una \nconsulta electoral.\nConviene reiterar que el principal objeto de esta reforma es el de evitar el efecto perverso que tiene la \naplicación de un automatismo sobre el calendario y que una posible legislatura fallida acabe por citar a \nvotaciones en Navidad, de ahí que no comparta que, aprovechando que se abre excepcionalmente la \nLoreg, para impulsar una modificación concreta en la que unánimemente todos los diputados estamos de \nacuerdo, haya entre las setenta y ocho enmiendas que se han presentado quien pretenda arrimar el ascua \na su sardina, o sea, promover una modificación de la legislación electoral porque ahora le conviene a sus \nintereses políticos particulares, no porque le convenga al conjunto de los españoles.\nMi tiempo no da para más, pero advierto a sus señorías sobre algunas trampas de elefante que están \ntendidas en forma de enmiendas. Se pretende habilitar el ejercicio del voto a los adolescentes y que \npuedan formar parte de la mesa de escrutinio. También se pretende ampliar el Congreso de los Diputados \na 400 escaños. Incluso se proponen cambios muy sustanciales en el reparto y atribución de escaños por \nprovincias. Todas estas propuestas son legítimas, pero necesitadas de sosiego y debate para su \nincorporación en su caso a la ley.\nEn definitiva, hay enmiendas de todos los colores y por ello resultaría caótico que hoy, a cuenta de \nevitar el disparate de votar en Navidad, se ponga patas arriba desde el Congreso una ley que exige \nreflexión, serenidad y consenso porque, tal y como señala en su preámbulo la propia Loreg, pretende \nlograr un marco estable para que las decisiones políticas en las que se refleja el derecho de sufragio se \ncve: DSCD-12-PL-10\n \nrealicen en plena libertad. Este es, sin duda, el objetivo esencial en el que se debe enmarcar una ley \nelectoral en una democracia.\nMuchas gracias."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "la reducción del gasto electoral",
+   "text": "Muchas gracias, señor Martínez Oblanca.\nPor el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra el señor Esteban."
+  },
+  {
+   "speaker": "ESTEBAN BRAVO",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "la reducción del gasto electoral",
+   "text": "Muchas gracias, señora presidenta. \nSeré breve. Voy a centrar mi intervención en un asunto concreto porque ciertamente a esta proposición \nse han presentado enmiendas que tocan muchos temas. Desde nuestro grupo no dudamos que muchos \nde ellos son de interés, podrían acordarse y podrían incluso tener nuestro apoyo, pero en un trámite de \nlectura única y en el que el tiempo es tan breve me parece que asuntos de calado, e incluso de cambio de \nfilosofía en algunas materias que se proponen respecto a la Ley Electoral, sería imprudente hacerlo \nporque necesitan un poquito más de reposo y de tiempo para ser discutidas. Por tanto, en esos temas ni \nvamos a entrar ni vamos a apoyarlos. Pero sí tengo que explicar, en primer lugar, nuestras enmiendas que \nvan precisamente por el lado técnico estrictamente a lo que supondría una regulación diferente para el \ncaso de la aplicación del 99.4 de la Constitución.\nPresentamos cuatro enmiendas y yo diría que las dos primeras son meramente técnicas para mejorar \nel estilo, la tercera para aclarar y la cuarta por la falta de previsión de la posibilidad del mantenimiento de \nlos administradores. En ese sentido también hay otra enmienda de Unión del Pueblo Navarro. Creemos \nque sería interesante que esto se viera reflejado, pero reconocemos que la referencia que hay en el primer \npárrafo al undécimo día debería ser modificada y debería referirse al séptimo día porque el recorte de \ntiempo queda establecido también en el resto de los plazos para otros trámites y también debería aplicarse \nen el caso de los administradores, de su mantenimiento no. Por lo tanto ya les anuncio que vamos a \npresentar una transaccional para modificar ese plazo y mejorar la redacción.\nPero les decía que quería centrarme en una materia y ésta en concreto es el gasto electoral, el techo \nde gasto. Es obligado referirme a ello, primero, porque estoy sorprendido de que se haya firmado por parte \nde tres grupos con importante representación una propuesta en estos términos; en segundo lugar, porque \ncreo que a la gente hay que decirle las cosas como son y dejar el populismo y las palabras bonitas, pero \nen realidad huecas, a un lado. A la gente lo que le molesta es que se robe. A la gente no le molesta que \nhaya una financiación suficiente siempre que esos gastos sean justificados y el Tribunal de Cuentas los \npueda —y deba— auditar correctamente. Y me parece que aquí lo que se ha querido es hacer gestos pero \ngestos realmente vacíos. Quiero interpretar, incluso, que en el caso de algunos partidos se hace así \nporque llegados a este punto ya podemos intuir que no se va a producir el caso del artículo 99.4, que por \nlo tanto no se van a producir esas elecciones y entonces, ¡pues qué más da!, da igual lo que aprobemos. \nPero no. Yo creo que hay que hablar claro y hay que hablar de este punto porque si lo dejáramos pasar \npodría parecer que esto se puede aplicar con generalidad y que el criterio utilizado o que se va a utilizar \npor parte de las enmiendas de estos partidos es el correcto. Me estoy refiriendo a que el tope de gasto se \nreduzca el 50 % y las subvenciones por voto y por escaño se reduzcan al 30 %.\n¿Es irreal? Es irreal, para empezar, porque la campaña electoral no se reduce a la mitad. Sí, ya sé que \npara el común de los mortales es que en vez de quince días, tenemos ocho días de campaña, y eso es la \nmitad; por lo tanto, la mitad de los gastos. No es así. Se reduce siete días la campaña, pero ésta comienza \ndesde el momento en que se convocan elecciones. Los gastos electorales tienen que computarse como \ngastos electorales desde el momento en que se convocan las elecciones. Sí es verdad que la campaña \nse reduce en siete días pero el periodo en el que esos gastos tienen que aplicarse como gastos electorales \n—y tiene que tenerse en cuenta el techo de gasto de cada partido— en realidad se reduce a siete días de \nlos cincuenta y tantos que hay desde la convocatoria de elecciones. Esto no se tiene en cuenta. Y, por otra \nparte, se produce una discriminación. Si ya creo que es irreal para los partidos grandes o para alguno de \nlos grandes partidos que se presentan en todo el Estado, lo que se produce es una clara discriminación \npara aquellos que nos presentamos en algunas circunscripciones únicamente. Me voy a explicar.\nPor una parte está lo que es una campaña electoral, y una campaña electoral, te dirijas a todos los \nciudadanos del Estado y te presentes en todas las circunscripciones o te presentes en una, al final tiene \nque tener un tronco que es necesario: un spot, una marca, una campaña, una imagen… Y eso cuesta lo \nmismo para dirigirse a uno que para dirigirse a 50 millones. Ese gasto es fijo para un partido pequeño o \npara un partido grande. Sin embargo, el techo de gasto de los partidos que se presentan solo en algunas \ncircunscripciones es mucho más reducido que el de los grandes. ¿Por qué? Porque va dirigido a menos \ncve: DSCD-12-PL-10\n \nelectores, pero esa parte fija del gasto, que se lleva una parte muy importante del gasto electoral, la gasta \nlo mismo el Partido Popular que Ciudadanos, que Podemos, que el Partido Nacionalista Vasco o que \nCoalición Canaria. Pero el techo de gasto es menor.\nEn segundo lugar, las sanciones son duras, muy duras desde que se modificó la Ley de Financiación. \nY desde luego hay que cumplirlas y yo creo que el Tribunal de Cuentas está haciendo una buena labor \núltimamente. No podemos hacer reglas para que luego no puedan cumplirse. ¡Igual algunos piensan que \nsí! ¡Nosotros, como somos un partido grande podemos!, porque dicen ¡podemos hacerlo! ¿Por qué? \nPorque al final reduzco el 50 % ¡pero es que estoy en todas las televisiones! ¡Claro!, es que ustedes están \nen todas las televisiones en una campaña electoral a nivel del Estado; en las privadas desde luego: el \nPartido Popular, el Partido Socialista, Podemos, Ciudadanos… ¡Pero los demás ni aparecemos en las \nprivadas! Ni aparecemos ni parece que nos presentamos a las elecciones, y esa televisión llega a nuestras \ncircunscripciones también. ¿Y en la pública, qué decirles? Los debates son entre ustedes cuatro. Los \ndemás, si podemos aparecer, es en una entrevista muy cortita, igual a las dos de la mañana. Por lo tanto \nese gran medio que es la televisión y que ustedes pueden utilizar para suplirlo si quitan otros medios, los \ndemás, los pequeños no lo tenemos, y encima nuestro techo de gasto queda mucho más reducido. La \npresencia en la calle es fundamental si queremos equiparar o superar ese hándicap que supone no \npresentarnos en las televisiones. Es evidente para cualquiera. Por eso se produce una discriminación; se \nproduce ya en el sistema general por la no presencia en esos grandes medios, pero hay una mayor \ndiscriminación cuando se quiere reducir al 50 % incluso el gasto electoral, porque ese margen lo \nnecesitamos para estar en la calle.\nHay otra enmienda que me sorprende. Bueno, no me sorprende porque ustedes dicen: vamos a \nreducir la cartelería. Claro, si están ustedes en la televisión, ¿para qué necesitan carteles electorales? Yo \ntambién renunciaría a ellos. Es más, renunciaría completamente a ellos, a que se hiciera cartelería. Pero \nlos que no estamos en las televisiones —nada en las privadas y prácticamente nada en la pública— \nnecesitamos estar en la calle, necesitamos esa cartelería, necesitamos hacer más mítines, y nuestro \ntecho de gasto es mucho menor. Por lo tanto aquí en realidad se está haciendo una trampa y se está \ncometiendo una discriminación. Parece ser que no se va a aplicar, pero más vale que reformáramos el \nartículo 99 —que es el quid de la cuestión—, y que buscáramos una solución para que no se pudieran \nproducir estos bloqueos tan largos sin gobierno —buscando una fórmula diferente para el 99—, que lo que \nvamos a hacer.\nY qué quieren que les diga de lo de reducir el 30 % en lo que se va a recibir. Un partido responsable \nsabe lo que tiene que invertir en campaña para no incurrir en déficit por esos gastos de campaña. Hay \nalgunos que tienen experiencia en todo lo contrario, lo sé, pero normalmente los partidos lo que intentan \nes equilibrar el gasto con lo que esperan que van a recibir. Con este recorte del 30 % más que probablemente \nlo que se produciría, en el caso no sé si de todas, pero sí de la mayoría de las formaciones políticas, es \nun déficit en la campaña. No pensemos que el dinero de una campaña electoral simplemente desaparece, \nque es como si lo quemáramos aquí con unas cerillas. El dinero de una campaña electoral también \nrevierte en la sociedad, revierte en las empresas de cartelería, en las imprentas, en asesorías, en los \nmontajes que se hacen y en toda esa infraestructura que es necesaria.\nLo que pido es que, de una vez por todas, en materia de financiación electoral y por tanto también en \nmateria de campañas electorales, hablemos claramente a la ciudadanía. Queda muy bonito esto de: \nvamos a reducir. Y el otro, el de la oposición dice: y dos huevos duros más. Y yo otro más. Y yo, órdago \n—podría decir en euskera, como en el mus—, ya vamos a todo. No, también hay que ejercer la \nresponsabilidad política en estas materias y no convertirlo en una especie de pelea entre partidos para ver \nquién es el que más recorta, cuando todos sabemos que eso va a producir problemas y que no estamos \nhablando en términos reales. No les quiero aburrir más, pero debía decirlo. E insisto, al ciudadano lo que \nle molesta es que se robe, no que se utilice el dinero público tal y como está establecido en las leyes y que \npueda ser fiscalizado ese uso del dinero público por el Tribunal de Cuentas.\nComprenderán que a algunas enmiendas, las que corresponden a la modificación técnica de este \nnuevo procedimiento, vayamos a votar a favor; en estas concretas sobre el gasto votaremos en contra, y \nen la votación de conjunto —como ley orgánica que es— nos vamos a abstener, porque aunque \nprobablemente no se vaya a aplicar no nos parecería responsable votar a favor de algo como lo que se va \na proponer por parte de Partido Popular, Ciudadanos y PSOE. Sé que muchos de ustedes no están \nconvencidos tampoco.\nMuchas gracias.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Esteban.\nPor el Grupo Parlamentario de Esquerra Republicana tiene la palabra el señor Tardà i Coma.\nEl señor TARDÀ I COMA: Gracias, señora presidenta.\nSeñorías, presentamos una enmienda a la totalidad con texto alternativo, pero que a la vez también \nse convierte en distintas enmiendas parciales con el fin de que podamos participar también, una vez se \nhaya rechazado la enmienda a la totalidad con texto alternativo, en las votaciones de las enmiendas \nparciales. De hecho esta enmienda a la totalidad con texto alternativo recoge lo planteado por la \nproposición de ley del Partido Popular para reducir la campaña electoral y evitar la coincidencia de las \nelecciones —que quizá no se van a llevar a cabo— con el día de Navidad. Hace tan solo un par de días \ndesde esta misma tribuna ya expresamos nuestra intención de aprovechar este debate para poder \navanzar en cuestiones que tenemos pendientes respecto a la Loreg. Valdría la pena, para que no \ntengamos que decir dentro de pocos días, semanas o meses que no fuimos capaces de aprovechar \naquella oportunidad.\nPodemos, como nosotros, ha presentado también un buen número de enmiendas, por lo que nos \nfelicitamos. Nos alegramos de coincidir en muchas de las reivindicaciones, lo cual muestra que hay buenos \nmimbres para un entendimiento. Por el calado de las enmiendas y por el reducido número de ellas que ha \npresentado el resto de grupos parlamentarios nos damos cuenta de que no están dispuestos a aprovechar \nla ocasión para poder dar un salto hacia adelante en aquellas demandas que históricamente hemos \npresentado desde esta tribuna, y que nos han costado tanto concretar… (Rumores)."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un momento, señor Tardà. Señorías, por favor, \n¿pueden bajar un poquito el tono? Gracias.\nAdelante, señor Tardà.\nEl señor TARDÀ I COMA: Les decía que por desgracia las enmiendas y reivindicaciones de carácter \nregeneracionista que históricamente hemos ido planteando no han tenido respuesta en los dos grandes \npartidos políticos, porque en muchas ocasiones han sido los menos interesados a la hora de modificar la \nLoreg. El Partido Popular ha abierto el melón, y vamos a ver si sacamos algún provecho; pero todo parece \nindicar —repito— que no lo vamos a conseguir. En todo caso convirtamos esta frustración coyuntural en \nla voluntad de trabajar conjuntamente las izquierdas para que en los próximos meses podamos conseguir \nlo que hoy aquí no es posible.\nHemos planteado un decálogo republicano, y digo decálogo porque son diez propuestas, que nos \nparece cargado de interés. La primera propuesta, y más importante para nosotros, es el sufragio a los \ndieciséis años. Hace pocas semanas una mayoría suficiente nos pusimos de acuerdo para aprobar una \nproposición de ley, que luego ciertamente decayó cuando finalizó la legislatura. Nos pusimos de acuerdo \nno solo porque ya se aplica en otros países, algunos de la misma Unión Europea, sino porque además \nsupone empoderar a los jóvenes. Si los jóvenes a los dieciséis años pueden trabajar y pueden pagar \nimpuestos, ¿por qué razón un joven no puede votar? Vamos a comprobar quién continúa implicándose y \ncomprometiéndose con todo ello y quién se baja del carro.\nPero hay otras cuestiones que nos parecen muy necesarias y que además no cuestan dinero. ¿Qué \nsentido tiene mantener la jornada de reflexión? No tiene ningún sentido. Es una anacronía. ¿Qué sentido \ntiene que no se puedan publicar sondeos después de pasado el sexto día antes de la convocatoria de la \njornada electoral, de convocar a los ciudadanos a las urnas? El Periódico de Catalunya publica sondeos \ncada día en el Diari d’Andorra. Solamente hace falta entrar en Internet, buscar la página del Diari d’Andorra \ny estás perfectamente informado de la evolución del hipotético comportamiento de los ciudadanos en el \ndía de acudir a la urnas. Hay cuestiones tan anacrónicas que deberían ser suprimidas.\nPero hay otras cuestiones que nos merecen atención. Por ejemplo, ¿tiene sentido —a nuestro \nentender, mucho— que adjudiquemos un diputado por provincia -no dos, como ahora—, y el resto en \nfunción de la misma población de esta provincia? Entendemos que esto es mejorar en la medida en que \nsumamos mayores argumentos a favor de la proporcionalidad. Creo que no hace falta modificar la \nConstitución española, solamente se trata de reducir de dos a uno. ¿Tiene sentido que no regulemos, tal \ncomo decía el compañero Aitor Esteban, del Partido Nacionalista Vasco, de qué manera las cadenas de \ntelevisión privadas y las emisoras de radio privadas garanticen el acceso equitativo -digo equitativo, no \ndigo igual— de todas las candidaturas? Me parece que esto es lógico. ¿Cómo en una sociedad en la cual \nlos medios de comunicación privados tienen una preeminencia -digo incluso preeminencia— respecto a \ncve: DSCD-12-PL-10\n \nlos medios de comunicación de carácter público pueden obviar las candidaturas minoritarias? Así, tal \ncomo dicen popularmente, el más tonto hace relojes. Yo también me atrevería a decir que hay que reducir \no eliminar la cartelería. El Partido Popular o incluso el Partido Socialista se pueden permitir el lujo de \neliminar la cartelería. Cuando los dirigentes o líderes políticos de los grandes partidos están cada día en \nAntena 3, en Tele 5 o en La Sexta, es evidente que se pueden permitir el lujo incluso, repito, de enterrar \nla cartelería, pero para aquellos partidos políticos minoritarios, más incluso que los que estamos aquí, que \nno aparecen ni aparecerán nunca en la cadenas de televisión privadas, entenderán que no tiene ningún \nsentido que no nos planteemos que hay que regularlo.\nAdemás hay otras cuestiones muy interesantes e importantes. Por ejemplo, ¿por qué los diputados \nprovinciales no pueden ser elegidos directamente por la ciudadanía? ¿Tiene algún sentido hoy, cuando \nhablamos de mejorar la democracia representativa, incorporando elementos de eficacia respecto al \nincremento de la democracia directa, por ejemplo, que todavía se elijan los diputados provinciales de la \nforma en que se eligen? Creo que sería una solución… (Rumores)."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Tardà, discúlpeme de nuevo. Señorías, yo no \nsé cómo el señor Tardà puede articular su discurso, porque les repito que desde aquí es prácticamente \nimposible con el murmullo de la Cámara. Por favor, ¿dejamos que el señor Tardà termine su intervención \ny le escuchamos? Adelante.\nEl señor TARDÀ I COMA: Creo que estaba hablando de provincias. Decía que habría una solución \nmuy factible, y es que en las elecciones municipales hubiera dos urnas, una urna para elegir a los \nconcejales y otra para elegir a los diputados provinciales. ¿Qué sentido tiene mantener en el 5 % el umbral \npara conseguir representación municipal cuando perfectamente nos podíamos limitar a los umbrales de \nlas elecciones de carácter general? En definitiva, ¿qué les estoy diciendo? Que en la suma de nuestras \nenmiendas, algunas —repito— o casi todas han sido susceptibles de grandes debates —cuando digo \ngrandes me refiero por su recurrencia en este Parlamento—; en algunas de ellas hemos coincidido y en \notras no, pero cuántas veces no se ha debatido en este Parlamento, por ejemplo, la libertad que deberíamos \nde ofrecer a todos los Parlamentos nacionales o regionales —que cada uno lo diga como quiera— a fin \nde constituirse como circunscripción electoral en las elecciones de carácter europeo. Este es un debate \nmuy recurrente; nosotros nos hemos limitado a hacer un listado de aquellos temas que han sido motivo \nde debate durante años en esta Cámara. Ciertamente alguna vez algunos grupos parlamentarios han \nencarado este debate desde la oposición y en otras ocasiones lo han encarado desde la gobernación del \nEstado.\nNosotros les proponemos hoy —quizá es pecar de ingenuos— que podamos llegar a un acuerdo. Por \nqué razón hoy no es posible alcanzar tres, cuatro, cinco, seis transaccionales entre los grupos para poder \naprovechar este debate con algunos avances, teniendo en cuenta que es un debate al cual hemos sido \nllamados a partir de una situación que como mínimo reconocerán anómala, porque es anómalo que ahora \ntengamos que estar debatiendo sobre cómo reducir los días de campaña electoral a fin de que no coincidan \nlas elecciones —hipotéticas— con el día de Navidad. Nosotros vamos a abstenernos si vemos que no \nexiste ninguna voluntad de buscar acuerdos para conseguir, repito, algún fruto; vamos a votar \nmayoritariamente de forma favorable las enmiendas de Podemos y algunas del Partido Nacionalista \nVasco. Pero en definitiva que quede claro que lo que nosotros hubiésemos querido es que hoy este \ndebate hubiera servido para avanzar, y poder presentarnos delante de la sociedad como personas \nsuficientemente responsables para pedir perdón —ofreciendo algún avance— ante tantos desaguisados. \nLo decimos nosotros, los republicanos, que no nos sentimos responsables de esa situación, pero tampoco \nqueremos ser insolidarios con los chapuceros. Es decir, si ha habido aquí grupos parlamentarios torticeros \no grupos parlamentarios que han aprovechado la ocasión, incluso un cierto filibusterismo, porque este era \nun tema tan importante que se tenía que encarar buscando complicidades y buscando mayorías, si el \nPartido Popular actuó como actuó para que le saliera bien la presión que ejercía sobre el Partido Socialista \nObrero Español, si esto ha provocado desazón, desánimo y una cierta inquietud en la sociedad, creo que \nla mejor manera de reparación para esta misma sociedad es que, incluso los que no nos sentimos \nresponsables de todo ello, reconozcamos y asumamos la parte alícuota que nos toca de esta miseria. A \ncambio, reconociéndola, exigimos, pedimos, clamamos para que antes de la votación nos pongamos de \nacuerdo en cuestiones que aun cuando no sean las que nosotros preferimos —hubiésemos preferido \nmantener la voluntad del Partido Socialista respecto al sufragio para los mayores de dieciséis años— me \nparece que sería ridículo que no se votaran. Repito, jornada de reflexión, al menos esto, hay que aprobar \ncve: DSCD-12-PL-10\n \nque se suprima y los sondeos, al menos hoy, hay que aprobar que se supriman también. No hagamos más \nel ridículo, esto no cuesta dinero. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Tardà.\nPor el Grupo Parlamentario Ciudadanos tiene la palabra el señor Prendes Prendes."
+  },
+  {
+   "speaker": "PRENDES PRENDES",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señora presidenta, señorías, en primer lugar, me gustaría decirle al \nseñor Azpiazu —como no está, al Grupo Parlamentario Vasco— que en la cuestión de qué están \nconvencidos y de qué no están convencidos los españoles quizá discrepamos. Eso de que a los españoles \nsolo les molesta que se les robe, pero no les molesta tener que pagar tres veces la misma campaña \nelectoral o que no les moleste que, por nuestra incapacidad o incompetencia para el diálogo y el acuerdo, \nles llevemos a votar tres veces, a 170 millones de euros cada una de ellas, no creo que sea así; creo que \nsí les molesta. Eso también les molesta, independientemente de que el coste de la corrupción es altísimo \ny no solo les molesta, sino que les cabrea profundamente, como a muchos de nosotros. Eso les molesta. \nPor eso el esfuerzo que nosotros pedimos que se hiciese de austeridad, de recorte de gastos -que ya lo \npedimos el 27 de abril-, era atendiendo a lo que nos parecía que era una demanda absolutamente lógica \ny razonable de los ciudadanos.\nEl pasado 27 de abril ofrecimos a todos los grupos de esta Cámara un acuerdo que iba en esa línea, \npara conseguir la reducción del 50 % de los gastos electorales, el 30 % de las subvenciones y también \nsuprimir la subvención por el mailing electoral e ir a un mailing electoral conjunto. Eso en el mes de abril \nno fue posible, no conseguimos mover sus voluntades ni alcanzar un acuerdo en esa línea. Pero hoy nos \nsentimos un poco satisfechos, no del todo, porque hoy, después de la votación que se va a producir en \nesta Cámara, sí hemos conseguido, poniendo de acuerdo al Partido Popular y al Partido Socialista y a \nalgunas otras fuerzas que creo que votarán favorablemente, porque comparten el espíritu de la enmienda \nconjunta que hemos presentado, la reducción del 50 % del gasto electoral y también hemos logrado la \nreducción del 30 % de las subvenciones, que van a suponer un importante ahorro a los españoles. Esto \ncomo les decía atiende de alguna manera a una demanda social muy importante. Pero, repito, no estamos \ndel todo satisfechos, porque hubiésemos deseado lograr un acuerdo que fuese más allá, más amplio, que \ntambién eliminase la subvención del mailing yendo a un mailing electoral conjunto, que se puede hacer \nperfectamente. Hoy en la sociedad del siglo XXI, la sociedad de la información es posible hacerlo. Todos \nnosotros recibimos en nuestro domicilio la tarjeta censal individualizada para cada uno de los electores, \nsin ninguna dificultad. Por tanto solo sería añadir a este envío las papeletas electorales para que todos \ndispusiésemos de ellas en nuestro domicilio de forma conjunta y aportadas por la Administración electoral. \nPero no hemos logrado un acuerdo en este sentido, y por ello nuestra satisfacción no es completa.\nPara saber la magnitud de lo que estamos hablando tenemos que dar unas pequeñas cifras. El costo \nelectoral de la campaña electoral del mes de diciembre fue de unos 130 millones, de ellos 48 millones \nfueron para la Sociedad Pública Correos, para envíos publicitarios, y de ellos 30 millones se consumieron \nen el mailing electoral de los partidos políticos: 30 millones. Con el envío del mailing conjunto lograríamos \nreducir esa cifra de 30 millones a exclusivamente 5 millones, es decir, les podríamos ahorrar a los \nespañoles 25 millones de euros, que no es precisamente una cantidad menor en este tiempo de \nprecariedad, de recortes y de falta de dinero para lo más necesario. Además no sería un gasto obligatorio, \no que se considerase necesario por esa convocatoria electoral, sería un gasto inducido por la propia \nincompetencia o por la propia irresponsabilidad de los partidos políticos, que no han sido capaces de \npromover un acuerdo, de alcanzarlo y desbloquear la situación política.\nCuando nació el mailing electoral con la Loreg, allá por el año 1985, se concebía como un elemento \nde ayuda a la publicitación de los partidos políticos que en aquel momento estaban prácticamente naciendo \ny consolidándose. Entonces quizá era necesario ofrecer esa línea de comunicación con los ciudadanos, \nesa publicidad añadida, pero sinceramente a nosotros nos parece que, en el momento en el que nos \nencontramos, con el crecimiento que han sufrido todas las redes de comunicación y con los canales de \ncomunicación que tienen los ciudadanos, lo de atiborrar los buzones de los españoles de publicidad \npolítica que no han pedido nos parece anacrónico y no tiene ningún sentido. Esta figura de comunicación \nse ha convertido en una barrera, se ha convertido en una fuente de privilegios, se ha convertido en lo que \nrealmente es: un privilegio para aquellos partidos que se lo pueden permitir, que se lo pueden pagar, y \ntambién en una fuente de desigualdad entre los propios electores, porque el derecho a la igualdad en el \nvoto no lo es únicamente en el derecho de igualdad a elegir y ser elegido, sino que la igualdad tiene que \nestar también en el derecho a recibir una información completa para un voto consciente y orientado. Por \ncve: DSCD-12-PL-10\n \nlo tanto, como les decía, no tiene ningún sentido a estas alturas del siglo XXI que mantengamos esta \nfigura del mailing electoral, por eso en la enmienda vamos a mantener la supresión de esta subvención y \ntambién el mailing electoral único y conjunto de todas las papeletas y sobres, de todas las candidaturas \nque se presenten a las elecciones.\nCompartimos algunos de los criterios y agradecemos que algunos partidos hayan mostrado su \ndisposición a apoyar alguna de las propuestas que Ciudadanos lleva manteniendo y defendiendo durante \nmucho tiempo en todos los foros y en todos los lugares donde ha tenido capacidad de hacerse oír, por \nejemplo, algunas de las cosas que ha promovido hoy aquí el señor Tardà o algunas cosas que constan en \nalgunas de las enmiendas de otros grupos parlamentarios, como Podemos, y aquellas que propician el \naumento de los debates electorales, una mayor igualdad entre los votantes, la mejora de la proporcionalidad, \nla supresión del injusto voto rogado para los residentes en el extranjero… (Rumores)."
+  },
+  {
+   "speaker": "VICEPRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Prendes, un momento. Señorías, al único que \ndeberíamos escuchar es al señor Prendes, que está en el uso de la palabra, y es prácticamente imposible \nque el señor Prendes pueda concentrarse con el ruido. Yo sé que están negociando enmiendas, pero por \nfavor háganlo con un poco más de silencio.\nGracias."
+  },
+  {
+   "speaker": "PRENDES PRENDES",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\nComo les decía, agradecemos la coincidencia de algunos grupos con esos planteamientos que hemos \ndefendido desde prácticamente el origen de nuestro partido, Ciudadanos. Asimismo, como les decía, \nnosotros también somos completamente partidarios de la supresión del injusto voto rogado para los \nresidentes en el extranjero, esa máquina burocrática que cercena un derecho fundamental, porque nadie \ndebería tener que solicitar poder ejercer un derecho fundamental. Igualmente facilitar el voto a las personas \nque tienen algún grado de discapacidad o algún impedimento físico forma parte de nuestras propuestas.\nAludía en el debate de toma en consideración a algo muy importante también, sobre todo en una ley \ncomo esta, una ley que es prácticamente la que dota de estructura a nuestro sistema democrático: es muy \nimportante el método, es muy importante la forma por la que lleguemos al acuerdo sobre todos estos \npuntos. Y es muy importante que la reforma de una norma como la Loreg venga precedida de un debate \nsereno, de un debate razonable, de una posibilidad de diálogo y de deliberación real entre los partidos \npolíticos, y como ustedes saben esto que estamos haciendo hoy no es en absoluto el método correcto ni \nadecuado, es un procedimiento parlamentario excepcional que impide ese proceso de debate, de acuerdo \ny de deliberación. No estamos en absoluto a favor de convertir las instituciones en un territorio propicio \npara las emboscadas. Por cierto, ni las instituciones ni las universidades, que precisamente es otro \nterritorio que nos parece que debería ser mucho más propicio para el diálogo sereno, para el debate \nintelectual y desde luego no para el griterío, para el vocerío y para limitar los derechos de nadie. Después \nde más de treinta años de una Ley Electoral necesitada de reforma y secuestrada por los dos grandes \npartidos, por el Partido Popular y el Partido Socialista, no nos parece de recibo, cuando tenemos una \noportunidad real de que esa reforma eche andar y sea real y posible, que grupos como Podemos o como \nEsquerra Republicana atropellen en horas veinticuatro esa ley así, con un procedimiento tan extraordinario \ny que, desde luego, no está previsto para esto. (Rumores). Entre el inmovilismo de los que han bloqueado \nlas posibilidades de reforma durante más de treinta años y el proceso apurado y populista de casi \nrevolución permanente que plantean otros, creemos que hay una vía intermedia, que es el camino \nreformista. Ese camino es el que ha planteado Ciudadanos con la propuesta de creación de una \nsubcomisión en el ámbito de la Comisión Constitucional, que empiece a trabajar de manera inmediata en \nesta reforma, buscando esos acuerdos y consensos, que, por lo que se oye hoy en los discursos en esta \nCámara, son amplios sobre algunas cuestiones necesitadas de reforma. (Rumores). Como les decía, \nentre el inmovilismo y este permanente agitprop, este proceso revolucionario y de emboscada parlamentaria, \nhay un camino intermedio, y es el que vamos a seguir explorando con nuestras propuestas.\nPor eso, nosotros, en principio, salvo algunas enmiendas de mejora técnica —alguna hemos \ntransaccionado con el Grupo Parlamentario Vasco— y alguna otra propuesta que va en misma línea, \nvamos a atenernos en nuestras votaciones exclusivamente a lo que estamos tratando hoy. Hoy estamos \nhablando de un proceso absolutamente extraordinario, como decía en la toma en consideración, para \nevitar un esperpento y para evitar un ridículo. Es una reforma absolutamente limitada y acotada a un punto \nmuy concreto de esa reforma electoral y, por lo tanto, nos parece que no cabe ampliarla a otros asuntos. \nSeñorías, como les decía, creo que esta es la legislatura de las oportunidades. Es una legislatura de las \ncve: DSCD-12-PL-10\n \noportunidades para reformar aquellas cosas que han permanecido bloqueadas durante demasiados años. \nEs una legislatura de las oportunidades para dar satisfacción a demandas ciudadanas que han sido largo \ntiempo postergadas en esta Cámara, y esa legislatura de las oportunidades tenemos que aprovecharla en \nla forma que corresponde a una Cámara parlamentaria madura y a una Cámara que respeta, por lo tanto, \nlos procedimientos. Creo que hemos empezado ya a conseguir algún cambio significativo; esa reducción \nde gastos que hemos introducido en esta reforma electoral es un cambio de los significativos. Esto es un \nsíntoma de los tiempos que están por venir, un síntoma de que los tiempos —como decía un compañero \nen esta tribuna— están cambiando. Espero que finalmente la ceguera de algunos no ponga freno a este \ncambio en los tiempos y por fin se pueda abrir el paso a esa legislatura de oportunidades, de diálogo y de \nacuerdo que es lo que permanentemente hemos defendido desde Ciudadanos.\nPara finalizar, hay dos diputados que me han precedido en el uso de la palabra que han hecho alusión \na la necesidad de pluralidad en la campaña electoral en los medios informativos privados. Nos gustaría \ntambién que esa pluralidad que quieren aplicar en los medios privados la aplicasen en los medios públicos \nque ustedes controlan en sus territorios, en esos medios públicos hechos a su medida (Aplausos.—La \nseñora presidenta ocupa la Presidencia); medios públicos hechos a su medida y que si de algo carecen \nprecisamente es de pluralidad política y de accesibilidad para las minorías y para los que no piensan como \nustedes. Empiecen por aplicárselo en esos medios públicos y seguramente con eso conseguiremos un \nmayor ámbito de libertad y una sociedad más informada. Tienen ustedes muchísimo camino que recorrer \nantes de pedirlo en medios privados.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Confederal de Unidos Podemos-En Comú Podem-En Marea, tiene la \npalabra el señor Iglesias Turrión. (Rumores).\nSilencio, por favor."
+  },
+  {
+   "speaker": "IGLESIAS TURRIÓN",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta.\nHa dicho usted antes que una foto no debe valer más que la palabra. Algunos dirán que se ha \nextralimitado usted en sus funciones —yo creo que tiene toda la razón—, pero estará de acuerdo conmigo \nen que tampoco ningún reglamento debe valer más que la Declaración Universal de los Derechos \nHumanos. (Aplausos).\nPor cierto, señores del Partido Popular, acaba de declarar el señor Rafa Hernando, su portavoz, que \naquí se viene a trabajar. Pues estamos esperando que venga a trabajar, porque su escaño sigue vacío en \nel día de hoy. (Aplausos). El señor Saura ha hablado hoy de libertad de expresión, y está muy bien. \nRecuerdo cuando en 1993 le hicieron un escrache a José María Aznar en la universidad. Felipe González \ndijo que a él también le habían abucheado, que no había que lloriquear y que no había que quejarse. Años \ndespués el señor Gallardón señaló, después de que abuchearan a Zapatero, que eso nos iba en el sueldo. \nEran épocas en la que el Partido Popular y el Partido Socialista no compartían argumentario; hoy parece \nque van a compartir también un presidente del Gobierno. (Aplausos).\nLo que nos trae hoy aquí es una reforma de la Ley Electoral por la vía de urgencia, en la que tenemos \nque resolver, señores del Partido Popular, un problema que ustedes nos generaron a propósito: la \nposibilidad de que los españoles tuvieran que votar nada más y nada menos que el día de Navidad, el 25 \nde diciembre. Recuerdo el alborozo y el cachondeo con el que su representante en Cataluña, el señor \nAlbiol, decía: ¡A ver si se atreven a llevar a votar a los españoles ese día! Por su arrogancia, por su torpeza \nhoy nos vemos obligados aquí a resolver ese desaguisado. Pero estarán ustedes de acuerdo conmigo en \nque hoy se abre una posibilidad muy interesante. Es urgente resolver su torpeza, pero tenemos la \noportunidad de mejorar nuestro sistema electoral y tenemos que aprovecharla. Algunos, que no saben \nqué hacer ya para justificar que van a apoyar al Partido Popular, dicen que nosotros traemos aquí la \nrevolución permanente y el agitprop. Nosotros solamente traemos aquí unas pocas enmiendas, que \nademás van en la dirección de lo que tenían en su programa electoral algunos partidos que hoy van a \nhacer presidente al señor Mariano Rajoy.\nNuestras enmiendas van en cuatro direcciones muy concretas. La primera, que acerquemos al \nprincipio de la igualdad de voto… (Rumores).\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Un segundo, señor Iglesias. Señorías, les ruego una vez más que guarden \nsilencio. Si no, tendré que decirles uno a uno que guarden silencio. Así se lo digo a todos excepto al \norador.\nAdelante, señor Iglesias."
+  },
+  {
+   "speaker": "IGLESIAS TURRIÓN",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta.\nEl primer principio que inspira nuestras enmiendas es que nos acerquemos a la realidad de que el voto \nde todos los ciudadanos del Estado valga exactamente lo mismo, que tengamos un sistema más \nproporcional. Esto no lo dice ningún manual de revolución permanente ni de agitprop, esto lo dice la \nConstitución española, que señala que el sistema electoral español debe ser proporcional. Sin embargo, \ncomo afirman buena parte de los especialistas en sistemas electorales, tenemos el sistema electoral \nproporcional menos proporcional del mundo. El segundo principio que inspira nuestras enmiendas es que \nfacilitemos a los compatriotas que se han visto obligados a abandonar nuestra patria, por razones \neconómicas o de otra índole, que puedan votar. El tercero es que hagamos obligatorios los debates en \ntelevisión. Creo que en una sociedad como la nuestra, en campaña electoral, esto se debería regular para \nque no tuviéramos que volver a soportar situaciones bochornosas. El cuarto, que limitemos el gasto de los \npartidos que gastan demasiado en campaña electoral y terminemos de una vez con el hecho de que los \nbancos estén controlando la mayor parte de la financiación de los partidos cuando se presentan a unas \nelecciones.\nNuestras enmiendas van en una dirección similar a la de los programas de algunos partidos como \nCiudadanos o como el Partido Socialista. Por ejemplo, nosotros, igual que el Partido Socialista, entendemos \nque se tiene que votar a partir de los dieciséis años y entendemos que hay que sustituir o derogar el voto \nrogado; es más, tan claro tenía esto el Partido Socialista que votó con nosotros hace poco una PNL. Pero \nhoy, como la votación es de verdad —porque las PNL, en última instancia, instan al Gobierno a que haga \nalgo que después puede perfectamente no hacer—, resulta que el Partido Socialista, de nuevo, se va a \nentender con el Partido Popular. La semana que viene ustedes van a hacer presidente al señor Mariano \nRajoy y ya se están entrenando para ponerse de acuerdo con el Partido Popular.\nCabe preguntarse por qué debemos mejorar nuestro sistema electoral. Básicamente, por dos razones: \nuna tiene que ver con la Constitución, y es acercar nuestro sistema electoral a los principios constitucionales; \nla otra es acercarlo a las demandas sociales de los últimos años. ¿Tiene sentido que tengamos un sistema \nelectoral más proporcional en España? Creo que sí, entre otras cosas porque lo dice la Constitución y \nporque sería mucho más sensato para respetar el pluralismo político en nuestro país. Alguien podría decir \nque los sistemas mayoritarios favorecen mejor la gobernabilidad, y sería un argumento muy sensato, pero \nes que la Constitución española dice que el sistema electoral español debe ser proporcional. Entonces, \nen España no tiene sentido defender un sistema electoral de efectos mayoritarios; hagámoslo más \nproporcional para hacer que el voto de todos los ciudadanos cuente lo mismo. En España nunca ha \nhabido unas elecciones en las que un partido haya obtenido la mayoría absoluta de los votos, ni siquiera \nen 1982; si me permiten decírselo, señores del Partido Socialista, vean ustedes los números y dense \ncuenta de que no les conviene que sigamos teniendo en este país un sistema electoral que favorezca que \nel Partido Popular pueda acumular injustamente una mayoría de bloqueo en el Senado y que siga \nsobrerrepresentando al Partido Popular.\n¿Cabe preguntarse si hay que sustituir o derogar el voto rogado? Pues, hombre, sí. Lo que hicieron \nustedes, el Partido Socialista, en 2011, con el apoyo del Partido Popular, del PNV y de Convergència i \nUnió, fue establecer unas normas jurídicas para el voto de nuestros compatriotas que se vieron obligados \na desplazarse al extranjero, que en la práctica ha hecho que sea casi imposible que puedan votar y que \nsolamente vote una media del 5 %. Creo que es muy sensato, que no es agitprop, que podamos cambiar \nesto hoy aquí. ¿Tiene sentido, como viene en el programa del Partido Socialista y en el nuestro, que se \npueda votar a partir de los dieciséis años? Pues yo creo que sí, y no solamente lo decimos nosotros, lo \ndice el Consejo de Europa y lo dicen los informes del Instituto de la Juventud. Entiendo que si alguien \npuede firmar un contrato de trabajo con dieciséis años, tendría sentido que pudiera también ejercer su \nderecho al voto con dieciséis años. ¿Deben ser obligatorios los debates en televisión, debates controlados \npor los periodistas, no por los responsables de los partidos? Pues yo creo que sí. Fue una vergüenza que \nen la campaña electoral previa al 20-D, el señor Mariano Rajoy mandara a una representante subalterna \na debatir con nosotros. Creo que no habla de buena salud democrática en nuestro país que este candidato \nque les habla haya podido debatir, en toda su vida, una sola vez con el candidato del Partido Popular a la \ncve: DSCD-12-PL-10\n \npresidencia. Entiendo que ustedes tengan miedo a debatir, es lógico, pero, en democracia, los debates \ntelevisados controlados por periodistas deberían ser obligatorios. (Un señor diputado: ¡Venezuela!). \n¿Ha dicho usted Venezuela? Antes me han dicho ustedes: Vete a Cuba. Como escrachadores no tienen \nustedes rivales en este país. (Aplausos).\nEn nuestras enmiendas planteamos que hay que dejar de subvencionar a quien lleve a condenados \npor corrupción en sus listas. Creo que es una demanda absolutamente unánime en la sociedad española \nque podemos cambiar hoy aquí. ¿Tiene sentido que desde la Ley Electoral instemos a los parlamentos de \nlas comunidades autónomas a que habiliten mecanismos revocatorios para los senadores? Pues sí, \nporque si lo hiciéramos conseguiríamos que la vergüenza de que Rita Barberá —su Rita Barberá— se \nsiente en el Senado se pudiera terminar de una vez, porque es una humillación para la democracia. \n(Aplausos).\nSeñorías, hoy tenemos la oportunidad de salir de aquí con un sistema electoral más justo y que \nresponda a las demandas ciudadanas de los últimos años. Quiero dirigirme a la bancada socialista. Es ya \nuna obviedad que ustedes van a entregar el poder al Partido Popular, pero les pido que hoy no les pongan \nfácil que en el futuro sigan teniendo el poder en este país. Tenemos una buena oportunidad.\nMuchísimas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Cámara Villar."
+  },
+  {
+   "speaker": "CÁMARA VILLAR",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Señora presidenta, señorías, durante el Pleno del martes, en el que fue \naprobada por una amplísima mayoría la toma en consideración de esta proposición de ley orgánica de \nreforma de la Loreg que hoy viene aquí para su enmienda y en su caso aprobación, tuvimos ocasión de \nreprochar al Partido Popular el desaguisado cometido por haber propiciado, con sorprendente cortedad \nde miras y falta de respeto a la ciudadanía, que una convocatoria automática de elecciones en virtud de \nlo dispuesto en el artículo 99.5 pudiera finalmente desembocar en la celebración de la jornada electoral el \nmismo día de Navidad.\nPero hecho este reproche, que consideramos merecido, también argumentamos desde nuestro grupo \nque a veces a un grave error puede seguir una lección positiva para todos. En este caso, teniendo en \ncuenta el debate social, el debate académico y el debate político al que hemos asistido en los dos últimos \nmeses acerca de la posibilidad de una reforma de la Ley Orgánica del Régimen Electoral General mediante \nuna proposición de ley que viniera a poner remedio a esta grotesca e inconveniente posibilidad, se ha \nevidenciado la necesidad de llevar a cabo una regulación propia, una regulación objetiva, una regulación \nen definitiva estable, no de caso único, de la especialidad que viene a suponer una convocatoria electoral \nen los supuestos del artículo 99.5 de la Constitución.\nSeñorías, los comicios que de esta regulación constitucional se derivan vienen necesariamente \nprecedidos, por su propia naturaleza, por unas recientes elecciones generales, lo cual justifica el \nestablecimiento de un régimen específico que se caracterice por su simplicidad y también por su austeridad. \nEn estos casos, el electorado conoce ya ampliamente y con una evidente cercanía a la convocatoria las \ndiversas propuestas de las formaciones políticas concurrentes a las elecciones. Por estas razones, los \ncandidatos no van a necesitar ya del mismo tiempo de campaña que en las inmediatamente anteriores \npara realizar las actividades propias dirigidas a la captación de sufragios y conducentes, en definitiva, a \nhacer posible el cumplimiento de la función que la Constitución española asigna a los partidos políticos en \nsu artículo 6, como bien conocen, de concurrir a la formación y expresión de la voluntad popular. De ahí \nentendemos la pertinencia, la conveniencia y también la posibilidad de reducir el tiempo previsto para la \ncampaña electoral, dentro del marco de duración establecido por el artículo 68.6 de la Constitución, que \nse concreta, como saben, entre un mínimo de treinta días y un máximo de sesenta desde que el mandato \ntermina, por supuesto respetando todas las garantías para el ejercicio del derecho fundamental de \nparticipación política establecido, tanto en la vertiente activa como pasiva del sufragio, por el artículo 23 \nde la Constitución.\nEsta regulación debe ir necesariamente acompañada de una serie de medidas dirigidas a facilitar \ndesde diversos puntos de vista el nuevo proceso electoral, reduciendo plazos, aprovechando trámites, \naprovechando elementos organizativos ya utilizados en el proceso electoral anterior. De acuerdo con esta \nracional adecuación a estas reducciones y aprovechamientos, es pertinente, es razonable, es posible \ntambién reducir de manera significativa los costes que este tipo de procesos electorales puedan tener \npara el erario público. Este es simplemente el sentido y la razón de ser que hace conveniente la \ncve: DSCD-12-PL-10\n \nincorporación a la Ley Orgánica del Régimen Electoral General de una nueva disposición adicional séptima \nque, de manera clara y por remisión al régimen general precisamente, contemple cada una de las \nespecialidades que singularizan esta clase de comicios. En el Grupo Parlamentario Socialista entendemos \nque, en buena técnica legislativa, este definido y acotado proceder es el adecuado aquí, ahora y con este \núnico objetivo para la reforma electoral que nos ocupa. Así es también como se ha planteado por el grupo \nproponente de la iniciativa y así es como ha sido procedimentalmente encauzado por la Mesa de esta \nCámara.\nSeñorías, es obvio que el régimen general requiere de amplias y complejas reformas que sin duda son \nabsolutamente necesarias y absolutamente importantes. ¿Quién lo podría negar? ¿Quién podría \nsustraerse a las claras demandas que provienen de nuestra sociedad, a los análisis y propuestas de \npolitólogos y de constitucionalistas, a las propuestas programáticas de cada una de las formaciones \npolíticas presentes en la Cámara a las que ya se ha hecho alusión? Pero es igualmente obvio, desde \nnuestro punto de vista, que ahora no es pertinente, que no es conveniente y que no es prudente abordarlas \ncon ocasión de esta limitada iniciativa, aunque deberán emprenderse —y lo subrayamos— en cuanto la \nsituación política se normalice y esta o una nueva legislatura surgida de un nuevo proceso electoral en su \ncaso pueda abordar en plenitud la realización de todas y cada una de sus funciones. Por tanto, necesitamos \nmás horizonte, señorías, necesitamos más estabilidad en la actuación parlamentaria y más tiempo para \nanalizar las medidas de reforma que son necesarias con el respeto que merecen por su complejidad y \namplitud. Necesitamos recibir las opiniones de expertos y colectivos, necesitamos dialogar, necesitamos \narticular consensos, debatir, pactar y concretar medidas. Insisto, lo que ahora se debe abordar solo son, \ncon notable simplicidad en su formulación y por tanto en un trámite de lectura única, las especialidades \ndel procedimiento electoral que permiten una mejor ordenación del proceso como desarrollo hasta ahora \ninédito del artículo 99.5. Además, resulta evidente que al hacer esto estamos simultáneamente rectificando \nel error del Partido Popular de haber generado el riesgo de que las elecciones anticipadas, como \nconsecuencia de la aplicación de este precepto, tuvieran efectivamente que celebrarse en su caso el día \n25 diciembre. Es un riesgo, por cierto, todavía existente y que es claramente rechazado por la mayoría de \nla ciudadanía. A ella quiero apelar en este momento, a ella quiero dirigirme especialmente para que pueda \nser cabalmente entendido y no distorsionado el debate del día de hoy.\nSeñorías, como anteayer recordaba en mi intervención ante este Pleno, han sido estas razones sobre \nla naturaleza, el objeto y la concreta formulación de esta proposición de ley las que han conducido al \nacuerdo de la Mesa de esta Cámara, oída la Junta de Portavoces, de proponer su tramitación directa y en \nlectura única. Tenemos que insistir en lo obvio, en lo ya dicho, que esta reforma acotada es absolutamente \ncompatible con iniciativas posteriores de reformas más amplias y más complejas de la legislación electoral. \nEs más, afirmamos que no es entendible, desde una perspectiva de lealtad institucional, que, aprovechando \nun trámite calificado de urgente y de lectura única y para resolver algo tan puntual y algo tan concreto, se \npretenda por determinados grupos introducir un aluvión amalgamado de reformas sobre las que sería \nimposible no ya trabar un consenso, sino sencillamente hacer una presentación decente y un debate \nordenado, suficiente y razonable en tan solo veinticuatro horas. Hay que ser más rigurosos. Tenemos la \nobligación de ser más respetuosos con el significado del procedimiento legislativo. Para hacer las múltiples \ny diferentes propuestas que se incorporan en las enmiendas que algunos grupos han hecho, que llegan \nhasta afectar —y quiero subrayar esta idea, señorías— a elementos centrales y estructurales del sistema \nelectoral, es absolutamente necesario respetar los procedimientos y los tiempos del quehacer parlamentario, \nsencillamente porque tenemos que hacer posible que todos los grupos presenten sus propuestas \nconvocados al efecto, que se reflexione suficientemente y que se debata todo lo preciso sobre ellas para \npropiciar el consenso que todos queremos. Por eso estamos aquí, señorías, no para teatralizar la política.\nSeñorías, todo el mundo sabe que una reforma electoral del alcance y la naturaleza de la que algunos \ngrupos nos traen hoy a esta Cámara atropelladamente afecta muy sensiblemente al núcleo mismo de \nnuestro sistema democrático. Todo el mundo sabe que el sistema electoral, en tanto que define las reglas \nsustanciales de la representación y del juego político democrático, requiere consensos y acuerdos muy \namplios, incluso superiores a los que marca nuestro propio texto constitucional, que, como todas sus \nseñorías saben, es el de la mayoría absoluta. Todo el mundo sabe que para concretar una reforma amplia \ny sustantiva de un sistema electoral que sea aceptada por todos es necesario tiempo, es necesaria \nreflexión, es necesario sosiego. Esto es evidente de toda evidencia. Todo el mundo sabe que realizar \ntambién los cambios organizativos que implicaría ese tipo de reforma llevaría una enormidad de tiempo y \ncomplejidad en la actuación de la Administración electoral. ¿Y se pretende hacer todo esto ahora, en \ncve: DSCD-12-PL-10\n \nveinticuatro horas y con ocasión de una cuestión tan puntual como acortar el procedimiento de los comicios \nque sean consecuencia de una disolución automática de las cámaras? Y yo me pregunto: ¿Acaso es esta \nuna actitud responsable? ¿No es acaso, señorías, más bien una pose, una postura populista más para la \ngalería, que un ejercicio responsable de la función legislativa? ¿No es confundir una vez más a la \nciudadanía pretendiendo que se legisle aceleradamente y a golpe de titular?\nSeñor Tardà, debería usted plantearse correctamente dónde está ese cierto filibusterismo político al \nque acaba de referirse. Es preciso demandar más seriedad, ser más exigentes y más rigurosos y no \nincurrir en tanta sobreactuación. Estamos ya sobrados de tanta sobreactuación en esta Cámara. Reformas \nde tanto calado y de tanta importancia, insisto, muchas de ellas necesarias y que podemos compartir en \nbuena medida, requieren al menos una subcomisión de estudio que las analice con sus tiempos, con su \nprocedimiento, sin atropellar y sin atropellarse, y que vaya estableciendo la urdimbre precisa para los \nconsensos necesarios, ayudados del conocimiento experto del que afortunadamente disponemos de \nmanera abundante en nuestro país. Nosotros exigimos para esta Cámara respeto a su función legislativa. \nExigimos que se respeten y se sigan los procedimientos por sus cauces y con los tiempos habilitados por \nel Reglamento para producir buenas y compartidas disposiciones normativas que adecuen a las \nnecesidades actuales nuestro régimen electoral y lo mejoren todo lo que sea posible. Algún grupo de esta \nCámara sostiene que las reformas electorales están ya muy estudiadas por los expertos y que por ello se \npueden llevar a cabo de manera inmediata, sin más demora, incluso enganchadas a esta coyuntural \npercha que se pretende presentar como una ocasión única. Pero no confundan quienes así se manifiestan, \nni los expertos están de acuerdo ni tampoco las formaciones políticas, y en ningún caso el conocimiento \nexperto podría venir a sustituir la articulación del pluralismo político que se produce en esta Cámara, \nprecisamente en esta Cámara, como función constitucional ineludible y propia de la representación de la \nciudadanía. Esta reforma es puntual y no petrifica ni impide cualquier otra posibilidad.\nReitero, como ya expuse también en esta Cámara, que el Grupo Parlamentario Socialista estará \nplenamente comprometido con la inmediata apertura de ese proceso más amplio y complejo de estudio y \nrealización de reforma electoral con el objetivo de mejorar radicalmente nuestro sistema electoral. Quiero \nrecordar aquí especialmente y como ejemplo de esas muestras del compromiso socialista, señor Iglesias, \nque ya a comienzos del pasado septiembre nuestro grupo presentó una proposición de ley orgánica de \nreforma para facilitar el ejercicio del voto de los españoles en el exterior y resolver definitivamente los \nproblemas y desajustes que produce el actual sistema. Ya en 2012 nosotros nos adelantamos con una \nproposición no de ley a advertir de los resultados lamentables de participación del voto exterior en las \nelecciones inmediatamente anteriores y, por tanto, a proponer una reforma. Insisto, señor Iglesias, en que \nno es el momento de hacerlo (El señor Iglesias Turrión hace gestos negativos), pero estamos \ncomprometidos en ello y lo haremos; lo haremos inmediatamente en cuanto la situación se normalice.\nDe acuerdo con estas razones, nos vamos a ceñir responsablemente al marco en el que se produce \nesta proposición de ley y a su específica razón de ser, y para ello presentamos unas enmiendas dirigidas \nde manera constructiva y racional a mejorar técnicamente la norma y precisar mejor su fundamento. No \nse las voy a relatar porque ustedes las conocen y las tienen delante. Esas enmiendas que hemos firmado \nconjuntamente con los Grupos Parlamentarios Popular y Ciudadanos —de la 15 a la 18— van en el mismo \nsentido de las planteadas por el Grupo Parlamentario Socialista. De igual modo, vamos a recoger algunas \nenmiendas del Grupo Parlamentario Vasco y del Grupo Confederal de Unidos Podemos-En Comú \nPodem-En Marea, que aportan, desde nuestro punto de vista, algunas mejoras técnicas y de estilo.\nEntendemos, señorías, que la mayoría de las enmiendas presentadas por otros grupos a esta \nproposición pretenden modificar aspectos de la Ley Electoral que no están previstos en la iniciativa \noriginal. Creemos que no es buena la técnica legislativa que aprovecha esta iniciativa en tramitación, \ncomo si se cogiera un taxi en marcha para incluir aspectos no previstos y que poco tienen que ver con el \nobjeto concreto de la misma. No lo es porque normalmente este tipo de maniobras no acaba bien; es \nprácticamente seguro que de hacerlo así habría que modificar en breve plazo la regulación tan \natropelladamente aprobada. Incluso —voy terminando— hemos tenido conocimiento de que la Mesa de \nla Cámara ha planteado la inadmisibilidad de enmiendas de este tipo, teniendo en cuenta su falta de \ncoherencia con la proposición original y también el trámite de lectura única que adoptó el Pleno el pasado \nmartes sobre la base precisamente de la simplicidad de la formulación de la iniciativa. Finalmente, la Mesa \nha admitido las enmiendas y nos parece bien porque no hemos sido nunca partidarios de cercenar el \ndebate parlamentario, pero ciertamente los autores de las mismas deberían reflexionar sobre si es \nrespetuoso con el procedimiento legislativo este proceder. Si en alguna materia, señorías —y ya con esto \ncve: DSCD-12-PL-10\n \ndefinitivamente acabo—, es más aconsejable que en ninguna otra respetar los procedimientos legislativos, \nes en la electoral. En ella, el consenso entre las fuerzas políticas, entre las fuerzas del arco parlamentario \npresentes en esta Cámara es más necesario que en ninguna otra en cuanto que el sistema electoral \ncontiene las reglas fundamentales de la representación política. \nMuchas gracias, señora presidenta. Muchas gracias por su atención, señorías. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Popular, tiene la palabra el señor Vera Pró."
+  },
+  {
+   "speaker": "VERA PRÓ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta.\nComo tuve la oportunidad de indicar el pasado martes desde esta misma tribuna, hace menos de \ncuarenta y ocho horas, esta proposición de ley orgánica no está planteada, señor Iglesias, como una \nreforma de la Ley Electoral sino como una modificación que introduce una nueva regulación para resolver \nuna situación extraordinaria como es la no investidura de un presidente del Gobierno. Se trata de desarrollar \nun precepto cuya aplicación no debiera hacernos sentir para nada orgullosos ni satisfechos ya que cobraría \nvigencia precisamente porque nosotros en esta Cámara, como representantes de la soberanía nacional, \nno fuésemos capaces en los tiempos establecidos constitucionalmente de dar cauce a la investidura de \nun candidato para que pueda formar Gobierno. Esta situación tiene como efecto la disolución automática \nde las Cortes y la convocatoria de nuevas elecciones, y lamentablemente ya hemos pasado por esa \nexperiencia. Son precisamente las normas y el procedimiento de esa convocatoria de elecciones lo que \nqueremos definir y desarrollar con esta proposición de ley, teniendo presentes dos premisas. Primero, la \ncontinuidad o mantenimiento de los actos relacionados con la Administración y con el procedimiento \nelectoral que traen causa de las anteriores elecciones, prorrogando actos adoptados solo unos meses \natrás, lo cual sin duda ayudará a simplificar el procedimiento. Segundo, la reducción de plazos, que \nculmina con una campaña electoral de ocho días, impidiéndose en este caso que coincida la jornada \nelectoral con el día 25 de diciembre y preservando por otro lado los plazos que corresponden al voto por \ncorreo para mantener intactas las garantías para esa forma de ejercer el derecho de sufragio. Por cierto, \nrespecto al reproche del señor Cámara o a la idea del señor Xuclà de hablar de la ocurrencia del mes de \nagosto, he de decirles que la coincidencia de la indeseada pero posible, a día de hoy, convocatoria \nelectoral el día de Navidad, contrariamente a lo que han dicho, no es como consecuencia de la fecha \nelegida para la sesión de investidura, sino por la situación de bloqueo que estábamos viviendo. Como tuve \nla oportunidad de decir el pasado martes, cuando se fijó la fecha de aquella sesión de investidura se hizo \npara investir al presidente del Gobierno y no pensando en unas terceras elecciones. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Vera, un segundo.\nPor favor, guarden silencio.\nAdelante."
+  },
+  {
+   "speaker": "VERA PRÓ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias.\nSe fijó la fecha en mitad de una negociación para lograr un acuerdo de investidura. La fecha para la \ninvestidura se puso cuando se pudo. Si se hubiese puesto en la primera o en la segunda semana de \nseptiembre hubiese coincidido con el día 31 de diciembre o con el 7 de enero. En cualquier caso, se \nhiciera lo que se hiciese, a algunos de ustedes siempre les hubiera parecido mal. En definitiva, la presente \nmodificación de la Ley Electoral pretende adaptar el procedimiento electoral a una nueva convocatoria de \nelecciones para que la campaña sea más simple, más corta y más austera. El pasado martes también \ntuve la oportunidad de solicitarles que intentaran no presentar enmiendas que no tuvieran que ver con el \ncontenido… (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señor Vera, un segundo, por favor.\nSeñorías, es la segunda vez en este turno de palabra que mando guardar silencio. Que sea el último \npunto de este orden del día no significa que no haya que guardar silencio, igual que en el primer punto del \norden del día.\nAdelante, señor Vera."
+  },
+  {
+   "speaker": "VERA PRÓ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Como decía, tuve la oportunidad de pedir que no presentaran enmiendas que \nno tuvieran relación con el contenido de la proposición de ley. Parece que no tuve excesivo éxito; incluso \nel señor Tardà ha llegado a presentar una enmienda de totalidad, que yo le agradezco puesto que su \ncve: DSCD-12-PL-10\n \ncontenido coincide punto a punto con la proposición de ley presentada por mi grupo parlamentario. Así \nque imagino que eso se reflejará en la votación final, aunque solo sea por coherencia.\nEsta proposición de ley no es una reforma en sí misma, sino la regulación de un supuesto concreto \nque se recoge en nuestra Constitución; nada más. Nos podrán decir que nada más y nada menos, y estoy \nde acuerdo, pero nada más. Las enmiendas que pretenden dar entrada a la reforma de otros aspectos de \nla Ley Electoral harían el debate mucho más complejo y abrirían la necesidad de que no se tramitara por \nlectura única, sino con carácter ordinario. La aceptación de algunas de esas enmiendas supondría \ndesnaturalizar la iniciativa, que, reitero, solo persigue desarrollar el supuesto de nuevas elecciones \ncontemplado en el artículo 99.5 de la Constitución. Si alguno de ustedes, como palmariamente resulta de \nsus enmiendas, quiere una reforma en profundidad de nuestra ley, propónganlo. Ya hay iniciativas \npresentadas, como recordaba el señor Prendes. Este es un tema lo suficientemente serio como para que \nalguno venga aquí, señor Tardà, a cobrarse alguna prenda. Si quieren reformar en profundidad la Ley \nElectoral o cobrarse una prenda, presenten sus propias iniciativas, pero no intenten aprovecharse de una \nproposición muy concreta del Grupo Parlamentario Popular, porque además de desnaturalizar nuestra \npropuesta, como he dicho, es una falta de cortesía parlamentaria. Ya sé que a algunos de ustedes les trae \nal pairo, porque lo único que quieren es perjudicar al Partido Popular, pero eso, señorías, no es en absoluto \nserio.\nDe acuerdo con ello, mi grupo parlamentario va a rechazar todas las enmiendas presentadas que se \nrefieren a otras cuestiones de la Ley Electoral. No vamos a aceptar ninguna enmienda que no guarde \nrelación con lo que hoy nos ocupa, que es el artículo 99.5 de la Constitución, ni siquiera voy a entrar a \nvalorar su contenido, porque tiempo tendremos para hacerlo en otra ocasión.\nNuestro grupo parlamentario ha presentado unas enmiendas conjuntamente con el Grupo Socialista \ny con el Grupo Ciudadanos que pretenden reducir los costes y gastos de la campaña electoral. Si la \ncampaña, en caso de una nueva convocatoria, debe durar menos, también debe costar menos. En el texto \ninicial dejábamos a un acuerdo entre los partidos el contenido y alcance de la reducción de los gastos \nelectorales, pero hemos preferido que la reducción, tanto del límite de gasto como de las subvenciones \npor voto y escaño, se introdujera en la ley. Ya les anuncié el martes que íbamos a presentar una enmienda \nen este sentido, y lo hemos hecho de una manera drástica y significativa, reduciendo, ni más ni menos, \nque un 50 % el límite de gasto y un 30 % las subvenciones por voto y escaño, dejando para una negociación \nulterior de los partidos que esa reducción se base fundamentalmente en la disminución o no de la utilización \nde los soportes de publicidad exterior de carácter comercial.\nPor otro lado, anuncio que votaremos a favor de otras enmiendas, porque tiene razón el señor Cámara \ncuando nos recuerda que si la Junta Electoral puede reducir los plazos recogidos en una ley que tiene \ncarácter orgánico debe hacerlo de una manera excepcional y motivada, como asimismo la tiene el señor \nEsteban y la tenía el pasado martes el señor Legarda cuando nos precisaba que si establecíamos la \ncontinuidad de los representantes de las candidaturas también debíamos hacerlo con los administradores \nde las mismas, como igualmente pide el señor Salvador.\nSe ha presentado una enmienda transaccional porque había que ajustar los plazos de presentación \ndel escrito solicitando la designación de los administradores generales y de candidaturas y se pasa de \nonce a siete días. Hay otras enmiendas que mejoran y clarifican algunos aspectos de esta propuesta que \ntambién vamos a votar favorablemente, como son las enmiendas 7 y 8 del Grupo Vasco, y las 20 y 22 del \nGrupo de Podemos. No así aquellas otras enmiendas que, como dije, no guardan relación con el artículo \n99.5, que, reitero, no vamos a aceptar.\nSeñorías, conocida es la postura de mi grupo parlamentario en torno a la que consideramos una de \nlas leyes medulares de nuestro sistema democrático, pero no me importa volver a recordarlo, sobre todo \npara que tomen razón de ello los nuevos grupos parlamentarios. Nuestra Ley Electoral fue aprobada por \nesta misma Cámara por el 98 % de los diputados, es decir, con un respaldo cercano a la unanimidad, un \nrespaldo que es básico cuando se trata de normas que afectan a las reglas del juego democrático. Ya sé \nque para muchos carecerá de importancia, pero el consenso es fundamental cuando hablamos de las \nnormas electorales. En todos los años que han transcurrido desde el año 1985, todas las reformas que se \nhan realizado de la Ley Orgánica del Régimen Electoral General, que han sido muchas, han contado con \nese respaldo, excepto en una ocasión, en el año 2006, en la primera legislatura del señor Rodrí guez \nZapatero, para un tema puntual.\nSeñorías, el consenso en esta materia es básico, a diferencia de una mayoría suficiente. Así debe seguir \nsiendo, porque eso es precisamente lo que diferencia a una Ley Electoral perdurable en el tiempo de una \ncve: DSCD-12-PL-10\n \nLey Electoral efímera. Aprobar esta modificación de la Ley Orgánica del Régimen Electoral General supone \nun ejercicio de responsabilidad política que da respuesta a una situación extraordinaria y proporciona una \nsolución eficaz para el futuro que permitirá resolver el asunto de una manera más rápida y más eficaz. Estoy \nseguro de que muchos compartimos los principios que inspiran esta modificación, para la que solicito su \napoyo, esperando que esta situación que desgraciadamente hemos tenido que vivir no vuelva a producirse.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias.\nTerminado el debate, vamos a llamar a votación, que comenzará en tres minutos. (Pausa).\n— PROPOSICIÓN DE LEY ORGÁNICA DE REFORMA DE LA LEY ORGÁNICA 2/2012, DE 27 DE \nABRIL, DE ESTABILIDAD PRESUPUESTARIA Y SOSTENIBILIDAD FINANCIERA. (Número de \nexpediente 122/000036). (Votación)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señorías, vamos a comenzar las votaciones. Les ruego silencio para que \nse puedan hacer con fluidez y claridad.\nEn primer lugar, proposición de ley orgánica de reforma de la Ley Orgánica 2/2012, de 27 de abril, de \nEstabilidad Presupuestaria y Sostenibilidad Financiera. Votamos en primer término la enmienda a la \ntotalidad de texto alternativo número 6, presentada por el Grupo Parlamentario Confederal de Unidos \nPodemos-En Comú Podem-En Marea.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344, más 1 voto telemático, 345; \na favor, 78, más 1 voto telemático, 79; en contra, 253; abstenciones, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nPasamos a las enmiendas al articulado del Grupo Parlamentario Mixto, señor Candela Serna. En \nprimer lugar, votamos la enmienda número 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 95; en contra, 248; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos a continuación la enmienda número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 85; en contra, 250; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos a continuación la enmienda número 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 94; en contra, 249; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nA continuación votamos las enmiendas al articulado del Grupo Mixto, señor Homs Molist. Votamos en \nbloque las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 91; en contra, 251; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nA continuación votamos la enmienda al articulado del Grupo Parlamentario Vasco (EAJ-PNV); la \nenmienda transaccional a la enmienda 41.\nComienza la votación. (Pausa).\ncve: DSCD-12-PL-10\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 260; en contra, 1; \nabstenciones, 82."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nPasamos a las enmiendas al articulado del Grupo Parlamentario de Esquerra Republicana. Votamos \nen bloque todas las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 90; en contra, 251; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nA continuación, vamos a votar las enmiendas al articulado del Grupo Parlamentario Confederal de \nUnidos Podemos-En Comú Podem-En Marea. En primer término, la enmienda número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 86, en contra, 256; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos la enmienda número 9 del mismo grupo.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 87; en contra, 255; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nA continuación, votamos la enmienda número 10.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 78; en contra, 256; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nProcedemos a la votación de la enmienda número 11.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 80; en contra, 256; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nA continuación, votamos la enmienda número 12.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 79; en contra, 256; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos a continuación la enmienda número 13.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 80; en contra, 256; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos la enmienda número 14.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 79, en contra, 256, \nabstenciones, 8.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nPasamos a votar la enmienda número 18.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 86; en contra, 256; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos a continuación las enmiendas 25 y 26.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 80; en contra, 255; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nA continuación, votamos la enmienda número 28.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 80, en contra, 256; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos a continuación la enmienda número 29.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 88; en contra, 256."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda número 33.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 86; en contra, 256; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos el resto de las enmiendas al articulado del Grupo Parlamentario Confederal de Unidos \nPodemos-En Comú Podem-En Marea.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 78; en contra, 256; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda al articulado de los grupos parlamentarios Popular en el Congreso, Socialista, Ciudadanos \ny Mixto (señora Oramas), la enmienda 38.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 266; en contra, 1; \nabstenciones, 77."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nVOTACIÓN DE CONJUNTO:"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Votación de conjunto de la proposición de ley orgánica de reforma de la Ley \nOrgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, por tramitarse \nen lectura única y por tener la misma carácter orgánico, con las correcciones técnicas que han sido \ndistribuidas.\nComienza la votación. (Pausa).\ncve: DSCD-12-PL-10\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343 más 1 voto telemático, 344; \na favor, 255; en contra, 84 más 1 voto telemático, 85; abstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\n— PROPOSICIÓN DE LEY ORGÁNICA DE MODIFICACIÓN DE LA LEY ORGÁNICA 5/1985, DE 19 DE \nJUNIO, DEL RÉGIMEN ELECTORAL GENERAL, PARA EL SUPUESTO DE CONVOCATORIA \nAUTOMÁTICA DE ELECCIONES EN VIRTUD DE LO DISPUESTO EN EL APARTADO QUINTO DEL \nARTÍCULO 99 DE LA CONSTITUCIÓN. (Número de expediente 122/000037). (Votación)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición de ley orgánica de modificación de la Ley Orgánica 5/1985, de \n19 de junio, del Régimen Electoral General, para el supuesto de convocatoria automática de elecciones \nen virtud de lo dispuesto en el apartado quinto del artículo 99 de la Constitución.\nVotamos la enmienda a la totalidad de texto alternativo, enmienda número 11, presentada por el \nGrupo Parlamentario Mixto (señor Homs Molist).\nComienza la votación. (Pausa.—Rumores).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344 más 1 voto telemático, 345; \na favor, 17; en contra, 321 más 1 voto telemático, 322; abstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda a la totalidad con texto alternativo número 55, presentada por el Grupo Parlamentario de \nEsquerra Republicana.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344 más 1 voto telemático, 345; \na favor, 24; en contra, 256 más 1 voto telemático, 257; abstenciones, 64."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmiendas al articulado del Grupo Parlamentario Mixto (señores Salvador Armendáriz y Alli Martínez).\nEnmienda número 75.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 84; en contra, 248; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda 76.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 84; en contra, 248; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda 78.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 87; en contra, 248; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmiendas al articulado del Grupo Parlamentario Mixto, señor Bataller i Ruiz.\nEnmienda número 13.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 86; en contra, 254; \nabstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda número 14.\nComienza la votación. (Pausa).\ncve: DSCD-12-PL-10\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 78; en contra, 256; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda del Grupo Parlamentario Mixto, señor Homs Molist, que es la enmienda número 12.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 86; en contra, 256; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmiendas al artículo del Grupo Parlamentario Vasco, PNV.\nEnmienda número 7.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 340; en contra, 1; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nEnmienda número 8, también del Grupo Parlamentario Vasco.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 337; en contra, 4; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nEnmienda número 9.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 93; en contra, 249; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nVotamos la enmienda transaccional a la enmienda 10, que también lo es a la enmienda 77, del Grupo \nParlamentario Mixto (señores Salvador Armendáriz y Alli Martínez). ¿Algún grupo se opone? (Pausa).\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 332; en contra, 1; \nabstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nEnmiendas al articulado del Grupo Parlamentario de Esquerra Republicana.\nVotamos en primer lugar las enmiendas 56, 57 y 58.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 88; en contra, 256."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nEnmiendas 59 y 70.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 80; en contra, 256; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nEnmiendas 61 63, 64 y 74.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 88; en contra, 256.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nEnmienda 66.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 23; en contra, 321."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda 67.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 342; a favor, 25; en contra, 256; \nabstenciones, 61."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmiendas 68, 72 y 73.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 14; en contra, 264; \nabstenciones, 66."
+  },
+  {
+   "speaker": "PRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nResto de enmiendas del Grupo Parlamentario de Esquerra Republicana.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 86; en contra, 254; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nA continuación votamos la enmienda número 5, del Grupo Parlamentario Ciudadanos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 106; en contra, 232; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmiendas al articulado del Grupo Parlamentario Confederal de Unidos Podemos-En Comú Podem-En \nMarea.\nVotamos en primer lugar la enmienda 19.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 77; en contra, 256; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda número 20.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 337; en contra, 4; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nEnmienda número 21.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 341; a favor, 90; en contra, 251."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda 22, del mismo grupo.\nComienza la votación. (Pausa).\ncve: DSCD-12-PL-10\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 342; a favor, 338; en contra, 2; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nVotamos ahora de forma conjunta las enmiendas 23, 24, 26 a 32, 43, 49, 50, 53 y 54.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 86; en contra, 255; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nEnmienda transaccional a la enmienda 25.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 342; a favor, 342."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nEnmiendas 35 a 37, 42, 44 y 51.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 70; en contra, 263; \nabstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nEnmienda número 38, del mismo grupo.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 69; en contra, 264; \nabstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda número 39.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 103; en contra, 233; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmienda 45.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 343; a favor, 73; en contra, 268; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda rechazada.\nEnmiendas 46 a 48.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 82; en contra, 259; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nResto de enmiendas del Grupo Parlamentario Confederal de Unidos Podemos-En Comú Podem-En \nMarea.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 78; en contra, 256; \nabstenciones, 10.\ncve: DSCD-12-PL-10"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan rechazadas.\nVotamos a continuación la enmienda al articulado del Grupo Parlamentario Socialista, enmienda \nnúmero 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 326; en contra, 6; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nEnmiendas al articulado de los grupos parlamentarios Popular en el Congreso, Socialista y Ciudadanos.\nVotamos en primer lugar las enmiendas 15 y 18.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 316; en contra, 5; \nabstenciones, 23."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan aprobadas.\nEnmiendas 16 y 17, de los mismos grupos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 316; en contra, 5; \nabstenciones, 23."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Quedan aprobadas.\nVOTACIÓN DE CONJUNTO:"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Votación de conjunto de la proposición de ley orgánica de modificación de \nla Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para el supuesto de convocatoria \nautomática de elecciones en virtud de lo dispuesto en el apartado 5 del artículo 99 de la Constitución, por \ntramitarse en lectura única y tener la misma carácter orgánico, con las correcciones técnicas distribuidas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344 más un voto telemático, 345; \na favor, 252 más 1 voto telemático, 253; abstenciones, 92."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Queda aprobada.\nSe levanta la sesión.\nEran las doce y cincuenta y cinco minutos del mediodía. \ncve: DSCD-12-PL-10\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}

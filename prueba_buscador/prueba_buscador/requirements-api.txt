@@ -1,0 +1,5 @@
+# Dependencias añadidas para el servicio del mapa político.
+# El resto (numpy, chromadb, sentence-transformers, pyyaml, python-dotenv…) ya
+# las usa el proyecto.
+fastapi>=0.115
+uvicorn[standard]>=0.30

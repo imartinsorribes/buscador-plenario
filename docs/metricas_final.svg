@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 860" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="860" fill="#ffffff"/>
+
+  <text x="50" y="62" font-size="34" font-weight="bold" fill="#9d1535">Medido, no estimado</text>
+  <text x="50" y="94" font-size="15" font-style="italic" fill="#7a7a7a">las cifras del sistema — y detrás de cada una, un experimento reproducible</text>
+
+  <!-- ============ CABECERAS DE COLUMNA ============ -->
+  <text x="225" y="152" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a6ea8">Transcripción</text>
+  <text x="615" y="152" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a6ea8">Voces</text>
+  <text x="1005" y="152" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a6ea8">Manuales</text>
+  <text x="1395" y="152" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a6ea8">Alertas y coste</text>
+
+  <!-- ============ COLUMNA 1: TRANSCRIPCIÓN ============ -->
+  <rect x="50" y="172" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="225" y="238" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">96,1 %</text>
+  <text x="225" y="272" text-anchor="middle" font-size="12" fill="#8a7a7d">precisión de palabra contra un</text>
+  <text x="225" y="292" text-anchor="middle" font-size="12" fill="#8a7a7d">patrón oro verbatim transcrito a mano</text>
+
+  <rect x="50" y="342" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="225" y="408" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">88 %</text>
+  <text x="225" y="442" text-anchor="middle" font-size="12" fill="#8a7a7d">palabras literales vs 3 Diarios oficiales,</text>
+  <text x="225" y="462" text-anchor="middle" font-size="12" fill="#8a7a7d">a ciegas (Ayto. de Madrid: 85,3 %)</text>
+
+  <rect x="50" y="512" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="225" y="578" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">18,4×</text>
+  <text x="225" y="612" text-anchor="middle" font-size="12" fill="#8a7a7d">tiempo real en una GPU de 4 GB:</text>
+  <text x="225" y="632" text-anchor="middle" font-size="12" fill="#8a7a7d">un pleno de 3 h, transcrito en ~10 min</text>
+
+  <!-- ============ COLUMNA 2: VOCES ============ -->
+  <rect x="440" y="172" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="615" y="238" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">22 / 22</text>
+  <text x="615" y="272" text-anchor="middle" font-size="12" fill="#8a7a7d">oradores separados sin error</text>
+  <text x="615" y="292" text-anchor="middle" font-size="12" fill="#8a7a7d">en un pleno completo de 3,5 h</text>
+
+  <rect x="440" y="342" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="615" y="408" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">100 %</text>
+  <text x="615" y="442" text-anchor="middle" font-size="12" fill="#8a7a7d">pureza de la identificación por huella,</text>
+  <text x="615" y="462" text-anchor="middle" font-size="12" fill="#8a7a7d">0 falsos positivos (92 tramos, pleno real)</text>
+
+  <rect x="440" y="512" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="615" y="578" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">5 / 6</text>
+  <text x="615" y="612" text-anchor="middle" font-size="12" fill="#8a7a7d">voces sugeridas correctamente al 2º pleno:</text>
+  <text x="615" y="632" text-anchor="middle" font-size="12" fill="#8a7a7d">el sistema aprende entre sesiones</text>
+
+  <!-- ============ COLUMNA 3: MANUALES ============ -->
+  <rect x="830" y="172" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="1005" y="238" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">87 %</text>
+  <text x="1005" y="272" text-anchor="middle" font-size="12" fill="#8a7a7d">manual correcto en el top-6 (hit@6);</text>
+  <text x="1005" y="292" text-anchor="middle" font-size="12" fill="#8a7a7d">100 % página exacta en las verificadas</text>
+
+  <rect x="830" y="342" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="1005" y="408" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">16/16 · 15/15</text>
+  <text x="1005" y="442" text-anchor="middle" font-size="12" fill="#8a7a7d">fuentes correctas y citas válidas en la batería</text>
+  <text x="1005" y="462" text-anchor="middle" font-size="12" fill="#8a7a7d">de 16 preguntas, repetida 3 días distintos</text>
+
+  <rect x="830" y="512" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="1005" y="578" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">929</text>
+  <text x="1005" y="612" text-anchor="middle" font-size="12" fill="#8a7a7d">fragmentos citables: 13 manuales por páginas,</text>
+  <text x="1005" y="632" text-anchor="middle" font-size="12" fill="#8a7a7d">330 capturas descritas y vídeo por minutos</text>
+
+  <!-- ============ COLUMNA 4: ALERTAS Y COSTE ============ -->
+  <rect x="1220" y="172" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="1395" y="238" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">0,57</text>
+  <text x="1395" y="272" text-anchor="middle" font-size="12" fill="#8a7a7d">umbral de detección calibrado con plenos</text>
+  <text x="1395" y="292" text-anchor="middle" font-size="12" fill="#8a7a7d">reales (verdaderos 0,57-0,64 · ruido ≤ 0,56)</text>
+
+  <rect x="1220" y="342" width="350" height="150" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="12"/>
+  <text x="1395" y="408" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">100 % literal</text>
+  <text x="1395" y="442" text-anchor="middle" font-size="12" fill="#8a7a7d">el correo al vecino es extractivo puro:</text>
+  <text x="1395" y="462" text-anchor="middle" font-size="12" fill="#8a7a7d">cita + orador + minuto, sin modelo generativo</text>
+
+  <rect x="1220" y="512" width="350" height="150" fill="#fdf4f4" stroke="#9d1535" stroke-width="2.5" rx="12"/>
+  <text x="1395" y="578" text-anchor="middle" font-size="38" font-weight="bold" fill="#9d1535">≈ 2 €/año</text>
+  <text x="1395" y="612" text-anchor="middle" font-size="12" fill="#8a7a7d">coste de operación por municipio (luz);</text>
+  <text x="1395" y="632" text-anchor="middle" font-size="12" fill="#8a7a7d">el dato no sale del ayuntamiento</text>
+
+  <!-- pie -->
+  <text x="800" y="740" text-anchor="middle" font-size="15" font-weight="bold" fill="#9d1535">Cada cifra tiene su experimento detrás — pregunten por la que quieran.</text>
+  <text x="800" y="772" text-anchor="middle" font-size="12.5" fill="#8a7a7d">patrón oro verbatim propio · comparación a ciegas contra 3 Diarios oficiales · bake-off de modelos ASR y de 9 LLMs · batería E2E reproducible · calibración con plenos reales</text>
+  <text x="800" y="800" text-anchor="middle" font-size="12.5" fill="#8a7a7d">también medimos lo que NO funcionó: denoise, fine-tuning por municipio, fonético multipalabra — descartados con datos</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 760" font-family="Arial, sans-serif">
+  <rect width="1680" height="760" fill="#ffffff"/>
+
+  <text x="840" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#222">¿Cómo sabemos que transcribe bien?</text>
+
+  <!-- ============ EL PROBLEMA METODOLÓGICO ============ -->
+  <rect x="40" y="84" width="1600" height="110" fill="#fdf0dc" stroke="#e2b25e" rx="8"/>
+  <text x="70" y="116" font-size="14" font-weight="bold" fill="#9a6b1a">El problema: el Diario de Sesiones oficial NO es literal</text>
+  <text x="70" y="144" font-size="13" fill="#7a6a4a">Los taquígrafos corrigen, pulen y reordenan lo dicho. Comparar la transcripción contra el Diario con la métrica estándar (WER) mediría</text>
+  <text x="70" y="168" font-size="13" fill="#7a6a4a">la diferencia entre hablar y redactar, no nuestros errores. Hace falta otra metodología — y es doble:</text>
+
+  <!-- ============ LAS DOS MEDIDAS ============ -->
+  <rect x="40" y="226" width="790" height="240" fill="#faf8f4" stroke="#d9ccd2" rx="8"/>
+  <text x="435" y="260" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">1 · Contra un patrón oro VERBATIM</text>
+  <text x="70" y="292" font-size="13" fill="#454139">Transcribimos a mano, palabra a palabra, tramos reales de un</text>
+  <text x="70" y="316" font-size="13" fill="#454139">pleno municipal (Chiva) y medimos contra eso — ahí el WER sí</text>
+  <text x="70" y="340" font-size="13" fill="#454139">tiene sentido, porque el patrón es literal de verdad.</text>
+  <rect x="70" y="368" width="700" height="70" fill="#ffffff" stroke="#d9ccd2" rx="6"/>
+  <text x="420" y="398" text-anchor="middle" font-size="21" font-weight="bold" fill="#8b2440">precisión del 96,1 %</text>
+  <text x="420" y="424" text-anchor="middle" font-size="12" fill="#6b665e">(error de palabra 3,9 %, con la corrección léxica del municipio)</text>
+
+  <rect x="850" y="226" width="790" height="240" fill="#faf8f4" stroke="#d9ccd2" rx="8"/>
+  <text x="1245" y="260" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">2 · Contra Diarios oficiales REALES, a ciegas</text>
+  <text x="880" y="292" font-size="13" fill="#454139">Generamos el acta sin haber visto el Diario oficial y después</text>
+  <text x="880" y="316" font-size="13" fill="#454139">medimos cuántas palabras coinciden literalmente. Validado con</text>
+  <text x="880" y="340" font-size="13" fill="#454139">2 plenos del Congreso y 1 municipio real con Diario (Madrid).</text>
+  <rect x="880" y="368" width="700" height="70" fill="#ffffff" stroke="#d9ccd2" rx="6"/>
+  <text x="1230" y="398" text-anchor="middle" font-size="21" font-weight="bold" fill="#8b2440">88 % literal de media · Madrid 85,3 %</text>
+  <text x="1230" y="424" text-anchor="middle" font-size="12" fill="#6b665e">(sabiendo que parte de la diferencia es el pulido del taquígrafo, no error nuestro)</text>
+
+  <!-- ============ LOS TÉRMINOS LOCALES ============ -->
+  <rect x="40" y="498" width="1600" height="130" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+  <text x="70" y="530" font-size="14" font-weight="bold" fill="#1d6b6b">El último punto de error: los términos locales — y su arreglo</text>
+  <text x="70" y="558" font-size="13" fill="#3d6a6a">Whisper no conoce «Sedipualb@», los nombres de las pedanías ni las siglas del ayuntamiento; y afinarlo por municipio no compensa.</text>
+  <text x="70" y="582" font-size="13" fill="#3d6a6a">La solución medida: corrección léxica posterior con un glosario por municipio (se crea en el alta, 1 comando) — solo sustituciones seguras,</text>
+  <text x="70" y="606" font-size="13" fill="#3d6a6a">una palabra o alias exactos. El emparejamiento fonético agresivo se probó y se descartó: arrasaba frases comunes.</text>
+
+  <!-- ============ CIERRE ============ -->
+  <text x="840" y="678" text-anchor="middle" font-size="14" font-weight="bold" fill="#8b2440">Cada cifra de esta diapositiva está medida sobre plenos reales — la metodología es parte del producto</text>
+  <text x="840" y="706" text-anchor="middle" font-size="12.5" fill="#6b665e">gold set verbatim propio · comparación a ciegas contra 3 Diarios oficiales · bake-off de modelos ASR · mejoras descartadas con datos</text>
+</svg>

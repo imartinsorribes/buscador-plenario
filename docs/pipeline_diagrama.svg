@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 1000" font-family="Arial, sans-serif">
+  <defs>
+    <marker id="fl" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0,0 L8,4.5 L0,9 Z" fill="#7a1f2b"/>
+    </marker>
+  </defs>
+  <rect width="1680" height="1000" fill="#faf8f4"/>
+
+  <!-- título -->
+  <text x="840" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="27" fill="#222">Pipeline completo · Buscador Plenario Inteligente + Ampliación SEDIPUALBA</text>
+  <text x="840" y="68" text-anchor="middle" font-size="13" fill="#8a857d">local-first · sin regex · identidades solo por etiquetado humano o huella de voz · métricas medidas — julio 2026</text>
+
+  <!-- ============ BANDA 1: FUENTES ============ -->
+  <text x="30" y="105" font-size="12" fill="#7a1f2b" letter-spacing="2">FUENTES</text>
+  <rect x="30" y="115" width="380" height="78" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="220" y="140" text-anchor="middle" font-size="15" fill="#222" font-weight="bold">Vídeo del pleno (YouTube)</text>
+  <text x="220" y="160" text-anchor="middle" font-size="12" fill="#6b665e">vigilante del canal: detecta el pleno nuevo cada noche</text>
+  <text x="220" y="177" text-anchor="middle" font-size="12" fill="#6b665e">backfill del histórico por lotes</text>
+
+  <rect x="440" y="115" width="330" height="78" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="605" y="140" text-anchor="middle" font-size="15" fill="#222" font-weight="bold">Manuales SEDIPUALBA (PDF)</text>
+  <text x="605" y="160" text-anchor="middle" font-size="12" fill="#6b665e">13 oficiales + subida de nuevos desde la web</text>
+  <text x="605" y="177" text-anchor="middle" font-size="12" fill="#6b665e">texto por páginas + capturas de pantalla</text>
+
+  <rect x="800" y="115" width="300" height="78" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="950" y="140" text-anchor="middle" font-size="15" fill="#222" font-weight="bold">Vídeos tutoriales</text>
+  <text x="950" y="160" text-anchor="middle" font-size="12" fill="#6b665e">solo se indexan por minutos</text>
+  <text x="950" y="177" text-anchor="middle" font-size="12" fill="#6b665e">(no se generan manuales)</text>
+
+  <rect x="1130" y="115" width="520" height="78" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="1390" y="140" text-anchor="middle" font-size="15" fill="#222" font-weight="bold">Corpus del Congreso</text>
+  <text x="1390" y="160" text-anchor="middle" font-size="12" fill="#6b665e">667 plenos (legislaturas XI-XV) en JSON con orador y grupo</text>
+  <text x="1390" y="177" text-anchor="middle" font-size="12" fill="#6b665e">buscador v2 con evolución temporal</text>
+
+  <!-- ============ BANDA 2: PROCESO ============ -->
+  <text x="30" y="238" font-size="12" fill="#7a1f2b" letter-spacing="2">PROCESO</text>
+
+  <!-- pipeline pleno -->
+  <rect x="30" y="250" width="600" height="150" fill="#f3f1ec" stroke="#d8d2c7" rx="6"/>
+  <text x="330" y="274" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">Pleno → Acta (20-45 min por pleno, 0 €)</text>
+  <rect x="48" y="290" width="106" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="101" y="309" text-anchor="middle" font-size="11.5" fill="#222">descarga</text>
+  <text x="101" y="324" text-anchor="middle" font-size="11" fill="#6b665e">yt-dlp</text>
+  <rect x="168" y="290" width="106" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="221" y="305" text-anchor="middle" font-size="11.5" fill="#222">transcripción</text>
+  <text x="221" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">whisper turbo int8</text>
+  <text x="221" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">18,4× · valencià/cast.</text>
+  <rect x="288" y="290" width="96" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="336" y="305" text-anchor="middle" font-size="11.5" fill="#222">corrección</text>
+  <text x="336" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">lexfix + glosario</text>
+  <text x="336" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">del municipio</text>
+  <rect x="398" y="290" width="110" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="453" y="305" text-anchor="middle" font-size="11.5" fill="#222">voces</text>
+  <text x="453" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">pyannote + huellas</text>
+  <text x="453" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">ECAPA (100 % pureza)</text>
+  <rect x="522" y="290" width="92" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="568" y="305" text-anchor="middle" font-size="11.5" fill="#222">acta + votos</text>
+  <text x="568" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">estilo Diario · PDF</text>
+  <text x="568" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">visión YOLO-pose</text>
+  <line x1="154" y1="312" x2="166" y2="312" stroke="#7a1f2b" stroke-width="1.6" marker-end="url(#fl)"/>
+  <line x1="274" y1="312" x2="286" y2="312" stroke="#7a1f2b" stroke-width="1.6" marker-end="url(#fl)"/>
+  <line x1="384" y1="312" x2="396" y2="312" stroke="#7a1f2b" stroke-width="1.6" marker-end="url(#fl)"/>
+  <line x1="508" y1="312" x2="520" y2="312" stroke="#7a1f2b" stroke-width="1.6" marker-end="url(#fl)"/>
+  <text x="330" y="365" text-anchor="middle" font-size="11.5" fill="#6b665e">fidelidad medida: 88 % literal vs Diarios oficiales (Madrid 85,3 % a ciegas) · ASR 96,1 %</text>
+  <text x="330" y="383" text-anchor="middle" font-size="11.5" fill="#6b665e">registro de voces: huella = vector local 192-d, consentida y borrable</text>
+
+  <!-- pipeline manuales -->
+  <rect x="660" y="250" width="440" height="150" fill="#f3f1ec" stroke="#d8d2c7" rx="6"/>
+  <text x="880" y="274" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">Documentación → índice multimodal</text>
+  <rect x="678" y="290" width="126" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="741" y="305" text-anchor="middle" font-size="11.5" fill="#222">texto por páginas</text>
+  <text x="741" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">fragmentos citables</text>
+  <text x="741" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">manual + pág.</text>
+  <rect x="818" y="290" width="136" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="886" y="305" text-anchor="middle" font-size="11.5" fill="#222">capturas descritas</text>
+  <text x="886" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">gemini-flash (visión)</text>
+  <text x="886" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">caché por hash: 1 pago</text>
+  <rect x="968" y="290" width="114" height="44" fill="#fff" stroke="#c8c2b6" rx="4"/>
+  <text x="1025" y="305" text-anchor="middle" font-size="11.5" fill="#222">vídeo transcrito</text>
+  <text x="1025" y="318" text-anchor="middle" font-size="10.5" fill="#6b665e">ventanas 45-60 s</text>
+  <text x="1025" y="330" text-anchor="middle" font-size="10.5" fill="#6b665e">enlace al minuto</text>
+  <text x="880" y="365" text-anchor="middle" font-size="11.5" fill="#6b665e">~270 capturas descritas · recarga del índice en caliente (subir PDF sin reiniciar)</text>
+  <text x="880" y="383" text-anchor="middle" font-size="11.5" fill="#6b665e">buscador de manuales: hit@6 = 87 % · 100 % página exacta en verificadas</text>
+
+  <!-- alertas proceso -->
+  <rect x="1130" y="250" width="520" height="150" fill="#f3f1ec" stroke="#d8d2c7" rx="6"/>
+  <text x="1390" y="274" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">Detección de temas (Alertas)</text>
+  <text x="1390" y="300" text-anchor="middle" font-size="12" fill="#454139">catálogo CERRADO de 15 temas + boletín "todos los plenos"</text>
+  <text x="1390" y="318" text-anchor="middle" font-size="12" fill="#454139">frases-ancla → centroide BGE-M3 → umbral 0,57 calibrado con plenos reales</text>
+  <text x="1390" y="336" text-anchor="middle" font-size="12" fill="#454139">100 % extractivo: cita literal + orador + minuto donde EMPIEZA el tema</text>
+  <text x="1390" y="362" text-anchor="middle" font-size="11.5" fill="#6b665e">privacidad por diseño: imposible suscribirse a personas · doble opt-in · baja en 1 clic</text>
+  <text x="1390" y="380" text-anchor="middle" font-size="11.5" fill="#6b665e">antiduplicados: regenerar un acta no reenvía correos</text>
+
+  <!-- ============ BANDA 3: ALMACENAMIENTO ============ -->
+  <text x="30" y="448" font-size="12" fill="#7a1f2b" letter-spacing="2">ALMACENAMIENTO (todo en el equipo del ayuntamiento)</text>
+  <rect x="30" y="460" width="1090" height="70" fill="#fff" stroke="#7a1f2b" rx="6"/>
+  <text x="575" y="487" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">ChromaDB (vectores BGE-M3 fp16)</text>
+  <text x="575" y="508" text-anchor="middle" font-size="12" fill="#6b665e">actas al minuto y por orador · manuales por página · capturas · vídeos por minutos · corpus del Congreso</text>
+  <rect x="1130" y="460" width="520" height="70" fill="#fff" stroke="#7a1f2b" rx="6"/>
+  <text x="1390" y="487" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">SQLite</text>
+  <text x="1390" y="508" text-anchor="middle" font-size="12" fill="#6b665e">entidades · plenos · roster · huellas · suscripciones y bandeja de alertas</text>
+
+  <!-- ============ BANDA 4: APLICACIÓN ============ -->
+  <text x="30" y="578" font-size="12" fill="#7a1f2b" letter-spacing="2">APLICACIÓN WEB (FastAPI · 6 pestañas)</text>
+  <rect x="30" y="590" width="255" height="150" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="157" y="614" text-anchor="middle" font-size="14" fill="#7a1f2b" font-weight="bold">Generar acta</text>
+  <text x="42" y="638" font-size="11.5" fill="#454139">· pegar URL → acta automática</text>
+  <text x="42" y="656" font-size="11.5" fill="#454139">· editor de voces con reproductor</text>
+  <text x="42" y="674" font-size="11.5" fill="#454139">· acta PDF estilo Diario</text>
+  <text x="42" y="692" font-size="11.5" fill="#454139">· búsqueda de intervenciones 0,3 s</text>
+  <text x="42" y="710" font-size="11.5" fill="#454139">· salto al minuto del vídeo</text>
+
+  <rect x="305" y="590" width="255" height="150" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="432" y="614" text-anchor="middle" font-size="14" fill="#7a1f2b" font-weight="bold">Registro de voces</text>
+  <text x="317" y="638" font-size="11.5" fill="#454139">· alta de huella por entidad</text>
+  <text x="317" y="656" font-size="11.5" fill="#454139">· sugerencia automática de orador</text>
+  <text x="317" y="674" font-size="11.5" fill="#454139">· pureza 100 % medida, 0 falsos</text>
+  <text x="317" y="692" font-size="11.5" fill="#454139">· RGPD: vector local, borrable</text>
+
+  <rect x="580" y="590" width="255" height="150" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="707" y="614" text-anchor="middle" font-size="14" fill="#7a1f2b" font-weight="bold">Buscar</text>
+  <text x="592" y="638" font-size="11.5" fill="#454139">· corpus Congreso en lenguaje</text>
+  <text x="592" y="656" font-size="11.5" fill="#454139">  natural + evolución temporal</text>
+  <text x="592" y="674" font-size="11.5" fill="#454139">· respuesta con fuentes citadas</text>
+  <text x="592" y="692" font-size="11.5" fill="#454139">· orador · grupo · pleno</text>
+
+  <rect x="855" y="590" width="285" height="150" fill="#fff" stroke="#7a1f2b" stroke-width="1.6" rx="6"/>
+  <text x="997" y="614" text-anchor="middle" font-size="14" fill="#7a1f2b" font-weight="bold">Manuales (SEDIPUALBA)</text>
+  <text x="867" y="636" font-size="11.5" fill="#454139">· citas clicables [n · manual p.X]</text>
+  <text x="867" y="653" font-size="11.5" fill="#454139">· chat de dudas + clip PANTALLAZO:</text>
+  <text x="867" y="670" font-size="11.5" fill="#454139">  "dónde estoy y paso siguiente"</text>
+  <text x="867" y="687" font-size="11.5" fill="#454139">· subir PDF · indexar vídeo tutorial</text>
+  <text x="867" y="704" font-size="11.5" fill="#454139">· ficha PDF · feedback · valencià</text>
+  <text x="867" y="721" font-size="11.5" fill="#454139">· 16/16 fuentes · 15/15 citas válidas</text>
+
+  <rect x="1160" y="590" width="235" height="150" fill="#fff" stroke="#d8d2c7" rx="6"/>
+  <text x="1277" y="614" text-anchor="middle" font-size="14" fill="#7a1f2b" font-weight="bold">Ciudadano</text>
+  <text x="1172" y="638" font-size="11.5" fill="#454139">· dashboard del Congreso</text>
+  <text x="1172" y="656" font-size="11.5" fill="#454139">  en datos (KPIs)</text>
+
+  <rect x="1415" y="590" width="235" height="150" fill="#fff" stroke="#7a1f2b" stroke-width="1.6" rx="6"/>
+  <text x="1532" y="614" text-anchor="middle" font-size="14" fill="#7a1f2b" font-weight="bold">Alertas (vecinos)</text>
+  <text x="1427" y="638" font-size="11.5" fill="#454139">· suscripción por temas o boletín</text>
+  <text x="1427" y="656" font-size="11.5" fill="#454139">· correo: cita + minuto + acta</text>
+  <text x="1427" y="674" font-size="11.5" fill="#454139">· bienvenida con lo último</text>
+  <text x="1427" y="692" font-size="11.5" fill="#454139">· autopiloto con el vigilante</text>
+  <text x="1427" y="710" font-size="11.5" fill="#454139">· bandeja demo sin SMTP</text>
+
+  <!-- flechas entre bandas (puntas explícitas: los <marker> no renderizan en MuPDF) -->
+  <line x1="220" y1="193" x2="248" y2="245" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="250,248 240,242 247,237" fill="#7a1f2b"/>
+  <line x1="605" y1="193" x2="797" y2="245" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="800,248 789,246 792,238" fill="#7a1f2b"/>
+  <line x1="950" y1="193" x2="988" y2="245" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="990,248 980,243 987,238" fill="#7a1f2b"/>
+  <!-- corpus -> ChromaDB (por el pasillo entre cajas) -->
+  <path d="M1390,193 L1390,222 L1112,222 L1112,452" fill="none" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="1112,458 1107,448 1117,448" fill="#7a1f2b"/>
+  <!-- acta -> detección de temas (las alertas nacen del pleno procesado) -->
+  <path d="M568,400 L568,424 L1300,424 L1300,406" fill="none" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="1300,401 1295,411 1305,411" fill="#7a1f2b"/>
+  <line x1="330" y1="400" x2="418" y2="455" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="420,458 410,455 415,447" fill="#7a1f2b"/>
+  <line x1="880" y1="400" x2="703" y2="455" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="700,458 709,452 712,461" fill="#7a1f2b"/>
+  <line x1="1390" y1="400" x2="1390" y2="452" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="1390,458 1385,448 1395,448" fill="#7a1f2b"/>
+  <line x1="565" y1="530" x2="565" y2="582" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="565,588 560,578 570,578" fill="#7a1f2b"/>
+  <line x1="1390" y1="530" x2="1447" y2="585" stroke="#7a1f2b" stroke-width="1.8"/>
+  <polygon points="1450,588 1440,586 1445,578" fill="#7a1f2b"/>
+
+  <!-- ============ BANDA 5: INFRAESTRUCTURA ============ -->
+  <rect x="30" y="775" width="1620" height="86" fill="#2b2723" rx="6"/>
+  <text x="50" y="803" font-size="12" fill="#c8a24a" letter-spacing="2">INFRAESTRUCTURA Y COSTE</text>
+  <text x="50" y="828" font-size="12.5" fill="#f0ece4">Portátil RTX 3050 (4 GB): whisper int8 · pyannote · ECAPA · BGE-M3 fp16 · qwen2.5:3b de respaldo   |   Servidor UV RTX 4060 Ti (16 GB): qwen2.5:14b (trabajo) · mistral-small:24b (calidad), vía túnel SSH</text>
+  <text x="50" y="849" font-size="12.5" fill="#f0ece4">Degradación automática: si el túnel cae, todo sigue con el LLM local (sin errores) · Nube solo visión (céntimos, caché por hash) · Coste recurrente por pleno: 0 € · Alternativa todo-nube evitada: 1,5-3 €/pleno</text>
+
+  <!-- salidas destacadas -->
+  <text x="30" y="905" font-size="12" fill="#7a1f2b" letter-spacing="2">SALIDAS</text>
+  <text x="30" y="932" font-size="13" fill="#454139">acta PDF estilo Diario · deep-link al minuto del vídeo · correo al vecino con la cita y el minuto · ficha imprimible de manuales · manual buscable con página verificable en un clic</text>
+  <text x="30" y="956" font-size="13" fill="#454139">todo verificable: cada afirmación del sistema lleva su fuente (página, minuto u orador) — la honestidad medida es parte del producto</text>
+</svg>

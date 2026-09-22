@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="700" fill="#ffffff"/>
+
+  <text x="50" y="62" font-size="34" font-weight="bold" fill="#9d1535">Distinción de voz y voz predominante</text>
+
+  <!-- ================= PANEL 1: REGISTRO ================= -->
+  <rect x="40" y="110" width="288" height="470" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="14"/>
+  <circle cx="74" cy="146" r="16" fill="#9d1535"/>
+  <text x="74" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">1</text>
+  <text x="184" y="186" text-anchor="middle" font-size="17.5" font-weight="bold" fill="#9d1535">Registro de voz</text>
+
+  <circle cx="150" cy="232" r="15" fill="none" stroke="#9d1535" stroke-width="2.5"/>
+  <path d="M127,270 Q150,248 173,270" fill="none" stroke="#9d1535" stroke-width="2.5"/>
+  <rect x="180" y="219" width="86" height="28" fill="#ffffff" stroke="#c23a50" rx="14"/>
+  <text x="223" y="238" text-anchor="middle" font-size="13" font-weight="bold" fill="#c23a50">Sánchez</text>
+
+  <path d="M80,318 L94,316 L103,305 L114,330 L123,299 L135,342 L147,290 L160,335 L172,308 L186,326 L198,313 L210,320 L223,307 L236,328 L249,313 L262,322 L276,317 L290,319"
+        fill="none" stroke="#c23a50" stroke-width="2.3"/>
+  <text x="184" y="356" text-anchor="middle" font-size="11.5" fill="#8a7a7d">su voz</text>
+
+  <line x1="184" y1="368" x2="184" y2="396" stroke="#c23a50" stroke-width="2.5"/>
+  <polygon points="184,406 177,393 191,393" fill="#c23a50"/>
+
+  <g fill="#c23a50">
+    <rect x="118" y="426" width="10" height="44" rx="2"/><rect x="134" y="436" width="10" height="34" rx="2"/>
+    <rect x="150" y="420" width="10" height="50" rx="2"/><rect x="166" y="442" width="10" height="28" rx="2"/>
+    <rect x="182" y="430" width="10" height="40" rx="2"/><rect x="198" y="446" width="10" height="24" rx="2"/>
+    <rect x="214" y="424" width="10" height="46" rx="2"/><rect x="230" y="438" width="10" height="32" rx="2"/>
+  </g>
+  <text x="184" y="492" text-anchor="middle" font-size="11.5" fill="#8a7a7d">huella «Sánchez» (vector, no audio)</text>
+
+  <text x="184" y="530" text-anchor="middle" font-size="11.8" fill="#5a4a4d">cada cargo —con su conocimiento—</text>
+  <text x="184" y="549" text-anchor="middle" font-size="11.8" fill="#5a4a4d">asocia su huella a su nombre · borrable</text>
+
+  <line x1="332" y1="345" x2="342" y2="345" stroke="#9d1535" stroke-width="3"/>
+  <polygon points="350,345 338,338 338,352" fill="#9d1535"/>
+
+  <!-- ================= PANEL 2: DIARIZACIÓN ================= -->
+  <rect x="356" y="110" width="288" height="470" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="14"/>
+  <circle cx="390" cy="146" r="16" fill="#9d1535"/>
+  <text x="390" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">2</text>
+  <text x="500" y="186" text-anchor="middle" font-size="17.5" font-weight="bold" fill="#9d1535">Diarización</text>
+
+  <g>
+    <rect x="378" y="270" width="50" height="130" fill="#f9dee2"/>
+    <rect x="428" y="270" width="42" height="130" fill="#dbe7f3"/>
+    <rect x="470" y="270" width="54" height="130" fill="#f9dee2"/>
+    <rect x="524" y="270" width="42" height="130" fill="#dbe7f3"/>
+    <rect x="566" y="270" width="52" height="130" fill="#f9dee2"/>
+    <path d="M382,335 L392,322 L400,348 L410,312 L420,344 L426,330" fill="none" stroke="#c23a50" stroke-width="2"/>
+    <path d="M432,335 L440,325 L448,346 L456,318 L466,342" fill="none" stroke="#3a6ea8" stroke-width="2"/>
+    <path d="M474,335 L484,318 L494,350 L504,314 L514,344 L522,330" fill="none" stroke="#c23a50" stroke-width="2"/>
+    <path d="M528,335 L536,323 L544,346 L552,318 L562,340" fill="none" stroke="#3a6ea8" stroke-width="2"/>
+    <path d="M570,335 L580,320 L590,348 L600,316 L614,338" fill="none" stroke="#c23a50" stroke-width="2"/>
+    <g stroke="#b89aa0" stroke-width="1" stroke-dasharray="4,4">
+      <line x1="428" y1="270" x2="428" y2="400"/><line x1="470" y1="270" x2="470" y2="400"/>
+      <line x1="524" y1="270" x2="524" y2="400"/><line x1="566" y1="270" x2="566" y2="400"/>
+    </g>
+  </g>
+  <text x="500" y="430" text-anchor="middle" font-size="11.5" fill="#8a7a7d">tramo A / tramo B / …</text>
+
+  <text x="500" y="530" text-anchor="middle" font-size="11.8" fill="#5a4a4d">se trocea el audio por hablante</text>
+  <text x="500" y="549" text-anchor="middle" font-size="11.8" fill="#5a4a4d">voces aún anónimas</text>
+
+  <line x1="648" y1="345" x2="658" y2="345" stroke="#9d1535" stroke-width="3"/>
+  <polygon points="666,345 654,338 654,352" fill="#9d1535"/>
+
+  <!-- ================= PANEL 3: COMPARAR ================= -->
+  <rect x="672" y="110" width="288" height="470" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="14"/>
+  <circle cx="706" cy="146" r="16" fill="#9d1535"/>
+  <text x="706" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">3</text>
+  <text x="816" y="186" text-anchor="middle" font-size="17.5" font-weight="bold" fill="#9d1535">Comparar huellas</text>
+
+  <rect x="692" y="255" width="110" height="62" fill="#ffffff" stroke="#b8a8ab" rx="6"/>
+  <path d="M700,286 L710,275 L719,298 L729,268 L739,294 L749,278 L759,290 L769,281 L779,288 L792,284" fill="none" stroke="#5a4a4d" stroke-width="2"/>
+  <text x="747" y="335" text-anchor="middle" font-size="11.5" fill="#8a7a7d">tramo ?</text>
+
+  <line x1="806" y1="272" x2="838" y2="256" stroke="#c23a50" stroke-width="2"/>
+  <polygon points="846,252 835,251 839,262" fill="#c23a50"/>
+  <g fill="#c23a50">
+    <rect x="852" y="236" width="9" height="36" rx="2"/><rect x="865" y="243" width="9" height="29" rx="2"/>
+    <rect x="878" y="232" width="9" height="40" rx="2"/><rect x="891" y="248" width="9" height="24" rx="2"/>
+    <rect x="904" y="240" width="9" height="32" rx="2"/>
+  </g>
+  <text x="884" y="290" text-anchor="middle" font-size="11.5" fill="#c23a50">«Sánchez»</text>
+  <text x="928" y="258" font-size="18" font-weight="bold" fill="#2c7a4b">✓</text>
+
+  <line x1="806" y1="300" x2="838" y2="348" stroke="#b8a8ab" stroke-width="2"/>
+  <polygon points="843,356 833,350 841,343" fill="#b8a8ab"/>
+  <g fill="#3a6ea8">
+    <rect x="852" y="336" width="9" height="36" rx="2"/><rect x="865" y="347" width="9" height="25" rx="2"/>
+    <rect x="878" y="332" width="9" height="40" rx="2"/><rect x="891" y="341" width="9" height="31" rx="2"/>
+    <rect x="904" y="350" width="9" height="22" rx="2"/>
+  </g>
+  <text x="884" y="392" text-anchor="middle" font-size="11.5" fill="#3a6ea8">«Feijóo»</text>
+
+  <text x="816" y="511" text-anchor="middle" font-size="11.8" fill="#5a4a4d">similitud de coseno contra las huellas</text>
+  <text x="816" y="530" text-anchor="middle" font-size="11.8" fill="#5a4a4d">→ gana la más parecida si supera el umbral;</text>
+  <text x="816" y="549" text-anchor="middle" font-size="11.8" fill="#5a4a4d">si no, «orador sin identificar»</text>
+
+  <line x1="964" y1="345" x2="974" y2="345" stroke="#9d1535" stroke-width="3"/>
+  <polygon points="982,345 970,338 970,352" fill="#9d1535"/>
+
+  <!-- ================= PANEL 4: VOZ PREDOMINANTE ================= -->
+  <rect x="988" y="110" width="288" height="470" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="14"/>
+  <circle cx="1022" cy="146" r="16" fill="#9d1535"/>
+  <text x="1022" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">4</text>
+  <text x="1132" y="186" text-anchor="middle" font-size="17.5" font-weight="bold" fill="#9d1535">Voz predominante</text>
+
+  <text x="1043" y="288" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c23a50">Sán.</text>
+  <text x="1102" y="288" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#3a6ea8">Fei.</text>
+  <text x="1161" y="288" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c23a50">Sán.</text>
+  <text x="1220" y="288" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#3a6ea8">Fei.</text>
+  <rect x="1017" y="302" width="52" height="54" fill="#c23a50"/>
+  <rect x="1076" y="302" width="52" height="54" fill="#3a6ea8"/>
+  <rect x="1135" y="302" width="52" height="54" fill="#c23a50"/>
+  <rect x="1194" y="302" width="52" height="54" fill="#3a6ea8"/>
+  <text x="1132" y="388" text-anchor="middle" font-size="11.5" fill="#8a7a7d">acta: orador + minuto</text>
+
+  <text x="1132" y="511" text-anchor="middle" font-size="11.8" fill="#5a4a4d">cada tramo queda atribuido a su orador;</text>
+  <text x="1132" y="530" text-anchor="middle" font-size="11.8" fill="#5a4a4d">la secretaría confirma en el editor</text>
+  <text x="1132" y="549" text-anchor="middle" font-size="11.8" fill="#5a4a4d">y el acta se regenera</text>
+
+  <line x1="1280" y1="345" x2="1290" y2="345" stroke="#9d1535" stroke-width="3"/>
+  <polygon points="1298,345 1286,338 1286,352" fill="#9d1535"/>
+
+  <!-- ================= PANEL 5: NUEVAS VOCES (auto-aprendizaje) ================= -->
+  <rect x="1304" y="110" width="288" height="470" fill="#fdf4f4" stroke="#e8b8c0" stroke-width="1.6" rx="14"/>
+  <circle cx="1338" cy="146" r="16" fill="#9d1535"/>
+  <text x="1338" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">5</text>
+  <text x="1448" y="186" text-anchor="middle" font-size="17.5" font-weight="bold" fill="#9d1535">Nuevas voces</text>
+
+  <!-- voz confirmada -> nueva huella -->
+  <rect x="1360" y="235" width="88" height="40" fill="#c23a50" rx="5"/>
+  <text x="1404" y="260" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#ffffff">García ✓</text>
+  <text x="1404" y="295" text-anchor="middle" font-size="11.5" fill="#8a7a7d">voz confirmada en este pleno</text>
+
+  <line x1="1448" y1="308" x2="1448" y2="336" stroke="#c23a50" stroke-width="2.5"/>
+  <polygon points="1448,346 1441,333 1455,333" fill="#c23a50"/>
+
+  <g fill="#c23a50">
+    <rect x="1388" y="360" width="9" height="38" rx="2"/><rect x="1401" y="368" width="9" height="30" rx="2"/>
+    <rect x="1414" y="355" width="9" height="43" rx="2"/><rect x="1427" y="372" width="9" height="26" rx="2"/>
+    <rect x="1440" y="362" width="9" height="36" rx="2"/><rect x="1453" y="375" width="9" height="23" rx="2"/>
+    <rect x="1466" y="358" width="9" height="40" rx="2"/><rect x="1479" y="369" width="9" height="29" rx="2"/>
+  </g>
+  <text x="1448" y="420" text-anchor="middle" font-size="11.5" fill="#8a7a7d">nueva huella «García»</text>
+
+  <!-- bucle al paso 3 -->
+  <path d="M1448,438 Q1448,462 1420,462 L1340,462" fill="none" stroke="#2c7a4b" stroke-width="2.5"/>
+  <polygon points="1330,462 1343,455 1343,469" fill="#2c7a4b"/>
+  <text x="1394" y="482" text-anchor="middle" font-size="11" fill="#2c7a4b">vuelve al paso 3</text>
+
+  <text x="1448" y="511" text-anchor="middle" font-size="11.8" fill="#5a4a4d">las voces confirmadas se guardan como huellas:</text>
+  <text x="1448" y="530" text-anchor="middle" font-size="11.8" fill="#5a4a4d">el siguiente pleno se atribuye solo,</text>
+  <text x="1448" y="549" text-anchor="middle" font-size="11.8" fill="#5a4a4d">por similitud de coseno</text>
+
+  <!-- pie -->
+  <text x="800" y="640" text-anchor="middle" font-size="13.5" fill="#5a4a4d">La huella nace ligada a una persona (paso 1) y el sistema aprende entre sesiones (paso 5). Sin huella que supere el umbral, nunca se adivina.</text>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" font-family="Verdana, Arial, sans-serif">
+  <rect width="1600" height="760" fill="#ffffff"/>
+  <text x="800" y="52" text-anchor="middle" font-size="17" font-style="italic" fill="#7a7a7a">consultar muchas · cada pregunta, online</text>
+
+  <!-- pregunta -->
+  <rect x="50" y="270" width="200" height="110" fill="#f7ecc3" stroke="#d9b95e" stroke-width="2" rx="12"/>
+  <text x="150" y="317" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#8b2440">Pregunta</text>
+  <text x="150" y="347" text-anchor="middle" font-size="12.5" fill="#9a7c4a">en lenguaje natural</text>
+  <text x="150" y="410" text-anchor="middle" font-size="12.5" fill="#7a7a7a">o una captura de pantalla</text>
+  <text x="150" y="430" text-anchor="middle" font-size="12.5" fill="#7a7a7a">(«¿dónde estoy atascado?»)</text>
+
+  <line x1="255" y1="325" x2="320" y2="325" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="330,325 317,318 317,332" fill="#8b2440"/>
+  <text x="292" y="308" text-anchor="middle" font-size="12" font-style="italic" fill="#7a7a7a">embedding</text>
+
+  <!-- cilindro chroma -->
+  <g>
+    <path d="M340,265 L340,365 A80,22 0 0 0 500,365 L500,265" fill="#ddeee4" stroke="#9cc4ab" stroke-width="2.5"/>
+    <ellipse cx="420" cy="265" rx="80" ry="22" fill="#e9f4ee" stroke="#9cc4ab" stroke-width="2.5"/>
+    <text x="420" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="bold" fill="#1d6b4f">ChromaDB</text>
+  </g>
+  <text x="420" y="425" text-anchor="middle" font-size="12.5" fill="#7a7a7a">búsqueda vectorial</text>
+
+  <line x1="508" y1="325" x2="565" y2="325" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="575,325 562,318 562,332" fill="#8b2440"/>
+
+  <!-- candidatos -->
+  <g>
+    <rect x="590" y="235" width="170" height="40" fill="#f2efeb" stroke="#d8d2c7" rx="6"/>
+    <rect x="590" y="285" width="170" height="40" fill="#f2efeb" stroke="#d8d2c7" rx="6"/>
+    <rect x="590" y="335" width="170" height="40" fill="#f2efeb" stroke="#d8d2c7" rx="6"/>
+    <rect x="590" y="385" width="170" height="40" fill="#f2efeb" stroke="#d8d2c7" rx="6"/>
+    <g fill="#c8c2b6">
+      <circle cx="608" cy="255" r="4"/><rect x="620" y="251" width="120" height="7" rx="3"/>
+      <circle cx="608" cy="305" r="4"/><rect x="620" y="301" width="105" height="7" rx="3"/>
+      <circle cx="608" cy="355" r="4"/><rect x="620" y="351" width="115" height="7" rx="3"/>
+      <circle cx="608" cy="405" r="4"/><rect x="620" y="401" width="95" height="7" rx="3"/>
+    </g>
+  </g>
+  <text x="675" y="210" text-anchor="middle" font-size="14" font-weight="bold" fill="#8b2440">candidatos</text>
+  <text x="675" y="455" text-anchor="middle" font-size="12.5" fill="#7a7a7a">texto · capturas · vídeo</text>
+
+  <line x1="768" y1="325" x2="825" y2="325" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="835,325 822,318 822,332" fill="#8b2440"/>
+
+  <!-- prioridad de fuente -->
+  <rect x="850" y="255" width="270" height="140" fill="#f7e3e6" stroke="#d9a3ad" stroke-width="2" rx="12"/>
+  <text x="985" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#8b2440">Prioridad de fuente</text>
+  <text x="985" y="332" text-anchor="middle" font-size="13.5" fill="#8a6a70">manual oficial ≻ vídeo</text>
+  <text x="985" y="356" text-anchor="middle" font-size="13.5" fill="#8a6a70">el vídeo solo si es pertinente (umbral)</text>
+
+  <line x1="1125" y1="325" x2="1182" y2="325" stroke="#8b2440" stroke-width="3"/>
+  <polygon points="1192,325 1179,318 1179,332" fill="#8b2440"/>
+
+  <!-- LLM -->
+  <rect x="1205" y="255" width="180" height="140" fill="#f7e3e6" stroke="#d9a3ad" stroke-width="2" rx="12"/>
+  <text x="1295" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#8b2440">qwen2.5</text>
+  <text x="1295" y="335" text-anchor="middle" font-size="13" fill="#8a6a70">redacta SOLO con</text>
+  <text x="1295" y="355" text-anchor="middle" font-size="13" fill="#8a6a70">los fragmentos</text>
+
+  <line x1="1390" y1="325" x2="1440" y2="325" stroke="#1d6b4f" stroke-width="3"/>
+  <polygon points="1450,325 1437,318 1437,332" fill="#1d6b4f"/>
+
+  <!-- respuesta con citas -->
+  <text x="1510" y="210" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d6b4f">respuesta citada</text>
+  <g>
+    <rect x="1462" y="235" width="110" height="42" fill="#e9f4ee" stroke="#9cc4ab" rx="6"/>
+    <circle cx="1480" cy="256" r="11" fill="#1d6b4f"/><text x="1480" y="261" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">1</text>
+    <rect x="1498" y="251" width="62" height="8" rx="3" fill="#9cc4ab"/>
+    <rect x="1462" y="287" width="110" height="42" fill="#e9f4ee" stroke="#9cc4ab" rx="6"/>
+    <circle cx="1480" cy="308" r="11" fill="#1d6b4f"/><text x="1480" y="313" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">2</text>
+    <rect x="1498" y="303" width="52" height="8" rx="3" fill="#9cc4ab"/>
+    <rect x="1462" y="339" width="110" height="42" fill="#e9f4ee" stroke="#9cc4ab" rx="6"/>
+    <circle cx="1480" cy="360" r="11" fill="#1d6b4f"/><text x="1480" y="365" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">3</text>
+    <rect x="1498" y="355" width="58" height="8" rx="3" fill="#9cc4ab"/>
+  </g>
+  <text x="1517" y="412" text-anchor="middle" font-size="12.5" fill="#7a7a7a">cada cita [n · manual p.X]</text>
+  <text x="1517" y="432" text-anchor="middle" font-size="12.5" fill="#7a7a7a">abre la página o captura exacta</text>
+
+  <!-- pie -->
+  <text x="800" y="600" text-anchor="middle" font-size="14" fill="#5a4a4d">La misma consulta sirve para la búsqueda y para el chat de dudas — el chat además hereda el manual en contexto y admite pantallazos.</text>
+</svg>

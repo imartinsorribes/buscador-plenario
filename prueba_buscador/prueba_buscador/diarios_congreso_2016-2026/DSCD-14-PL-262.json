@@ -1,0 +1,1248 @@
+{
+ "id": "DSCD-14-PL-262",
+ "legislatura": 14,
+ "fecha": "20 de abril de 2023",
+ "tema_sesion": "Dictámenes de comisiones sobre iniciativas legislativas: — Proposición de Ley Orgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en los delitos contra la libertad sexual; la Ley de Enjuiciamiento Criminal, y la Ley Orgánica 5/2000, de 12 de enero, regulad",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 292,
+   "en_contra": 23,
+   "abstenciones": 31
+  },
+  {
+   "emitidos": null,
+   "a_favor": 259,
+   "en_contra": 1,
+   "abstenciones": 86
+  },
+  {
+   "emitidos": null,
+   "a_favor": 105,
+   "en_contra": 33,
+   "abstenciones": 208
+  },
+  {
+   "emitidos": null,
+   "a_favor": 157,
+   "en_contra": 175,
+   "abstenciones": 14
+  },
+  {
+   "emitidos": null,
+   "a_favor": 233,
+   "en_contra": 59,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": null,
+   "a_favor": 233,
+   "en_contra": 59,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": null,
+   "a_favor": 197,
+   "en_contra": 1,
+   "abstenciones": 148
+  },
+  {
+   "emitidos": null,
+   "a_favor": 161,
+   "en_contra": 182,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 37,
+   "en_contra": 306,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 32,
+   "en_contra": 255,
+   "abstenciones": 58
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 4,
+   "en_contra": 286,
+   "abstenciones": 55
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 22,
+   "en_contra": 316,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 4,
+   "en_contra": 336,
+   "abstenciones": 5
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 28,
+   "en_contra": 259,
+   "abstenciones": 58
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 25,
+   "en_contra": 312,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 344,
+   "a_favor": 79,
+   "en_contra": 264,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 78,
+   "en_contra": 173,
+   "abstenciones": 94
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 22,
+   "en_contra": 315,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 55,
+   "en_contra": 283,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 38,
+   "en_contra": 274,
+   "abstenciones": 33
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 70,
+   "en_contra": 274,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 80,
+   "en_contra": 264,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 59,
+   "en_contra": 283,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 55,
+   "en_contra": 283,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 55,
+   "en_contra": 283,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 68,
+   "en_contra": 268,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 58,
+   "en_contra": 284,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 51,
+   "en_contra": 294,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 95,
+   "en_contra": 200,
+   "abstenciones": 50
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 155,
+   "en_contra": 185,
+   "abstenciones": 5
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 97,
+   "en_contra": 184,
+   "abstenciones": 64
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 96,
+   "en_contra": 194,
+   "abstenciones": 55
+  },
+  {
+   "emitidos": 345,
+   "a_favor": 146,
+   "en_contra": 194,
+   "abstenciones": 5
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 292,
+   "en_contra": 23,
+   "abstenciones": 31
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 259,
+   "en_contra": 1,
+   "abstenciones": 86
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 105,
+   "en_contra": 33,
+   "abstenciones": 208
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 157,
+   "en_contra": 175,
+   "abstenciones": 14
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 65,
+   "en_contra": 174,
+   "abstenciones": 107
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 67,
+   "en_contra": 185,
+   "abstenciones": 94
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 151,
+   "en_contra": 185,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 296,
+   "a_favor": 233,
+   "en_contra": 59,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 296,
+   "a_favor": 233,
+   "en_contra": 59,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 197,
+   "en_contra": 1,
+   "abstenciones": 148
+  },
+  {
+   "emitidos": 346,
+   "a_favor": 161,
+   "en_contra": 182,
+   "abstenciones": 3
+  }
+ ],
+ "n_intervenciones": 139,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muy buenos días, señorías. Se reanuda la sesión.\nComenzamos con el dictamen relativo a la proposición de ley orgánica para la modificación de la Ley \nOrgánica 10/1995, de 23 de noviembre, del Código Penal en los delitos contra la libertad sexual, la Ley de \nEnjuiciamiento Criminal y la Ley Orgánica 5/2000, de 12 de enero, Reguladora de la Responsabilidad \nPenal de los Menores.\nLes recuerdo que, finalizado este debate, se votarán las enmiendas correspondientes a esta iniciativa.\nPara defender las enmiendas formuladas a esta iniciativa legislativa, tiene la palabra, por el Grupo \nParlamentario Euskal Herria Bildu, la señora Pozueta Fernández."
+  },
+  {
+   "speaker": "POZUETA FERNÁNDEZ",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora presidenta.\nEgun on guztioi. El pasado 7 de marzo, en el debate de la toma en consideración, terminaba mi \ndiscurso afirmando lo siguiente: Hoy esta reforma comenzará su trámite y lo hará de mano de la derecha. \nSí, mal comienzo; pero por encima de la foto resultante de hoy ―decía entonces― actuemos todas con \naltura de miras, modifiquemos lo que haya que modificar y preservemos lo que tanto ha costado lograr, el \nconsentimiento. Las mujeres y el movimiento feminista no merecen menos. Volvamos a encontrarnos, \nestamos a tiempo.\nHa pasado un mes y medio y parece que aquellas palabras y aquel ofrecimiento han caído en saco \nroto. Señorías del PSOE, hoy se han equivocado. Se lo digo con enorme tristeza, se han equivocado \nenormemente, no por nosotras, sino por los millones de mujeres que verán cómo lo que suponía un \navance en la protección de nuestras vidas se va por la borda. La ley del solo sí es sí nació recogiendo la \ndemanda compartida en las calles, que gritaron ‘no es abuso, es violación’ tras la vergonzosa sentencia \nde La Manada, una sentencia que, especialmente en Nafarroa, produjo indignación y por la que las \nmujeres dijimos basta. Aquella indignación se transformó en cambios y los cambios acabaron en una ley, \nuna conquista más del movimiento feminista y de la movilización de las mujeres. Hoy, lamentablemente, \nesta reforma permitirá que una sentencia como la de La Manada vuelva a producirse. Por eso estamos \ntristes. Por eso creo que se equivocan enormemente, señorías del PSOE. Hemos intentado todo para \nevitar este escenario y llegar a un acuerdo para proteger el corazón de esta ley, el consentimiento como \neje central de la libertad sexual, para que la falta del consentimiento fuese el único requisito para considerar \nun hecho como contrario a la libertad sexual.\nHemos mantenido diálogo y conversaciones tanto con el Ministerio de Igualdad como con el de \nJusticia, con el Partido Socialista y Unidas Podemos y con profesionales y expertas de lo jurídico para \nbuscar una solución. No ha sido posible, y así lo decimos, por la rotunda negativa del PSOE a acordar, \nsabedoras del apoyo que ya tenían del Partido Popular. Lo intentamos incluso planteando enmiendas \nconjuntas con las compañeras de ERC que pudieran recoger medidas de acercamiento al PSOE, \nplanteando la violencia e intimidación como un agravante en el artículo 180. Pensamos que esa vía podía \nsalvar el desencuentro existente entre los dos ministerios y dar una respuesta a la necesidad de \ncorrecciones técnicas que imposibilitara la aplicación errónea y distinta del objetivo buscado en esta ley \nde garantía de libertad sexual.\nCreemos que era posible hacer los cambios técnicos necesarios manteniendo el espíritu y el pilar de \nesta ley, el consentimiento, sin tener que volver a demostrar si hubo violencia o no, si nos resistimos o no, \nsi nos negamos lo suficiente o no, pero tampoco fue posible. Nos gustaría saber por qué, cuál es la razón \npara decir no a estas propuestas y alienarse con la derecha. Qué puede llevarles a pensar, señorías \ndel PSOE, que una supuesta reforma feminista para proteger a las mujeres será mejor con el PP que con \ncve: DSCD-14-PL-262\n \nlas formaciones feministas. La verdad, es muy difícil de entender. Como ustedes mismos dicen, en estos \ntres años y medio el PP no ha sido capaz de votar a favor de ninguna de las medidas sociales que se han \naprobado en esta Cámara, ni de una sola. ¿Por qué ahora sí apoyan esta? ¿No les da qué pensar? Quizá \nes que efectivamente esta vez el PP tampoco está apoyando ningún avance social ni feminista, porque \nesta reforma es un retroceso.\nEl gran caballo de batalla de las derechas es frenar el cambio de valores y de pensamiento de esta \nsociedad machista hacia valores feministas, por el que el movimiento feminista lleva décadas trabajando \ny que esta ley viene a empujar. Ese es su objetivo para hoy, dar un pasito más hacia atrás gracias a esta \nreforma. El Código Penal es la herramienta que han encontrado para desacreditarla. Les repito la idea de \nque más penas, más años de cárcel y que haya condenas más duras para los agresores no suponen más \ngarantía de libertad para las mujeres y que convertirnos como sociedad en rehén del Código Penal para \ndarnos una sensación de seguridad no solucionará el problema estructural del machismo que sufrimos. \n(Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señorías, silencio, por favor."
+  },
+  {
+   "speaker": "POZUETA FERNÁNDEZ",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Más años de cárcel no acabarán con la violencia estructural \ncontra nosotras. Ojalá fuera tan simple. Solo el cambio social y de valores, la educación y el respeto, la \nigualdad y la conquista de derechos son las vías para acabar con esta lacra. Trabajemos comprometiéndonos \na seguir realizando muchas más políticas y cambios sociales profundos, más allá de aplicar penas. \nTenemos claro, muy claro, tal y como ayer se escuchó en las calles de Euskal Herria y del Estado, que nos \nqueremos libres y con derechos. (Termina su intervención en euskera.―Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora Pozueta.\nPor el Grupo Parlamentario Ciudadanos, tiene la palabra la señora Giménez Giménez."
+  },
+  {
+   "speaker": "GIMÉNEZ GIMÉNEZ",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\nSeñorías, como saben, nuestro posicionamiento general sobre esta reforma es favorable. Entendemos \nque esta propuesta busca blindar la ley en favor de las víctimas y evitar el efecto no deseado que ha \nprovocado la grieta en la ley de libertad sexual, mejorando el marco de las penas mínimas, estableciendo \nnuevos marcos penales que son más amplios para que en los casos graves no exista la posibilidad de \nimponer penas bajas, pero sin afectar al corazón de la norma, señorías. El artículo 178 se mantiene en \ntodos los aspectos relativos al consentimiento. Hay que tener en cuenta, como ya dije en la Comisión, que \nel artículo 178.3 establece y hace referencia a si la agresión se hubiese cometido empleando violencia, \nintimidación o cuando la víctima tenga anulada su voluntad. Me parece que es importante desde el punto \nde vista jurídico tener en cuenta esta cuestión.\nQueremos denunciar también la negación del reconocimiento de errores en un ámbito jurídico que ha \ntenido unos efectos no deseados para cualquiera de las personas que estamos hoy aquí en esta Cámara. \n¿Por qué tenemos que negar que se necesita una reforma? ¿Por qué tenemos que negar que cualquier \nvíctima se merece la protección y que está habiendo una serie de revisiones a la baja que está perjudicando \na todas las víctimas? La culpa no es de los jueces, señoría. Los jueces hacen su trabajo, los jueces \ninterpretan la norma, y si nos damos cuenta de que la norma permite este tipo de interpretación lo que hay \nque hacer es modificarla, no decir: No, es que los jueces deben interpretarla de otra manera. No, no nos \nmetamos en el campo jurisdiccional. Me parece bastante indignante mirar hacia el poder jurisdiccional \ncuando realmente la cuestión corresponde al Poder Legislativo.\nPor lo tanto, seamos responsables. Señorías de Podemos, sean responsables con la reforma que \nesta norma necesita. Es una buena norma. Nosotros siempre hemos dicho que es una buena norma \nporque tiene otra serie de cuestiones que son relevantes. La ley del sí es sí tiene una serie de cuestiones \nen relación con el acompañamiento, la asistencia, la sensibilización o la mejora de la protección a las \nvíctimas de violencia sexual que son buenas. Por lo tanto, seamos capaces de hacer la modificación que \nse merece.\nHoy nos encontramos ante una modificación sobre la que hay algunos en el hemiciclo que dicen que \nes una cuestión de derechas o que esto es una cuestión de izquierdas. En realidad esto es una cuestión \nde país, es una cuestión de defensa de los derechos fundamentales, de la defensa de los derechos de las \nvíctimas de violencia. (Aplausos). No es una cuestión de derechas o izquierdas, es una cuestión de \nresponsabilidad jurídica. Me parece bastante sesgado que creamos que es una cuestión de este tipo y por \ncve: DSCD-14-PL-262\n \neso creo que deberíamos estar todos ―todos― trabajando para que la reforma sea adecuada. De hecho, \nnosotros, en el trabajo de Comisión, dijimos: Señorías revisen los tipos. Claro, somos Ciudadanos, así que \nvoy a mirar para otro lado porque lo dice Ciudadanos. Revisemos los tipos, pero no se revisaron. En el \nSenado dijimos: Revisen los tipos y tampoco quisieron hacer caso. ¡Pues nos encontramos ante lo que \nnos encontramos! Pero, ¿qué es lo que hay que hacer? No es buscar culpables. Me parece incluso \nmiserable estar buscando aquí de quién es la culpa. Hay que buscar soluciones, y en la búsqueda de \nsoluciones el camino es el acertado.\nTodos sabemos que jurídicamente esta reforma no va a resolver la cuestión de las revisiones, me \nparece que hay que decir todo, no se va a resolver. Ahora bien, como dije en otra ocasión: ¿me quedo de \nbrazos cruzados y no mejoro? Claro que no, hay que mejorar la norma. ¿Para qué? Para que los hechos \nsubsiguientes sean adecuados. Y esto no es la vuelta al Código Penal de La Manada, no, nosotros \ntampoco queremos eso. ¿Por qué no es la vuelta al Código Penal de La Manada? Porque con la tipificación \nque se establece ante cualquier caso de agresión donde haya un grupo de agresores la penalidad no va \na ser la del anterior abuso. No va a ser en ese caso, no va a ser en la sumisión química, no va a ser \ncuando haya un uso de la superioridad y no va ser cuando una de las víctimas sea una persona con \ndiscapacidad. Hay una mejora rigurosa y, por lo tanto, creo que nos encontramos ante el camino acertado.\nNos encontramos ante el camino acertado y, además, nosotros hemos propuesto una serie de mejoras. \nPor un lado, nos congratula que se haya incorporado nuestra enmienda transaccional con otros grupos \nparlamentarios para mejorar el artículo 132 del Código Penal en relación con la ley de protección de los \nmenores, porque había un escollo que necesitaba mejora, que es que cuando la víctima de agresión sea \nun menor la prescripción se cuente cuando a partir de que esta persona tenga treinta y cinco años. Fue \nalgo que abanderamos ya en esa legislación y que se queda reformado adecuadamente en esta.\nMe sorprende que el Partido Socialista no esté aceptando una enmienda que propone la mejora del \nenjuiciamiento de los delitos de odio, un partido que se dice defensor de la lucha contra la discriminación \ny los delitos de odio. Tenemos la posibilidad de incorporar en la disposición adicional primera que los \ndelitos de odio del artículo 510 también sean enjuiciados por los juzgados de instrucción. Escuchen a las \nfiscalías de delitos de odio y discriminación en esta materia. Ustedes dicen: No, no es el momento de \nreformar. ¡Claro que es el momento de reformar! sobre todo en materias que ya están incluidas en esta \npropia norma.\nTambién mantenemos una enmienda para evitar la victimización secundaria de las personas que \nhayan sufrido delitos contra la libertad sexual, permitiendo que el juez instructor practique la audiencia de \nlas víctimas mayores de edad de delitos sexuales como prueba preconstituida. Esto da cumplimiento a la \nprevisión del artículo 24 de nuestra Carta Magna, garantizando una tutela judicial efectiva de sus derechos \npor parte de jueces y tribunales. Por lo tanto, esperamos que estas dos enmiendas, que son las que \nmantenemos, sean apoyadas.\nTambién nosotros queremos apoyar buenas enmiendas de otros grupos parlamentarios. Nos \nsorprende, porque además transmitimos a Podemos que creemos que en su enmienda 44 hay algo que \nnos parece acertado. Nos parece acertado que el régimen punitivo de las relaciones de menores de \ndieciséis años, en concreto en el artículo 182.1, se mejore con esta reforma, porque actualmente solo se \nestá cogiendo la reforma para penarlo en el delito cuando haya agresión con violencia o intimidación, pero \nno en el tipo básico. Sí que creemos que el tipo básico debería ser incluido, pero como no quieren \ndesgajar su reforma es imposible apoyarla, porque o les apoyas en todo, incluso en lo que no estás de \nacuerdo, o es imposible hacerlo.\nTambién queremos poner de manifiesto la buena propuesta que ha tenido Junts, una propuesta en \nrelación con la protección de los menores en el uso de los medios electrónicos. No entendemos cómo el \nGobierno no la introduce. Señorías, es una mejora que tiene que ver con la ley de protección a la infancia, \nla desarrolla y mejora algo que sabemos que es totalmente necesario."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señora Giménez, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "GIMÉNEZ GIMÉNEZ",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Pero ustedes tampoco la están aceptando.\nComo pueden ver, nosotros consideramos esta reforma adecuada. Queremos apoyar aquello que \nsupone avances y esperamos que se deje de hacer política de baja altura con esta materia, que estamos \nun poquito cansados todos, y reformemos adecuadamente la norma, sobre todo por todas las víctimas de \nviolencia.\nGracias. (Aplausos).\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señora Giménez.\nPor el Grupo Parlamentario Plural interviene, en primer lugar, el señor Rego Candamil."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Grazas, señora presidenta.\nHoy el PSOE consuma una actuación que supone un gran retroceso en los derechos de las mujeres \ncon esta proposición de ley que implica volver al Código Penal de La Manada, que las mujeres que sufren \nuna agresión sexual tendrán que demostrar de nuevo que hubo violencia y que se resistieron, incluso \ncuánto se resistieron. Además, lo hace de la mano de esa derecha ultra del Partido Popular que \nsistemáticamente se opuso a cualquier avance feminista y de los derechos de las mujeres, desde la ley \ndel divorcio de 1981 a la última del aborto de 2023. Solo el hecho de que esta propuesta tenga el aval de \nesa fuerza política retrógrada, especializada en intentar frenar los avances en derechos sociales y cívicos, \ndeja claro su carácter regresivo. Nos parece triste que el Partido Socialista, por puro cálculo electoralista, \npromueva una actuación que echa por tierra un avance fundamental de la ley del solo sí es sí, como fue \ncolocar el consentimiento en el centro de la nueva legislación, lo que supuso un paso decisivo que, a juicio \ndel BNG, hay que defender a toda costa.\nLo decimos nosotros, que discrepamos de lo que en su día calificamos de cerrazón de Podemos a \nrevisar puntualmente la ley para evitar efectos indeseados, porque nos parece de sentido común que si \nen la aplicación de una ley se constata que, aunque sea por la utilización perversa que hagan de ella \njueces machistas, se producen efectos indeseables, se puede y se debe revisar para evitarlos. Pero lo que \nno se puede hacer de ninguna manera es volver al modelo anterior, colocando de nuevo en el centro la \nviolencia para definir el tipo delictivo, que es lo que hace esta propuesta del PSOE. Las enmiendas \ndel BNG van justo en la dirección de incorporarla como agravante, manteniendo como central el \nconsentimiento. Por eso no podemos apoyar esta propuesta.\nObrigado."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Rego.\nPor el mismo grupo parlamentario tiene la palabra el señor Boadella Esteve."
+  },
+  {
+   "speaker": "BOADELLA ESTEVE",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, presidenta.\nBuenos días, señorías. En relación con esta cuestión relativa a la modificación de la etiquetada como \nley del sí o sí, lo cierto es que nosotros, ya en su momento, en la tramitación primera que tuvo esta \ncuestión en el Código Penal, alertamos de esta posibilidad con una enmienda que no tuvo la suerte de \nprosperar. También es cierto que apoyamos en su momento el conjunto de la ley de modificación del \nCódigo Penal para así dar cobertura a una necesidad y una demanda que entendíamos razonables. Pero \nlo cierto, finalmente, es que los efectos de esta ley aprobada — creo que es palmario y notorio— no han \nsido los deseados.\nCuando se aprueba una ley que no produce los efectos deseados, que produce esta revisión de \ncondenas que alerta tanto a la sociedad, lo cierto es que a nosotros nos corresponde, sin duda alguna, \nmodificarla. Dijimos desde el primer momento que estaríamos abiertos a cualquier modificación que \nviniera de la reforma del Código Penal para corregir una situación totalmente indeseada creo que para la \ntotalidad de los parlamentarios.\nEsta modificación, al margen de quién la vote favorablemente o de quién le dé apoyo, produce una \ncorrección técnica en el Código Penal muy necesaria. Por este motivo, nosotros vamos a dar apoyo a la \nmodificación del Código Penal, porque la antigua reforma, sin duda alguna, ha generado una situación de \nauténtico rechazo por parte de la sociedad, y la responsabilidad de los diputados en este ámbito es hacer \nleyes y hacer buenas leyes. Ayer les apuntaba también esta cuestión, la paradoja de que en el BOE se \npublicaron a la vez dos leyes que eran contradictorias entre sí. Esta cuestión de legislar corriendo, de \nlegislar contra las acciones en el último minuto ―como se hizo en su día en la Comisión de Igualdad \ncuando se aprobó esta modificación del Código Penal―, sin duda alguna conlleva que estas normas \ntengan estos problemas luego en su aplicación.\nEn este sentido, nosotros vamos a dar apoyo a la modificación del Código Penal. Entendemos que es \nlo que debe hacer también este Congreso de los Diputados para corregir totalmente una situación en \nrelación con las penas y con la revisión de sentencias que en ningún caso era deseada y que es \nreprochable.\nMuchas gracias.\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Muchas gracias, señor Boadella.\nFinalmente, por el Grupo Parlamentario Plural, tiene la palabra la señora Calvo Gómez."
+  },
+  {
+   "speaker": "CALVO GÓMEZ",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, presidenta.\n(Comienza su intervención en catalán.—Rumores). Dicho esto, el mismo PSOE que nos urge a \nsolucionar los efectos indeseados en la aplicación de la ley del solo sí es sí, no ve urgente corregir otros \ndefectos indeseados: los del uso problemático de la pornografía entre niños y jóvenes. No han presentado \nninguna transaccional a nuestras enmiendas, así que no se va a poder castigar penalmente a los \nresponsables de las plataformas de pornografía que incumplan la ley por no tener mecanismos de \nverificación de edad para impedir el acceso de los menores. La pornografía está detrás del preocupante y \nclaro aumento de las agresiones sexuales entre menores. Casi una quinta parte de los adolescentes de \nhoy tuvieron su primer contacto con la pornografía a los nueve años; a los catorce años, el 90 % ha \nvisionado porno; a los dieciséis, lo consume cerca del 95 %. En los últimos cinco años más de una cuarta \nparte de las violaciones grupales las realizaron menores de edad. La pornografía es su manual de sexo; \npor ello, normalizan las relaciones sexuales carentes de respeto, de igualdad, de consentimiento o las \nsituaciones de dominio y de violencia sobre las mujeres. El porno está matando la empatía de nuestros \njóvenes.\nEl pasado marzo nos echamos las manos a la cabeza al conocer la violación grupal en Badalona de \nuna niña de once años por siete adolescentes de catorce años o por debajo de esa edad. Pedimos ampliar \nla capacidad de la CNMC para controlar a las plataformas que incumplen la ley y poder exigir que se \ntomen medidas y actuar frente a la Fiscalía. En su último informe la propia CNMC reconoce — y cito— \ncarecer de herramientas adecuadas para combatir la problemática y defiende la pertinencia y necesidad \nde potenciar las medidas para limitar el acceso a contenidos que pudieran ser muy graves para el desarrollo \nfísico, mental o moral de los menores y que no cuenten con los obligatorios mecanismos de verificación \nde edad. La propia CNMC está pidiendo refuerzos y ustedes aparcan el problema. También proponemos \nque todos los dispositivos con conexión a Internet que se vendan lleven el control parental activado por \ndefecto y que se castigue penalmente el deepfake, la creación con inteligencia artificial de contenidos \naudiovisuales — por ejemplo, pornográficos— con los que se menoscabe gravemente el honor o la \nintimidad de una persona. Pero el PSOE dice que ahora no toca. Damos las gracias a los grupos que sí \nnos han dado apoyo. También en relación con la protección de los menores y para evitar espacios de \nimpunidad mantenemos nuestra enmienda 39, que fija en cuarenta y cinco años — y no en treinta y \ncinco— el inicio del cómputo para la prescripción de los delitos contra la libertad sexual, atendiendo a los \nestándares internacionales, tal y como reclama el activismo catalán liderado por Mikel Hurtado.\nY para acabar, hemos propuesto enmiendas que corrigen los efectos indeseados de la reforma penal \nde la malversación y los desórdenes y que defienden derechos fundamentales para evitar que jueces \ncomo Marchena puedan perseguir opciones políticas legítimas, acusando a los responsables públicos de \nmalversación, o para evitar que se pueda criminalizar la protesta por la vía de nuevos desórdenes públicos, \ncomo pasó con los Jordis, con Jordi Sànchez y Jordi Cuixart.\nGracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Gracias, señora Calvo.\nPor el Grupo Parlamentario Republicano, tiene la palabra la señora Vallugera Balañà.\nLa señora VALLUGERA BALAÑÀ: Gràcies, presidenta. Bon dia diputats, bon dia diputades. (Continúa \nsu intervención en catalán.―Aplausos).\nY vamos al tema. Es una cosa de casa, diríamos, familiar. (Rumores). Y, por tanto, lo debatiremos \ndonde toca, que es en casa y no delante de los españoles. A lo que íbamos… (Protestas). ¡Venga, venga! \nYa empezamos bien la intervención."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Silencio, por favor.\nLa señora VALLUGERA BALAÑÀ: Vamos a hacer un par de cosas. La primera, declarar aquí que la \nmayor parte de nosotros estamos haciendo un discurso muy interesado. La segunda es posicionarme \nrespecto a algunas enmiendas que han quedado vivas. Las nuestras están vivas porque no ha sido \naceptada ninguna de ellas, por tanto, las vamos a mantener para la votación. Vamos a dar apoyo a las \nenmiendas de Junts que tienen que ver con la prescripción en la ley orgánica de protección a la infancia; \ncve: DSCD-14-PL-262\n \na las enmiendas de Junts, que tienen que ver con el tema de pornografía, que efectivamente no acabo de \nentender cómo no han sido capaces de aceptarlas, y vamos a mantener que, aunque nuestro modelo es \nla imprescriptibilidad de los delitos que tienen que ver con abusos a menores, votaremos a favor de que \nse alargue hasta los cuarenta y cinco años a partir del cumplimiento de la mayoría de edad. (La señora \nGonzález Vázquez: Treinta y cinco). No, no, cuarenta y cinco. Vamos a mantenernos a favor de los \ncuarenta y cinco. Sigo diciendo que es en coherencia con nuestro modelo de imprescriptibilidad.\nHay varias cosas que deben ponerse encima de la mesa, se ha dicho ya, pero me parece importante: \nNo va a parar las revisiones, seamos sinceros, no va a solucionar las revisiones. Por tanto, para el primer \nefecto que querían conseguir no va a servir. Introducirá todavía más inseguridad jurídica con la incorporación \nde disposiciones de derecho transitorio que, desde el primer momento, hemos considerado que no debían \nestar en esta ley. También hay una pregunta que me resulta curiosa. ¿No se leyeron la ley antes de \naprobarla? Porque todos estábamos de acuerdo; es decir, la mayoría fue abrumadora.\nLa siguiente pregunta es: ¿El grupo mayoritario del Gobierno es consciente de verdad de lo que está \nhaciendo en términos políticos? Es decir, el PSOE se alía con el PP — que nos han estado diciendo \ndurante tres años que son enemigos de los derechos de las mujeres— para modificar una ley impulsada \npor una ministra de su Gobierno de Unidas Podemos. Oigan, yo sé poco de política — porque solo hace \ntreinta y cinco años que me dedico a ella—, pero, vaya, que no está dentro de los estándares comunes y \nque no es una prueba de lealtad, de buen gobierno y de respeto a lo que impulsó esa ley a mí me parece \nmás que evidente. (Aplausos). Por tanto, la pregunta es: ¿Ustedes son conscientes de lo que están \nhaciendo? ¡¿Tres años machacando con que el PP es antifeminista y ahora les compran la reforma?!\nOtra gran mentira: el Código Penal, señores, es técnico, no tiene ideología. O sea, que el máximo \ninstrumento de fijación de qué comportamientos son o no sancionables y a cuáles penamos no es político, \noigan, es puramente técnico. ¡Hombre, por favor! Los insultos a la inteligencia en esta Cámara empiezan \na ser ya demasiado reiterados. Es evidente que es un tema de política penal y, por tanto, un tema \nideológico. El Código Penal es de derechas o es de izquierdas, y les diré una cosa, lo más de izquierdas \nes su ausencia, porque querría decir que no es necesario. Y del mismo modo debemos entender las \npenas: enfocadas, sobre todo las de prisión, a la rehabilitación. Hace mucho tiempo que dejamos de \nentender la prisión y las penas privativas de libertad como retributivas; hace mucho tiempo que los \nconceptos de prevención general y especial son los que guían las penas de prisión.\nDicho todo esto, que es de un cierto calado político — creo—, vamos a lo que es realmente importante. \nEsta ley se hizo, entre otras cosas, porque el 92 % de las agresiones quedan impunes y porque de las \nque se denuncian una gran parte son sobreseídas, se cierran. Lo que queríamos explicar a las mujeres \nes que el Estado cambiaba su manera de entender la relación y la libertad sexual de las mujeres y se \nponía de su parte, y comprendía que cualquier acción contra la libertad sexual de una mujer no era un \nabuso, era una agresión. Luego, hacíamos una horquilla de penas para, efectivamente, valorar la \ngravedad de esa agresión. Esa era la intención, decir: mujeres, vuestra libertad es sagrada, también en \nlo sexual, y el Estado, que acompaña esta visión, será un aliado en la reparación, si es que habéis sido \nvíctimas ―también se lo diré, estoy harta de oír hablar de mujeres víctimas; estamos dando una imagen \ncolectiva que no nos ayuda―, y, por otra parte, vamos a iniciar procesos de prevención, de recuperación \ny de no revictimización.\nCon esta proposición creo que han vuelto a enviar el mensaje antiguo: Estábamos bien como \nestábamos, vuelvan ustedes a pensar que, si no encuentran la necesaria legitimación de esa vulneración \nen los tribunales, es porque ustedes se han equivocado. (Aplausos). Hace veinticuatro horas, la defensa \nde un famoso futbolista: Es que no dijo que no. Ya volvemos a estar ahí. Por favor, léanse los criterios del \nMinisterio Fiscal, que explican la diferencia entre el modelo de consentimiento positivo y el negativo. \nNosotras optamos por el consentimiento positivo: no tienes que decir no para que sea una agresión, no \ntienes que decirlo, no tienen que matarte, no tienen que hacerte mucho daño…"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señora Vallugera, tiene usted que terminar, por favor.\nLa señora VALLUGERA BALAÑÀ: Termino inmediatamente.\nDebíamos cambiar ese paradigma y ustedes lo han vuelto atrás. Yo no sé si son conscientes de lo que \nhan hecho, pero lo serán, porque esto ha sido un final de la historia que debería haber sido mucho \nmás feliz.\nMuchas gracias. (Aplausos).\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señora Vallugera.\nPor el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, \ntiene la palabra la señora Muñoz Dalda."
+  },
+  {
+   "speaker": "MUÑOZ DALDA",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Hoy es uno de los días más tristes que una diputada feminista puede \nvivir. Es un día triste para la democracia, para el feminismo. Un día en el que se vota un retroceso para \nlos derechos de las mujeres, un retroceso que no se va a poder disimular hablando de retoques técnicos \nporque el autor de esta reforma calificó el consentimiento como un teatro y porque el principal socio de \nesta reforma, el Partido Popular, habla abiertamente de derogación parcial de la ley solo sí es sí y de \nuna vuelta al esquema penal anterior, que definía las agresiones sexuales en función de la existencia \nde violencia o intimidación. Lo dice la exposición de motivos de esta PL pactada por el PSOE y el PP. \nCuando se emplea violencia o intimidación estamos ante elementos que están en la conducta misma. \nEsto quiere decir que se vuelven a definir las agresiones sexuales en función de si hay o no violencia o \nintimidación y no exclusivamente por la ausencia de consentimiento, como exige el Convenio \nde Estambul.\nLo que se vota hoy, señorías, es una vuelta atrás respecto a la conquista que ha supuesto la centralidad \ndel consentimiento en el Código Penal por demanda de las feministas, que llenaron las calles diciendo que \nsolo sí era sí. Se vuelve al esquema penal que se aplicó en la sentencia de La Manada, donde no se \nconsideró que había intimidación en una violación grupal y contra la que se levantó el movimiento feminista \nen nuestro país y cientos de miles de personas que salieron a decir que había que acabar con un Código \nPenal contrario a la libertad sexual de las mujeres. Hoy se recorta nuestra libertad sexual. Es volver a \nponer la responsabilidad en cómo resistimos, en cómo respondimos, en si quedamos paralizadas, como \nsi eso hiciese menos grave la agresión. Señorías, lo estamos viendo estos días. Se está investigando al \nfutbolista Dani Alves, acusado de agredir sexualmente a una mujer en una discoteca, y su defensa está \ndiciendo que como la víctima no presenta heridas físicas en la vagina, entonces no fue una agresión, fue \nsexo consentido. Estamos volviendo, señorías, al modelo de la herida frente al del consentimiento. Por \ncierto, señorías, no es cierto que sea fácil probar la violencia en una agresión sexual, eso de que con una \nherida basta; de hecho, la inmensa mayoría de las mujeres que denuncian no pueden demostrar esa \nviolencia. Es incomprensible, es inexplicable que, ante la necesidad de dar respuesta a las víctimas y a la \nsociedad ante las decisiones judiciales de rebajas de penas a agresiones sexuales, el PSOE decida \npactar con el PP, que ha votado en contra de todos los avances en derechos de las mujeres, en lugar de \npactar con la mayoría feminista de investidura, que ha hecho decenas de propuestas para intentar llegar \na un acuerdo. (Aplausos).\nLa voluntad del Legislativo estaba clara, señorías: proteger la libertad sexual, poner en el centro del \nCódigo Penal el consentimiento, como demandaba el Convenio de Estambul, y así avanzamos con esta \nley en la parte penal e integral, cambiando el esquema, cambio de esquema que, quiero recordarles, \nsuscitó el acuerdo de la mayoría de investidura progresista, plurinacional y feminista, y el rechazo del \nPartido Popular y VOX. Un cambio de esquema que, como afirma la Fiscalía General del Estado por \nunanimidad de todos los fiscales de Sala, no debería haberse traducido en esas decisiones judiciales, \nmotivo por el cual están recurriendo centenares de revisiones.\nSeñorías, ¿no se acuerdan de que el debate que ocupó a esta Cámara en la aprobación de esta ley \nfue la presunción de inocencia de los hombres? Les pido memoria y no mentir. El principal debate que \nplanteó la derecha durante la tramitación de la ley era precisamente que con ella tendrían reproche penal \nconductas que hasta ahora no se reconocían como violencia, como el acoso callejero. Va a ser delito \nllamar guapa a una mujer, decían. Nada de lo que se defiende hoy aquí es lo que se había defendido \ndurante la tramitación de la ley.\nHagamos memoria. El pasado 6 de septiembre, el BOE recogía la Ley Orgánica de Garantía Integral \nde la Libertad Sexual, una ley que nace del movimiento feminista, de los cientos de miles de mujeres \nque llenaron las calles de nuestro país reclamando que solo sí era sí y que se negaban a que si una \nagresión sexual perpetrada por cinco hombres frente a una mujer terminaba sin heridas físicas en el \ncuerpo de la mujer se considerase un mero abuso, porque, en el fondo, lo que reside en este juicio \nsobre los cuerpos de las mujeres es el pensamiento machista de que, si no se resistió tanto, si no se \njugó la vida, entonces, muy en el fondo, igual quería. Con esta ley, el consentimiento y no la herida es \nlo que determina si ha habido o no agresión sexual. Si no habías expresado el sí, el deseo de tener esa \nrelación sexual, es una agresión sexual; si te habías quedado paralizada por el miedo o si decidiste que \ncve: DSCD-14-PL-262\n \nera mejor no jugarte la vida y te quedaste callada, también es una agresión sexual. Esta tipificación de \nlos delitos sexuales es la que nos mandata, entre otros, el Convenio de Estambul y el CEDAW.\nPoco después de la entrada en vigor de esta ley, algunos tribunales ―una minoría; un tercio según los \ndatos del Consejo General del Poder Judicial— emitieron sentencias de rebajas de condena a agresores \nsexuales en una mala aplicación del derecho transitorio y de la jurisprudencia de nuestro país, que exige \nvalorar el Código Penal completo y no de forma troceada, tal y como lo explicaba la circular de la Fiscalía \nGeneral del Estado. Quiero recordar que con la aprobación de la ley de violencia de género también se \nprodujo una reacción desde determinados sectores del Poder Judicial. Hubo casi doscientas cuestiones \nde inconstitucionalidad planteadas por los jueces de este país y aumentaron un 158 % los sobreseimientos. \nHablamos de cientos de mujeres que quedaron durante años sin la adecuada protección del Estado, como \ndecía la ministra de Igualdad, Bibiana Aído, cuatro años después de la aplicación de la norma, exigiendo \na jueces que aplicasen la ley una vez declarada su plena constitucionalidad por el Tribunal Constitucional \npara no seguir dejando desprotegidas a esas mujeres.\nEl Gobierno del presidente Zapatero, en ese momento y ante esta ofensiva, desplegó un plan integral \npara acelerar la implementación de la ley: especialización judicial, más presupuesto para la lucha contra \nla violencia de género, formación de los operadores que trabajan con las víctimas. Esta fue, de hecho, la \nprimera propuesta que le hicimos al Partido Socialista para hacer frente a la preocupación social generada. \nDesde ese momento, no paramos de dialogar, de negociar y de hacer propuestas, señorías. Nos pidieron \nreformar la ley y, aun conscientes de que la ley no era el problema y de que, como ustedes mismos \nreconocen, ninguna reforma evitará las decisiones judiciales de rebajas de condenas, hicimos no una, \nsino varias propuestas de reforma. Nos pidieron subir penas y, aun conscientes de que esta ley ya es más \ndura que la anterior, hicimos una propuesta de subida de penas que ustedes rechazaron porque \nsubía demasiado las penas. Siempre, también hoy, hemos tenido voluntad firme de acuerdo, señorías \nsocialistas; quienes no han tenido voluntad negociadora, quienes no han modificado su propuesta desde \ndiciembre, quienes han rechazado todos los intentos de llegar a un acuerdo que les hemos planteado han \nsido ustedes, señorías, y eso solo se explica porque tienen la voluntad política de volver al esquema penal \nanterior y si el socio que necesitan para ello es el Partido Popular lo asumen sin tapujos, y porque han \ndecidido ceder ante las presiones de la derecha judicial, mediática y política. En vez de defender \nlos derechos feministas, los derechos de las mujeres, los han entregado a los reaccionarios.\nSiempre decimos que somos muy conscientes de que los derechos de la mujer siempre están en \nriesgo de retroceder. Hoy lo vivimos en primera persona. Rectifiquen, pacten con la mayoría feminista de \ninvestidura."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señora Muñoz, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "MUÑOZ DALDA",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Nuestra propuesta es clara: no voten con el PP ese retroceso y miren a \nla mayoría progresista, feminista y plurinacional. Digámosles juntas a las mujeres de este país que los \nderechos feministas no se negocian con el Partido Popular. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señora Muñoz.\nPor el Grupo Parlamentario VOX, tiene la palabra la señora Toscano de Balbín. (Aplausos)."
+  },
+  {
+   "speaker": "TOSCANO DE BALBÍN",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Con la venia.\nEl punitivismo es una trampa. El punitivismo es más violencia. El feminismo nunca ha sido punitivista. \nImponer una pena muy alta al agresor aísla el problema y, de paso, la aísla a ella. Estas surrealistas \npalabras, estas frases, son de la delegada del Gobierno contra la Violencia de Género, Victoria Rosell, \ny creo que son demoledoras porque reflejan bastante bien cuál fue la intención de esta ley desde el principio.\nDespués de estas palabras ya no caben paños calientes ni disimulos. Querían a los agresores en la \ncalle (aplausos), pero el fondo de esta ley y el fondo del que nadie habla, menos VOX, es mucho más \ngrave. Para analizar el fondo de esta ley hay que tener en cuenta tres elementos. El primero es que \nustedes, feministas, odian a los hombres; fruto de unas malas lecturas, de peores teorías, a saber de qué, \nles odian, y por eso educan y adoctrinan a nuestros hijos y a toda la sociedad a golpe de ley, como esta \nde libertad sexual, en que solo el hombre puede ser violento, en que al hombre hay que tenerle miedo. Por \neso, en esta ley se pisotea otra vez la presunción de inocencia al invertir la carga de la prueba (aplausos), \nse les destroza la existencia con denuncias falsas y se les roba la vida, los hijos y el honor, y a ustedes les \nimporta un bledo.\ncve: DSCD-14-PL-262\n \nOtro elemento que hay que analizar es su extraña querencia y simpatía por el delincuente. Lo \nconsideran una víctima del sistema patriarcal, una víctima del capitalismo, una víctima puede que de \nFranco; en todo caso, una víctima, y no digamos ya si encima el delincuente es inmigrante ilegal, y si para \nentrar en España agrede a policías ya su delincuentefilia se dispara.\nY el tercer elemento esencial para entender esta ley es que ustedes, en el fondo, desprecian a la \nmujer. (Aplausos). La mujer, para ustedes, es un mero objeto al que hay que utilizar para alienar a la \nsociedad con ideologías falsas y destructivas. Les importa tan poco la mujer que incluso la han vaciado \nde significado, porque por obra y gracia de su ley trans cualquiera puede ser ya registralmente mujer. \n(Aplausos). Hemos llegado a delirios tan extremos como que el Ministerio de Igualdad reivindique los \nproblemas menstruales de las mujeres trans y su dificultad económica para adquirir productos menstruales. \nSeñora ministra, ¿me puede explicar qué va a hacer una mujer trans con una compresa? Creo que usted \nse saltó algún capítulo de Érase una vez la vida. Y a veces creo que usted y sus secuaces en el Ministerio \nde Igualdad se dedican a jugar a aquello de: ¿A que no hay narices de? Sujétame el cubata. Porque \nustedes legislan a golpe de maldad y de sujétame el cubata. (Aplausos). Ustedes consideran a la mujer \nun ser inferior, porque nos dan privilegios y cuotas que no necesitamos y no queremos, porque nos \nconsideran incapaces y sin méritos para conseguir nada por nosotras mismas. Con esta ley tenemos que \nfirmar nuestro consentimiento sexual ante notario o como ustedes digan, tenemos que ser creídas siempre \ny se considera violencia todo lo que no nos guste, como si fuéramos niñas malcriadas. Señorías, esta ley \nes pura misoginia. Por eso no les importó el dolor de las víctimas de violación al ver a esos agresores en \nla calle con las penas rebajadas. Por eso no les duele que tantas madres, esposas, abuelas, vean a sus \nnietos, maridos, hijos, acusados falsamente sin pruebas. Por eso han puesto en la calle con premeditación \ny alevosía a agresores sexuales. Nunca un Gobierno ha hecho tanto daño a las mujeres como este. \n(Aplausos).\nY cuando se unen estos tres elementos: el odio al hombre, la querencia por los delincuentes y el \ndesprecio a la mujer salen cosas como esta ley: una ley que viola derechos constitucionales, que adoctrina \nen el odio, que no piensa invertir ni medio euro ni medio esfuerzo en analizar las causas reales de la \nviolencia sexual; una ley que consagra los tribunales de excepción para hombres; una ley que dilapidará \nmillones de euros de los españoles en chiringuitos, porque la trágica realidad es que para el feminismo la \nviolencia contra la mujer se ha convertido en un negocio. (Aplausos).\nEsta reforma no va a borrar ninguna de estas infamias. La operación de maquillaje — de propaganda \nelectoral, más bien— se reduce básicamente a volver a las penas anteriores del Código Penal. No han \ntenido en cuenta ni una de las enmiendas de VOX, que son las únicas que, sin ideología y con la verdad \npor delante, buscan proteger a las personas agredidas sexualmente (aplausos) con prisión permanente \nrevisable para determinado tipo de delitos, como las violaciones en manada, endureciendo las penas, \ndiferenciando entre abuso y agresión, y expulsando de nuestro país a los extranjeros ilegales que agreden \na nuestras mujeres.\nPor estas razones no vamos a ser cómplices de esta vergüenza, de esta ley pactada con un Partido \nPopular que bendice y santifica esta ley, haciéndose corresponsable, aunque esto, por desgracia, no es \nninguna novedad. El Partido Popular cuando no permite fomenta por su cuenta esta agenda feminista que \nno protege a las mujeres, que nos privilegia en el peor sentido y que vulnera los derechos de hombres y \nniños. (Aplausos). Ustedes, sí, tienen muchas ganas — lo hemos visto—, lo que no dicen es que de lo que \ntienen ganas es de mantenerse en el poder a costa de pactar con el diablo, o sea, de comprar la ley de \nPedro Sánchez y los delirios ideológicos de Irene Montero. (Aplausos). Ustedes ya no son alternativa. Así \nque, si lo que van a hacer es seguir apoyando esta ley y esta agenda de odio, de sospecha y de \ndesconfianza entre los dos sexos — sí, he dicho dos—, si van a seguir colaborando para poner la ideología \npor encima de la igualdad, de los derechos y de nuestra seguridad, si van a seguir el camino que les \nmarca Pedro Sánchez y la Agenda 2030, apártense y dejen a VOX defender las batallas y los valores que \nustedes han abandonado. (Aplausos).\nDecía Chesterton que el verdadero soldado no lucha porque odie lo que tiene delante, sino porque \nama lo que tiene detrás, y creo que en política es exactamente igual. Seguiremos viendo leyes como esta, \nque solo mueven odio e injusticia, mientras lo que les mueva no sea el amor al prójimo, a la familia, al \nhombre, a la mujer, a nuestros hijos, mientras lo que les mueva no sea el amor por la verdad y por la \njusticia. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, puestos \nen pie).\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, señora Toscano.\nPor el Grupo Parlamentario Popular en el Congreso, tiene la palabra la señora Gamarra Ruiz-Clavijo.\nSilencio, por favor."
+  },
+  {
+   "speaker": "GAMARRA RUIZ-CLAVIJO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias presidenta.\nTras más de mil revisiones de sentencia bajándoles las penas a los agresores sexuales, tras más de \nun centenar de excarcelaciones de delincuentes sexuales y casi doscientos días después de la entrada \nen vigor de una reforma del Código Penal hoy la sociedad española tiene puesta su mirada en el Congreso \nde los Diputados, en lo que ocurre aquí, y lo hace como pocas veces lo ha hecho. Lo hace ante la \nderogación de una ley que hace apenas ocho meses que fue aprobada, lo hace porque exige que esto \ntermine y lo hace porque quiere que pare esta sangría que nunca debió comenzar.\nLa sociedad española no puede entender que, estando advertidos y conociendo perfectamente los \nefectos que la entrada en vigor de esta ley iba a originar, se aprobase una reforma del Código Penal contra \nla propia sociedad española. La sociedad española no puede entender que se haya tardado tanto en \nderogarla y volver a las penas del Código Penal de la democracia. Nadie puede entender que el Consejo \nde Ministros, y por tanto el Poder Ejecutivo, aprobara algo sabiendo, como han confesado, los efectos que \nse iban a producir, y además habiendo confesado en las últimas horas que les parecían pocas las \nreducciones de penas que se iban a experimentar. Nadie puede entender que el Congreso y el Senado, \nes decir, el Poder Legislativo, haya fallado también a la sociedad española, porque todos estábamos \nadvertidos de los efectos que esto iba a traer y una mayoría parlamentaria no quiso leer ni darse por \nenterada. (Aplausos). Y la sociedad española tampoco puede entender que hoy el gran ausente sea el \nmáximo responsable de todo lo que está pasando: Pedro Sánchez, el culpable. (Aplausos). Pero, \nlamentablemente, hoy no es el fin de uno de los mayores dramas que han sufrido las mujeres de nuestro \npaís, porque el goteo de revisiones y excarcelaciones va a continuar. Ya son mil, pero esta cifra va a seguir \nsubiendo, y no es una cifra, son mujeres que van a seguir siendo revictimizadas.\nLas víctimas de estas agresiones — mujeres, niños y niñas— han escuchado un falso perdón de la \nboca del presidente de su Gobierno. Un falso perdón porque no estaba motivado por el arrepentimiento, \nestaba motivado única y exclusivamente por el efecto electoral que esta sangría estaba experimentando. \n(Aplausos). Es una de las decisiones políticas impulsadas por el Gobierno de Pedro Sánchez más graves, \nmás irresponsables y más crueles que se pueden tomar por parte de un Gobierno y, como digo, el día en \nel que se rectifica su máximo responsable no está.\nSeñorías, estamos también ante algo inédito en la democracia, ante un Gobierno que se censura a sí \nmismo derogando una ley que es de ellos, un Gobierno contra sí mismo, que se manifiesta, como pudimos \nver ayer ante la derogación de esta ley, contra el propio Gobierno, y un Gobierno en el que nadie dimite, \nnadie asume responsabilidades después del daño que ha causado a la sociedad española.\nEsta reforma, además, ha supuesto el peor ejemplo de lo que es la política, un ejemplo de los \nmonstruos que genera la soberbia y un ejemplo de los monstruos que genera el populismo legislativo, \nporque ha sido perfectamente conocido y buscado el efecto que esto ha traído. Ha habido informes y ha \nhabido ministros que dicen haberlo advertido y, sin embargo, se ha llegado hasta aquí. Yo quiero destacar, \nademás, que dentro de estas advertencias estuvo también el trabajo serio y responsable del Grupo \nParlamentario Popular y especialmente el de nuestra diputada Marta González. (Aplausos). También ha \nsido un ejemplo de la peor política porque hemos podido ver a qué conduce un modo de gobernar que \nestá única y exclusivamente centrado en el eslogan, en el argumentario y en el marketing, cuando lo que \nse debe anteponer es el rigor técnico, jurídico y toda idea de bien común. Esto debe ser lo importante a la \nhora de legislar. Es además un ejemplo de lo peor de la política porque aquí se ha estado insultando, se \nha estado llamando fachas a los jueces y se ha estado hablando de bulos machistas cuando se denunciaba \nla verdad de los efectos de esta ley. Pero es que además es un ejemplo de lo peor de la política porque \nhemos llegado aquí, a esta rectificación, no buscando por parte del Partido Socialista parar esta sangría \ninmoral, sino buscando parar una sangría electoral, y esto lo denunciamos. Pero es que estamos además \nante el peor ejemplo de la política porque durante todo este tiempo — y hablamos de doscientos días— la \nsociedad española ha estado viendo cómo las prioridades de los políticos eran otras, ha estado viendo \ncómo en vez de derogar esto del Código Penal lo que se derogaba era el delito de sedición porque lo \npedía un partido político; mientras la sociedad española clamaba la derogación de lo que se había \naprobado, lo que se estaba haciendo aquí era reducir las penas por la corrupción. (Aplausos). Este es el \npeor ejemplo de lo que es la política, y es lo que ha estado ocurriendo durante estos doscientos días en \nlos que la sociedad española exigía y clamaba la derogación y ustedes se dedicaban a otras cosas.\ncve: DSCD-14-PL-262\n \nPero también quiero destacar que durante todo este tiempo se ha puesto de manifiesto que hay una \npolítica mejor, y esta sesión también es la manifestación de esa otra política que es perfectamente posible: \nuna política para adultos. Me siento enormemente orgullosa de ser portavoz de un grupo parlamentario \nque se ha puesto al frente de esa política para adultos, de esa mejor política a la que los españoles tienen \nderecho y que nosotros no queremos negarles. Nos hemos guiado, queridos compañeros, en todo \nmomento por ella desde que empezó la tramitación de esta ley, y ante todo el insulto y toda la presión para \nque cejáramos en este intento nos hemos mantenido durante toda la tramitación. Y aquí quiero reconocer \nel trabajo de las personas y los diputados, que han hecho una tarea inmensa: Marta González, María \nJesús Moro, Miquel Jerez y Carmen Navarro, ellos han sido quienes han estado al frente desde el primer \nmomento. (Aplausos). Hemos negociado, hemos pactado y hemos llegado a un texto que devuelve a la \nsociedad española la confianza en esta Cámara. Las penas se incrementan y se vuelve, sí, a las penas \nque tenía el Código Penal de la democracia — de la democracia—. (Aplausos). Hemos vuelto a tipificar \ndelitos que se habían sacado del Código Penal. (La señora ministra de Igualdad y la señora ministra \nde Derechos Sociales y Agenda 2030 pronuncian palabras que no se perciben, al tiempo que \nrealizan gestos negativos). Sí, señoras ministras, delitos que habían sacado ustedes del Código Penal. \nY, lamentablemente, ustedes lo ven como una derrota política."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señora Gamarra, tiene usted que terminar."
+  },
+  {
+   "speaker": "GAMARRA RUIZ-CLAVIJO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Termino, señoría.\nNo, no es su derrota política, es la victoria de la sociedad española. (Aplausos). La derrota política \ntiene que ser las responsabilidades políticas, y son las que faltan. Exigimos responsabilidades políticas, \nno solo un perdón y una rectificación a rastras; exigimos responsabilidades políticas a modo de ceses y \ndimisiones, porque no se puede tapar el mayor escándalo político que ha ocurrido durante toda esta \nlegislatura.\nHoy, el presidente del Gobierno se aleja de esta Cámara intentando alejarse de las responsabilidades \npolíticas sobre lo que aprobaron ustedes hace ocho meses…"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señora Gamarra, tiene que terminar, por favor."
+  },
+  {
+   "speaker": "GAMARRA RUIZ-CLAVIJO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Termino.\n… pero no podrán borrar de la historia que esto ha llegado a ser verdad en la sociedad española de la \nmano del Partido Socialista."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señora Gamarra."
+  },
+  {
+   "speaker": "GAMARRA RUIZ-CLAVIJO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Termino ya, señoría."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Se ha pasado más de un minuto, señora Gamarra. (Rumores y protestas)."
+  },
+  {
+   "speaker": "GAMARRA RUIZ-CLAVIJO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Hoy a los españoles les decimos que en el Partido Popular \ncon Alberto Núñez Feijóo... (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Silencio, por favor."
+  },
+  {
+   "speaker": "GAMARRA RUIZ-CLAVIJO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "… estamos dispuestos a servirles, estamos dispuestos a \ndevolverles la confianza en la política y estamos orgullosos de decir a las mujeres españolas mirándolas \na los ojos que lo hemos hecho por ellas y que lo volveremos a hacer. (Prolongados aplausos de las \nseñoras y los señores diputados del Grupo Parlamentario Popular en el Congreso, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, señora Gamarra.\nEn turno de fijación de posiciones, por el Grupo Parlamentario Mixto, tiene la palabra, en primer lugar, \nel señor García Adanero."
+  },
+  {
+   "speaker": "GARCÍA ADANERO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señora presidenta.\nSeñorías, buenos días. Ya dijimos durante todo el tiempo cuando se tramitó el proyecto de ley que iba \na ser un despropósito y que iba a tener consecuencias negativas. Evidentemente, ahora que tenemos la \noportunidad de arreglar un poquito — muy poco— el despropósito que supone, no podemos mirar hacia \notro lado. Es verdad que no se puede engañar a los ciudadanos, porque va a seguir habiendo reducciones \ncve: DSCD-14-PL-262\n \nde penas y van a seguir saliendo agresores a la calle, pero en el futuro se cambiarán las penas. También \nes verdad que esto viene derivado de la soberbia del presidente del Gobierno, el presidente Sánchez, \nporque, sabiendo que iba a ocurrir lo que ha ocurrido, ha tenido que haber más de mil reducciones de \npena y han tenido que quedar en la calle más de cien agresores sexuales para que empezara a pensar \nque igual había que hacer algo, y, desde luego, todo derivado del coste electoral. La soberbia de Sánchez \nnos ha llevado a que hemos perdido ocho meses antes de corregir la situación para el futuro. Para todos \nlos delitos que se han cometido durante estos meses va a estar aplicándose la ley anterior, y eso tiene un \nculpable, que es Pedro Sánchez.\nPero hay que decir también que cuando se aprobó esta ley aquí mucha gente aplaudió y que el \npresidente Sánchez primero y muchos ministros y muchas ministras después se pusieron la medalla \nde la gran aprobación de esta ley y se hicieron responsables de la aprobación de esta ley diciendo \nque era una gran ley. La pregunta es: si después de la votación esta ley es modificada — como parece \nque va a ser modificada—, todos aquellos que se hicieron responsables ¿se van a hacer también \nresponsables de que fracasaron? ¿Van a asumir su responsabilidad, o entonces no? ¿Entonces la \nresponsabilidad va a ser solo de la ministra Montero, que sigue manteniendo su teoría de que esta es \nuna buena ley? Y si la ministra Montero entiende que es una buena ley y que es la gran ley de su \nlegislatura, ¿eso supone que cuando fracase hoy la ley se va a ir a casa o va a seguir manteniéndose \nen el sitio? (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señor García, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "GARCÍA ADANERO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Lo que no puede ser es que la modificación se apruebe, se cambie la \nley y todos sigan sentados en su sillón. Eso es engañar a los españoles.\nMuchas gracias. (Varios señores diputados: ¡Muy bien!—Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, señor García.\nPor el mismo grupo parlamentario, tiene la palabra la señora Oramas González-Moro."
+  },
+  {
+   "speaker": "ORAMAS GONZÁLEZ-MORO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, señora presidenta.\nEn primer lugar, quiero expresar el inmenso dolor de esta diputada, y estoy segura de que de toda la \nCámara, porque ayer 19 seres humanos murieron, entre ellos, una niñita, en su ruta a Canarias. Ayer \nllegaron 350 seres humanos a las costas de Canarias, pero esa niñita y esas 19 personas se quedaron en \nel mar.\nEn Coalición Canaria, junto con el PSOE, el Partido Popular, el PNV y Ciudadanos, vamos a apoyar \nhoy este cambio de la ley del sí o sí — por la que nosotros, por lo menos, sí pedimos disculpas de corazón \nen su momento—, pero queremos decir que llega tarde. El Partido Socialista ha tenido cinco meses para \ncorregirla desde que salieron las primeras sentencias y ahora lo hace no por convicción, sino porque le ha \nsupuesto un coste electoral. Llegan tarde. ¿Y saben por qué llegan tarde? Porque todas las violaciones y \nabusos que han sucedido durante estos cinco meses y que van a suceder hasta que esté definitivamente \naprobada la modificación no van a poderse juzgar con estas correcciones. Van a seguir rebajándose las \npenas de los que violaron ayer, antes de ayer y la semana pasada. No obstante, vamos a apoyarla, porque \nes necesario.\nLo que es inadmisible es que ayer altos cargos del Gobierno, desde ministras hasta secretarias de \nEstado — todas de Podemos—, hayan dicho que había que esperar todavía porque las sentencias no \neran firmes — más víctimas y rebajas de penas—, que era mentira que se hubiera excarcelado a cien \npersonas, que había una manipulación del número de sentencias por parte del Consejo General del \nPoder Judicial, que los medios han tergiversado porque los excarcelados no han salido y, lo más gordo, \nque les recomiendan a las víctimas que recurran. Oiga, señora ministra, ¿por qué no pone una partida \npresupuestaria en su ministerio para que se financie a todas las víctimas que quieran recurrir? (La \nseñora ministra de Igualdad: ¡Ya está para las víctimas de las agresiones sexuales! ¡Está en la \nley del solo sí es sí!—Rumores). ¡Recurran ustedes! ¡Ya está bien! ¡Y encima querían que esperaran! \n¡Y encima ayer amenazaban diciendo que va a haber una oleada de nuevos recursos y de nuevas \nexcarcelaciones…"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señora Oramas, tiene usted que terminar, por favor.\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "ORAMAS GONZÁLEZ-MORO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Termino ya, señora presidenta.\n… gracias a la modificación de la derecha antifeminista! Ni el Partido Socialista ni el PNV ni esta \ndiputada somos derecha antifeminista. No tienen vergüenza y han hecho daño a las mujeres y a los niños \nde este país. ¡Corrijan y pidan perdón!\nGracias, señora presidenta. (Varias señoras y los señores diputados: ¡Muy bien!—Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, señora Oramas.\nFinalmente, por el Grupo Parlamentario Mixto, tiene la palabra la señora Vehí Cantenys."
+  },
+  {
+   "speaker": "VEHÍ CANTENYS",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, presidenta.\nMinistras, esta propuesta es un despropósito electoralista con una única función: responder \nmediáticamente al asedio de la derecha. La cárcel y el aumento de penas sin más no acabarán con la \nviolencia machista, así lo dicen los datos del Consejo General del Poder Judicial. A pesar de las reformas \nanteriores del Código Penal y del despliegue de los juzgados de violencia, los feminicidios se mantienen \nen el mismo número desde hace diez años. Centrar el debate en las penas en una ley de libertad sexual \nalimenta la ficción de la teoría de la elección racional de la violencia machista, es decir, que los agresores \ncometerán menos agresiones si las penas son más altas. Precisamente, el informe del Ministerio del \nInterior sobre reincidencia del año pasado señala que la reincidencia más alta de todas se da en la \nviolencia en el seno de la pareja, mientras que la reincidencia en las agresiones sexuales es bajísima. \nEsto nos lleva a que el problema tiene que ver con el patriarcado y con las relaciones de poder y no con \nel castigo, pero esto a ustedes les da igual. De hecho, el marco de las excarcelaciones de agresores \nalimenta otra ficción: que los agresores son personas ajenas a las víctimas y que hay una situación de \nterror sexual. Con estas dos ficciones impiden que se pueda tratar la violencia machista como lo que es, \nun problema social y una cuestión de poder. Ustedes juntan dos intereses, el del punitivismo y el de tocar \nsolo las cuestiones superficiales del patriarcado. Suponemos que tratar el patriarcado en toda su \ncomplejidad es demasiado revolucionario para sus señorías."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señora Vehí.\nPor el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra el señor Legarda Uriarte."
+  },
+  {
+   "speaker": "LEGARDA URIARTE",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, presidenta.\nSeñorías, seré breve. Creo que ya se ha dicho, y en todos los sentidos, todo lo que se tenía que decir \nsobre la empresa que ahora tenemos entre manos, que a nuestro juicio consiste, como señalaba \nacertadamente un artículo editorial hace ya un tiempo, en buscar la mejor solución técnica a un problema \nreal que no entiende de relatos. El problema no es otro que la perplejidad de la sociedad por la revisión \nde condenas y las excarcelaciones de reos por delitos sexuales tras las reformas del Código Penal por la \nllamada ley del solo sí es sí, sobre todo por carecer, a nuestro juicio, de un régimen que mitigara el tránsito \nde la anterior penalidad, más gravosa, a la vigente, más leve.\nSeñorías, abordamos con esta proposición la reforma de las penas de la llamada ley del solo sí es \nsí. A través de su revisión, queremos dar reparación desde la prevención general a la sensación de \nimpunidad y a la conmoción y la alarma social creadas por el tratamiento a ciertos delitos. También \nqueremos expresar con ello la solidaridad con las víctimas, sabiendo ―ya se ha dicho― que esta es \nuna reforma a futuro que no va a deshacer lo ya hecho ni sus consecuencias, pero que tampoco afecta, \na pesar de lo que por algunos y algunas se ha dicho, al ámbito del consentimiento — que sigue siendo \nafirmativo— ni a la unificación en un solo delito de agresiones los anteriores de abuso y agresión. \nTampoco supone una carga probatoria más gravosa para las víctimas y, además, propone a los órganos \njudiciales un marco interpretativo menor del que ahora dispone. Es una reforma, señorías, que tampoco \npone en tela de juicio todo lo bueno de la ley en cuanto a la prevención del delito y a la reparación y \nprotección de las víctimas, que es, señorías, como en un iceberg, su parte más notable pero que \nnecesita algo de tiempo para que la podamos percibir en su totalidad, porque las transformaciones \nsociales, que es precisamente lo que pretende y lo más destacable de la ley del solo sí es sí, necesitan \ntiempo para percibirlas.\nVoy finalizando, presidenta. Teníamos un debate centrado en las penas y se le ha dado la que \nconsideramos que es la mejor solución técnica, a fin de recuperar la percepción de legitimidad del \nordenamiento jurídico para que su respeto sea efectivo, máxime en un Estado democrático donde el \nderecho penal, como ya decía en la toma en consideración de esta iniciativa, forma parte del corazón del \nEstado y, por eso, no puede construirse a espaldas ni de la ciudadanía ni de las víctimas. Solo lamentamos, \ncve: DSCD-14-PL-262\n \ncomo ya señalé en Comisión, que no hayamos respondido con mayor prontitud a sus demandas, aunque \nno ciertamente por la actitud del Grupo Parlamentario Vasco.\nMuchas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señor Legarda.\nPor el Grupo Parlamentario Socialista, tiene la palabra la señora Fernández Benéitez."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, presidenta.\nBuenos días, señorías. Una vez escuchadas las intervenciones que me han precedido, debo \nrecordarles que lo que nos trae hoy aquí es el ejercicio de la responsabilidad que exige nuestro cargo. \nTodos ustedes y yo misma gozamos del inmenso privilegio que supone representar a la ciudadanía \nespañola en el Congreso de los Diputados. Ello implica, como les decía, estar a la altura. Les digo esto \nporque, cuando nos enfrentamos a un debate de esta envergadura, le debemos a nuestros representados \n— que quizás nos estén viendo— honestidad y argumentos claros, argumentos centrados en explicar cada \nuna de nuestras posiciones; y al menos yo es lo que voy a intentar hacer.\nLo he dicho y lo voy a repetir una vez más: para el Grupo Parlamentario Socialista la ley de libertad \nsexual es una buena ley, es una ley que reconoce derechos. Ahí, señora ministra, nos va a encontrar \nsiempre. Es una norma que impulsa políticas públicas destinadas a abordar la violencia sexual desde \ntodas sus vertientes: sanitaria, forense, jurídica, educativa, preventiva, de reparación y un largo etcétera. \nEsta ley, de hecho, imita la estructura de la ley integral contra la violencia de género de 2004. Es más, este \ntexto está ya teniendo un impacto positivo en muchos aspectos; sobre todo, señorías, en aquellas \ncomunidades autónomas que están empleando los fondos europeos consignados por el Gobierno de \nEspaña para construir los centros de crisis de atención a víctimas de violencia sexual; un gran ejemplo de \nello son Aragón o Castilla-La Mancha. En otras, como en Castilla y León, por desgracia, seguimos \nesperando; de hecho, señorías del PP, hace unas semanas han votado ustedes en contra — junto a VOX— \nde una iniciativa del PSOE de Castilla y León, que les pedía que movilizaran esos fondos que les ha \nenviado el Gobierno de España para poner en marcha los centros de crisis veinticuatro horas. Ya que \nestán ustedes tan concernidos por esta causa, les pediría, por favor, que nos ayudaran pidiéndole al señor \nMañueco que inicie la construcción de los centros en Castilla y León. (Aplausos).\nSin embargo, pese a las buenas cosas, la reforma del Código Penal que incluye esta ley no ha \nfuncionado adecuadamente. (Rumores). Afrontarlo y buscar soluciones es una obligación, y eso ha hecho \nel PSOE desde el primer momento. Hoy aquí tenemos el resultado de un buen trabajo. El PSOE, como \nsaben, ha apostado por una reforma técnica que pasa por ajustar y redefinir las horquillas de las penas \npara cada delito, ni más ni menos, señorías. El PSOE no modifica ni una coma de la definición del \nconsentimiento. (Aplausos). El artículo 178, que es el que aborda esta cuestión, no se ha tocado \nesencialmente en nada. Esa definición se mantiene como estaba en la ley de libertad sexual. Tanto es así \nque quienes se han dedicado a anunciar el apocalipsis han sido incapaces de explicar con precisión por \nqué tan mala es la propuesta. Señorías, no voy a entrar en polémicas de trazo grueso, pero hablar de \nCódigo Penal exige rigurosidad y responsabilidad. Hablamos de derechos de última ratio, normas con \nconsecuencias muy significativas. Quizás este debate en general hubiera merecido más argumentos y \nmenos ruido.\nLamento haber visto a algunos grupos parlamentarios más centrados en sus relatos que en construir \nuna buena ley. Si miro a la bancada popular, les confieso que tengo una sensación agridulce. Agradezco \nla dedicación y el trabajo tranquilo de las diputadas María Jesús Moro y Marta González. Sin embargo, ha \nsido decepcionante ver cómo el Partido Popular lleva meses tratando de sacar rédito de un tema tan \nsensible como la violencia sexual. (Protestas.―Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Silencio, por favor."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Sí, sí. Han paseado ustedes la misma moción por cientos de \nayuntamientos y por casi todos los parlamentos autonómicos, como si estas instituciones tuvieran \ncompetencias en materia de derecho penal, y también han impulsado campañas morbosas en redes \nsociales y medios de comunicación polarizando. Todo, señorías, al más puro estilo Okdiario. (Aplausos). \nSu única intención con todo esto ha sido generar miedo y conflictividad social, señoría. Por mucho que les \nirrite, solo el PSOE se ha sentado a elaborar con discreción y rigurosidad una propuesta viable que \nsolvente este problema. (Rumores y protestas.—Aplausos).\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Silencio, por favor."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Y todo ello por no hablar de su intento de hacer creer a la gente \nque sus enmiendas eran poco menos que la salvación de este texto. Señorías, solo hemos compartido \ncon ustedes enmiendas técnicas, y lo saben. El Grupo Parlamentario Socialista no ha apoyado la mayoría \nde las enmiendas que ha presentado el Grupo Parlamentario Popular, fundamentalmente porque \nconsiderábamos que no sumaban nada a la reforma. Seamos responsables en las aportaciones y también \nhonestos en las diferencias, señora Gamarra. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señorías, les pido silencio, por favor. Perdone un momento, señora \nFernández. (Pausa).\nCuando quiera."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias.\nEl PSOE va a seguir defendiendo la ley de libertad sexual. Miren si la defendimos que, para que \nsaliera adelante, tuvimos la generosidad de retirar nuestras enmiendas para atajar el proxenetismo, \nporque, de lo contrario, todos ustedes estaban dispuestos a hacerla caer. Lo hicimos y lo volveríamos a \nhacer, porque así entendemos la política. (Aplausos). Entendemos la política como el ejercicio del \nconsenso y no de la imposición. El PSOE entiende la política como el ejercicio del diálogo y no del insulto. \nY hay algo que quiero explicar muy claro. Hemos hablado y hablaremos con quien sea necesario para \ntratar de arreglar este asunto, un asunto que está afectando a víctimas que han sufrido y que siguen \nsufriendo. Debo decirles que estamos encantados de atraerlos a todos ustedes a las posiciones del \nfeminismo. Saben bien que todos ustedes han sido bienvenidos a grandes acuerdos impulsados por \nel PSOE, como la ley contra la violencia de género o el Pacto de Estado contra la Violencia de Género. \nNo hay humillación en trabajar en beneficio de la mayoría. No hay humillación en abordar la igualdad \ndesde la construcción de consensos amplios y sólidos. (Aplausos). La pena, señorías, es que esto sea \nexcepcional y no lo habitual."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señora Fernández, tiene usted que terminar. (Rumores).\nSilencio, por favor."
+  },
+  {
+   "speaker": "FERNÁNDEZ BENÉITEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Sí, presidenta.\nTodos ustedes saben que hoy y siempre han tenido y tienen la mano tendida del PSOE para trabajar \nen materia de igualdad.\nVoy concluyendo, presidenta. La reforma del Código Penal que lidera hoy el Grupo Socialista pretende \nrevertir los efectos indeseados de la ley de libertad sexual y también reparar a las víctimas que se han \nvisto afectadas. Actuamos desde la responsabilidad que tenemos y siendo la única formación política que \nha puesto una solución solvente sobre la mesa (protestas), porque creemos en la política para la mayoría \ny en la política desde la honestidad y la responsabilidad. (Rumores y protestas). Por eso, señorías, les \npido su voto afirmativo.\nGracias, presidenta. (Prolongados aplausos de las señoras y de los señores diputados del Grupo \nParlamentario Socialista, puestos en pie.—El señor Garcés Sanagustín, señalando a las señoras \nministras de Igualdad y de Derechos Sociales y Agenda 2030: ¡Despídanlas, despídanlas!—\nRumores y protestas)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias, señora Fernández.\nEn nombre del Gobierno, tiene la palabra la señora ministra de Igualdad."
+  },
+  {
+   "speaker": "Montero Gil (Ministra De Igualdad)",
+   "party": "Podemos",
+   "role": "ministro",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Gracias. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señorías, les pido silencio por favor."
+  },
+  {
+   "speaker": "Montero Gil (Ministra De Igualdad)",
+   "party": "Podemos",
+   "role": "ministro",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Señorías, buenos días.\nHoy es un día triste (rumores), seguramente el día más difícil que yo he vivido en este Parlamento \ncomo ministra, también para todas las feministas de esta Cámara y fuera de ella, al menos en esta \nlegislatura. Costó muchos años de movilizaciones, de lucha feminista, de trabajo en el Gobierno y de \ntrabajo también en este Parlamento poner el consentimiento en el centro, y la reacción a esta ley ha \nprovocado una vuelta atrás de años, hasta el punto de que estamos volviendo a escuchar a sectores del \ncve: DSCD-14-PL-262\n \nPoder Judicial, del poder político y también del poder mediático señalar que el consentimiento siempre \nestuvo en el centro o, como dice el redactor de la modificación de la ley, el catedrático Javier Álvarez, que \nel consentimiento es un teatro. ¡Estamos volviendo a escuchar que el consentimiento es un teatro! ¿De \nverdad no era necesaria la lucha de millones de mujeres que salieron a la calle a decir que solo sí era sí, \nque era necesario un cambio en el Código Penal para que solo la ausencia de consentimiento y no la \nexistencia de violencia o intimidación determinasen la agresión sexual, para que no hubiese distinción \nentre una agresión con violencia y un abuso cuando no se da violencia — aunque ahora se vaya a llamar \nagresión—, basando la credibilidad de las víctimas en las heridas que los agresores dejan en su cuerpo? \nPorque, si no se resistieron, si decidieron no jugarse la vida, a lo mejor es que querían, en el fondo, fondo, \nfondo, a lo mejor querían. Claro que esta lucha tuvo, tiene y, desgraciadamente, va a seguir teniendo \nsentido después de esta vuelta atrás. No, señorías, el consentimiento no es un teatro, aunque lo diga el \nredactor de esta propuesta que ustedes van a votar hoy. (Aplausos). Ya sabemos las feministas que \nbastará una crisis política, económica o religiosa para que nuestros derechos, los que creíamos \nconquistados, vuelvan a ser cuestionados.\nSeñorías socialistas, nuestra preocupación por las decisiones judiciales de rebajas de condenas, que \nfue desde el principio también suya, y la ofensiva contra la ley solo sí es sí — que también ha sido, \nseñorías, una ofensiva contra el Gobierno y contra su presidente; siempre fuimos conscientes de ello— \nnos llevaron a trabajar para dar una respuesta unitaria como Gobierno a las víctimas y a la sociedad. Nos \nhicieron buscar siempre el acuerdo con ustedes, y lo saben. Nos hicieron ceder por encima de nuestras \nposibilidades, y lo saben. Hicimos propuesta tras propuesta, en función de las exigencias que nos iban \nplanteando, con tal de dar una respuesta unitaria desde el Gobierno y desde la mayoría feminista de esta \nCámara.\nPor cierto, señora Oramas, llámeme usted sinvergüenza las veces que quiera, pero infórmese antes \nde subir a esta tribuna. La justicia gratuita para todas las víctimas de violencias sexuales es un derecho \nreconocido en la ley del solo sí es sí. (Aplausos). Y para que se cumpla, señoría, hace falta presupuesto \ny voluntad política. Precisamente, una de las primeras propuestas que le hicimos al Partido Socialista, \njunto a la especialización judicial y al refuerzo de las fuerzas y cuerpos de seguridad del Estado para hacer \nfrente a esta crisis, fue poner el presupuesto necesario para hacer efectivo el derecho que reconoce el \nartículo 33 de la Ley orgánica de garantía integral de la libertad sexual sobre justicia gratuita y el acceso \npara todas las víctimas de violencias sexuales. Usted puede subir aquí a llamarme sinvergüenza las veces \nque quiera, que yo voy a aguantar el tipo, pero suba aquí informada, por favor. (Aplausos).\nUstedes, señorías, dicen que hacen esto para resolver el problema, pero saben — lo ha reconocido la \nministra de Justicia y lo dicen en su propia exposición de motivos— que ninguna reforma, ni esta ni \nninguna otra, va a evitar las decisiones judiciales de rebajas de condenas. Ustedes dicen que el problema \nal que respondemos no son las decisiones judiciales de rebajas de condenas, que el problema al que \nrespondemos es la bajada de penas a futuro, pero les hacemos una propuesta para subir las penas y la \nrechazan porque sube las penas demasiado, señorías. Eso es lo que ustedes han dicho, incluso \npúblicamente. Dicen que hacen esto para subir las penas a futuro, porque la Ley Orgánica de Garantía \nIntegral de la Libertad Sexual teóricamente baja las penas, cuando la propia fiscal de Sala de Violencia \nsobre la Mujer, Teresa Peramato, está diciendo que este Código Penal es más duro que el anterior. Aun \nasí cedemos, les hacemos una propuesta que sube las penas más que la suya y nos la rechazan porque \nsube las penas, que es el objetivo que nos han pedido.\nDesde diciembre, ustedes, señorías, solo han hecho una propuesta cuya clave es volver al esquema \npenal anterior bajo la premisa de que es fácil probar la violencia, que con una herida basta, como dijo la \nministra de Justicia. Un sistema que basa la credibilidad de la víctima en las heridas que tiene sobre su \ncuerpo, que permite a defensas como a la del futbolista Dani Alves decir que ha habido consentimiento \nporque no hay marcas de violencia, que condena a las víctimas que no consiguen o no pueden probar la \nviolencia a ser víctimas de segunda, y, desgraciadamente, son la mayoría; un sistema de impunidad para \nlos agresores. Claro que es preocupante que haya decisiones judiciales de rebajas de condenas, pero la \nmayoría de los agresores, señorías, no han pisado una comisaría ni un juzgado en su vida; y, además, \ndel 8 % de las mujeres que denuncian, por tanto, presuntos agresores que pasan por los juzgados, dos \ntercios se van sin condena. Señorías, la mayoría se va sin condena.\nEste es un grave retroceso en derechos de las mujeres. Somos el primer país de Europa que, después \nde cumplir con el Convenio de Estambul, va a dar un paso atrás; justo a dos meses de la Presidencia \neuropea, con un convenio, como es el Convenio de Estambul, asediado en Europa, cuya ratificación por \ncve: DSCD-14-PL-262\n \nparte de la Unión Europea está siendo bloqueada por países antifeministas, justo en este momento, \nEspaña tenía que estar a la vanguardia en el cumplimiento del Convenio de Estambul.\nCreo que hoy, de esta Cámara debía salir una reforma feminista de la ley solo sí es sí, porque todas, \nla mayoría feminista, compartíamos que había que dar una respuesta unitaria a las víctimas ante las \ndecisiones judiciales de rebajas de condenas. Creo que hoy debíamos sacar de esta Cámara una reforma \npara avanzar con un claro mensaje, y es que los derechos de las mujeres, los derechos feministas, no se \nnegocian con el PP. Sin embargo, el mensaje es que las alianzas que valen para proteger el derecho a la \nvivienda no valen para proteger los derechos de las mujeres. Justo los derechos que la derecha y la \nextrema derecha ponen en el centro de sus ataques, ahí es donde ustedes pactan con el Partido Popular. \nAyer el señor Patxi López, su portavoz, decía que el Grupo Popular ha votado en contra — en contra— de \ntodos los avances que este país ha hecho en los últimos años. Quizás, señorías, si hoy votan a favor es \nporque esto no es un avance, es un retroceso en los derechos de las mujeres. (Aplausos). Quizá lo que \ntendríamos que haber hecho es pactar una respuesta unitaria, como les hemos pedido hasta el último \nminuto desde el Gobierno y desde la mayoría feminista. Quiero, por tanto, agradecer a la mayoría feminista, \na Esquerra Republicana de Cataluña, a Euskal Herria Bildu, el trabajo que hemos compartido desde \nnuestra autonomía, pero un trabajo compartido para preservar los avances feministas de esta legislatura; \ntambién a quienes de forma silenciosa han trabajado para un acuerdo que finalmente no han querido; y, \npor supuesto, a todo el movimiento feminista por sostener la lucha que va a tener que seguir sosteniendo \na partir de ahora para recuperar el consentimiento como centro del Código Penal.\nTenemos mucho trabajo por hacer. La ley solo sí es sí sigue en vigor, y aun después de este retroceso \nen la parte penal, y precisamente por ese retroceso, tenemos que ser capaces de acelerar su \nimplementación. Tenemos que poner presupuesto para el acceso a la justicia gratuita de todas las víctimas; \nespecializar la justicia, algo que les hemos propuesto y de lo que también han votado en contra en este \nproceso de tramitación; la formación para todos los operadores jurídicos que trabajan con las víctimas; y, \ncomo decía la portavoz socialista, construir los centros de crisis, uno por provincia, para que todas las \nmujeres tengan cerca de su casa o de donde sufran una agresión sexual una psicóloga especializada y \nasesoramiento jurídico gratuito para acceder a todos sus derechos y sin necesidad de poner denuncia. \nLas víctimas tienen que tener claro que el Estado sigue teniendo responsabilidades con ellas.\nHoy, señorías, nos quedamos en minoría, pero vamos a seguir trabajando; es lo que mejor sabemos \nhacer las feministas cuando conquistamos derechos, cuando retrocedemos y también cuando nos \nquedamos en minoría, seguir adelante. (Aplausos de la señoras y los señores diputados del Grupo \nParlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, de la señora \nvicepresidenta segunda y ministra de Trabajo y Economía Social, Díaz Pérez, y de la señora ministra \nde Derechos Sociales y Agenda 2030, Belarra Urteaga, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "todo las de prisión, a la rehabilitación",
+   "text": "Muchas gracias, señora ministra.\nSeñorías, votamos en cinco minutos. (Pausa).\nVOTACIÓN."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "Dictámenes de comisiones sobre iniciativas legislativas. Proposición de Ley \nOrgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en los \ndelitos contra la libertad sexual, la Ley de Enjuiciamiento Criminal y la Ley Orgánica 5/2000, de 12 de \nenero, Reguladora de la Responsabilidad Penal de los Menores, antes denominada Proposición de Ley \nOrgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en los \ndelitos contra la libertad sexual, Ley de Enjuiciamiento Criminal y Ley Orgánica 5/2000, de 12 de enero, \nReguladora de la Responsabilidad Penal de los Menores.\nEnmiendas presentadas por el Grupo Parlamentario Ciudadanos. Enmienda 8.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 37; en contra, 306; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada la enmienda.\nEnmienda in voce presentada en Comisión a la disposición final primera.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-262\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 32; en contra, 255; \nabstenciones, 58."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada la enmienda.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Rego Candamil. Enmienda 67.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 4; en contra, 286; \nabstenciones, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada la enmienda.\nEnmienda 68.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 22; en contra, 316; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 69.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 4; en contra, 336; \nabstenciones, 5."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señora Calvo Gómez y señor Pagès i \nMassó. Enmiendas 37 y 38.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 28; en contra, 259; \nabstenciones, 58."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 39.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 25; en contra, 312; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 40 y 41.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 344; a favor, 79; en contra, 264; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas 42 y 43.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 78; en contra, 173; \nabstenciones, 94."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nResto de las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 22; en contra, 315; \nabstenciones, 8.\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por los Grupos Parlamentarios Republicano y Euskal Herria Bildu. Enmiendas \nde la 15 a la 18.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 55; en contra, 283; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 26.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 38; en contra, 274; \nabstenciones, 33."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 27 y 28.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 70; en contra, 274; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 32.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 80; en contra, 264; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 59; en contra, 283; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Confederal de Unidas Podemos-En Comú \nPodem-Galicia en Común. Enmiendas 44 y 46.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 55; en contra, 283; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas 45 y 47.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 55; en contra, 283; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 51.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 68; en contra, 268; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-262\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 58; en contra, 284; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario VOX. Votación en bloque de las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 51; en contra, 294."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Popular en el Congreso. Enmiendas 59 y 60.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 95; en contra, 200; \nabstenciones, 50."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 61.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 155; en contra, 185; \nabstenciones, 5."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 63.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 97; en contra, 184; \nabstenciones, 64."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 65.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 96; en contra, 194; \nabstenciones, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada la enmienda.\nEnmienda 66.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 345; a favor, 146; en contra, 194; \nabstenciones, 5."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda rechazada la enmienda.\nPALABRAS DE LA PRESIDENCIA."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Señorías, la iniciativa que acabamos de debatir, y cuyas enmiendas hemos \nvotado, tiene carácter orgánico, como todos ustedes saben. En consecuencia, tiene que ser sometida a \nuna votación final que, de conformidad con el artículo 131.2 del Reglamento, debe ser anunciada con \nantelación por la Presidencia. Por ello, en cumplimiento de esta disposición, anuncio que esta votación no \nse producirá antes de las doce horas.\nAsimismo, les informo de que desde las once hasta las doce horas de hoy — por tanto, durante una \nhora—, se podrán votar telemáticamente el resto de los asuntos incluidos en el orden del día, que serán \nobjeto de votación presencial en el hemiciclo al finalizar la sesión.\ncve: DSCD-14-PL-262\n \nCONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES:\n— REAL DECRETO-LEY 3/2023, DE 28 DE MARZO, DE PRÓRROGA DEL MECANISMO DE AJUSTE \nDE COSTES DE PRODUCCIÓN PARA LA REDUCCIÓN DEL PRECIO DE LA ELECTRICIDAD EN \nEL MERCADO MAYORISTA REGULADO EN EL REAL DECRETO-LEY 10/2022, DE 13 DE MAYO. \n(BOE NÚM. 75, DE 29 DE MARZO DE 2023). (Número de expediente 130/000095)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Seguimos con el punto del orden del día correspondiente a la convalidación \no derogación del Real Decreto Ley 3/2023, de 28 de marzo, de prórroga del mecanismo de ajuste de \ncostes de producción para la reducción del precio de la electricidad en el mercado mayorista, regulado en \nel Real Decreto Ley 10/2022, de 13 de mayo. (Rumores.—Pausa).\nSeñorías, el Pleno continúa. Les pido, por favor, silencio, y si quieren abandonar el hemiciclo, que lo \nhagan en silencio y con celeridad.\nPara presentar el real decreto ley, tiene la palabra, en nombre del Gobierno, la señora vicepresidenta \ntercera y ministra para la Transición Ecológica y el Reto Demográfico. (Rumores).\nSeñorías, les pido, por favor, que no se queden en los pasillos y que guarden silencio.\nLa señora VICEPRESIDENTA TERCERA Y MINISTRA PARA LA TRANSICIÓN ECOLÓGICA Y EL \nRETO DEMOGRÁFICO (Ribera Rodríguez): Muchas gracias, presidenta.\nYo creo que esto es buena señal, es señal de que, afortunadamente, los precios de la electricidad en \nnuestro país, los efectos de la aplicación de la solución ibérica han ofrecido tranquilidad y normalidad para \nlos consumidores y los ciudadanos españoles y, por tanto, sus señorías sienten que hay motivos para la \nconfianza y para el respaldo al decreto ley que hoy defiendo al solicitar su convalidación por parte de \neste Pleno.\nEl Decreto Ley 3/2023, de 28 de marzo, permite prorrogar el mecanismo de ajuste de costes de \nproducción para la reducción del precio de la electricidad en el mercado mayorista, regulado en el Decreto \nLey 10/2022, de 13 de mayo del pasado año. La convalidación de este real decreto ley es fundamental \npara ampliar el periodo de aplicación del llamado mecanismo solución ibérica, una herramienta excepcional \nque ha actuado de forma eficaz, permitiéndonos reducir los precios de la electricidad a los consumidores \ndomésticos industriales en los momentos más difíciles de la crisis energética, consecuencia de la agresión \nbélica de Putin a Ucrania. Es una regulación que ha servido a España y a Portugal para amortiguar la \nescalada de precios de la electricidad y los efectos que esto representa en el conjunto de la economía. \nTanto es así que me permito recordarles, señorías, que hemos reducido la inflación más de 5 puntos en \ncinco meses, situándonos en estos momentos como uno de los países europeos con inflación más baja \nde toda la zona euro. Sin duda, la solución ibérica ha actuado de manera eficaz gracias a nuestro mix \nenergético, basado en las energías renovables, asequibles y limpias, cada vez con mayor intensidad.\n¿Cómo ha estado funcionando esta solución, cómo funciona la prórroga? Como expuse en la \nconvalidación del decreto ley que hoy prorrogamos, la solución ibérica es una medida temporal y extraordinaria, \nque supone la creación de un mecanismo de ajuste que limita el precio al que pueden ofertar las plantas de \ngas para la generación eléctrica en el mercado mayorista, y, por tanto, el coste de producción de las \ntecnologías fósiles marginales, que son las que habitualmente establecen el precio en este mercado. En un \nprimer momento, la Comisión Europea autorizó su aplicación durante doce meses, que hubieran vencido a \nfinales del mes de mayo; sin embargo, la situación extraordinariamente volátil de los precios de las materias \nprimas energéticas, así como la persistencia de las consecuencias de la invasión de Ucrania, nos ha llevado \na solicitar su extensión hasta final de año. Desde el 18 de enero de este año, hemos estado trabajando, junto \ncon Portugal y la Comisión, en la prórroga de la solución ibérica que hoy les presento y que será efectiva, \ncomo decía, hasta el 31 de diciembre de 2023, coincidiendo con la duración del marco temporal de crisis que \nla Unión Europea estableció con motivo de la guerra de Ucrania.\nTras el trabajo técnico, hemos fijado la fecha de referencia el 7 de marzo, que es la fecha a partir de \nla cual se aplica la nueva versión de la solución ibérica hasta el 31 de diciembre y la senda de precios \nrecogida en este decreto ley. La extensión introduce algunos cambios para adecuar la aplicación a la \nnueva realidad temporal. El Decreto Ley 10/2022 partía de un precio de referencia del gas natural fijado \nen 40 euros megavatio hora durante los seis primeros meses, incrementándose mes a mes en 5 euros, es \ndecir, en marzo estábamos en 55 euros el megavatio hora. El decreto ley que someto a consideración \nestablece el precio de referencia del gas natural partiendo de esos 55 euros, incrementándose 1,1 euros \nmegavatio hora a partir del mes de abril a cada uno de los meses hasta llegar a los 65 euros en el próximo \ncve: DSCD-14-PL-262\n \nmes de diciembre. El 7 de marzo es también la referencia temporal empleada para incorporar nuevos \ncontratos de energía a la aplicación del ajuste.\nMe gustaría destacar algunos datos adicionales que creo que son importantes. En primer lugar, el de \nla flexibilidad demostrada de este mecanismo, así como la simplicidad en su aplicación. Desde el pasado \n28 de febrero, cuando el precio del gas natural se situó por debajo del límite en el que se activa, no ha sido \nnecesario aplicarlo. La estabilización en los precios del gas se ha visto favorecida por la acción concertada \na nivel europeo. Con las disposiciones sobre el almacenamiento de gas se han logrado niveles de hasta \nel 95 %, y a fecha de 18 de abril, ofrecen un resultado tranquilizador, que en el caso de España se eleva \nhasta el 87 % de nuestra capacidad, muy por encima de la media a final de los inviernos de los últimos \naños, que se situaba en torno al 61 %. Es decir, contamos con una buena situación de partida para el \ninvierno 2023-2024. Necesitaremos seguir aplicando las medidas de reducción de la demanda de gas, \nque en España nos han permitido una reducción del consumo doméstico de alrededor del 21 %, y seguir \ncon las medidas que impulsan un uso responsable. El ahorro energético ha permitido una reducción \nimportante en el conjunto de la Unión Europea, así como el hecho de que el Consejo de Ministros de \nEnergía el pasado mes de diciembre acordara — acordáramos— establecer un límite al precio de compra \ndel gas natural que ha funcionado como una potente señal para los operadores del mercado. Si a todo \nesto sumamos un invierno templado, hemos observado una caída muy significativa del precio del gas \nnatural y su estabilización en los últimos meses. Fíjense, a modo de ejemplo, que el precio medio mensual \ndel gas natural en España en agosto de 2022 era de 164 euros el megavatio hora; hoy, a finales de marzo \nde 2023, el precio era 44 euros el megavatio hora. Esta reducción ha tenido un impacto directo sobre el \nprecio de la electricidad, hasta el punto de que el precio de la electricidad, gracias a la aplicación de la \nsolución ibérica y a esta contención de los precios del gas, ha sido un 68 % inferior al precio ofertado en \nmarzo de 2022, cuando se acababa de iniciar la guerra en Ucrania.\nEsperamos que la situación de estabilidad en los precios se mantenga en los próximos meses y que, \npor tanto, no se superen los precios umbral que obliguen a activar de nuevo la solución ibérica, pero si \nesto llegara a ocurrir, el decreto ley que someto a su convalidación nos permite contar con una garantía \nextra para los consumidores españoles, nos protegería frente a volatilidades que volvieran a dispararse y \nnos mantendría preparados. España estaría protegida. Es una garantía para todos. El mecanismo funciona \ncomo un cortafuegos que garantiza la estabilidad de los precios de la electricidad, pese al ruido que \nalgunos han intentado hacer durante estos meses, llegando a tildarlo como timo ibérico. Por eso, señores \ndel Partido Popular, les sugiero que piensen y actúen en favor de los hogares y la industria, que piensen \nen los consumidores y en la inflación, que dejen de boicotear soluciones y abandonen cuanto antes el \ncuanto peor, mejor.\nDecía antes que esta medida ha supuesto más de 5100 millones de ahorro, representando un alivio \nmuy importante para la inflación, que dificultaba la tranquilidad económica de familias y empresas en \nEspaña. El balance de estos ocho meses es enormemente positivo. El precio medio en España de la \nelectricidad, tras el ajuste, se situó en 183,4 euros el megavatio/ hora, muy por debajo del precio observado \nen otros países, como Francia, 273,23, Alemania 240,48, o Italia, 306,18, es decir, precios entre un 25 y \nun 40 % inferiores al del resto de la Unión Europea. Hoy somos uno de los países con precios de la \nelectricidad en el mercado mayorista más bajos del conjunto de la Unión Europea.\nPermítanme que añada otro dato importante. Estos efectos positivos se han logrado en un momento \nparticularmente tenso y complicado en el conjunto de Europa, también en Portugal, en España, en Francia, \nen países que se han visto duramente afectados por la sequía y las altas temperaturas, reduciendo de \nforma muy importante la generación hidroeléctrica; en países que, como en el caso de Francia, han \ndebido contar con un parón muy importante en su parque nuclear, reduciendo la capacidad de generación \npara su consumo y, por supuesto, para su exportación, necesitados de importar electricidad de sus \nvecinos. Nuestro sistema ha mostrado su robustez, ha funcionado de manera estratégica, cambiando la \nrelación y el papel tradicional para el que estaba diseñado. Ha dado pruebas de solvencia incluso en estos \nmomentos de tensión. De hecho, hemos satisfecho, hemos dado cobertura a la demanda nacional y a \nparte de la demanda de nuestros socios. La reducción de la hidroelectricidad en Portugal hizo que \ntuviéramos que cubrir la demanda portuguesa entre el 30 y el 35 % el pasado verano y alrededor del 29 % \nen este mes de marzo, dado que la hidraulicidad ha reducido la generación eléctrica a partir de estas \nfuentes alrededor de un 67 % de su capacidad total. Algo parecido ocurrió con Francia, donde la parada \ndel parque nuclear redujo su capacidad de generación aproximadamente un 50 % en los meses de verano \nde 2022 por comparación con los meses de verano de los años anteriores.\ncve: DSCD-14-PL-262\n \nDe lo que estamos hablando es de una solución temporal importante, que no impide reaccionar y \nreclamar soluciones estructurales que permitan abordar un mejor funcionamiento del mercado eléctrico y \nuna aceleración en la transformación de nuestro sistema de generación, sabiendo que las soluciones \nrenovables, que la reforma del mercado son las mejores garantías para inversores y consumidores, tanto \nen estabilidad como en previsión y reducción de costes. La reforma del mercado eléctrico está hoy en la \nagenda europea. Esta crisis energética ha puesto de manifiesto los riesgos de contar con un sistema \nenergético altamente dependiente de los combustibles fósiles. El diseño del mercado actual responde al \nmix propio de la época en la que se diseñó, pero no a las necesidades de hoy. Por tanto, una reforma del \nmercado eléctrico que facilite el despliegue de las energías renovables, la entrada de nuevas figuras \nclaves para la integración de dichas renovables, como el almacenamiento, y que traslade los precios \ncompetitivos y estables de las renovables a los consumidores forma parte de las grandes apuestas \nestratégicas que no aparecen reflejadas en este decreto ley, pero sí en el conjunto de los debates europeos. \nLa verdadera excepción ibérica desde 2018 ha sido el despliegue de las energías renovables y la capacidad \nde generar energía limpia a precios asequibles. En tan solo cinco años, la capacidad instalada de energía \neólica se ha incrementado casi un 30 %, llegando hasta una cifra récord del 300 % el incremento en el \ncaso de la fotovoltaica. Esta es nuestra principal salvaguarda frente a la volatilidad de los precios de los \ncombustibles fósiles.\nSin duda, tenemos todavía por delante debates importantes sobre cómo actuar con diligencia, sobre \ncómo reforzar la compatibilidad con la protección de los ecosistemas o el acceso a los beneficios de las \ncomunidades locales, pero mientras tanto, gracias a la solución ibérica, gracias a la eficacia con la que se \nha aplicado, los precios de España en lo que va de año se encuentran entre los más bajos de la zona euro. \nHemos sido pioneros poniendo nuestra propuesta encima de la mesa sobre la base de tres claves \nfundamentales: el refuerzo de la contratación a largo plazo, el refuerzo y la creación de mecanismos de \ncapacidad que doten a nuestro sistema de flexibilidad y seguridad y las medidas que faciliten que el \ncontagio del precio del gas en la electricidad deje de ser el día a día en nuestro mix energético y en el \nmercado mayorista. Mientras este debate se sustancia y se consolida en la reforma de las normas \neuropeas, haciendo más sólida la economía para el conjunto de la Unión, les solicito que convalidemos \neste real decreto ley y que esto nos haga posible su aplicación como garantía al menos hasta final de año. \nLa economía y los ciudadanos españoles están y estarán mejor protegidos con este escudo activado \nfrente a la volatilidad de los precios de los mercados internacionales de gas.\nMuchas gracias por su atención. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Muchas gracias, señora vicepresidenta.\nEn turno de fijación de posiciones, por el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra el \nseñor Matute García de Jalón."
+  },
+  {
+   "speaker": "MATUTE GARCÍA DE JALÓN",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Egun on guztioi. Buenos días a todos y a todas.\nEmpezaré señalando que el sentido de nuestro voto va a ser afirmativo a la convalidación del real \ndecreto. No es sino la continuación de una serie de votos afirmativos a todas las medidas que se han \ntomado para intentar contener el precio de la factura eléctrica, pero yo creo que conviene recordar, como \nse ha hecho por parte de la vicepresidenta, que estamos ante una medida temporal, ante una medida \ncoyuntural, pero que lo verdaderamente importante, el objeto de fondo de todo análisis en relación con la \nfactura eléctrica, tendría que ver con las medidas estructurales que se deben tomar, en los espacios \ndonde se están tomando y en qué direcciones se están orientando.\nA nosotros nos gustaría que en esta Cámara, que en el seno de la sociedad del Estado español se \npudiera habilitar un debate a tiempo real sobre cuáles son las propuestas que se están poniendo encima \nde la mesa en la Unión Europea para reformar el sistema de tarificación del sistema eléctrico, porque si \nalgo ha quedado en evidencia es que el actual modelo, aparte de mostrarse poco flexible o poco útil, es \nsobre todo un modelo que penaliza a las personas, porque hace aquello que ya todos y todas hemos oído \nen más de una ocasión, que es pagar el precio más caro por la producción de la energía más barata. Por \ntanto, ese sistema de tarificación o de fijación de precios de mercado tendría que dar lugar a uno nuevo, \ny es ahí donde está el debate. Ahora tenemos una prórroga hasta el 31 de diciembre. Está bien. Yo creo \nque tenemos esos meses para que se debata, para que se abra un cauce en la sociedad y para que \nentendamos hacia qué sistemas de tarificación podemos ir que blinden los derechos de las personas \nconsumidoras. De lo contrario, seguiremos destinando ingentes recursos públicos para equilibrar las \nfacturas eléctricas y que estas no resulten más gravosas para los ciudadanos y ciudadanas, mientras \ncve: DSCD-14-PL-262\n \nseguimos asistiendo impávidos a beneficios escandalosos y de récord de las empresas eléctricas. Hoy \nmismo salía un informe, el informe País por país, impulsado o avalado por la OCDE, que viene a señalar \nque hay treinta y una grandes empresas españolas, entre las que están estas eléctricas, que han tributado \nal 1,75 %. Esa es la realidad de estas empresas: acumulan beneficios récord, pagan pocos impuestos y \nes el Estado, es el poder público quien tiene que soportar los desmanes de un mercado que ellos dominan \na su antojo para que los ciudadanos y ciudadanas no lo sufran sobremanera. Por eso decimos que el \ndebate verdaderamente importante tiene que ver con eso. (El señor vicepresidente, Rodríguez Gómez \nde Celis, ocupa la Presidencia).\nEstá bien que se nos señale también que parte de la casuística o de la excepcionalidad que estamos \nviviendo tiene que ver con la invasión rusa de Ucrania. Creo que también, por justicia, habría que señalar \nque aunque España, el Estado español, junto con la Unión Europea, ha decidido ser hermano de los \nEstados Unidos en esta causa, en la causa de Ucrania, Estados Unidos está tratando a la Unión Europea \ny a España como primos y está haciendo que paguemos por el precio del gas — que ahora hay que \ncomprarle a Estados Unidos y que antes se compraba a Rusia— el doble de lo que antes se pagaba. Se \nsuele decir que de las tragedias hay quien hace negocio; pues parece evidente que Estados Unidos está \nhaciendo negocio con el precio de los combustibles, porque no está teniendo esa relación fraterna que \nprobablemente sostiene que hay que tener.\nTermino con otra consideración. Para nosotros es importante que ahora que hay una apuesta por las \nrenovables decidida y firme, que aplaudimos y valoramos positivamente, también hagamos un esfuerzo \npara que el nuevo modelo de gestión de esa producción energética, ahora sí, con energías renovables, \nno obedezca a los mismos patrones de control y oligopolio que se han tenido con las energías fósiles por \nparte de las grandes empresas eléctricas del Estado español, porque, si no, estaremos en el mismo \nproblema de siempre: la energía se producirá de forma más limpia, será cierto, pero los ciudadanos y \nciudadanas seguiremos siendo rehenes de las ansias especulativas y de las políticas tarifarias de las \ngrandes empresas eléctricas. Es por tanto el momento, el tiempo de la intervención pública; es el tiempo \ntambién de la generación de espacios que, con carácter estratégico, preserven al poder público un papel \npredominante también en la producción energética, y nos gustaría que ese fuera el rumbo, fuera el destino \nde las políticas.\nY termino con una consideración. Usted ha hablado de la sequía; ayer se habló también bastante de \nla sequía, y está bien que hablemos de algo que se presenta como una amenaza no ya futura, sino \npresente, en el ahora, para nuestras propias vidas. Estaría bien que fuésemos especialmente celosos, \nque tuviéramos una actitud permanentemente vigilante para que no suceda, ahora que hay sequía, lo que \nha sucedido otros años en el Estado español por parte de empresas del oligopolio eléctrico, como por \nejemplo Iberdrola, que no es sino vaciar embalses para producir energía más barata que puedan vender \nmás cara de una manera absolutamente irresponsable. Le pedimos, señora vicepresidenta, que tengan \nuna actitud vigilante para que eso no suceda, y en el caso de que suceda, que no puedan burlar o sortear \nsu fraude o su práctica absolutamente arbitraria e injusta con una multa que con los años, incluso gracias \na la justicia española, acaba siendo condonada cuando no perdonada directamente.\nEskerrik asko, mil esker. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias.\nPor el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra la señora Sagastizabal \nUnzetabarrenetxea."
+  },
+  {
+   "speaker": "SAGASTIZABAL UNZETABARRENETXEA",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias, presidente. Egun on.\nHoy debatimos la convalidación del decreto ley para prorrogar hasta final de año la llamada excepción \nibérica, un mecanismo que, como bien se ha dicho aquí, entró en vigor en junio del año pasado para \nabaratar el precio de la electricidad mediante el desacoplamiento del gas en el mercado eléctrico. Es una \nprórroga que, una vez más, cuenta con la autorización o el aval de Bruselas, en cuanto a que las \ncondiciones que justificaron su puesta en marcha, dentro del marco de medidas por la guerra de Ucrania, \nno ha cambiado.\nEs cierto que en parte de febrero y durante todo marzo el mecanismo no se ha activado, no ha tenido \nefecto por la fuerte caída del precio del gas por debajo del precio previsto por el mecanismo. Quizá alguna \no alguno podría preguntarse si se necesita un tope cuando precisamente los precios mayoristas del gas \nestán muy por debajo. La respuesta de nuestro grupo es clara: sí, porque seguimos estando en un \nescenario de incertidumbre, en el que no podemos descartar nuevas volatilidades de precios que hagan \ncve: DSCD-14-PL-262\n \nnecesaria esta prórroga para que España y Portugal puedan seguir contando con esta protección frente a \nuna potencial escalada del precio del gas durante todo este año. Además, con esta prórroga, el nuevo \nlímite del precio del gas queda fijado en 65 euros megavatio/hora, pero de forma lineal, de mayo hasta \ndiciembre de 2023, con lo que hasta ahora se incrementaba en 5 euros al mes y ahora este incremento \nserá mucho más suave, pues el precio de referencia es de 55 euros megavatio/hora y, como la prolongación \ndel sistema implica una modificación de la senda establecida, el incremento será de 1,1 euros megavatio/\nhora desde abril, para concluir en esos 65 euros megavatio/hora inicialmente pactados.\nHay que reseñar además que el mercado de futuros español de electricidad (OMIP) no se ha alterado \ntras conocer esta prórroga del mecanismo del tope de gas, porque el tercer y cuarto trimestre de 2023 ya \ncotizaban entre 120 y 125 euros megavatio/hora antes del anuncio. Este nivel está referenciado a un \nprecio de futuros del gas de 45 a 50 euros megavatio/ hora, muy por debajo de esos 65 fijados para el tope \ndel precio del gas. España, además, parece descolgarse de la tendencia alcista de la última semana de \nmarzo, tanto en los mercados de gas como de electricidad europeos, aunque se mantiene por encima de \nsus rangos históricos. El efecto de la fuerte generación renovable, la caída del consumo, los altos niveles \nde reserva de gas y el efecto de la prórroga de la excepción ibérica o del tope del precio del gas parece \nque de momento pesan mucho más que las amenazas de un posible repunte de ese precio del gas.\nDicho todo esto, evidentemente, mi grupo va a votar a favor de la prórroga de siete meses más al \nmecanismo, tal y como ya hicimos en junio del año pasado para convalidar el decreto original que regulaba \neste mecanismo, porque el marco para el que se desarrolló hoy permanece vigente. Es más, mi grupo \nabogaría por acordar con Bruselas la posibilidad de habilitar este mecanismo sin nuevas necesidades de \nautorización, para que llegado el caso y ante circunstancias siempre excepcionales pudiese entrar en \nvigor hasta que Europa acuerde esa reforma del mercado eléctrico, la cual marcará las líneas de acción \na seguir por todos los Estados miembros y por la que mi grupo también ha abogado, para poder contar \ncon medidas que protejan al consumidor y que este tenga mayor libertad para poder elegir la duración y \nforma de los contratos, para reforzar los mercados a plazo y contar con mecanismos de flexibilidad y \ncapacidad, entre otros.\nEs un mecanismo que ha servido para amortiguar la brusca escalada de precios de electricidad como \nconsecuencia de la guerra de Ucrania, que hizo que las facturas fuesen difíciles de asumir por parte de \nconsumidores domésticos, empresas y, en particular, los industriales. Es un mecanismo que, pese a quien \nle pese, ha funcionado, porque ha conseguido una menor subida de los precios en España que en el resto \nde países europeos, y ha permitido reducir la inflación, evitando los incrementos del precio de la electricidad, \nque de otro modo sí se hubieran producido, y su efecto contagio sobre los restantes bienes de consumo \ny servicios. Y además lo ha hecho de forma progresiva, ya que la menor subida de precios ha sido más \nacusada en los hogares más vulnerables, que son los que destinan una fracción mayor de su renta a la \nfactura de la luz, que en los hogares más acomodados, según un estudio de ESADE, todo ello a pesar de \nalgunos efectos negativos colaterales que se han podido generar, como podría ser un mayor consumo de \ngas para generar electricidad y, a lo mejor, como muchos dicen, un aumento de esas exportaciones a \nFrancia, pero desde luego no de forma desbocada, porque la conexión eléctrica es limitada y un consumidor \nfrancés no va a comprar electricidad en España a precio subvencionado. Lo que sí ha ocurrido y va a \nocurrir es que de los ingresos que se generen por la diferencia de precios entre los países, un 50 % vaya \na Francia, las rentas de congestión, pero también recuerdo que el ministerio no quería que esto fuese así, \ny por ello propuso una subasta en frontera que Europa finalmente no autorizó.\nEn definitiva, apoyaremos la prórroga en los términos pactados por la Comisión Europea por lo ya \nalegado y, desde luego, para no privar a los consumidores de una mejora en el nivel de protección que \nofrece este mecanismo ante un posible incremento del precio del gas en un escenario aún de incertidumbre \ny de volatilidad.\nNada más y muchas gracias."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Por el Grupo Parlamentario Ciudadanos, \ntiene la palabra la señora Martínez Granados."
+  },
+  {
+   "speaker": "MARTÍNEZ GRANADOS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias, presidente.\nSeñorías, vicepresidenta, en primer lugar quiero darle las gracias por habernos contado de primera \nmano el contenido de este real decreto. Se agradece que a estas alturas de la legislatura tengamos estas \nconversaciones, que me parecen muy interesantes, aunque nos hubiera gustado que hubieran sido más \ny antes.\ncve: DSCD-14-PL-262\n \nMi grupo parlamentario, como ya le dije, va a votar a favor de esta ampliación de la excepción ibérica, \npero tenemos muchas dudas sobre otras cosas. Creemos que es importante tener en cuenta cuál es el \ncoste final del mecanismo, porque es algo que todavía no sabemos y que sería interesante saber, para \nevaluar que el coste es realmente el que se pretendía. Tendríamos que saberlo, así que, a ver si tenemos \nla suerte, señora ministra, y antes de que acabe la legislatura podemos saber cuál ha sido el coste final.\nRealmente, el problema más grave es que en el anterior real decreto se comprometieron con la \ncomisión a acometer la reforma de la PVPC, y esto no es la primera vez que lo hablamos, ministra. Es \nverdad que la última vez que compareció aquí lo comentamos, y me dijo: Ya la tenemos ahí, está casi, lo \nvamos a hacer. Pero, mire, esto es crucial para todos, desde los más grandes consumidores hasta los \npequeños negocios y hogares que nos beneficiamos del despliegue de las renovables en nuestro país, y \npara toda la Unión Europea. Tras años de esfuerzos a lo largo de toda la cadena de producción, distribución \ny consumo de electricidad para descarbonizar nuestra energía, es vital que ello se traduzca en precios \nbajos. No estamos llevando a cabo este enorme despliegue de renovables solo porque sean más \nsostenibles, sino también porque son más baratas. Esto se tiene que reflejar en la factura final de la \nelectricidad. Este y no otro era el objetivo del diseño del mercado eléctrico de la Unión Europea, que \nestaba basado en una marginalidad del sistema que debía premiar a las tecnologías más eficientes. Pero \nesto ya ha dejado de cumplirse.\n¿Qué es lo que quiero decirles? Que realmente ustedes, desde octubre del año pasado, tendrían que \nhaber acometido ya la reforma de la PVPC. Era un compromiso que habían mantenido y que venía escrito \nen ese real decreto. A lo mejor tendríamos que darnos un poco de prisa, porque al final la Unión Europea \ny la Comisión están tomando medidas, como usted bien ha dicho, en la reforma del mercado eléctrico, que \nes muy importante, pero creemos que miran hacia otro lado y a veces no saben o no quieren saber cuáles \nson las prioridades. Le pongo un ejemplo, la ley de vivienda. Se acortan los plazos, la ponencia ha sido \nbastante difícil y la Comisión es al día siguiente. Ahí sí aligeramos, pero en esto, no. Yo creo que es algo \nque debe hacerse antes del final de la legislatura, y el resto de los grupos parlamentarios debemos poder \nparticipar en un debate sosegado, centrado, sobre una reforma que es la que realmente necesitan todos \nlos españoles, una reforma que, además, debe hacerse con cabeza. No podemos esperar. Mi grupo \nparlamentario siempre sigue esta misma línea. Por lo tanto, llamamos la atención una y otra vez, cada vez \nque vienen o cada vez que hay una comisión, para que el Gobierno cumpla con esa reforma de la PVPC, \nque estaba en la exposición de motivos del Real Decreto 10/2022.\nPor lo tanto, sí, votaremos a favor, pero creemos que el compromiso que tiene este Gobierno con la \nsociedad, con los españoles y con la Comisión debe cumplirse lo antes posible. De hecho, hace \nrelativamente poco, Ciudadanos presentó una proposición no de ley en la Comisión, en la que solicitábamos \nque con urgencia se realizara esta modificación, que se realizara esta reforma. El Partido Socialista, con \nuna enmienda que transaccionamos, votó a favor de esa proposición no de ley. Por lo tanto, pedimos que \ncumplan, que hagan esa reforma antes posible y que, por supuesto, la hagan contando con todos los \ngrupos parlamentarios.\nMuchísimas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Plural, tiene la palabra la señora Nogueras i Camero."
+  },
+  {
+   "speaker": "NOGUERAS I CAMERO",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gràcies, president. Gràcies, ministra.\nHe ido tomando apuntes de lo que usted ha dicho y tenía dudas. Algunas las ha resuelto, pero otras \nno. Yo tenía preparado hoy hablar de dos temas que me han llamado la atención de este real decreto. Uno \nes el poco rigor y el otro es la intencionalidad.\nRespecto al primero, en el preámbulo ustedes hacen referencia a diferentes datos, pero pocos de \nellos, señora ministra, están justificados en el cuerpo de la norma. Y voy a ponerle el ejemplo, que usted \nha mencionado además, de los 5000 millones de euros que ustedes dicen que se han ahorrado. Esto lo \nafirman aquí, en el preámbulo, pero tampoco justifican quién se ha ahorrado estos millones ni el origen. \nNo hay ninguna justificación. De hecho, en el real decreto sí hablan ustedes, y lo cito literal, de diversos \ninformes y diversos estudios, pero tampoco nos explican ni nos concretan cuáles son estos informes y \ncuáles son estos estudios que justifican y que explican este ahorro. En todo caso, los datos oficiales, que \nlos hay, y el hecho de que usted no haya concretado aquí quién se beneficia de este ahorro, a nosotros \nnos hace pensar que se han beneficiado los de siempre, las grandes empresas españolas. De hecho, este \nreal decreto es un ejemplo más de esta manera de legislar que tienen ustedes y que vienen aplicando \ncve: DSCD-14-PL-262\n \ndesde hace mucho tiempo, y nos da la sensación de que este Gobierno, el Gobierno más progresista de \nla historia, el Gobierno Sánchez, hace las cosas como las cuentas del capitán: barcos y cañones, tantos \nmillones. (Rumores). Si quiere, me espero a que acabe de hablar, señora ministra, para continuar. \nGracias.\nSigo. Decía que algunas de las afirmaciones que iba a hacer aquí se han modificado por su intervención. \nHablo de la intencionalidad y puede ser que en algunas cosas me equivoque. En este real decreto ustedes \nmarcan el precio de referencia, pero también es cierto que los datos de Mibgas, que son los datos de \nreferencia, los datos oficiales, nos dicen que el precio está por debajo de estos valores y que, además, la \ntendencia, y lo vemos en los diferentes gráficos, es a la baja. Entonces, si estos datos de Mibgas son \ncorrectos, alguien podría preguntarse por qué este real decreto es necesario. Le puedo comprar que, por \nel contexto de riesgo en el que estamos, puede tener sentido, aunque me temo que alguien va a aprovechar \no va a tener la tentación de decir que si precisamente hay una tendencia a la baja es porque ha entrado \nen vigor este real decreto. Espero que no sea así.\nOtra pregunta que me hago es: Si los costes de gas han bajado, si la energía se ha moderado, ¿por \nqué el Gobierno no se plantea recuperar la inyección de miles de millones que ha dado a las grandes \neléctricas españolas? Porque ustedes dieron una inyección de 1360 millones de euros a las eléctricas en \nagosto y otra inyección de 2000 millones de euros a principios de año, también a través de reales decreto, \nreales decretos que se titulaban de medidas de choque para paliar las consecuencias de la crisis de la \nguerra, pero que en la letra pequeñita incluían esta inyección. ¿Se han planteado ustedes recuperarlo?\nTermino. Como usted sabe, el tejido empresarial de Catalunya (pronuncia palabras en catalán), y \nustedes llevan desde hace muchos años amenazándolos, cuando reciben cartas varias. Incluso en este \nParlamento se ha aprobado un real decreto invitando a las empresas catalanas a salir de Catalunya y a \nirse de Catalunya. Incluso muchas patronales catalanas les piden, por favor, que dejen de legislar, porque \ncada vez que ustedes legislan, ellos tienen un palo más en la rueda. Me pregunto si ustedes tienen \nplanteado ayudar directamente a las pequeñas y medianas empresas con los impuestos que han \nrecaudado de más este 2022 o, incluso, si recuperan esta inyección que han dado a las grandes eléctricas \nespañolas, que, además, han tenido en 2022 unos beneficios récord. Han cerrado muchas empresas, \nseñoría, durante estos últimos años y otras muchas están absolutamente al límite. Ustedes votaron en \ncontra de un fondo de ayuda para las pequeñas y medianas empresas que nosotros presentamos, pero \ncompensan con 3360 millones de euros a las grandes eléctricas, que tienen unos beneficios récord. Le \ndigo esto, ministra, porque usted antes reprochaba que no se estuviera a favor de los hogares y de las \npymes, que precisamente creo que es lo que están haciendo ustedes.\nMoltes gràcies."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias.\nPor el Grupo Parlamentario Republicano, tiene la palabra el señor Capdevila i Esteve."
+  },
+  {
+   "speaker": "CAPDEVILA I ESTEVE",
+   "party": "ERC",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Bon dia, buenos días, señor presidente.\nVicepresidenta, el tema hoy no da para mucha controversia, solo mi curiosidad morbosa me hará \nquedar en vilo hasta que intervenga el representante del PP, con su habitual sagacidad; la verdad es que \nestoy francamente intrigado. Votamos la prórroga, con alguna modificación, del popularmente conocido \ncomo mecanismo ibérico, que caducaría el próximo 31 de mayo. Con este real decreto su aplicación se \nalarga hasta finales de este año. Nótese que quizás no sea usted ministra ni presidenta ni yo diputado y, \nDios y el pueblo soberano no lo quieran, quizás estos señores (señala a los escaños del Grupo \nParlamentario Popular en el Congreso) tengan que comerse este real decreto. Empecemos a pensar \nen esta actitud mental, porque creo que es importante.\nQuería basar mi intervención en una pequeña valoración sobre el funcionamiento del mecanismo \nibérico. Y, por último, no se librará usted de mi insistencia por mis clásicos, no vaya usted a creer. La \nevidencia es que el precio de la electricidad se ha visto reducido sustancialmente ―no tanto como \nquisiéramos, pero sustancialmente― en los últimos meses. Los factores que han contribuido a esta \ndisminución son, básicamente, tres: este mecanismo que nos ocupa, la disminución del precio del gas y, \nlast but not least, el buen comportamiento de las renovables. No sabría en qué orden priorizarlas. Somos \nperfectamente conscientes, como ustedes también indican en su texto, de que, probablemente, la \naplicación de este mecanismo no será necesaria al estar los precios del gas muy bajos ―muy bajos para \nlo que nuestros ojos han visto en tiempos recientes―, pero como nuestros ojos ya han visto estallar \ngalaxias más allá de Orión es razonable establecer un tope que dé seguridad. En este sentido, daremos \ncve: DSCD-14-PL-262\n \napoyo a esta propuesta y para más admiración del portavoz del Grupo Socialista consideramos innecesario \nsu trámite como proyecto de ley. Es más, señora ministra, le instamos a estudiar si es posible establecer \neste mecanismo como un resorte automático y estable.\nDicho esto, no olvidamos los deberes pendientes, señora Ribera. En primer lugar, el real decreto de \nredes cerradas. Pronto va a pensar usted que es mi segundo apellido. Perdiendo tiempo — ya van más de \ntres años— seguimos perdiendo dinero. Ya nos han dicho ustedes «muy prontito» tantas veces que \nempiezo a pensar que «muy prontito» en lenguaje político español es casi una constante física. En \nsegundo lugar, la aplicación del contrato de potencia estacional. Creo que demostraría una particular \nsensibilidad ante la creciente sequía y nos lo tendríamos que tomar como un aliciente más para tomar \nacción concreta. Y tanto, señora ministra, tanto por cumplir con la pronto cumpleañera Ley de Cambio \nClimático y Transición Energética y su propuesta de reforma integral del sector eléctrico y tanto por \ntrasponer las directivas europeas, que amparan y apoyan la verdadera democratización de la energía.\nSeñora Ribera, estos años hemos visto un incremento muy sustancial de las energías renovables, y \nesto va a pasar a su activo político, es innegable, más teniendo en cuenta los casi 60 gigavatios nuevos \nque deberán entrar en servicio en 2025. De esta manera logramos avanzar significativamente en un \nvolumen de energías renovables previsto para el final de la década. Sin embargo, respecto a la \ndescarbonización, la otra cara de la misma moneda, vamos en el vagón de cola. No hay renovables \neconómicas ni seguridad de suministro sin el pleno desarrollo del almacenamiento y de la flexibilidad de \nla demanda. Por ese motivo, la interpelamos para que no acabe la legislatura sin resolver alguno de los \ntemas más importantes. Es necesario que los recursos distribuidos en la gestión de la demanda puedan \nparticipar en todos los mercados energéticos, y esto, señora vicepresidenta, depende de usted, depende \nde ustedes. La animamos y mostraremos nuestro apoyo cuando venga con esta mentalidad de que \naunque esté acabando la legislatura no hay que temer legislar mirando más allá, pisando el balón y viendo \nel campo que queda. La animamos a que actúe y acabe de redondear la jugada.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias.\nPor el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, \ntiene la palabra el señor López de Uralde Garmendia."
+  },
+  {
+   "speaker": "LÓPEZ DE URALDE GARMENDIA",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Buenos días, señorías.\nAbordamos hoy la prórroga de una iniciativa que ha tenido unos efectos muy positivos para el precio \nde la energía en nuestro país y que, además, pone de manifiesto que la intervención de los precios desde \nel Estado es una medida necesaria para proteger a los más vulnerables. Esta intervención de precios, \neste tope a los precios, fue una propuesta inicial de Unidas Podemos, que en un principio fue rechazada \ny que, sin embargo, ha demostrado su utilidad y sus muy positivos efectos. Quedan pendientes todavía \notras propuestas, como, por ejemplo, la necesidad de crear una empresa pública de energía. Sigue siendo \nun déficit para nuestro país que no haya una presencia pública en el sector energético. En Unidas Podemos \ncontinuaremos trabajando para que esto vaya adelante. También la reforma del sector eléctrico en \nprofundidad sigue siendo una necesidad urgente. (Aplausos).\nSin duda, el mecanismo de fijación de los precios de la electricidad, más conocido como el tope de \ngas, ha supuesto un ahorro acumulado de 209 euros en 2022 para los cerca de nueve millones de hogares \nque están acogidos a la tarifa regulada de la luz, en total un ahorro de 5100 millones de euros para los \nconsumidores españoles. Es un efecto que fue más allá de los propios consumidores, puesto que, al \ncontener el coste de la energía eléctrica, ha ayudado a nuestro país a rebajar la inflación en España cerca \nde medio punto al cierre del año. Por lo tanto, ha tenido también un efecto país. Quizás, su mayor utilidad, \ncomo ha quedado visto, ha pasado ya, porque para el periodo que abarca la prórroga que hoy aprobamos \nlos datos apuntan a que en el cuarto trimestre de este año y en 2024 el precio del gas en el mercado \ninternacional seguirá por debajo de los 50 euros megavatio hora, al estilo de lo que marcaba antes de que \nestallara la guerra en Ucrania. Esto dejará sin efecto, seguramente, la excepción ibérica, que ha cumplido \nsu papel en los momentos de mayor subida del precio del gas, que era lo que pretendía. No obstante, esta \nprórroga garantiza que, en caso necesario, por nuevas subidas, el mecanismo estará en marcha.\nSin embargo, yo quería fijar mi intervención en un debate que considero imprescindible. La derecha \nde este país se ha llenado la boca durante estos meses hablando del timo ibérico, utilizando para ello la \nexportación de energía al país vecino, Francia. Sin embargo, yo creo que a estas alturas de lo que \ntenemos que hablar es del timo y del fracaso nuclear, porque es lo que realmente está detrás de esta \ncve: DSCD-14-PL-262\n \nexportación de energía a Francia. (Aplausos). Por cierto, el modelo nuclear es el modelo energético que \nlas tres derechas proponen para nuestro país, un modelo que, debido a la parada de numerosos reactores \n— de los cincuenta y seis reactores que tiene el país una media de entre diecinueve y treinta y seis han \nestado fuera de operación por distintos problemas técnicos—, ha supuesto que Francia haya necesitado \nimportar energía desde España. En Francia, desde noviembre de 2021 a noviembre de 2022, la cantidad \nde energía producida a partir de nuclear ha bajado un 29 %, casi un tercio, debido, precisamente, a los \nproblemas de estas centrales nucleares. Pero, además, la cosa no mejora. Tras haber descubierto una \nimportante fisura en un reactor de una central nuclear en Normandía, la empresa EDF señaló haber \nencontrado nuevos defectos en otros dos reactores, lo cual podría alterar el calendario de mantenimiento \nde las centrales nucleares francesas.\nPor lo tanto, señorías, España dispara la venta de luz a Francia por el fallo de sus centrales nucleares, \nlo que no tiene nada que ver con la rebaja del tope ibérico, porque, de hecho, las exportaciones al país \ngalo se han elevado hasta los 3 559 177 megavatios hora, entre enero y marzo, por la crisis del parque \nnuclear y porque la generación con renovables en nuestro país ha crecido un 26 %. Dos modelos que \nconfrontan: uno, con éxito, la apuesta española por las energías renovables y, otro fracasado, la apuesta \nnuclear francesa. Cuando la generación renovable en España aumentaba un 26 %, la producción nuclear \nfrancesa disminuía en ese mismo periodo.\nPor eso, España continúa exportando gran cantidad de electricidad a Francia, aunque no por la \naplicación de la excepción ibérica. El mecanismo ha permanecido inactivo durante treinta y nueve días en \nel primer trimestre del ejercicio, de los cuales treinta y tres han sido de manera consecutiva, del 27 de \nfebrero al 31 de marzo, y aun así la venta de energía al país galo se ha disparado en un 74 %, en \ncomparación con el primer cuarto de 2022. Por lo tanto, esto no tiene que ver con el mecanismo ibérico \nde contención del gasto, con la excepción ibérica, sino que tiene que ver con las necesidades francesas \ndebido al fracaso de su programa nuclear, en el cual insisten una y otra vez, como también hacen ustedes. \nPor su parte, las importaciones se han situado en 866 445 megavatios hora, lo que hace que el país \ncerrara el periodo con un saldo exportador de electricidad hacia Francia de 2 692 732 megavatios hora.\nFrancia lleva tiempo sumida en su propia crisis nuclear y se está viendo obligada a comprar electricidad \nde otros mercados. (El señor Mariscal Anaya hace gestos negativos). Sí, señor Mariscal, así es. Nunca \nfue verdad que la causa principal de la mayor exportación de luz a Francia fuese el tope del gas; la causa \nprincipal es el estado de las nucleares francesas. Así que, por favor, señores de la derecha, revisen su \npolítica energética, apoyen la apuesta por la transición energética hacia las energías renovables y, por \nfavor, abandonen los discursos del pasado, que, como estamos viendo, en el caso francés, solamente nos \nllevan al fracaso.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias.\nPor el Grupo Parlamentario VOX, tiene la palabra el señor Figaredo Álvarez-Sala. (Aplausos)."
+  },
+  {
+   "speaker": "FIGAREDO ÁLVAREZ-SALA",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Muchísimas gracias, señor presidente.\nNos encontramos ahora con una convalidación de un real decreto ley que aplica una especie de tirita, \nuna especie de parche al sistema eléctrico español. El sistema eléctrico español — lo hemos hablado \nmuchísimas veces, pero es importante que quienes están en su casa nos entiendan— es un sistema \nrelativamente complejo, que utiliza para la fijación del precio de la energía eléctrica un método llamado \nmarginalista. El método de fijación de precio marginalista supone que, ante una subasta de una cantidad \nequis de productos con precios diferentes, quien fija el precio final que se abonará a todos los productores \nes el último, que normalmente es el más caro. Este sistema se aplica en los mercados internacionales de \notras commodities, como, por ejemplo, en el trigo o, incluso, en algunos minerales incluso. Como digo, se \naplica también en la energía en España.\nEste sistema tiene sentido cuando todos los productos son muy homogéneos entre sí, es decir, \ncuando todas las tecnologías que producen energía tienen un coste muy parecido. ¿Por qué? Porque \nentra la más cara a fijar el precio y, así, estimula que cada uno de los anteriores generadores de energía \nsea cada vez más eficientes. Pensemos en el trigo. Son productos muy parecidos. ¿Qué sucede hoy en \ndía? Hoy en día sucede que tenemos unas tecnologías que producen a precio casi cero o tendente a \ncero, 30 euros megavatio hora — pensemos en las eólicas o fotovoltaicas— y otras que producen a un \nprecio muy elevado, en concreto el gas. Tenemos una dispersión tremenda. Si se fija el precio mediante \ncve: DSCD-14-PL-262\n \nel sistema marginalista, claramente se produce una disfunción de lo que en origen se había proyectado, \ny aquí es donde entra el Gobierno.\nPodemos ha criticado este sistema, que tiene muchos fallos, y Podemos lo que ha dicho en otras \nocasiones es lo siguiente: Si muchas personas consumen pan, que es muy barato, y el pan es la energía \ngenerada con fuentes más o menos baratas, y unos pocos consumen caviar, que es muy caro, y esto es \nla energía generada con gas, obligamos a todos a pagar el precio del caviar. Esto es lo que han dicho los \nde Podemos, este era su argumento. Pues bien, lo que hace ahora el Partido Socialista, y que apoya \nPodemos, es que a todos aquellos que utilicen gas, en su símil todos aquellos que consuman caviar, \nsubvencionémosles el caviar. ¿Y quién va a pagar la subvención de quienes consumen el caviar? Quienes \nestán consumiendo el pan. (Aplausos). Porque en este sistema que la señora Ribera nos plantea, todas \nlas tecnologías que producen energía eléctrica barata, entre comillas, tienen que subvencionar a aquellos \nque la generan con una tecnología muy cara, cual es el gas.\n¿Qué ha sucedido? Si en España, en el año 2021, la media de consumo de gas mensual para generar \nenergía eléctrica estaba en torno a los 3000 o 4000 megavatios hora, en el momento en que se aplica la \nexcepción ibérica, el consumo de gas mensual — recordemos, el caviar que decía Podemos— se dispara \nhasta los 8000 megavatios hora al mes, 9000 megavatios hora al mes durante algunos de los meses. \n¿Qué ha sucedido? Que el producto más caro, al estar subvencionado, se consume muchísimo más. Se \nha producido una paradoja tremenda, y es que el gas en el año 2021 era la tercera — había dos por \ndelante— tecnología generadora de electricidad en España. ¿Qué sucede en el año 2022 con la aplicación \nde este mecanismo ibérico? Que el gas pasa a ser la primera tecnología. ¿Por qué? Porque está \nsubvencionada. ¿Por quién? Por todos los demás usuarios de la energía eléctrica.\nEntonces, la señora ministra, aplicando la política del Partido Socialista, que suele ser la de parchear \ny chapucear cualquier sistema, lo que ha conseguido es que la supuesta tecnología más cara pase a ser \nla más consumida y que esa tecnología más consumida pase a estar subvencionada por quienes ya \nusaban métodos más eficientes. Es verdad que el precio final al consumidor ha resultado más barato, pero \n¿a qué consumidor? Porque siempre hablan del pool eléctrico, etcétera, pero en el pool eléctrico solo se \nvende aproximadamente el 25 % de la energía generada en España. El otro 75 % se vende en contratos \na largo plazo que ya están cerrados. Con lo cual, si tú tenías un precio cerrado en un contrato a medio o \nlargo plazo y, de repente, llegan estos señores e introducen esta modificación en el mercado, tú ahora \ntienes que pagar, además del precio que tenías cerrado, el plus para subvencionar el gas a los que \nconsumen caviar. El efecto es terriblemente nocivo para la seguridad jurídica y para la estabilidad del \nmercado en España.\nLo que debía haber hecho el Gobierno, y podía haberlo hecho, era, uno, sacar el precio del gas de \nforma temporal del sistema de fijación de precios —que es un parche—; dos, regular el PVPC, precio \nvoluntario para la venta al consumidor, que es en el que está impactando ese 25 % de energía que se \nvende en el pool. Podían haberlo hecho y, sin embargo, no lo hicieron. ¿Por qué? Porque chapucearon \ny parchearon con la primera medida que se les ocurrió, que probablemente era la más sencilla \nde aplicar.\nLo que debería hacer el Gobierno es adoptar medidas reales, estimular y fomentar los embalses y el \nalmacenamiento de agua, el bombeo de agua para almacenar energía en nuestros embalses, y no derruir \nembalses, como está haciendo la señora Ribera. (Aplausos). Sin ir más lejos, van a demoler la presa de \nValdecaballeros. En el año 2021 el Gobierno demolió 108 embalses hidráulicos. En tiempo de sequía, \nustedes derruyen los almacenes de agua. Parece que ustedes están boicoteando a España."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Finalice, por favor, señor Figaredo."
+  },
+  {
+   "speaker": "FIGAREDO ÁLVAREZ-SALA",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Deberían ustedes promover las centrales nucleares — ya \ntermino— y no permitir que desaparezcan, como están, efectivamente, haciendo. Esas serían medidas \nefectivas y no los parches que ustedes están aplicando, que en realidad son pan para hoy, pero hambre \npara mañana.\nMuchísimas gracias. (Aplausos de las señoras y los señores diputados de Grupo \nParlamentario VOX, puestos en pie)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Muchas gracias.\nPor el Grupo Popular en el Congreso, tiene la palabra el señor Mariscal Anaya.\ncve: DSCD-14-PL-262"
+  },
+  {
+   "speaker": "MARISCAL ANAYA",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias, señor presidente.\nAlguien tiene que hablar aquí en algún momento de la excepción ibérica, de las cosas buenas y de las \nmalas, señora vicepresidenta, porque hasta ahora no he escuchado yo ninguna crítica a esta gestión que \nusted viene realizando. Lo cierto es que para lo que queda del año, la excepción ibérica, como usted bien \nsabe, no va a entrar prácticamente en aplicación, como ha venido ocurriendo desde el mes de enero, \nentre otras cosas por el nivel de almacenamiento de gas que tiene España, la situación climática y el \nexcelente desarrollo, como se ha dicho ya, de las renovables en nuestro país. Son unas renovables que, \ncomo usted bien sabe, nacen y se fundan, fundamentalmente, con las subastas del Partido Popular de los \naños 2016 y 2017. (Aplausos). Son 8300 megavatios que posibilitan que no haga falta aplicar la \nexcepción ibérica.\nPero vamos a hablar de lo que ocurre con las consecuencias de la excepción ibérica desde junio a \ndiciembre del año pasado, que es cuando se aplicó. Las consecuencias son las siguientes: hay una clara \ndistorsión del mercado, no hay neutralidad tecnológica, nadie nos ha copiado — ningún país ha considerado \nesta medida necesaria para su país—, se ha producido una evidente transferencia de rentas, es decir, se \nha subvencionado a las familias y empresas francesas, portuguesas y marroquíes con 2000 millones de \neuros, y usted habla de un ahorro de 5000 millones de euros y todos los analistas — estos saben y yo me \nfío de ellos más que de usted, como usted puede comprender— hablan como mucho de 1900 millones de \neuros, un ahorro al que se han acogido solamente un 30 % de los consumidores, como usted también \nsabe, señora Ribera; el 70 % restante han visto cómo se ha incrementado su factura de junio a diciembre \nhasta en un 40 %. Por mucho repetirlo no va a conseguir convencer a quien de esto sabe y ha estudiado.\nSegunda cuestión. Consecuencias relacionadas con el precio. Hoy han salido los datos de Eurostat \n—¡vaya por Dios!—. Claro es que entre junio y diciembre, con la excepción ibérica en aplicación, somos \nel país cuya factura eléctrica ha sido más cara, un 20 % más que la media de la Unión Europea, la factura \ntotal, es decir, lo que los españoles pagan, no el pool del que usted habla. Es la factura en la que están, \npor supuesto, los cargos, la deuda — este año solamente vamos a pagar 1545 millones de deuda—, las \nrenovables. Todo eso también va en las facturas, junto con los impuestos, y si comprobamos la factura \nfinal, resulta que pagamos un 20 % más que la media europea (el señor Hispán Iglesias de Ussel y la \nseñora Montesinos de Miguel: ¡Qué escándalo! ¡Qué vergüenza!) y un 50 % más que los franceses. \n(Aplausos.—Rumores).\nY le voy a contar otra cosa. (La señora presienta ocupa la Presidencia). Como le he dicho en alguna \nocasión, la política energética tiene mucha influencia en el devenir de las familias y de la sociedad, y parece \nque esto usted lo obvia. El esfuerzo de una familia media española para hacer frente a la factura eléctrica es \nun 77 % más que una familia francesa. ¡Qué éxito, señora Ribera! Pero no me voy a detener solamente en \nprecios. Ya sé que esto a usted le importa poco, porque habla del pool y nunca de la factura — hábil, hábil en \neso—, pero, claro, en este grupo parlamentario nos preocupamos de la gente, de las personas, que son las \nque pagan la factura, no el pool, señora Ribera. Mire, lo que ha conseguido, además, con la excepción \nibérica es que, como usted benefició regulatoriamente al gas, se ha consumido más gas; se consume más \ngas porque pagamos el mismo precio y lo que hace la excepción ibérica es subvencionar a quien genera con \ngas. Como necesitaban más gas y resulta que la política energética de este Gobierno tuvo a bien romper \nrelaciones comerciales con Argelia —¡vaya por Dios!—, uno de los dos gasoductos quedó finalizado en su \nacción y, por tanto, redujimos la capacidad por tubo de gas para España. Por lo tanto, más gas necesitamos, \nmás gas quemamos, tenemos que enviar más energía eléctrica generada con gas a Francia. Les digo un \ndato solamente: en el año 2022, con respecto al año 2021, se incrementó el uso de gas para generar energía \neléctrica un 52,7 %, señora Ribera. (El señor Hispán Iglesias de Ussel: ¡Qué escándalo!—Aplausos.—\nRumores). Claro, uno sabe que hace falta más gas, y ¿qué pasó? Pues que cerramos enero y febrero de \neste año con un 17,9 % de gas ruso. De abril de 2022 a marzo de 2023 hemos convertido a Rusia en nuestro \ntercer suministrador de gas, con un 14,5 %.\nMe detengo en Rusia. Me detengo en esto, señora vicepresidenta, porque hemos ido conociendo \nestos datos objetivos de agencias internacionales: 3634 muertos civiles; 2565 ataques aéreos; 7153 \nenfrentamientos militares; un coste para poder reconstruir Ucrania de 400 000 millones de euros, el doble \nde la economía ucraniana hoy. Todo eso mientras que España, de enero a abril, ha importado 990 000 \ntoneladas de metros cúbicos de gas ruso. (El señor Hispán Iglesias de Ussel: ¡Qué escándalo! ¡Qué \nescándalo!). Somos el primer importador de Rusia de GNL de toda Europa. (Los señores diputados \nHispán Iglesias de Ussel y Alonso Pérez: ¡Qué escándalo!). El primero de Rusia en lo que va de año. \n(La señora Montesinos de Miguel: ¡Qué barbaridad!). Les hago una pregunta a la señora vicepresidenta, \ncve: DSCD-14-PL-262\n \nal Grupo Socialista y al Grupo Podemos: ¿Cómo creen ustedes que financia Putin la invasión de Ucrania? \n¿Con un crowdfunding? (Varios señores diputados: ¡No, no, no!). Lo financia con los ingresos que \nobtiene de la venta de gas. Mire, como no me escucha habitualmente… Hay que escuchar para no \nequivocarse, hay que escuchar, leer y atender. (El señor Hispán Iglesias de Ussel: Es la soberbia.—\nRumores.―Aplausos). Mire, desde que usted es vicepresidenta del Gobierno y responsable de la política \nenergética (muestra una gráfica.—La señora Montesinos de Miguel: ¡Qué bochorno!), España ha \naumentado las importaciones de gas ruso en un 1959 %. (Varios señores diputados: ¡Halaaa!—El \nseñor Hispán Iglesias de Ussel: ¡Qué escándalo! ¡Qué vergüenza!). Vamos a dejarlo solamente entre \nel año pasado y este: un 265 %. Solo en el año 2022 pagamos a Rusia en factura de gas 4354 millones \nde euros. (Varios señores diputados: ¡Halaaa!). Pacatos rancios, poco generosos y poco empáticos en \nla ayuda militar a Ucrania — muy poco—, seis tanques en un principio, luego fueron diez y no sabemos \ntodavía cómo va a quedar eso."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Señor Mariscal, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "MARISCAL ANAYA",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias, presidenta.\n4354 millones de euros. Informo a la Cámara del coste de un tanque Leopard, que son 11 millones; \nhaciendo un cálculo sencillo — que creo que todos podemos alcanzar— dan 400 tanques. Eso es lo que \nhemos pagado en la factura de gas a Rusia, gracias a unas políticas y a una política energética que ha \naumentado la dependencia del gas y, por tanto, ha aumentado nuestra dependencia energética de Rusia.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Gracias, señor Mariscal.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Renau Martínez. (Rumores)."
+  },
+  {
+   "speaker": "RENAU MARTÍNEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Presidenta, señorías, buenos días."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Espere un segundo, señor Renau.\nSeñorías, les pido silencio, por favor.\nCuando quiera."
+  },
+  {
+   "speaker": "RENAU MARTÍNEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Soy una persona que me gusta reconocer los méritos de los demás y \ncreo que hoy hay que reconocer dos méritos importantes. El primero, quiero dar la enhorabuena al señor \nFigaredo y a todo el Grupo VOX porque por fin parece que han entendido cómo funciona el mercado \nmarginalista. (Rumores). Enhorabuena, de verdad. Sí, funciona así, las renovables son más baratas, el \ngas natural es más caro. Fantástico. (Aplausos). Solamente, les hago una recomendación: sigan \nestudiando, dense prisa, porque antes de que acabe el mecanismo ibérico del tope al gas, deberían \nentender cómo funciona, porque ni se parece a lo que usted ha dicho. Y luego también hay que reconocer \nel mérito del Partido Popular, del señor Mariscal, que es el riesgo al que han sometido al sistema eléctrico \nespañol por la cantidad de laudos internacionales que tenemos en las renovables debido a su política de \nrecortes de las primas a las renovables en 2014, el hachazo renovable. (Aplausos). Ese es el mayor \npeligro que hay para el sistema eléctrico español.\nMiren, a pesar de las palabras de la señora Nogueras, del señor Mariscal o del señor Figaredo, la \nsolución ibérica es un caso de éxito, es una historia de éxito que admite realmente muy poquitas \ndiscusiones. Ha tenido unos efectos más que positivos para la economía española y ha servido para \naliviar la factura eléctrica de los hogares españoles. Es más, es una de las razones — tal vez la razón más \nimportante— de que tengamos hoy la inflación más baja de la Unión Europea y ha hecho que España se \nconvierta en el país europeo con la luz más barata. Y en menos de un año que lleva en funcionamiento ha \nsupuesto un ahorro de más de 5100 millones de euros para las facturas de la luz de nuestros hogares. \nY todo esto es por el liderazgo que han demostrado el presidente, Pedro Sánchez, y la vicepresidenta y \nministra, Teresa Ribera, en la Unión Europea. Ese liderazgo de España sí que era una verdadera excepción \nibérica, pero ahora no. Ahora ya es la norma y lo es porque, gracias a este Gobierno, España ha pasado \na ser un motor de las políticas europeas. Lo ha sido promoviendo la respuesta conjunta de la Unión \nEuropea frente a la pandemia; lo ha sido en la creación del Mecanismo de Recuperación y Resiliencia; lo \nestá siendo en la respuesta que la Unión Europea está dando a la crisis energética debida a la guerra de \nUcrania y lo está siendo en la reforma del mercado eléctrico europeo, impulsado también por el Gobierno \nde España. (Rumores).\ncve: DSCD-14-PL-262\n \nHagamos memoria. La memoria a veces es muy frágil y de vez en cuando hay que hacer un ejercicio \nde recuerdo. Recordemos que antes, justo antes de que la solución ibérica se pusiera en marcha o se \nplanteara siquiera, aquí acabábamos de tocar techo en los precios de la luz. Un poquito después de \nempezar la guerra en Ucrania aquí alcanzábamos los precios más altos en el mercado mayorista, pero lo \npeor aún estaba por llegar para otros países europeos. Por ejemplo, Francia o Alemania en el mes de \nagosto superaron los 1000 euros el megavatio hora en los mercados mayoristas. Aquí nunca llegamos a \nesos puntos y eso fue porque aquí estaba en marcha la solución ibérica, que nos protegió. Dice el señor \nMariscal que para qué la queremos si, probablemente, en lo que queda de año no se va a volver a poner \nen marcha. Hombre, para eso se quiere un seguro. Un seguro se suscribe con la esperanza de no tener \nque utilizarlo, no con el deseo de que se te queme la casa a ver si te la pagan. (Aplausos).\nDesde que el mecanismo está en marcha, España ha tenido el precio de la electricidad constantemente \nde los más bajos de Europa y eso no es casualidad. La solución ibérica se puede resumir en tres ideas muy \nsencillas. Uno, más de 5100 millones de euros de ahorro para las familias españolas; dos, la electricidad \nmás barata de Europa y, tres, la inflación más baja de Europa. Esas son las tres ideas que cualquiera \nutilizaría para describir y explicar la solución ibérica (rumores), bueno, cualquiera excepto el Partido Popular. \nPara el Partido Popular — hemos oído al señor Mariscal hoy—, es un fracaso de la política energética \n— palabras suyas—. La señora Gamarra decía que la excepción ibérica era una muestra de la debilidad del \nGobierno de España en el entorno europeo. Que era el timo ibérico y prometían eliminarlo en cuanto llegaran \na gobernar, decía el señor Feijóo — tardarán, tardarán bastante—. Pero la realidad es que es un alivio para \nnuestros hogares, es una magnífica noticia para nuestra economía y es un éxito para nuestro país.\nEl Partido Popular, da igual, siempre va a contracorriente. Si el Gobierno propone 50 000 viviendas \n—43 000 más desde este martes— para alquiler social asequible, el Partido Popular ―el señor Feijóo― \npropone volver a los tiempos de la burbuja inmobiliaria. Claro, es que hay muchas diferencias: para el \nPartido Popular la política de vivienda es especulación y ladrillos y para el Partido Socialista la política de \nvivienda es protección y derechos. Para nosotros la política de vivienda son ayudas al alquiler, son ayudas \na la rehabilitación, es el bono joven, es la limitación de la subida de los alquileres, es recuperar vivienda \npara alquiler social. (Aplausos). Pero ellos funcionan así. Ellos nunca dan una derechas; bueno, a \nderechas las dan todas, lo que no hacen es acertar.\nNo soy quién para darles consejos (rumores), pero si quieren escucharme les diría que cambien de \npitonisa y contraten a otro futurólogo porque todas sus predicciones… Íbamos a tardar cuatro años en vacunar \na la población y fuimos los primeros de la clase. (Continúan los rumores). Los fondos de recuperación no \niban a llegar — y mira que lo intentaron—. Bueno, pues somos el país más avanzado en su aplicación y \ndistribución. España estaba quebrada; crecemos al doble de la media europea. Los ERTE se iban a convertir \nen ERE; pues fueron la tabla de salvación que protegió los empleos en lo peor de la pandemia. (Aplausos). \nLa subida del salario mínimo iba a destruir empleo, pues tenemos más empleo que nunca. La reforma laboral \niba a ser un desastre para la estabilidad, pues el empleo es más estable que nunca.\nY, por cierto, un pequeño detalle hablando de la reforma laboral, hace unos días hubo una entrevista \nen televisión a la vicepresidenta Díaz, con una llamada de teléfono muy curiosa… (protestas)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Señorías, les pido silencio, por favor."
+  },
+  {
+   "speaker": "RENAU MARTÍNEZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Una llamada de teléfono a su compañero Alberto Casero y dijo algo \nmuy revelador. Yo creo que es importante que analicemos las palabras de la gente. Dijo — y abro comillas— \nque si por su error había gente que ahora vivía mejor, pues bienvenido sea — cierro comillas—. (Rumores). \nEs que funcionan así. Ustedes mejoran la vida de la gente cuando se equivocan al votar. (Aplausos). Eso \nes lo que hacen y, ojo, reconoció que había sido un error. Recordemos, cuando tildaban de fraude el error \nen el voto. La mentira tiene las patas muy cortas.\nPero hoy les toca retratarse otra vez, hoy tienen la oportunidad de rectificar su voto de hace un año, \ncuando convalidamos el primer real decreto ley en el que se implementaba la excepción ibérica. De \nverdad, no pueden seguir poniéndose de perfil cuando el país necesita respuestas y soluciones. Hoy \ntienen una segunda oportunidad, aprovéchenla. Hoy pueden dejar de lado esa chiquillada del timo ibérico \ny reconocer que es el éxito ibérico, es un éxito para todo el país y es un éxito compartido también con \ntodos los grupos políticos de esta Cámara que lo apoyaron hace un año y que lo van a volver a apoyar \nhoy. Oigan, de verdad, si no quieren rectificar, a ver si, por lo menos, se equivocan todos a la vez, y si eso \nsirve para mejorar la vida de las personas, pues bienvenido sea. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Muchas gracias, señor Renau.\ncve: DSCD-14-PL-262\n \nDECAÍDO DEL ORDEN DEL DÍA:\n— DEBATES DE TOTALIDAD DE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY BÁSICA DE BOMBEROS FORESTALES. (Número de \nexpediente 121/000147)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En relación con el punto del orden del día relativo a debates de totalidad de \niniciativas legislativas y que hubiera correspondido debatir a continuación, les informo que ha sido retirada \nla única enmienda a la totalidad presentada al Proyecto de Ley Básica de Bomberos Forestales. En \nconsecuencia, este punto ha decaído del orden del día.\nVotamos en cinco minutos. (Pausa).\nPROPOSICIONES NO DE LEY. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, SOBRE LA RECUPERACIÓN \nDE LA NORMALIDAD EN LA ACTIVIDAD DE JUZGADOS Y TRIBUNALES TRAS EL FINAL DE LA \nHUELGA DE LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA. (Número de \nexpediente 162/001185)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señorías, comenzamos con las votaciones. Empezamos con las \nproposiciones no de ley. Proposición no de ley del Grupo Parlamentario Popular en el Congreso, sobre la \nrecuperación de la normalidad en la actividad de juzgados y tribunales tras el final de la huelga de letrados \nde la Administración de Justicia. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 292; en contra, 23; \nabstenciones, 31."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobada la proposición no de ley. (Aplausos).\n— DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA SOLEDAD NO DESEADA EN ENTORNOS \nRURALES Y DE BAJA DENSIDAD DE POBLACIÓN. (Número de expediente 162/001115)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición no de ley del Grupo Parlamentario Socialista sobre la soledad \nno deseada en entornos rurales y de baja densidad de población. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 259; en contra, 1; \nabstenciones, 86."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobada la proposición no de ley.\nMOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR MAZÓN RAMOS), SOBRE LOS CRITERIOS DEL \nGOBIERNO EN RELACIÓN CON LOS INMUEBLES DE SU TITULARIDAD ABANDONADOS, \nSITUADOS EN LA ZONA DE DOMINIO PÚBLICO MARÍTIMO TERRESTRE, Y EN PARTICULAR \nLOS EDIFICIOS CONOCIDOS COMO EL REMA EN LA PLAYA DEL SARDINERO Y LA HORADADA \nEN LA PLAYA DE LA MAGDALENA (LOS PELIGROS), DEL MUNICIPIO DE SANTANDER. (Número \nde expediente 173/000205)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Mociones consecuencia de interpelaciones urgentes. Moción consecuencia \nde interpelación urgente del Grupo Parlamentario Mixto, señor Mazón Ramos, sobre los criterios del \nGobierno en relación con los inmuebles en su titularidad abandonados, situados en la zona de Dominio \nPúblico Marítimo Terrestre, y en particular los edificios conocidos como el Rema en la playa del Sardinero \ny La Horadada en la playa de la Magdalena, los Peligros, del municipio de Santander. Se vota en los \ntérminos de la enmienda transaccional presentada por el Grupo Parlamentario Popular en el Congreso y \nel Grupo Parlamentario Mixto, señor Mazón Ramos.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-262\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 105; en contra, 33; \nabstenciones, 208."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "En consecuencia, queda aprobada la moción.\n— DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR GUITARTE GIMENO), SOBRE LA NECESIDAD \nDE COMPLETAR LA VERTEBRACIÓN DEL CENTRO CON EL ESTE PENINSULAR Y EL LITORAL \nMEDITERRÁNEO MEDIANTE UN PLAN DE ACCESIBILIDAD TERRITORIAL CON VÍAS DE ALTA \nCAPACIDAD, PARA SUPERAR LOS DÉFICITS HISTÓRICOS Y EL AISLAMIENTO INTERIOR, QUE \nINTEGRE LA AUTOVÍA MESETA-SISTEMA IBÉRICO-EBRO (A-40), CON EL CORREDOR \nMEDITERRÁNEO INTERIOR DE ALICANTE-ALMANSA-REQUENA-TERUEL-ALCAÑIZ-REUS-\nTARRAGONA (N330-A-40), ASÍ COMO LA AUTOVÍA A-25 Y LA AUTOVÍA A-68. (Número de \nexpediente 173/000206)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario \nMixto, señor Guitarte Gimeno, sobre la necesidad de completar la vertebración del centro con el este \npeninsular y el litoral mediterráneo mediante un plan de accesibilidad territorial con vías de alta capacidad, \npara superar los déficits históricos y el aislamiento interior, que integre la autovía Meseta-Sistema Ibérico-\nEbro, A-40, con el corredor mediterráneo interior de Alicante-Almansa-Requena-Teruel-Alcañiz-Reus-\nTarragona, N330-A-40, así como la autovía A-25 y la autovía A-68. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 341; a favor, 154; abstenciones, 187."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "En consecuencia, queda aprobada la moción.\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE EL GOBIERNO \nEXPLIQUE LAS MEDIDAS QUE PIENSA ADOPTAR PARA RESOLVER EL CAOS EN LA \nADMINISTRACIÓN GENERAL DEL ESTADO. (Número de expediente 173/000207)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario \nPopular en el Congreso, para que el Gobierno explique las medidas que piensa adoptar para resolver el \ncaos en la Administración General del Estado. Se vota en los términos resultantes de la incorporación de \nla enmienda presentada por el Grupo Parlamentario Ciudadanos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 157; en contra, 175; \nabstenciones, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "En consecuencia, queda rechazada la moción.\n— DEL GRUPO PARLAMENTARIO CIUDADANOS, PARA QUE LA MINISTRA DE IGUALDAD DÉ \nCUENTA DEL RUMBO DE LAS POLÍTICAS DE IGUALDAD Y SU FALTA DE ENFOQUE EN LA \nCORRESPONSABILIDAD Y LA CONCILIACIÓN FAMILIAR. (Número de expediente 173/000208)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario \nCiudadanos, para que la ministra de Igualdad dé cuenta del rumbo de las políticas de igualdad y su falta \nde enfoque en la corresponsabilidad y la conciliación familiar. Votación separada por puntos.\nPunto 1. Comienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 65; en contra, 174; \nabstenciones, 107."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 1.\nPunto 2. Comienza la votación. (Pausa).\ncve: DSCD-14-PL-262\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 67; en contra, 185; \nabstenciones, 94."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 2.\nPunto 3. Comienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 151; en contra, 185; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "INICIATIVAS LEGISLATIVAS",
+   "text": "En consecuencia, queda rechazado el punto 3.\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN). (CONTINUACIÓN):\n— PROPOSICIÓN DE LEY ORGÁNICA PARA LA MODIFICACIÓN DE LA LEY ORGÁNICA 10/1995, \nDE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL, EN LOS DELITOS CONTRA LA LIBERTAD SEXUAL; \nLA LEY DE ENJUICIAMIENTO CRIMINAL, Y LA LEY ORGÁNICA 5/2000, DE 12 DE ENERO, \nREGULADORA DE LA RESPONSABILIDAD PENAL DE LOS MENORES (ANTES DENOMINADA \nPROPOSICIÓN DE LEY ORGÁNICA PARA LA MODIFICACIÓN DE LA LEY ORGÁNICA 10/1995, \nDE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL, EN LOS DELITOS CONTRA LA LIBERTAD SEXUAL; \nLEY DE ENJUICIAMIENTO CRIMINAL, Y LEY ORGÁNICA 5/2000, DE 12 DE ENERO, REGULADORA \nDE LA RESPONSABILIDAD PENAL DE LOS MENORES). (Número de expediente 122/000294)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "Dictámenes de comisiones sobre iniciativas legislativas. Proposición de ley \norgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal en los \ndelitos contra la libertad sexual; la Ley de Enjuiciamiento Criminal, y la Ley Orgánica 5/2000, de 12 de \nenero, Reguladora de la Responsabilidad Penal de los Menores, antes denominada proposición de ley \norgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en los \ndelitos contra la libertad sexual; Ley de Enjuiciamiento Criminal, y Ley Orgánica 5/2000, de 12 de enero, \nReguladora de la Responsabilidad Penal de los Menores.\nVotación del dictamen.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 296; a favor, 233; en contra, 59; \nabstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "iniciativas legislativas",
+   "text": "En consecuencia, queda aprobado el dictamen.\nVOTACIÓN DE CONJUNTO."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Votación de conjunto de la proposición de ley orgánica.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 296; a favor, 233; en contra, 59; \nabstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobada la proposición de ley orgánica. \n(Prolongados aplausos de las señoras y los señores diputados del Grupo Parlamentario Popular \nen el Congreso, puestos en pie).\nCONVALIDACIÓN O DEROGACIÓN DE REALES DECRETOS-LEYES. (VOTACIÓN):\n— REAL DECRETO-LEY 3/2023, DE 28 DE MARZO, DE PRÓRROGA DEL MECANISMO DE AJUSTE \nDE COSTES DE PRODUCCIÓN PARA LA REDUCCIÓN DEL PRECIO DE LA ELECTRICIDAD EN \nEL MERCADO MAYORISTA REGULADO EN EL REAL DECRETO-LEY 10/2022, DE 13 DE MAYO. \n(Número de expediente 130/000095)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Convalidación o derogación de reales decretos leyes. Real Decreto \nLey 3/2023, de 28 de marzo, de prórroga del mecanismo de ajuste de costes de producción para la \nreducción del precio de la electricidad en el mercado mayorista regulado en el Real Decreto \nLey 10/2022, de 13 de mayo.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-262\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 197; en contra, 1; \nabstenciones, 148."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "En consecuencia, queda convalidado el real decreto ley.\nSe ha solicitado la tramitación como proyecto de ley por el procedimiento de urgencia del real decreto \nley, por lo que pasamos a votar dicha solicitud.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 346; a favor, 161; en contra, 182; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "En consecuencia, el real decreto ley no se tramitará como proyecto de ley \npor el procedimiento de urgencia.\nMuchas gracias a todos, muy buenas tardes, se levanta la sesión.\nEran las doce y veinticinco minutos del mediodía.\ncve: DSCD-14-PL-262\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}

@@ -1,0 +1,1560 @@
+{
+ "id": "DSCD-14-PL-196",
+ "legislatura": 14,
+ "fecha": "23 de junio de 2022",
+ "tema_sesion": "Palabras de la Presidencia Dictámenes de comisiones sobre iniciativas legislativas: — Proyecto de ley orgánica por la que se establecen normas que faciliten el uso de información financiera y de otro tipo para la prevención, detección, investigación o enjuiciamiento de infracciones penales, d",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 71,
+   "en_contra": 268,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": null,
+   "a_favor": 36,
+   "en_contra": 283,
+   "abstenciones": 22
+  },
+  {
+   "emitidos": null,
+   "a_favor": 162,
+   "en_contra": 141,
+   "abstenciones": 37
+  },
+  {
+   "emitidos": null,
+   "a_favor": 147,
+   "en_contra": 178,
+   "abstenciones": 16
+  },
+  {
+   "emitidos": null,
+   "a_favor": 171,
+   "en_contra": 3,
+   "abstenciones": 160
+  },
+  {
+   "emitidos": null,
+   "a_favor": 189,
+   "en_contra": 2,
+   "abstenciones": 144
+  },
+  {
+   "emitidos": null,
+   "a_favor": 190,
+   "en_contra": 1,
+   "abstenciones": 144
+  },
+  {
+   "emitidos": null,
+   "a_favor": 15,
+   "en_contra": 289,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 20,
+   "en_contra": 166,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 38,
+   "en_contra": 223,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 25,
+   "en_contra": 149,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 33,
+   "en_contra": 224,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 40,
+   "en_contra": 193,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 286,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 279,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 283,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 279,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 41,
+   "en_contra": 225,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 33,
+   "en_contra": 194,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 234,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 41,
+   "en_contra": 144,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 28,
+   "en_contra": 276,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 229,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 36,
+   "en_contra": 229,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 35,
+   "en_contra": 196,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 36,
+   "en_contra": 139,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 27,
+   "en_contra": 279,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 37,
+   "en_contra": 226,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 19,
+   "en_contra": 285,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 29,
+   "en_contra": 186,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 36,
+   "en_contra": 270,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 19,
+   "en_contra": 149,
+   "abstenciones": null
+  },
+  {
+   "emitidos": null,
+   "a_favor": 26,
+   "en_contra": 270,
+   "abstenciones": null
+  }
+ ],
+ "n_intervenciones": 193,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muy buenos días, señorías. Se reanuda la sesión.\nLa presente sesión plenaria, como todos ustedes saben, incluye el debate y aprobación del dictamen \ndel proyecto de ley orgánica por la que se establecen normas que faciliten el uso de información financiera \ny de otro tipo para la prevención, detección, investigación o enjuiciamiento de infracciones penales, de \nmodificación de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades \nAutónomas y otras disposiciones conexas y de modificación de la Ley Orgánica 10/1995, de 23 de \nnoviembre, del Código Penal.\nPor tener carácter orgánico, esta iniciativa tiene que ser sometida a una votación final que, de \nconformidad con el artículo 131.2 del Reglamento, debe ser anunciada con antelación por la Presidencia. \nPor ello, en cumplimiento de esta disposición, anuncio que dicha votación no se producirá antes de las \nonce horas.\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY ORGÁNICA POR LA QUE SE ESTABLECEN NORMAS QUE FACILITEN EL \nUSO DE INFORMACIÓN FINANCIERA Y DE OTRO TIPO PARA LA PREVENCIÓN, DETECCIÓN, \nINVESTIGACIÓN O ENJUICIAMIENTO DE INFRACCIONES PENALES, DE MODIFICACIÓN DE LA \nLEY ORGÁNICA 8/1980, DE 22 DE SEPTIEMBRE, DE FINANCIACIÓN DE LAS COMUNIDADES \nAUTÓNOMAS Y OTRAS DISPOSICIONES CONEXAS Y DE MODIFICACIÓN DE LA LEY \nORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADO \nPROYECTO DE LEY ORGÁNICA POR LA QUE SE ESTABLECEN NORMAS QUE FACILITEN EL \nUSO DE INFORMACIÓN FINANCIERA Y DE OTRO TIPO PARA LA PREVENCIÓN, DETECCIÓN, \nINVESTIGACIÓN O ENJUICIAMIENTO DE INFRACCIONES PENALES). (Número de \nexpediente 121/000099)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Continuamos con el punto relativo a dictámenes de comisiones sobre \niniciativas legislativas y, en concreto, el relativo al proyecto de ley orgánica por la que se establecen \nnormas que faciliten el uso de información financiera y de otro tipo para la prevención, detección, \ninvestigación o enjuiciamiento de infracciones penales, de modificación de la Ley Orgánica 8/1980, de 22 \nde septiembre, de Financiación de las Comunidades Autónomas y otras disposiciones conexas y de \nmodificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal. Para defender las \nenmiendas formuladas a esta iniciativa legislativa, por el Grupo Parlamentario Plural, que en este turno \ntambién fijará posición, tiene la palabra el señor Rego Candamil."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Grazas, señora presidenta.\nEl BNG ha presentado enmiendas a este proyecto de ley orgánica por el que se establecen normas \nque faciliten el uso de información financiera y de otro tipo para la prevención, detección, investigación y \nenjuiciamiento de infracciones penales, por entender que es una ley que vulnera derechos individuales \ncomo el derecho a la intimidad, en la medida en que facilita el acceso al fichero de titularidades financieras \na los cuerpos y fuerzas de seguridad del Estado, a la Policía, sin control y sin autorización judicial. Esto \nnos parece extremadamente peligroso. Creemos que el combate contra la criminalidad en el ámbito \nfinanciero, contra el blanqueo de capitales, no puede justificar en ningún caso la vulneración de derechos \nde los ciudadanos, y nos parece más preocupante porque se suma a otras leyes — caso de trasposición \nde directivas europeas— que el BNG también rechazó, como la Ley orgánica sobre la utilización de datos \nde registro de nombres de pasajeros para la prevención, detección, investigación y enjuiciamiento de \ndelitos de terrorismo y delitos graves, a la que en su día presentamos enmiendas a la totalidad, y que \nobliga también a facilitar datos de los pasajeros… (rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, guarden silencio, por favor."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "… para la investigación preventiva de posibles delitos. ¿Preventiva en \nfunción de qué? ¿En función de criterios como ser extranjero, ser árabe, ser negro? En fin, nos parece \ntambién muy peligroso. Y la Ley Orgánica de Protección de Datos Personales también facilita el acceso \ncve: DSCD-14-PL-196\n \nde la Policía a datos individuales sin control judicial. Por lo tanto, nosotros no podemos avalar leyes que \nvan en el sentido de avanzar en un Estado policial que, con el pretexto del combate…"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señor Rego, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "… contra los delitos, vulnera derechos individuales. Por lo tanto, vamos \na votar en contra.\nObrigado."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Por el mismo grupo parlamentario, tiene la palabra el señor Boadella Esteve."
+  },
+  {
+   "speaker": "BOADELLA ESTEVE",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Buenos días. Muchas gracias, señora presidenta.\nSeñorías, a nosotros nos toca intervenir en este punto de defensa de enmiendas, pero lo cierto es que \nel PDeCAT ya incorporó las enmiendas en el dictamen de esta ley orgánica de uso de información \nfinanciera. Incorporamos una enmienda muy especial porque es la relativa a la cuestión de la \nmultirreincidencia en los pequeños hurtos. Por tanto, con carácter general, estamos de acuerdo con la ley, \npero sí queremos celebrar la incorporación de los trabajos que el PDeCAT ha venido haciendo desde hace \nmucho tiempo para combatir la multirreincidencia en aquellos pequeños hurtos ―de la cartera, de las \nllaves, del móvil― que hacen que haya bandas organizadas que acumulan veinte, treinta, cuarenta o cien \nantecedentes penales, pero que como se trata de hurtos de menos de 400 euros en los que no hay robo \ny no hay violencia, sino que lo que hay es el aprovechamiento del despiste de la persona, en esos casos \nquedaba una sensación de total impunidad. Como decimos habitualmente, esta gente entraba y salía de \nlas comisarías de los juzgados el mismo día en que se les detenía. Afrontar la cuestión de la multirreincidencia \nera una cuestión esencial en el ámbito de las ciudades ―la mía, Barcelona ciudad, por ejemplo―, pero \ntambién en el mundo rural, donde a veces el hurto de pequeñas herramientas de trabajo también supone \nuna gran pérdida. Y es que este problema afecta a comercios, a restauración, a turismo, pero sobre todo \na personas, personas que no tienen por qué ser solo turistas, sino que perfectamente pueden ser gente \nmayor que va por la calle o personas que están en un bar tomando un café o personas que cogen el \ntransporte público.\nEn este ámbito, entendíamos que cabía una modificación quirúrgica del Código Penal para combatir \nla multirreincidencia y veníamos trabajando en esto desde hace prácticamente un año. Finalmente, a \ntravés de esta ley orgánica podemos acceder a la modificación del Código Penal, con una propuesta de \nmodificación y un cambio quirúrgico que todo el sector también considera muy bueno. Estamos convencidos \nde que va a ser una gran solución para afrontar definitivamente el problema de la multirreincidencia en los \npequeños hurtos.\nMuchas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Boadella.\nFinalmente, también por el Grupo Parlamentario Plural, tiene la palabra la señora Calvo Gómez."
+  },
+  {
+   "speaker": "CALVO GÓMEZ",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nEsta ley ha suscitado tanto consenso que apenas ha habido debate. Es lógico; el establecimiento de \nnormas que faciliten ir contra el fraude financiero, contra el blanqueo de capitales o la financiación del \nterrorismo es algo que nos pone de acuerdo a todos los grupos de esta Cámara. Pero, como en otras \nocasiones, una ley de consenso lleva de tapadillo algún otro tema, en este caso la modificación de la Ley \nOrgánica de Financiación de las Comunidades Autónomas, por la que el canon de residuos se añade a la \nlista de impuestos cedidos.\nQuiero dejar claro que, como saben, esta modificación no es la que pedíamos desde Cataluña, sino \nque ha sido el mal menor que tuvimos que aceptar en el Senado. Nosotros queríamos mantener la \ntitularidad catalana del impuesto en la línea de lo que sucede en Italia, en Bélgica o en Reino Unido, donde \nsí es posible discriminar los cánones por territorio. Pero a este Gobierno le ha importado bien poco respetar \nun impuesto que durante dieciocho años ha aplicado a Cataluña de manera ejemplar, recaudando 120 \nmillones en el último año.\nA partir de ahora va a ser una cesión de la Hacienda española. Pretenden congraciarse con los \ncatalanes poniendo en valor que el Estado pueda delegar en Cataluña la aplicación y revisión de los \ntributos o la potestad sancionadora, e incluso se ponen la medalla de que el canon vaya a poder cobrarse \ndirectamente sin tener que esperar a su ajuste — o deberíamos decir desajuste— de cuentas anual. Pero \ncve: DSCD-14-PL-196\n \nhay una diferencia de 20 millones de euros entre lo que se va recaudar ahora y lo que Cataluña conseguía \nanteriormente, que vamos a tener que cobrar en diferido mientras cruzamos los dedos, porque sabemos \nlo mal pagadores que son ustedes. Apenas el 37 % de lo comprometido con Cataluña para 2021 ha sido \nejecutado. En el último semestre la cifra es escandalosa, solo un 7 %. Llevan acumulados 12 000 millones \nde déficit en inversiones, como explicó l’honorable conseller Jaume Giró recientemente, porque \nsistemáticamente no aplican e incumplen lo acordado en l’Estatut de 2006. Recordémoslo, el Estado debe \ninvertir cada año en infraestructuras en Cataluña lo correspondiente al peso del PIB catalán, el 19 %. \nFoment del Treball destapó recientemente el macroengaño de los presupuestos, que asciende a \ncasi 35 000 millones a lo largo de doce años. ¿Y cómo es posible esto? Pues muy fácil: el Gobierno hace \nconstar año tras año, a veces hasta quince años seguidos, presupuestos de obras que no avanzan. Cada \naño nos dicen que nos van a pagar esto o aquello, son lluvias de millones a cuenta de inversiones \nterritorializadas que nunca llegan, y eso es manipular las cuentas. Y a ustedes ya les va bien, porque \nparece que los catalanes siempre estamos pidiendo, pero es obligado hacerlo: aportamos 52 000 millones \nen impuestos a las cuentas del Estado; calculamos que nos devuelven un 40 %, y digo calculamos porque \nustedes se venden como los reyes de la transparencia de cara a Europa mientras se niegan a facilitar la \nsituación de balanzas fiscales con el Estado. Por no cumplir — insistimos— no cumplen ni sus propios \npresupuestos. Se aprobó la enmienda de Junts del Fondo COVID extraordinario de 9000 millones de \neuros en los presupuestos generales del Estado, 1600 para Cataluña. Estamos en el séptimo mes del \naño, en la séptima ola de COVID, y parece que ustedes siguen en el séptimo cielo, mientras a nosotros la \nsensación que nos da todo esto es que cada vez están más lejos de la tierra.\nGracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias, señora Calvo.\nPor el Grupo Parlamentario VOX, tiene la palabra el señor Ruiz Navarro. (Aplausos)."
+  },
+  {
+   "speaker": "RUIZ NAVARRO",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "Buenos días, señorías.\nEste proyecto de ley orgánica cuya aprobación debatimos hoy dice tener por objeto la trasposición de \nuna directiva europea de 2019, la 1153, cuyo objetivo perseguido es, dentro de un contexto de cooperación \njudicial y policial, permitir a determinadas autoridades y funcionarios el acceso e intercambio de información \nde naturaleza financiera con el fin de hacer posible la prevención, la detección, la investigación y el \nenjuiciamiento en suelo europeo de una serie de delitos graves, siendo uno de los más importantes a \ncombatir los vinculados al terrorismo y a su financiación, y así se menciona expresamente. Terrorismo que \nen suelo europeo está hoy especialmente vinculado al islamismo, aunque el consenso progre — y, por \nsupuesto, este Gobierno y usted, señor ministro, también— nos lo oculten deliberadamente porque \nconsideren que es un pequeño detalle. (Aplausos).\nY nos lo ocultan para que no se haga evidente lo que millones de europeos tuvimos la oportunidad de \npresenciar en mayo en Saint-Denis, París, que el experimento multicultural que ustedes han introducido \nen algunos barrios de nuestras ciudades los ha convertido en estercoleros de fanatismo religioso, de odio \ny de delincuencia. ¿Dirigidos contra quiénes, señor ministro? Contra nosotros mismos, contra nuestras \nmujeres, contra quienes les hemos acogido con una generosidad estúpida, mientras ustedes cantaban \nsus promesas de paraíso socialista integrador. (Aplausos).\nEstá claro que el socialismo, en cualquiera de sus versiones, es el opio del pueblo. Y la realidad, \nseñorías progres, es que con sus políticas insensatas esos barrios albergan ahora cuevas de terroristas y \notros delincuentes, desde donde se capta dinero y se reclutan soldados para atacarnos en nuestra propia \ntierra. De ahí la conveniencia de que existan herramientas que, como la que introduce esta directiva \neuropea, permitan la colaboración de autoridades y funcionarios para rastrear fuentes de financiación de \ndelitos graves como el de terrorismo. Pero, claro, si nuestras autoridades y funcionarios descubren con el \nfichero de titularidades financieras o con cualquier otro instrumento que utilicen un foco de captación de \ndinero en uno de esos barrios multiculturales, también conocidos como no-go zone, ¿cómo van a llegar \nhasta los delincuentes? Usted, señor ministro, seguro que sabe cuál es el amable recibimiento que sufre \nnuestra Policía cuando osa entrar en algunas de esas zonas. Mire, yo se lo voy a enseñar. (Muestra \nvarios recortes de prensa). Noticia de El Faro de Ceuta, de abril de este año: «La Policía Nacional \ninterviene un fusil de asalto en el barrio del Príncipe», en Ceuta. «Así reciben a la Policía Nacional en la \nbarriada del Príncipe esta madrugada». «Menores y adultos reciben a la Policía Local a pedradas en la \nbarriada del Príncipe Alfonso». «El Príncipe, el barrio donde para realizar servicios básicos comunitarios \nse debe acudir con escolta policial». Y esto ocurre en Ceuta, España, señor ministro. (Aplausos). ¿Y este \ncve: DSCD-14-PL-196\n \nes el modelo de convivencia a exportar por todo el mundo, según decía aquí algún diputado hace dos \ndías? Lo que aquí hay es mucha ignorancia sobre la realidad del mundo islámico. Si quieren saber, les voy \na dar tres nombres para que se informen, los pueden buscar en Google: Asia Bibi, Deborah Yakubu, María \nJusuf, de la localidad de Boreda.\nPor otra parte, la directiva europea no exige que atribuyan ustedes competencias de comunicación \ninternacional a las policías autonómicas. Eso se lo han inventado ustedes, señorías del Gobierno, porque \nsiguen obsesionados con el mantra de la cogobernanza. Con el modelo actual, la única gobernanza \nposible es que cada cual ejerza sus competencias asumiendo sus propias responsabilidades, y siempre \n— siempre— con el Gobierno de España como responsable último de todo. Por eso, de las relaciones \ninternacionales entre autoridades y funcionarios debería ocuparse el Gobierno de España, con sus \ninstituciones y bajo su control. Porque, que yo sepa, señor ministro — que yo sepa—, a día de hoy el \nGobierno de España no tiene control sobre las policías autonómicas, como la vasca o la catalana. ¿Y cómo \npuede asegurar el Gobierno de España que los mandos de esas policías, nombrados por gobiernos que \nno asumen su pertenencia a nuestra nación, se van a comportar con lealtad cuando no lo hacen sus \npropios gobiernos? ¿Pueden ustedes asegurar que las policías autonómicas comparten con la Policía \nNacional y con la Guardia Civil toda la información sobre riesgos y delitos? Es evidente que no, ya lo \ncomprobamos, por ejemplo, con ocasión del golpe de Estado de octubre del día 17 en Cataluña. Los \ncuerpos policiales autonómicos solo están habilitados por mandato constitucional para participar en el \nmantenimiento de la seguridad pública, porque la seguridad pública es una competencia exclusiva del \nEstado; de ahí la necesidad de nuestras enmiendas, porque las amenazas nos afectan a todos los \nespañoles y no entienden de fronteritas autonómicas. (Aplausos).\nComo no podía ser de otra forma, tampoco entendemos que aprovechen este proyecto de ley para \nintroducir un nuevo impuesto, el de residuos, vía enmiendas del Grupo Socialista, y además también para \nceder de nuevo competencias y dinero a las autonomías. Está visto, señorías, que no desaprovechan \nninguna oportunidad para meternos más la mano en nuestros bolsillos.\nUstedes, señorías socialistas, y su conglomerado de comunistas, golpistas y filoetarras están ya de \nsalida, están en caída libre, mientras VOX crece elección tras elección. (Aplausos). Si aún les queda un \nmínimo de vergüenza, ahórrennos ya a todos los españoles más sufrimientos y dejen paso a quienes \npodemos traer orden y, sobre todo, decencia.\nNada más y muchas gracias. (Aplausos de las señoras y los señores diputados del Grupo \nParlamentario VOX, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias, señor Ruiz.\nPor el Grupo Parlamentario Popular en el Congreso, tiene la palabra el señor Píriz Maya."
+  },
+  {
+   "speaker": "PÍRIZ MAYA",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señora presidenta. Buenos días, señorías.\nDebatimos hoy un proyecto de ley orgánica que por cambiar ha cambiado hasta el título durante la \ntramitación parlamentaria, relativo al establecimiento de normas que faciliten el uso de información \nfinanciera para la detección de infracciones penales. En esa parte, totalmente de acuerdo, poco que \nañadir a lo que la Directiva 2019/1153, del Parlamento Europeo, planea introducir en nuestro ordenamiento \njurídico. Es necesario que se haga y que se haga pronto, y de ahí la rapidez con la que se ha desarrollado \nla Ponencia.\nDicho esto, este Gobierno es imposible, es un desastre tan grande como su nefasta gestión durante \nestos años. Les decía que el proyecto de ley orgánica ha cambiado de nombre durante su tramitación. \n¿De verdad no les da vergüenza que estas cosas tengan que pasar en esta Cámara? Vamos a los \nhechos, vamos a sus trampas. Han utilizado una ley en la que todos estábamos de acuerdo en lo nuclear \npara colar unas enmiendas que nada tienen que ver con el contenido del proyecto de ley, un desprecio \nabsoluto a la práctica parlamentaria y un fraude. Porque las enmiendas son tan significativas que hubo \nque cambiar el título de la ley por la puerta de atrás. Sin consultar con las comunidades autónomas y sin \nconsultar con el Consejo de Política Fiscal y Financiera, como exige la disposición transitoria séptima de \nla ley de residuos, han planteado, con una enmienda a una ley que nada tiene que ver, una modificación \nde la ley de financiación de comunidades autónomas para transferir a las comunidades la gestión y la \nrecaudación de este impuesto de residuos e incluso para permitirles que puedan subir el tipo impositivo.\nSeñorías, por la puerta de atrás cometen un fraude institucional, instrumental y democrático, y traen a \nesta Cámara una enmienda que entierra para siempre su discurso de la cogobernanza. ¿De qué \ncogobernanza hablan si no se han sentado con las comunidades autónomas, como exige la ley? ¿Con \ncve: DSCD-14-PL-196\n \nquién han pactado esto, señorías? Es otra cesión de su Gobierno débil con sus socios de Esquerra. \nExpliquen a los españoles cómo van contra sus propios principios para contentar a sus socios, que les \naseguro que han olido su extrema debilidad y no tendrán límite en su voracidad.\nEste fraude instrumental y democrático, señorías, no es el único, los trapicheos a los que nos tienen \nacostumbrados son constantes y los sufrimos en esta Cámara un día sí y otro también. La semana pasada \nsalió del Congreso una ley de transparencia en la que a través de una enmienda incrementan de forma \nbochornosa los impuestos a los gases fluorados, el llamado impuesto al frío, que amenaza con llevarse \npor delante miles de empleos. Señorías, expliquen a los españoles cuánto les van a subir sus aparatos de \naire acondicionado o sus secadoras con esta reforma, un 10 %. ¿Por qué no explican a los españoles que, \npor la puerta de atrás y con nocturnidad, han subido impuestos en esa voracidad fiscal que tiene este \nGobierno? Son insaciables y no hay norma, uso parlamentario o buena práctica que les detenga. Los \nespañoles están pagando el litro de gasolina a más de 2,15 euros; la inflación está disparada; el precio de \nla harina y los huevos está subiendo el 25 %; el aceite de oliva, el 36 %; el butano, el 33 %: las familias \nestán poniendo la lavadora a las cuatro de la mañana para poder llegar a fin de mes porque la luz les ha \nsubido un 30 % en el último año. Con todo esto, ustedes están en lo que están: en subir impuestos, en \nsaltarse todos los procedimientos que haga falta para gobernar a golpe de decreto o de enmienda, para \nseguir arrodillados ante sus socios.\nSeñores del Grupo Socialista, están arruinando España para muchas generaciones. Son incapaces \nde gestionar la economía de nuestro país. Viven en la improvisación, en la cuerda floja, con su sometimiento \na sus socios de Esquerra, como hacen con esta enmienda, y a sus socios de Podemos o a los de Bildu. \n¿Y aún les extraña su fracaso estrepitoso en Andalucía? (Aplausos).\nUstedes, lejos de pensar en esos españoles que sufren para llenar la cesta de la compra, que están \npasándolas canutas para llegar a fin de mes y llenar los depósitos de sus coches para ir a trabajar, en los \nque compran un aparato de aire acondicionado y no pueden usarlo porque se les convierte en un artículo \nde lujo, lejos de pensar en todos esos españoles, optan por cometer este tipo de fraudes instrumentales \npor la puerta de atrás y colando subidas de impuestos o colando modificaciones de leyes que afectan a \nlas comunidades autónomas sin darles ni siquiera información ni abrir con ellas negociación alguna. Este \nes su modelo de gobernanza del que presumen, que no es más que un fraude democrático en toda regla.\nSeñorías, hay millones de españoles ahí fuera que están sufriendo y que no merecen esto, que \nnecesitan soluciones a sus problemas, que necesitan certezas, que requieren política de altura, y no estos \nfraudes y estos subterfugios. Hay millones de españoles que nos miran con la esperanza de encontrar en \nnosotros solución a sus problemas, no para que les pongan más piedras en el camino ni para que les \nsuban los impuestos. Los españoles nos están mirando, nos miran, y en el Partido Popular lo sabemos \nperfectamente. Los españoles demandan políticas de altura y saben que pueden contar con nosotros, con \nun partido que siempre que ha tenido la oportunidad, siempre que los españoles nos han dado la \noportunidad de gobernar, hemos gestionado bien este país. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Silencio, por favor."
+  },
+  {
+   "speaker": "PÍRIZ MAYA",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Somos un partido serio y responsable. Por eso, aunque esta ley era procedente \ny necesaria, no podemos validar con nuestro voto favorable sus prácticas abusivas y fraudulentas.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Píriz.\nEn turno de fijación de posiciones, por el Grupo Parlamentario Euskal Herria Bildu, tiene la palabra el \nseñor Matute García de Jalón."
+  },
+  {
+   "speaker": "MATUTE GARCÍA DE JALÓN",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "",
+   "text": "Presidenta, señorías, egun on guztioi, buenos días. En primer \nlugar, anuncio el sentido de nuestro voto. Nosotros no vamos a validar este decreto ley en tanto en cuanto \nno se acepte la enmienda del Bloque Nacionalista Galego que hace referencia a la necesaria autorización \njudicial para efectuar escuchas a cualquier ciudadano. Nos parece que es una medida lógica y garantista \nque tendría que venir incorporada de facto, sobre todo para evitar bochornos a esta Cámara y a la \nciudadanía, ya lleven el nombre de Pegasus, de Villarejo o sobre cualquier otra realidad a la que, por \ndesgracia, tan tristemente están acostumbrados en el Estado español.\nEn cualquier caso, al final, con este debate vuelve a pasar lo de siempre que se presenta un decreto \nómnibus en el que cabe de todo: en ese cajón de sastre que supone hablar de pequeños hurtos en la \ncve: DSCD-14-PL-196\n \nmultirreincidencia, hablar de blanqueo de capitales o de la evasión fiscal, o hablar de nuevos impuestos y \nel necesario acoplamiento a la financiación autonómica, cada uno escoge su tema y cada uno viene a \nhablar de su libro, aunque también hay quien viene con el libro para cualquier tema. En este caso concreto \nde los decretos ómnibus pasa lo que pasa: esto es una sucesión de intervenciones donde cada uno pone \nel acento o el énfasis en aquello que más le preocupa o en aquello que le parece más relevante u oportuno \ndel real decreto. Nosotros seguramente no nos podemos abstraer o sustraer a esa realidad y comentaremos \nalgunas cuestiones. Creemos que hay elementos del real decreto que son necesarios y de sentido común, \ncomo los que tienen que ver con la persecución del blanqueo de capitales. Los datos hablan mejor que \nnosotros y nosotras de esta realidad. Probablemente, ya todo el mundo sabe que el blanqueo de capitales \nen el Estado español, pese a que se persigue, es bastante relevante. Hay datos de Gestha o de otras \ninstituciones, como la Agencia Tributaria, que sitúan la economía sumergida en el Estado español en \nel 11,2 % del PIB — según la Agencia Tributaria— o en el 25 %, según Gestha. Seguramente también se \nsabe que el fraude fiscal y el blanqueo de capitales alcanza cifras milmillonarias en lo que tiene que ver \ncon la elusión a las arcas públicas. Se podría decir sin rubor que cada ciudadano o ciudadana del Estado \npierde alrededor de 136 euros por el dinero que aquellos que no necesitan multirreincidir, porque tienen \ndinero a espuertas, deciden no exponer a la luz pública y, por tanto, ocultarlo. Hay ejemplos reales \n— ejemplos reales o ejemplos ‘eméritos’, como se quiera decir— bastante evidentes que la justicia \ninternacional suele poner de relevancia. Basta decir que el Ministerio de Hacienda en 2018 señaló como \nun hito haber recuperado 15 000 millones de euros. No está mal, pero, si lo ponemos en contraste con otro \ndato que también es cierto, que es que eso solo significa el 20 % de todo el dinero que se blanquea, \nparece que hay mucho campo de avance para poder ser más efectivos. Es decir, se recuperan 15 000 \nmillones pero se siguen perdiendo 60 000 — que sería el equivalente a ese 80 % que no se consigue \ndetectar— y, si se recuperara todo, sí que habría dinero para dar respuesta a todas esas hondas \npreocupaciones que han puesto encima de la mesa todos aquellos que me han precedido en el uso de la \npalabra: los carburantes, el precio de electricidad…; todas esas cuestiones que tanto nos duelen. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, silencio, por favor."
+  },
+  {
+   "speaker": "MATUTE GARCÍA DE JALÓN",
+   "party": "EH Bildu",
+   "role": "diputado",
+   "topic": "",
+   "text": "En cualquier caso, creemos que el hecho de que el Estado \nsea más efectivo en la persecución del delito es razonable y es positivo, pero nos hacemos una pregunta: \n¿qué pasa cuando es alguien en nombre del Estado quien decide, a través de formas ilegales — es decir, \nperpetrando un delito—, perseguir o investigar a ciudadanos y ciudadanas del Estado español? Esto ni \nsiquiera es una entelequia, un supuesto o una pregunta retórica que me haga sobre algo que no ha \npasado. Esto ya pasa en el Estado español. Ya hay instancias no del Estado español, sino de otros \nEstados o realidades, como Andorra, que deciden que hay que investigar cuando alguien — como un tal \nFernández Díaz, a la sazón ministro del Interior, aparentemente en compañía de algunas otras personas; \ncomo son presuntas, llamémosles, por ejemplo, M. Rajoy para no aludir directamente a nadie, dado que \nla justicia ha decidido que esta persona no existe o nadie sabe su paradero— decide utilizar recursos \npúblicos para realizar prácticas que, desde luego, legales no son. Nos gustaría que esos vacíos también \nse ocuparan o se rellenaran en este tipo de cuestiones. Si no, ustedes podrán seguir diciendo que los \nindependentistas somos el mal de todas las realidades, podrán incluso culparnos de los resultados en \nAndalucía de otros, pero lo triste, lo constatable y lo cierto es que a los independentistas se nos investiga, \nse nos persigue y se nos visiona con formas que en absoluto son legales ni procedentes en un Estado que \nse dice democrático. Seguramente el Estado español podrá jactarse de ocupar buenos lugares en \nrankings, pero todavía hoy la realidad es que otros Estados — ya sea Gran Bretaña para cuestiones \n‘eméritas’, ya sea Andorra para cuestiones de ministros que mienten en el Congreso, como Fernández \nDíaz— tienen que sacarle los colores a la democracia del Estado español. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias, señor Matute.\nPor el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra el señor Legarda Uriarte."
+  },
+  {
+   "speaker": "LEGARDA URIARTE",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, presidenta.\nIntervengo de manera breve para congratularnos de la aprobación en Comisión, y esperemos que hoy \nen Pleno, de la trasposición al derecho interno de las normas de la Unión sobre la información financiera \npara la prevención, detección, investigación y enjuiciamiento de infracciones penales. Como conocen sus \nseñorías, la arquitectura de seguridad de la Unión tiene como uno de sus ejes la construcción de un marco \ncve: DSCD-14-PL-196\n \nque posibilita a los Estados miembros la lucha contra cualquier forma grave y organizada de delincuencia, \nincluido el blanqueo de capitales, la financiación del terrorismo y el fraude financiero. A tal fin, ahora \ntramitamos la trasposición de la normativa de la Unión para el acceso directo e inmediato a los registros \ncentralizados de cuentas bancarias y de pago — aquí llamado Fichero de Titularidades Financieras— por \nparte de aquellas autoridades competentes en la lucha contra infracciones penales graves, entre las que \nse incluyen las policías autonómicas integrales, como no podía ser de otro modo en atención al bloque de \nconstitucionalidad.\nSeñorías, como se dice en la memoria del proyecto, su nudo gordiano gira en torno al acceso y \nconsulta del Fichero de Titularidades Financieras a través de un mecanismo rápido y efectivo, como es un \nacceso directo e inmediato que ponga fin al modelo actual de acceso e intercambio de información que \nresulta lento e insuficiente. Este es un requisito sine qua non para que la investigación de delitos graves \nllegue a buen puerto. Precisamente por este mismo motivo la directiva que se traspone no hace referencia \na reserva alguna de garantías procesales nacionales, es decir, que no se exige la autorización judicial \nprevia para que las autoridades competentes, singularmente fuerzas y cuerpos de seguridad, tengan \nacceso a los ficheros de titularidades financieras. De este modo, la desaparición de la autorización judicial \nresulta uno de los cambios fundamentales del derecho de la Unión respecto a la regulación precedente en \nla materia para que las investigaciones puedan llegar a buen puerto, como les señalaba. No se hace \nprecisa la autorización judicial para que las autoridades competentes tengan acceso a los datos del \nFichero de Titularidades Financieras porque se excluyen de la consulta directa e inmediata aquellos datos \nque integran lo que se llama la intimidad económica de las personas, es decir, aquellos que permiten \ntrazar una imagen prospectiva sobre el modo y condiciones en los que una determinada persona desarrolla \nsu vida privada, como son los saldos, los movimientos, los ingresos y las transferencias. Sin embargo, los \nrelativos a los productos financieros y a las entidades de crédito de los titulares o las personas con \npoderes de disposición no suponen una acción invasiva desproporcionada sobre sus derechos \nfundamentales, como es el derecho a la intimidad económica, ya que no desvelan una situación financiera \npersonalizada, pero resultan fundamentales para un primer acercamiento a los lugares donde se ubican \nderechos económicos potencialmente vinculados a delitos graves. (Rumores).\nPor otro lado, señorías, quiero recordar que, como establece el Tribunal Constitucional, la injerencia \nen la intimidad reclama la existencia de resolución judicial previa solo en los casos expresamente previstos \nen la Constitución al no existir una reserva absoluta previa de intervención judicial, pudiendo adoptarse \nestas intervenciones siempre que una ley orgánica expresamente lo habilite — como será este caso— \npara la autoridad que sea competente por razón de la materia de que se trate. En fin, señorías, el hecho \nde que la situación actual exija autorización judicial al amparo de la directiva europea ya sustituida no \ncondiciona la futura ley orgánica, la que hoy estamos tramitando, que se funda en la prevención para \nmantener la autorización judicial previa. Incluso quiero señalarles que ninguno de los Estados miembros \nque ya han traspuesto esta nueva directiva sobre la materia ha requerido o ha previsto la autorización \njudicial previa. Por lo expuesto, no daremos apoyo a las enmiendas que la proponen.\nEn otro orden de cosas, señorías, no me olvido tampoco ―ya se ha señalado― del nuevo tratamiento \nque se dispensa al grave problema de la reincidencia en los pequeños hurtos que, tras la reforma penal \nde 2015 y la jurisprudencia sobre aquella, había quedado con un reproche penal que no satisfacía ni a la \nprevención general ni a la prevención especial. (Rumores).\nVoy finalizando, presidenta. Señorías, con esta disposición legal se dará un paso importante en la \nconstrucción de la agenda europea de seguridad para luchar contra la delincuencia grave y organizada, \ncomplementando las disposiciones existentes para la persecución de la utilización del sistema financiero \npara el blanqueo de capitales, la financiación del terrorismo y otras formas graves de delincuencia \norganizada como es el fraude financiero.\nMuchas gracias, señorías."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Legarda. (Rumores).\nSeñorías, hay muchísimo ruido de fondo. Les pido, por favor, que respeten al orador.\nPor el Grupo Parlamentario Ciudadanos, tiene la palabra el señor Bal Francés."
+  },
+  {
+   "speaker": "BAL FRANCÉS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nBuenos días a todos. La primera sensación que tengo, después de haber escuchado a algunos de los \nportavoces anteriores, es que aquí nos hemos leído esta norma el señor Legarda y yo, porque la verdad \nes que ha explicado magníficamente por qué no hace falta la autorización judicial. El señor Matute ha \ncve: DSCD-14-PL-196\n \ndicho que esto es un real decreto ley, pero esto es un proyecto de ley orgánica. Ha dicho que aquí venimos \ncada uno a hablar de nuestro libro; él ha hablado del suyo: de Pegasus y de escuchas. Yo no he leído en \nningún lugar de este proyecto de ley orgánica que tenga que ver con Pegasus ni con las escuchas ni con \nnada parecido. Este proyecto de ley supone, además, la aplicación de una directiva europea y sirve para \nla prevención, la detección, la investigación y enjuiciamiento de infracciones penales graves mediante la \ncompartición de información por los servicios estatales y autonómicos, en nuestro caso, que se ocupan \nprecisamente de perseguir estos delitos. ¡Es así de fácil! Se trata de que España coopera con otros países \nsuministrándoles esta información y los otros países cooperan con España suministrándole esa \ninformación. Yo me he dedicado toda la vida a perseguir el fraude fiscal y uno de los problemas que hemos \ntenido muchas veces los que nos hemos puesto la toga y hemos investigado el fraude fiscal es la falta de \ncooperación o la cooperación a regañadientes, la cooperación arrastrando los pies, de algunos de los \npaíses, incluso de la Unión Europea, que tienen determinados instrumentos financieros que son utilizados \npor los españoles para defraudar. El señor ministro del Interior lo sabe también perfectamente.\nSe nos ponen aquí una serie de excusas para votar en contra de la aplicación de la trasposición de \nestas directivas. El señor Rego nos habla de la autorización judicial y el señor Matute también. Esto ha \nquedado ya contestado por el señor Legarda y a eso me remito. Se trata simplemente del acceso al \nFichero de Titularidades Financieras, no a los datos de la intimidad económica de las personas. Después, \nuna vez que se identifiquen estas titularidades financieras, con las autorizaciones judiciales correspondientes \nse podrá acceder a esos datos. (Rumores). El señor Ruiz de VOX es un gran jurista y es una persona que \ntrabaja en la Comisión de Justicia muy brillantemente, pero lamento no haber entendido nada de la mitad \nde su discurso, ¡pero nada! No sé qué nos ha contado del islamismo, no sé qué nos ha contado de que si \nla policía no puede entrar en determinados barrios de Ceuta. No sé, yo me leo de nuevo la ley y digo: \n¡Pero esto qué es! ¿Por qué me cuenta eso? ¿Pero qué tiene que ver con compartir información al efecto \nde perseguir las infracciones graves de naturaleza financiera? Aquí, como digo, se trata de que Europa \nestablece un mecanismo de cooperación entre las autoridades que persiguen estos delitos. Vamos a ser \nfrancos y vamos a dejarnos de tonterías. ¿Quién va a votar en contra de esto? Van a votar en contra de \nesto aquellos grupos parlamentarios que no creen en Europa. ¡Ya está! Terminemos ya con las excusas y \ncon las cosas que se dicen aquí. (Rumores).\nLa verdad es que lo más llamativo, señor Píriz, es lo que va a hacer el Grupo Popular. La señora \nVázquez, cuando estábamos en Comisión, parecía que se iba a abstener, pero por su discurso no sé si \nincluso el Grupo Popular va a votar en contra de la trasposición de directivas europeas que tratan de \nfomentar la cooperación para la investigación y la prevención de infracciones de delitos graves de \nnaturaleza económica. No sé... Como ustedes cometen en su partido tantos delitos de naturaleza \neconómica, igual va a ser por eso, ¿verdad? (Risas y rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Silencio, por favor."
+  },
+  {
+   "speaker": "BAL FRANCÉS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "Esta cosa tan poco atractiva y tan poco sexi se ve muy potenciada gracias \nal señor Boadella y al PDeCAT, que han conseguido que se introdujera aquí la penalización del hurto \nmultirreincidente — ese hurto para el que Ciudadanos había presentado ya hacía muchísimo tiempo una \npropuesta; por cierto, una propuesta mejor que la del señor Boadella, porque establecía unos escalones \nde proporcionalidad en cuanto a la pena mucho más razonables para poder superar esos obstáculos que \nestableció la Sala Segunda del Tribunal Supremo—, pues el Partido Socialista ha tenido a bien meterlo en \nesta ley. Por tanto, dirán: ¡Caray, qué bueno el Partido Socialista, qué bueno el Gobierno de España, que \na las puertas del verano nos introducen esta reforma! No lo ha dicho nadie, pero esta fue una cosa muy \ngraciosa. VOX ese día traía aquí al Pleno una iniciativa en materia de hurto multirreincidente y el Grupo \nSocialista por la mañana en la Comisión dijo: Pues, voy a fastidiar a VOX y voy a meter el hurto \nmultirreincidente en esta Ponencia para que así los señores de VOX se queden sin contenido. Señores \nde VOX, presenten ustedes, por favor, una ley antiokupación cuanto antes para que consigamos de una \nvez que el Partido Socialista, únicamente con el ánimo de fastidiarles a ustedes, establezca una ley \nantiokupación. También le digo, señor ministro, que copie la nuestra, porque ya tenemos en el Registro del \nCongreso de los Diputados una buena solución con respecto a aquellos supuestos de okupación.\nComo ven, lo peor del bipartidismo nos lo encontramos en esta ley. El Partido Socialista utiliza el hurto \nmultirreincidente únicamente por fastidiar a VOX, no pensando en las personas que son robadas en el \nmetro de Barcelona, sino por una táctica puramente oportunista; y el Partido Popular nos dice — fíjense \nqué cosas, en este bar se juega, como en Casablanca— que se cede la recaudación del impuesto sobre \ncve: DSCD-14-PL-196\n \nresiduos a las comunidades autónomas. ¿Pero ustedes no se han dado cuenta de lo enfadada que estaba \nla señora Calvo porque le han quitado su impuesto de residuos? ¿No les hace sospechar que el hecho de \nque Junts per Catalunya esté enfadado con esta regulación a lo mejor es porque es razonable que haya \nun impuesto a nivel nacional de una España de ciudadanos libres e iguales y no un impuesto en Cataluña, \nun impuesto en el País Vasco y un impuesto en Galicia? ¿No parece eso razonable, señor Píriz y \nseñor Ruiz? Además, se trata de ceder la recaudación únicamente. La señora Calvo nos ha dicho que \nhace dieciocho años que ellos tienen esta tasa de residuos. Hace dieciocho años ustedes en algún rato \nhan gobernado, que yo sepa, y no se lo han quitado tampoco. Así que no sean ustedes hipócritas, ustedes \nque no quieren quitar de la Constitución eso de las nacionalidades y las regiones — los territorios de \nprimera y de segunda—, y no eviten que las comunidades autónomas que tienen esta competencia para \nel tratamiento de residuos puedan recibir la recaudación del impuesto de residuos, porque parece algo \nlógico.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Bal.\nPor el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, \ntiene la palabra el señor Cortés Gómez."
+  },
+  {
+   "speaker": "CORTÉS GÓMEZ",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nBuenos días, señorías, ministro. Hoy debatimos en esencia el proyecto de ley orgánica por la que se \nestablecen normas que faciliten el uso de información financiera y de otro tipo para la prevención, \ndetección, investigación o enjuiciamiento de infracciones penales. Esta ley supone, como ya se ha dicho, \nla trasposición de la Directiva europea 2019/1153 y se pretende hacer más fácil el acceso a determinada \ninformación financiera por parte de las autoridades designadas para la prevención del blanqueo de \ncapitales, de delitos de terrorismo y de otros delitos graves. En el caso de España, la Unidad de Inteligencia \nFinanciera es la entidad nacional centralizada que se encarga de recibir los informes sobre operaciones \nsospechosas de blanqueo de capitales que proporcionan las instituciones financieras, analizarlos y \ntransmitir tanto a las autoridades competentes internas como a otras unidades de inteligencia financiera \nde otros países la información sobre estas operaciones, con el fin de combatir y prevenir estas actividades \nilícitas. Así, las autoridades españolas podrán intercambiar la información financiera o los análisis \nfinancieros obtenidos por las autoridades competentes designadas por otros Estados miembros de la \nUnión Europea.\nAsimismo, se habilita el intercambio inmediato de información con la Europol y con las fuerzas y \ncuerpos de seguridad del Estado y policías autonómicas mediante la supresión de la previa autorización \njudicial por el Ministerio Fiscal para acceder al Fichero de Titularidades Financieras. En nuestra opinión, \nesto podría entrar en contradicción con el Reglamento General de Protección de Datos de la Unión \nEuropea e incluso con nuestra Ley Orgánica de Protección de Datos. No obstante, esta es una ley que, \npor un lado, bien aplicada podría atajar de raíz la infraestructura financiera del terrorismo global que, \nseñorías de VOX, tal y como recogen anualmente los informes de Europol, no solamente incluye los \nprocesos de radicalización violenta adjudicados al fanatismo religioso, sino también al supremacismo \nracista vinculado a la extrema derecha. Por otro lado, esta ley podría atajar de raíz la infraestructura \neconómica del crimen organizado. La académica mexicana Sayak Valencia utiliza el concepto de \ncapitalismo gore para referirse a un sistema económico que ha convertido la violencia, el tráfico de drogas \ne incluso la trata de seres humanos en un negocio rentable. En este capitalismo los paraísos fiscales, por \nejemplo, tienen una gran implicación mediante el lavado de dinero o el conocido blanqueo de capitales. \nEn el caso de España ya sabemos que cuando hablamos de blanqueo de capitales todos los caminos \nllevan a Suiza. (Aplausos).\nA propósito de la enmienda del PDeCAT sobre multirreincidencia de pequeños hurtos, hemos de decir \nque compartimos la necesidad de que la ley proteja al pequeño y mediano comerciante de quienes, a \nveces incluso con métodos intimidatorios o violentos, le roban la caja o la mercancía. Por eso, apoyamos \nsu enmienda tanto en la votación en la Ponencia como en la Comisión. Pero, además, nos preocupan \nespecialmente los multirreincidentes multimillonarios, aquellos que estando en posiciones privilegiadas de \npoder político y de poder económico erosionan el Estado del bienestar apropiándose de los recursos \ncomunes. Conocemos varios casos de evasión fiscal; de adjudicación de contratos a empresas con \nprecios inflados, por ejemplo, la compra de mascarillas por 6 millones de euros por parte del hermano de \nla presidenta de la Comunidad de Madrid; de comisiones, por ejemplo, por las famosas obras del AVE a \ncve: DSCD-14-PL-196\n \nLa Meca para el emérito residente en Abu Dabi, que en su momento le llevaron ante la Fiscalía del \nTribunal Supremo, y de otros tantos y tantos episodios nacionales. Sobre este entramado de dinero y \npoder político, ayer mismo conocimos que la Guardia Civil ha usado las notas del cuaderno de Villarejo \npara concluir que la constructora OHL pagó una mordida al expresidente de la Comunidad de Madrid del \nPartido Popular, Ignacio González. Concretamente, la constructora habría dado un 1,5 millones a Ignacio \nGonzález para hacer el tren de Móstoles a Navalcarnero, obra que no terminó. Y, siguiendo con las notas \nde Villarejo — en este caso, notas de voz—, también ayer mismo conocimos por las publicaciones de \nEl País que el exministro del Interior, Jorge Fernández Díaz, durante el Gobierno de M. Rajoy, entre 2012 \ny 2016 se reunió en la sede del Ministerio del Interior con Villarejo y con el entonces director adjunto \noperativo de la Policía, el famoso Eugenio Pino. Aunque Fernández pidió en varias ocasiones que la \nconversación no saliese de aquellas paredes, el excomisario, como tenía costumbre, la grabó, y de ella se \npuede extraer que los tres orquestaron la conocida Operación Cataluña, por la que se imputa una falsa \ncausa a los dirigentes independentistas. Jorge Fernández Díaz, durante su etapa como ministro de Rajoy, \ntuvo oportunidad de admitir en varias ocasiones que conocía al excomisario Villarejo y que se había \nreunido con él, pero el exministro del PP, como el apóstol Pedro, negó hasta tres veces en público al \npolicía y otra más — lo que es más grave— durante la reciente Comisión de la Kitchen. Aprovecho para \nanunciar que desde el Grupo Confederal haremos llegar un recurso a la Mesa del Congreso para que \nevalúe con los servicios jurídicos de la Cámara las posibles sanciones a Jorge Fernández Díaz por \nincumplir durante la Comisión Kitchen el mandato de no mentir. Quiero acabar recordando la soberbia y \nla altivez con la que el exministro del PP habló a mi compañero Rafa Mayoral y, por cierto, también al \ndiputado Edmundo Bal, que lo recordará bien. Supongo que después de las publicaciones de ayer se \nhabrá bajado del pedestal.\nVotaremos a favor de este proyecto de ley.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias, señor Cortés.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Serrada Pariente."
+  },
+  {
+   "speaker": "SERRADA PARIENTE",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "",
+   "text": "Señorías, después de escuchar este debate quizá la primera pregunta \nque deberíamos hacernos es: ¿de qué hablamos cuando hablamos de delitos financieros? Porque aquí \nhemos hablado prácticamente de todo menos del objeto de debate que toca hoy. Eso demuestra mucho \nel nivel de participación que ha habido en la Ponencia de esta ley y también tiene mucho que ver con \nalgunas de las intervenciones que ha habido aquí, que parten de la ignorancia porque ni siquiera han \npisado la Comisión. Eso es grave, señorías, porque esta es una ley importante. Es una ley que persigue \nprecisamente a aquellas personas que se llevan nuestro dinero a manos llenas, pero eso que hemos \ndebatido muchas veces en esta Cámara parece que algunas señorías — en concreto, a las señorías que \ntengo aquí a mi derecha (señala a los escaños del Grupo Parlamentario Popular en el Congreso)— \nles importa más bien poco. Creo que eso es motivo suficiente de reflexión para todos. (Aplausos).\nHoy podemos dar un importante paso para tener una nueva ley orgánica en nuestro país que luche, \ninsisto, contra aquellas personas que se llevan el dinero de todos los españoles. Parece mentira que \nhayamos vivido hoy un debate de bipolaridad absoluta con la extrema derecha, hablando los señores \nde VOX de marco de convivencia. ¿Pero qué marco de convivencia quieren ustedes, si ustedes lo único \nque quieren es destrozar la convivencia en nuestro país? (Aplausos). Si lo único que quieren ustedes, \nseñorías de VOX, es llegar al poder para decir quién es normal y quién no, quién es bueno y quién no es \nbueno, quién es el extranjero que puede entrar y quién es el extranjero que no puede entrar. Encima \nhablan de chiringuitos cuando en la Junta de Castilla y León han montado cuatro chiringuitos a cargo de \nlos ciudadanos de Castilla y León. (Aplausos). Fíjense si han montado un chiringuito en Castilla y León \nque hoy la agenda del vicepresidente de la Junta de Castilla y León, que no tiene ninguna competencia, es \nir a un concurso nacional de ponis. ¡Fíjense el nivel que tienen ustedes en Castilla y León, señorías de VOX!\nY, señorías del Partido Popular, ustedes prácticamente han tachado esta ley de crimen por cambiar el \ntítulo e incluir algunas cosas. Pero son ustedes cómplices del crimen, ustedes son cómplices del fraude, \ncomo ha dicho el señor Píriz, porque ustedes estaban de acuerdo en incluir aquí la multirreincidencia. \n¿Estaban de acuerdo, sí o no, señor Píriz? Sí, se ha incluido y ha habido que cambiar el título. Señor Píriz, \nno vengan aquí a hablar de determinadas cuestiones cuando han participado — insisto— más bien poco \nen esta Ponencia, además presentando enmiendas que creo que tenían — por decirlo así— poco nivel \npolítico y que eran un corta y pega del informe del Consejo de Estado. Por tanto, señor Píriz, creo que \ncve: DSCD-14-PL-196\n \ndeberían ustedes trabajar un poco más si es que tienen interés de verdad en sacar adelante una ley de \neste tipo.\nSeñor Rego, creo que el problema es que usted no se ha enterado de qué va esta ley. Creo que no \ntiene ni idea de qué va esta ley, creo que no tiene ni idea de qué es lo que se propone. Es más, creo que \nestá en contra del objetivo de esta ley, que precisamente es algo que usted en esta Cámara ha denunciado \ninfinidad de veces: perseguir el delito financiero, perseguir a las mafias. Señor Rego, creo que también \nestará usted de acuerdo en que hay que perseguir a quienes financian a los terroristas, y para eso es \nfundamental que las autoridades puedan tener acceso a determinadas cuestiones muy concretas que se \ndetallan en la ley, que tienen que ver con nombres y cuentas; sin más, señor Rego, sin más. Lo dice la ley, \ndice quién tiene que estar, quien no tiene que estar y dice hasta dónde se puede llegar en cada una de las \ncuestiones.\nMuchas veces hablamos aquí de la utilidad de la política y creo que esta ley responde a la utilidad de \nla política y a la labor que tenemos que hacer los políticos en esta Cámara. Se han resuelto dos cuestiones \nque había que abordar con extrema urgencia y que, como ha dicho el señor Bal, llevaban tiempo coleando \ny en torno a las cuales había un debate público. La primera tiene que ver con los delitos de multirreincidencia, \ny creo que esta ley, como ley orgánica necesaria para modificar el Código Penal, da cumplida respuesta. \nY la segunda cuestión, señor Píriz, es el ventajismo del Partido Popular de siempre: me opongo, pero no \nhan convocado el Consejo Territorial; lo han hecho muy mal, pero ¿a que lo van a cobrar, señor Píriz? \n¿A que ustedes van a aplaudir con dos manos la recaudación de este impuesto? Que, por cierto, va a \naportar mayor capacidad económica a las comunidades autónomas. Ya les digo, señorías del Partido \nPopular, que lo que deben hacer es que los recursos que tienen los inviertan en la financiación de los \nservicios públicos, algo que ninguna comunidad del Partido Popular está haciendo (aplausos), la mayoría \nde ellas devolviendo los fondos COVID que el Gobierno ha puesto para mejorar la sanidad y la educación \npública de las comunidades autónomas.\nSeñorías, hoy podemos avanzar en la lucha contra los delitos que dificultan la vida de muchos \nespañoles; podemos avanzar en la prevención de delitos contra aquellas personas que nos roban y hoy \npodemos atender al regate corto que han planteado algunos grupos políticos en esta Cámara, pero, \nseñorías, para lo que somos elegidos es para ser útiles a la sociedad, y creo que votar a favor de esta ley \nhoy es cumplir nuestro objetivo de ser útiles a la sociedad.\nMuchas gracias, señorías. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Serrada.\nEn nombre del Gobierno, tiene la palabra el señor ministro del Interior."
+  },
+  {
+   "speaker": "Grande-Marlaska Gómez (Ministro Del Interior)",
+   "party": "PSOE",
+   "role": "ministro",
+   "topic": "",
+   "text": "Muchas gracias, señora presidenta.\nIntervengo desde el escaño para agradecer al conjunto de diputados y diputadas la tramitación de \neste proyecto de ley orgánica y, especialmente, si me lo permiten, a la Subcomisión de Interior, al presidente \nde la misma, José Luis Ábalos, y a todos los portavoces, diputados y diputadas de la Comisión.\nComo se ha referido, este proyecto de ley orgánica es una responsabilidad de nuestro país como \nmiembro de la Unión Europea en la trasposición de la Directiva 2019/1153 del Parlamento y del Consejo, \ndentro del marco de la Agenda Europea de Seguridad, y con la finalidad concreta también — como se ha \nexpuesto— de proceder a la prevención, a la detección, investigación y enjuiciamiento de delitos graves, \nde luchar contra la delincuencia organizada.\nLos derechos y libertades fundamentales — como se ha recordado también— y, en concreto, el \nderecho a la intimidad, toda vez que principalmente hace referencia a mejorar el acceso a la titularidad de \nlos ficheros de titularidades financieras y al intercambio de información, están perfectamente salvaguardados \nen parámetros constitucionales.\nCon lo cual, simplemente quiero agradecer la tramitación de la misma; señalar nuestra responsabilidad, \ncomo Estado de la Unión Europea, en la lucha contra la delincuencia organizada de carácter transnacional \ny grave, nuestro compromiso con el intercambio de información, y el respeto escrupuloso a los derechos \ny libertades fundamentales de nuestros ciudadanos, y me congratulo del amplio consenso que el dictamen \nha alcanzado.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor ministro.\ncve: DSCD-14-PL-196\n \n— PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 14/2011, DE 1 DE JUNIO, DE LA CIENCIA, \nLA TECNOLOGÍA Y LA INNOVACIÓN. (Número de expediente 121/000092)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Pasamos al punto relativo al dictamen del proyecto de ley por la que se \nmodifica la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación.\nLes recuerdo que, finalizado este debate, se votarán las enmiendas correspondientes a los dictámenes \nde Comisión.\nPara defender las enmiendas formuladas a esta iniciativa legislativa, por el Grupo Parlamentario \nVasco EAJ-PNV, tiene la palabra la señora Sagastizabal Unzetabarrenetxea."
+  },
+  {
+   "speaker": "SAGASTIZABAL UNZETABARRENETXEA",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nIntervengo en nombre del Grupo Vasco para fijar posición en relación con el conjunto de la ley de \nciencia, así como para defender las enmiendas que mantenemos vivas.\nEuskadi tiene competencia en I+D+i, recogida en el Estatuto de Gernika, y dispone, desde luego, de \nuna normativa propia vía decretos, así como su propio plan de ciencia y tecnología hasta el 2030. Con \nestos instrumentos, las Administraciones vascas han ejercido sus competencias, desde luego, con un \nfuerte compromiso, que ha hecho que la Comunidad Autónoma del País Vasco sea líder en el Estado en \ninversión en I+D+i con mayor porcentaje de empresas innovadoras, haya sido, además, capaz de \ndesarrollar un ecosistema de ciencia, tecnología e innovación de éxito, que cuenta con reconocimiento \ninternacional, y haya sabido conjugar la investigación básica, pero también la investigación aplicada para \naportar soluciones al tejido productivo y a la sociedad a través de la conexión entre empresas, universidades \ny centros de I+D+i.\nTodo esto no se obtiene sin una apuesta fuerte inversora ni sin dotar de recursos al personal \ninvestigador. Así, el compromiso del Gobierno vasco es el de incrementar el presupuesto vinculado a \nla I+D+i en un 6 % anual y, además, dotar de recursos al personal investigador.\nSiendo esto así, entenderán que lo que siempre defendemos y reivindicamos sea que los textos \nlegislativos que se aprueban en el Estado sean los más genéricos posibles para permitir, precisamente, \nque no constriña lo que ya se ha desarrollado y se está haciendo bien en el marco de sus competencias \nen las comunidades autónomas y que pueda desplegarse con todo su potencial la capacidad propia y los \nplanes y estrategias puestos en marcha que, al menos en Euskadi, tan buenos resultados nos han dado. \n(El señor vicepresidente, Rodríguez Gómez de Celis, ocupa la Presidencia).\nPor ello, creemos que el texto finalmente aprobado debe ser una ley que ayude al despliegue de \nla I+D+i, pero no un texto que sea para encorsetar. Así que, permítanme que exprese un deseo: espero \nque esta ley sirva para reforzar el espacio de la ciencia, tecnología e innovación del Estado sin limitar y \nrestringir el ámbito de actuación autonómico.\nPaso a defender las enmiendas que hemos dejado vivas. En cuanto a las enmiendas que mantenemos \nvivas, un bloque para nosotros muy relevante es el que está vinculado con el autogobierno y con la \ndefensa del ámbito competencial de las comunidades autónomas competentes en la materia. En particular, \nlas enmiendas 82, 83 y 84, que mantenemos vivas, pretenden evitar en la redacción del texto legal \nexpresiones que puedan suponer imposición y preeminencia de las políticas de Estado frente a las de \notras Administraciones, especialmente las comunidades autónomas que tienen competencia, como he \ndicho, en la materia.\nEl correcto funcionamiento de la relación entre las Administraciones competentes debe garantizarse \nmediante instrumentos de colaboración y no por imposición legal ni por aplicación de esquemas estatales \nmás preocupados quizá en establecer jerarquías entre distintos niveles institucionales que en ganar \neficacia y eficiencia en las políticas mediante la colaboración. Lo que pretendemos es que la relación entre \nAdministraciones competentes sea, efectivamente, en un contexto de colaboración y, como esto no ha \nsido recogido así en la ley de ciencia, nos abstendremos, desde luego, al conjunto de esta ley.\nEnmiendas 89, 91, 95 y 96. Con la enmienda 89 y referente a las evaluaciones en el contrato de \nacceso del personal investigador, consideramos que debe quedar expuesto que las comunidades \nautónomas determinarán la modalidad y el organismo evaluador en el marco de sus competencias. La \nregulación del contrato de acceso, desde luego, debe ser compatible con su itinerario, con la incorporación \na un puesto estable en las universidades y centros de investigación, considerando, además, que algunas \ncomunidades autónomas han aprobado leyes de su sistema universitario que regulan modalidades y \ntipologías contractuales específicas.\ncve: DSCD-14-PL-196\n \nLa enmienda 91 se refiere al contrato de actividades científico-técnicas, regulado en el artículo 23. \nEsta nueva modalidad de contrato viene a sustituir el contrato por obra o servicio que se extingue con la \nnueva reforma laboral. Por ello, y por el cambio que supone, es importante que se regule con gran claridad \npara evitar cualquier disfunción interpretativa. La enmienda incorpora la referencia explícita a la posibilidad \nde contratar también por proyectos, acercándose con ello a la praxis seguida en el mundo científico de \nreferencia internacional, de modo que, sin perjuicio de la mayor amplitud y eficacia de la contratación por \nlíneas de investigación o de servicios científico-técnicos, pueda igual mantenerse en los casos en que así \nsea oportuna la contratación, como digo, por proyectos.\nTambién entendemos conveniente clarificar que se pueda contratar bajo esta modalidad para la \nejecución de planes y programas públicos de investigación científica y técnica o de innovación. Hay que \navanzar en la defensa de la contratación de personal investigador y técnico en I+D+i.\nEnmienda 95. Mediante la presente enmienda se propone introducir un nuevo apartado segundo a la \ndisposición adicional sexta del proyecto de ley para regular un especial procedimiento de carácter puntual \npara la adopción por parte del Parlamento de la decisión de alterar el crédito que, con carácter plurianual, \nse encuentre establecido en el marco presupuestario dirigido a este fin por la propia norma de aprobación \nde los presupuestos generales del ejercicio o ejercicios anteriores, requiriendo su modificación un \nprocedimiento a tal fin que precise necesariamente su planteamiento explícito y concreto, motivado en el \nmarco del procedimiento parlamentario de aprobación de la Ley de Presupuestos.\nPor último, en relación con la enmienda 96, se propone la adición a una nueva disposición adicional \nséptima relacionada con la promoción e incentivación de la investigación e innovación en el sector privado \na través de un catálogo de las ayudas y de las bonificaciones y mejoras fiscales y tributarias dirigidas al \nfomento de la actividad de investigación e innovación de las entidades y empresas privadas, conforme a \nla Recomendación (UE) 2021/2122 del Consejo, de 26 de noviembre de 2021, sobre un Pacto de \nInvestigación e Innovación en Europa, en el que se dice que todos los Estados miembros deberán \nproporcionar las condiciones y el apoyo necesarios para una mayor inversión privada en I+D+i a escala \nde la Unión estatal y regional, teniendo presente, además, que el gasto público en I+D+i y las inversiones \nprivadas requieren un marco político y reglamentario adecuado para maximizar su efectividad y eficiencia \ny garantizar un impacto económico y social.\nPara finalizar, me gustaría referirme a aspectos que hemos incorporado en el trámite parlamentario. \nHemos pretendido dar solución con nuestras enmiendas a los efectos colaterales que en el ámbito de la \nciencia han provocado la desaparición del contrato de obra o servicio eliminado por la reforma laboral. \nEste proyecto de ley incluye una nueva modalidad de contrato de actividades científicotécnicas que viene \na sustituir el mencionado contrato por obra o servicio.\nA través de la enmienda transaccional que firmamos, desde luego se permitirá que puedan recurrir a \neste tipo de contratos también los centros tecnológicos y centros de apoyo a la innovación tecnológica y \nlas universidades privadas dirigidas por entidades sin ánimo de lucro, agentes muy importantes para el \ndesarrollo de políticas de I+D+i. Queda también recogida la mención de manera expresa al personal \ntécnico, puesto que cada vez se requiere en mayor medida su colaboración en todos los ámbitos. También \nhemos logrado que se incluya una medida dirigida a contribuir la captación, retorno y retención del personal \ntecnólogo en excelencia, en concreto la posibilidad de ampliar el contrato previsto en el artículo 23 a \ntecnólogos distinguidos y distinguidas.\nPor otra parte, lo haremos apoyando, como lo hacemos, la ciencia abierta y considerando que, además \nde los ministerios citados en el proyecto de ley, las comunidades autónomas, en el marco de sus \ncompetencias, puedan también promover iniciativas orientadas a facilitar el libre acceso a los datos \ngenerados por la investigación, cuestión que ha sido incluida en el texto del proyecto de ley mediante una \ntransacción con nuestra enmienda 93, que se someterá a votación a continuación.\nMuchísimas gracias."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Ciudadanos, tiene la palabra el señor López-Bas Valero."
+  },
+  {
+   "speaker": "LÓPEZ-BAS VALERO",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señor presidente.\nBuenos días, señora ministra. En Ciudadanos tenemos una cierta satisfacción con el dictamen del \nproyecto de ley de Ciencia, Innovación y Tecnología porque viene con nuestras aportaciones y nuestro \napoyo, pero también es verdad que nos hubiera gustado, y así lo hemos dicho, que la reforma fuera más \nambiciosa y hubiera podido llegar un poco más lejos. En todo caso, sí creemos que es de justicia reconocer \ncve: DSCD-14-PL-196\n \nel trabajo de todos los grupos parlamentarios y, además, agradecer expresamente la predisposición del \nministerio, en su día de Pedro Duque y, posteriormente, de Diana Morant, en estas cuestiones.\nEn Ciudadanos hemos querido siempre aportar en política de ciencia. Lo hicimos en su día con la red \nCervera del CDTI, consiguiendo financiación y asesoramiento para pequeñas y medianas empresas, \naumentando así su potencial económico e innovador. Además, que esta iniciativa haya perdurado con \nGobiernos tanto del PP como del PSOE y Unidas Podemos nos refuerza en la idea de que era una buena \niniciativa para la sociedad española. Con esa misma voluntad hemos aportado nuestro granito de arena \nen la reforma de la actual ley de ciencia y, sobre todo, con el propósito de terminar con los dos grandes \nproblemas que tenía este sector: la inseguridad e inestabilidad de los investigadores en su ámbito \nprofesional y laboral y, también, la excesiva carga burocrática en su labor. Por eso, valoramos que este \nproyecto de ley recoja cuestiones que hemos introducido a través de nuestras iniciativas transaccionadas \ne incorporadas al texto.\nHemos conseguido dar más flexibilidad para que los investigadores puedan desempeñar sus funciones \nen empresas y fundaciones, reconociendo además de forma más completa sus derechos de propiedad \nintelectual sobre los avances que se consigan gracias a su trabajo; hemos alcanzado también una regulación \nmás eficaz de la ciencia abierta y de la mejor y mayor posibilidad de difusión de las investigaciones científicas; \nhemos conseguido el reconocimiento del personal técnico y del de gestión como un personal esencial en los \nequipos de investigación, así como la posibilidad de que no se requiera una titulación específica para esa \nlabor, sino experiencia, formación y habilidades para esas funciones, y hemos dado, también, más flexibilidad \npara que los investigadores puedan desempeñar sus funciones en empresas y fundaciones, con un \nreconocimiento más completo, como he dicho antes, de sus derechos de propiedad intelectual.\nSin embargo, es verdad que queríamos algo más de esta reforma y, desgraciadamente, hay tres \ncuestiones que nos fueron vetadas por el Gobierno: solicitar una casilla en la declaración del IRPF para \ntener un 0,7 % de lo recaudado destinado a I+D, bonificaciones fiscales a empresas en el impuesto de \nsucesiones si se invierte en I+D o bonificaciones sociales si la contratación de personal investigador se \nproducía por parte de las empresas.\nTampoco queríamos quedarnos solo en lo que hemos dicho — y, además, se comentaba en este \nmismo Pleno de esta semana— de que tuviéramos una Agencia Espacial Española sin que estuviera \ndotado un sector innovador y presente ya en nuestro tejido empresarial con una regulación marco de sus \nactividades, régimen de autorizaciones y responsabilidad civil, como tienen otros países de nuestro \nentorno. Desgraciadamente, el Gobierno o los grupos mayoritarios de la Cámara no han estado por dar \nimpulso, precisamente, a la realización de ese marco legal.\nPero les hablo ya de las dos enmiendas que en Ciudadanos mantenemos vivas en este momento, y \npara las que pedimos su voto favorable. La primera es la enmienda 35, que reclama al Gobierno que \nelabore un plan de atracción y retención del talento investigador para que nuestros investigadores no se \ntengan que marchar de España a seguir sus estudios para trabajar y que, si quieren volver, puedan tener \nincentivos para hacerlo. Señorías, seguro que les suena esto porque la semana pasada, el 14 de junio, la \npropia ministra nos anunció la aprobación de un Plan de atracción y retención de talento científico \ninnovador, con cerca de treinta medidas y casi 3000 millones de euros de dotación. Tengo que decirle que \nnos gusta ese plan porque, según refiere el acuerdo, establecerá incentivos para atraer personal \ninvestigador al sector público de ciencia y también impulsará la incorporación de personal científico e \ninnovador internacional al sector privado. La pregunta, sobre todo dirigida a los grupos que apoyan al \nGobierno, es: ¿Por qué van a votar ustedes, en su caso, en contra de esta enmienda 35 de Ciudadanos \nque, precisamente, pide al Gobierno esa elaboración de un plan de atracción y retención del talento \ninvestigador, como solicitamos en su día en los Presupuestos Generales del Estado y lo solicitamos \ntambién a través de las enmiendas a esta ley, ya antes incluso de los anuncios realizados por la ministra? \nDe hecho, si se dan cuenta, nosotros lo que solicitamos es lo mismo que ese plan establece y que se \npuede leer en la web del ministerio: bonificaciones fiscales progresivas a empresas que contraten a \ninvestigadores de manera indefinida, y nosotros queremos que sea al menos por cinco años; bonificaciones \nen las contribuciones a la Seguridad Social por contratación de personal investigador que hubiera salido \nde España para continuar su investigación o para obtener su doctorado, como proponemos; líneas de \nayuda de contratación de personal investigador que hubiera salido de España para continuar esa \ninvestigación y obtener su doctorado con el objetivo de facilitar su contratación por pymes innovadoras, \nstartups y scaleups, siempre y cuando la contratación dure al menos tres años. Se trata de determinar \nrealmente qué medidas tiene que tener ese plan.\ncve: DSCD-14-PL-196\n \n¿Por qué votarían ustedes en contra de esta enmienda — como digo— si coincide en lo sustancial con \nel plan aprobado por el ministerio? Lamentaríamos escuchar que se trata simplemente de votar que no a \nesa misma propuesta porque la propuso Ciudadanos antes que el propio ministerio.\nEn todo caso, también mantenemos viva nuestra enmienda número 30 para que la ley blinde el \ncompromiso de inversión total de todos los sectores, público y privado, conjuntamente, al 3 % del PIB \nen I+D, frente al 1,25 % que contempla el Gobierno solo en el sector público. Lo reclamamos así recordando \nque incluso fue un compromiso del programa electoral del Partido Socialista en 2016, a cuya renuncia, en \nprincipio, solamente podría dar como respuesta que el Gobierno se niega realmente a hacer políticas \neficaces de fomento e incentivación de la investigación e innovación en el ámbito privado. Porque, si no \nes así, es tan sencillo como votar a favor de la misma propuesta que hoy traemos en esta enmienda \nnúmero 30, que ustedes llevaban en su programa electoral de 2016 como digo, y es hasta el año 2030 el \ncompromiso de que el total de financiación, tanto pública como privada, de manera conjunta, alcance \nel 3 % del PIB.\nEn resumen, señorías, como digo, es una satisfacción moderada por haber llegado hasta aquí, por las \nenmiendas que se han transaccionado y hemos conseguido introducir en el proyecto de ley, pero es una \nsensación también agridulce porque hay vetos del Gobierno que se nos han impuesto y hay negativas que \ndan lugar a esas dos enmiendas que hoy mantenemos que son, además, podríamos decir, muy socialistas. \nPor lo tanto, no entendemos por qué votarían ustedes en contra. En todo caso, esperamos que sean \nconsecuentes y las apoyen.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Plural, tiene la palabra el señor Rego Candamil."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Grazas, señor presidente.\nEn el BNG partimos de que sin ciencia no hay futuro y, por lo tanto, también de la convicción de que \nesta ley debería ser una oportunidad de avanzar en impulsar una ciencia para toda la sociedad, pero \ntambién en una ciencia con derechos. Ese fue el motivo por el que el BNG presentó treinta enmiendas \npara mejorar esta ley en defensa, por ejemplo, de las competencias galegas, para garantizar el retorno \nsocial y el interés público y para garantizar derechos y acabar con la precariedad de los colectivos de \ninvestigadores y de investigación. Por ejemplo, la enmienda 61, de investigación biomédica, coincidente \ncon la 150 aprobada, que el PSOE intentó tumbar hasta ayer mismo; la enmienda 62 sobre la carrera \nprofesional de los OPI; la eliminación de la tasa de reposición de efectivos; equiparar el salario de \ninvestigadores predoctorales; incluir el personal técnico y de gestión; hacer retroactiva la indemnización \ntambién para los contratos predoctorales; incrementar la financiación pública hasta el 2 % para llegar a \nese 3 % establecido, o las que tienen que ver con reducir la brecha de género en la línea de la Ley Ángeles \nAlvariño, que el BNG impulsó en el Parlamento de Galiza y que está en vigor en nuestro país. Quisimos \nser también la voz de los colectivos que hacen ciencia y, por lo tanto, agradecemos las sugerencias que \nnos hicieron colectivos como InvestiGal, muy activo en Galicia, por cierto.\nEn una valoración global, nos parece, sin embargo, que, a pesar de que hay avances, esta fue una \noportunidad perdida de un mayor avance."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señoría, debe finalizar."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Por lo tanto, el BNG, lamentablemente, se va a abstener."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias.\nTiene la palabra el señor Errejón Galván."
+  },
+  {
+   "speaker": "ERREJÓN GALVÁN",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señor presidente.\nNo digo ningún secreto si digo que España es un país que tradicionalmente ha tratado muy mal a su \nciencia y a sus científicos. No será fácil encontrar muchos ejemplos de países en los que se ha hecho \ncélebre una frase como aquella famosa de Unamuno de «Que inventen ellos». El problema de que \ninventen ellos, de que sean ellos los que inventen, es que nos condena a ser rehenes de un modelo \ncolonial y de un modelo económico muy frágil, low cost, que descansa básicamente, por una parte, sobre \nla especulación, la destrucción del territorio y el ladrillo y, por la otra, sobre la precariedad y sobre la salud \nfísica y mental de los trabajadores. Este modelo estructural no cambia solo. Como no existe la mano \ncve: DSCD-14-PL-196\n \ninvisible del mercado, en la realidad, si no hay una intervención pública decidida y estratégica por la \nciencia y por la industrialización de nuestro país, lo que sucede es que los países se siguen especializando \nen lo que ya hacen: unos se especializan en fabricar vacunas con trabajo bien pagado y cualificado y otros \nse especializan en sangría con trabajo mal pagado.\nPara ser una patria y no un resort turístico es imprescindible que haya una política científica e \nindustrial a la altura. Es imprescindible que España vuelva a fabricar cosas y para eso hace falta, en \nprimer lugar, inversión pública, ambiciosa, vanguardista, sostenida y con retorno ―lo de con retorno es \nimportantísimo, porque no se trata solo de que el Estado sea una especie de cajero que preste, cuando \nel Estado invierte en un proyecto que es rentable el Estado tiene que recibir beneficios, porque así \npuede seguir fomentando un modelo industrial, un modelo científico propio y avanzado― y, en segundo \nlugar, cuidar de la principal materia prima de todo modelo científico industrial, y esa materia prima no es \notra que el talento propio, los investigadores y los científicos españoles. En España hasta ahora \ndedicarse a la ciencia ha sido casi una cuestión vocacional; la gente elegía un modelo que le condenaba \na una carrera en la que uno era adolescente hasta pasados los cuarenta años, en el que era muy difícil \nformar una familia porque no sabía dónde iba a estar el año que viene o si se iba a tener que ir del país \no en el que era muy difícil que a uno le concedieran, por ejemplo, una hipoteca, porque en quince años \nde investigación había tenido diecisiete contratos y así no había manera de tener una cierta estabilidad. \nEs hora, por tanto, de organizar las capacidades de nuestro país, de dignificar y cuidar el talento de \nnuestro país y de poner todos los recursos necesarios. ¿Eso exige dinero? Sí, pero ser un resort turístico \nes mucho más caro.\nEsta ley avanza en el sentido correcto y, por tanto, contará con el apoyo de Más País y Verdes EQUO.\nMuchas gracias."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Errejón.\nTiene la palabra el señor Miquel i Valentí."
+  },
+  {
+   "speaker": "MIQUEL I VALENTÍ",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gràcies, president.\nMinistra, bon dia. Buenos días, señorías. Voy a ser muy breve, porque tengo solo un minuto. Creemos \nque esta ley pone remedio, no como nosotros ambicionamos en un principio, en cierto modo en algunas \ncuestiones que eran importantes. En primer lugar, poner en valor la investigación y la ciencia, una cuestión \nclave desde que salió del ministerio y que creemos que ha sido incrementada en su trámite parlamentario; \nen segundo lugar, facilitar la inyección de recursos públicos y privados en la investigación, y, en tercer \nlugar, poner en valor y reparar cuestiones que estaban pendientes de aquellas personas que hacen \ninvestigación y que desarrollan su tarea profesional en centros de investigación. Creemos que la ley \ncumple los requisitos que nosotros antes pedíamos y, por eso, vamos a votar a favor de ella.\nIgualmente, celebramos la retirada del voto particular del Grupo Socialista a nuestra enmienda 350, \nque facilita que los investigadores hospitalarios puedan trabajar en mejores condiciones.\nComo he dicho, vamos a votar a favor del texto.\nGracias, ministra. Gracias, señorías. Gracias, presidente."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas Gracias.\nTiene la palabra la señora Illamola Dausà.\nLa señora ILLAMOLA DAUSÀ: Bon dia. Bon dia, señora ministra.\nEste proyecto de ley es una cuestión en la que Junts ha trabajado mucho, y supongo que como todos \nlos partidos, es normal. Nosotros presentamos cuarenta enmiendas trabajadas con el sector y con la \nConselleria que abarcaban aspectos competenciales que, lógicamente, son esenciales para nosotros y \naspectos de investigación con animales, porque es posible otro tipo de investigación y se desaprovecha \nuna oportunidad de avanzar en métodos alternativos de la experimentación en vivo, como prevé la Unión \nEuropea, y, también, en financiación de la investigación, pues no se trata de hablar de investigación, sino \nde invertir en ella realmente. Y no puedo dejar de decir que no compartimos el veto realizado por el \nGobierno a tres enmiendas, especialmente la relativa a la compensación del IVA de los proyectos de \ninvestigación. Es esencial y es básico, si se cree realmente en la investigación, y creo que la pandemia ha \ndejado claro que la investigación es básica para nuestras vidas. Estas son en líneas generales \n— competencia, financiación y experimentación alternativa— las enmiendas que mantenemos vivas y \npara las que pedimos el apoyo, pues entendemos que mejorarán el proyecto de ley. Hemos retirado \ncve: DSCD-14-PL-196\n \nalgunas enmiendas porque el dictamen, más o menos, las recoge o porque alguna ha sido transaccionada, \naunque cierto que menos de lo que nos hubiera gustado.\nY no puedo evitar mencionar la técnica legislativa. Lo dije en Comisión. Sinceramente, creo que puede \nlegislarse mucho mejor. Una ley no es un calaix de sastre, como decimos en catalán, que aprovecho para \nmeter otras cosas que tengo pendientes. Por ejemplo, la disposición octava nueva, beneficios fiscales \naplicables al South Summit del 22 al 24, será muy importante, pero ¿en esta ley? Sobre la disposición final \nprimera bis, texto refundido de la ley de garantías, mismo comentario. En cuanto a la disposición final \nprimera ter, modificación del acceso a las profesiones de abogado y procurador, se cambia el calendario. \n¿Esto es preciso? Y, además, tengan en cuenta que en este último caso la disposición final segunda no \nincluye la base jurídica para hacerlo. Por tanto, ¿es una buena reforma la ley de ciencia que ha quedado? \nCreemos que no es mala, sinceramente, pero es mejorable. Y con la ciencia y la inversión en la investigación \nles pasa lo mismo que con el diálogo y la negociación: no por repetirlo sucede, no por repetirlo se cumple, \nse debe actuar. (Termina su intervención en catalán).\nMoltes gràcies."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchísimas gracias.\nPor el Grupo Parlamentario Republicano, tiene la palabra el señor Margall Sastre."
+  },
+  {
+   "speaker": "MARGALL SASTRE",
+   "party": "ERC",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gràcies, president. Bon dia, diputades i diputats. Bon dia, ministra.\nDebatimos en el Pleno la modificación de la Ley de la Ciencia, la Tecnología y la Innovación, y \nqueremos reconocer, en primer lugar, el buen trabajo que se ha hecho en todos los procesos de \ncomparecencias en la subcomisión creada para este cometido, así como el informe resultado de todas \nellas. Creo que el informe final nos dio a todos una buena base para trabajar esta ley y llegar a un buen \nresultado.\n¿Cuál ha sido la aportación de Esquerra Republicana en el texto final de esta ley? Lo voy a resumir \nbrevemente. Hemos introducido avances de publicación de resultados y transparencia en proyectos de \ninvestigación y desarrollo financiados con fondos públicos con la voluntad de mejorar la transferencia del \nconocimiento, la denominada ciencia abierta; también hemos aportado mejoras en perspectiva de género \nen la carrera profesional de los y las investigadoras; hemos encontrado mecanismos de delimitación \ncompetencial clara y mecanismos no invasivos de colaboración entre administraciones respetando las \ncompetencias que tiene la Generalitat de Catalunya en este campo, aunque, por desgracia, vemos \ndemasiadas veces invasiones competenciales en las leyes que aprueba este Gobierno. En el campo de las \nmejoras en las condiciones laborales de las personas que trabajan en el sector aseguramos la continuidad \ny viabilidad de los proyectos científicos y de desarrollo y, por tanto, del personal asignado a ellos. Asimismo, \nhemos contribuido a flexibilizar los requisitos para poder acceder al nuevo contrato de actividad científico-\ntécnica asegurando el acceso a quienes tengan la formación, experiencia y competencias acordes a las \ntareas a desempeñar y, por último, a facilitar procesos de promoción interna entre escalas técnicas y \ncientíficas para promover el desarrollo de la carrera profesional. En resumen, y para no entrar en detalles \nmuy técnicos que puedan confundir, hemos contribuido a asegurar la transferencia del conocimiento, \nconvertir la carrera científica y técnica en un valor estable y de futuro, introducir medidas para la reducción \nde las desigualdades de género, simplificar la burocracia. En definitiva, hacer de la ciencia y de la tecnología \nun sector estable que permita el desarrollo, la modernización y evitar la denominada fuga de cerebros.\nQueremos destacar también un acuerdo que para nosotros es importante, que es la promoción de los \nparques científicos y plataformas tecnológicas para impulsar la transferencia del conocimiento y la \ndivulgación. Un aspecto muy importante relacionado con este punto es que hemos conseguido eliminar, \ngracias a una enmienda de nuestro grupo parlamentario, el sistema de doble aval de financiación que \nlastraba las cuentas de los parques científicos y tecnológicos de todo el Estado español, con especial \nincidencia en Cataluña. (Aplausos). En este sentido, la ley incorpora la eliminación de la obligatoriedad \nde conseguir avales bancarios privados para la financiación de estos centros, algo que comprometía la \ncontinuidad y la viabilidad de muchos proyectos científicos y, en consecuencia, de los contratos y el \npersonal destinado a los mismos por la sobrecarga financiera que suponían.\nTodos ustedes saben que la potencia científica y la viabilidad económica de los parques científicos es \nenorme, enorme, pero su situación financiera es muy delicada debido a la manera en cómo se financió en \nsu día la gran construcción y equipamiento de estas infraestructuras, en gran parte con deuda proveniente \ndel Estado y con unos términos de devolución no acordes con sus flujos de caja. Les pongo un ejemplo \npara que entiendan la magnitud del problema. Uno de los grandes parques científicos catalanes pagaba \ncve: DSCD-14-PL-196\n \nel 1,5 % del precio del aval por una cuota vencida de 36,7 millones de euros, lo que les suponía más \nde 700 000 euros anuales de sobrecarga financiera, algo muy difícil de soportar. Con la eliminación de \neste doble aval, damos confianza a estas estructuras científicas, la mayoría ligadas a universidades, que \nnos aportan investigación, innovación y empleo de calidad.\nCreemos que con todo lo que nuestro grupo parlamentario ha negociado para alcanzar esta ley damos \nsalida a la mayoría de las reivindicaciones del sector científico e investigador de Cataluña, y damos \nmusculatura al sector de la investigación e innovación del país, si bien aún queda mucho trabajo por hacer. \nSabe, ministra, que aún tenemos que llegar a acuerdos con un tema importante, como es la devolución \ndel IVA a los centros de investigación, como algunas sentencias firmes ya reconocen, y como mandató este \nCongreso con la aprobación de una PNL de nuestro grupo parlamentario que iba en este sentido. Usted se \nha comprometido a buscar una solución a este tema y estoy convencido de que llegaremos a un acuerdo \ntan satisfactorio como ha sido el de la supresión del aval bancario para los parques científicos.\nY voy terminando. Quiero agradecer a todos los ponentes de los grupos parlamentarios su trabajo en \nla ponencia de esta ley. Creo que hemos sido capaces entre todos de dejar a un lado nuestras diferencias, \nque son muchas y muy profundas, para centrarnos en encontrar soluciones y consensos para mejorar el \nsector de la ciencia y la innovación. Y en este sentido, quiero agradecer sobre todo a la ponente del Grupo \nSocialista, la diputada Sandra Guaita, su trabajo y su predisposición a llegar a acuerdos. Quiero también \nreconocer la voluntad de la ministra, Diana Morant, de llegar a acuerdos. Desde el primer momento de su \ntoma de posesión creo que hemos tenido una interlocución fluida, nos hemos hablado claramente de lo \nque queríamos como grupo parlamentario y de lo que querían ustedes como ministerio y, finalmente, \nhemos llegado a acuerdos, por los cuales vamos a dar apoyo a esta ley.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Confederal de Unidas Podemos-En Común Podem-Galicia en Común, \ntiene la palabra el señor Sánchez Serna."
+  },
+  {
+   "speaker": "SÁNCHEZ SERNA",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidente.\nBuenos días a todos y todas. Hoy vamos a aprobar la modificación de la ley de la ciencia de 2011 y \nquería que mis primeras palabras fueran para los colectivos de investigadores e investigadoras. Si hoy la \nciencia es una política de Estado, si hoy garantizamos una financiación estable para la ciencia y si vamos \na blindar nuevos derechos para nuestro personal de investigación, es fundamentalmente gracias a vuestra \nlucha y a vuestra persistencia estos años. (Aplausos). Y gracias a ese empuje, como digo, estamos ante \nuna ley de las que hacen avanzar un país, una ley que va a suponer un cambio de rumbo para la ciencia \nen nuestro país, que refuerza el liderazgo público en las políticas de I+ D+ i y que, además, nos va a \npermitir dejar atrás la década perdida en la que el Partido Popular recortó el 25 % de los presupuestos de \nciencia, expulsando a miles y miles de investigadores del país.\nEn este sentido, la nueva ley de ciencia responde a tres demandas unánimes que nos planteaba la \ncomunidad investigadora. En primer lugar, mejora la carrera científica y dignifica las condiciones de trabajo \nde investigadores e investigadoras. En segundo lugar, va a garantizar una financiación pública y estable \nen I+D+i. Y por último, reduce la carga administrativa a la que se tenía que enfrentar la gente que hace \nciencia, que hace investigación, en España.\nDesde Unidas Podemos siempre hemos dicho que esta nueva política científica tenía que poner en el \ncentro al personal de investigación. Decía Ramón y Cajal que los descubrimientos los hacen las personas \ny no los aparatos científicos ni las copiosas bibliotecas, y para eso tenemos que cuidar a los que investigan \ny escuchar sus demandas. No necesitábamos introducir un tenure track para precarizar más la carrera \ninvestigadora en los primeros años, ni necesitábamos eliminar la figura del científico titular, como se \npropuso en los primeros borradores de esta ley de ciencia. Necesitábamos una carrera investigadora, \nestable, predecible y que ampliara derechos y, afortunadamente, se corrigieron esos primeros borradores.\nHoy podemos decir al fin que esta ley pone las bases para comenzar y mantener una carrera \ninvestigadora, segura y alejada de la precariedad. La ley de ciencia, en efecto, va a establecer un nuevo \nitinerario científico posdoctoral más claro, orientado a la estabilización y que dignifica las condiciones de \ntrabajo de nuestro personal de investigación. Uno de los principales hitos de esta ley ―y que está además \nalineado con la nueva reforma laboral― es la de terminar con los contratos por obra y servicio, que tanta \ninestabilidad provocaba entre la gente que hace ciencia al desarrollar un modelo de contratación indefinida, \npropuesto por el nuevo artículo 23 bis de contratos de actividades científico-técnicas.\ncve: DSCD-14-PL-196\n \nEsta nueva ley de ciencia despliega, además, nuevos derechos para los investigadores. El programa \ndel Gobierno de coalición recogía, en su punto 28, la equiparación de todo el personal de investigación, \ntambién del personal que comienza su carrera investigadora, del personal predoctoral y desde Unidas \nPodemos hemos trabajado para que se cumpliera lo que estaba pactado. Lo que nos planteaban los \ncompañeros y compañeras de FPU Investiga era una cosa tan de sentido común como que quien tiene un \ncontrato de investigación debía tener los mismos derechos que el resto de trabajadores. Porque lo que \nestaba ocurriendo en este país era que los investigadores, en las primeras etapas de su trabajo, tenían \nmenos derechos que cualquier trabajador de otro ámbito, fuera del ámbito privado o de la Administración \nPública. Por eso, para nosotros resulta tan importa que esta nueva ley de ciencia vaya a recoger, por fin, \nla indemnización de contrato para los investigadores predoctorales y posdoctorales. (Aplausos).\nLa consolidación de derechos de los investigadores predoctorales en nuestro país es para estar muy \nsatisfechos. Esta nueva ley de ciencia también quiere corregir los recortes en ciencia y el típico \ncomportamiento procíclico de los presupuestos generales y, por ello, se propone alcanzar una financiación \npública del 1,25 % del PIB para el final de esta década. La Comisión Europea estima que por cada euro \nque se invierte en proyectos de investigación se generan cinco para la economía. Por tanto, no se trata de \nque seamos un país rico para entonces invertir en ciencia, sino que hay que invertir en ciencia ahora para \ngenerar innovación y valor añadido. Este debe ser un objetivo prioritario de país, y no nos podemos \nconfundir. Estos años vamos a necesitar más presupuesto para la ciencia y no para aumentar el gasto \nmilitar. (Aplausos).\nLa ley que hoy aprobamos también avanza en la reducción de la carga administrativa, que es algo que \nnos demandaban recurrentemente los grupos de investigación, y lo hace simplificando tanto el \nprocedimiento de concesión de ayudas como su justificación. Asimismo, impulsa la transferencia de \nconocimiento con los nuevos sexenios de transferencia que incentivará el traslado de la investigación \npública a las empresas y a la sociedad. Por último, es una ley comprometida con la igualdad. Este \ncompromiso se va a articular a través de planes de igualdad, evaluables anualmente, de protocolo frente \nal acoso y de un distintivo de igualdad de género en I+D+i para los centros que acrediten alcanzar criterios \nde excelencia en este ámbito.\nEn definitiva, es una nueva ley de ciencia que dota de dignidad profesional a los investigadores, que \ngarantiza una inversión pública estable para no repetir los recortes del Partido Popular y que moderniza \nsustancialmente nuestro sistema de ciencia, tecnología e innovación.\nEn Unidas Podemos estamos convencidos de que este proyecto de ley supone un avance importante \ny, sin embargo, también somos conscientes de que hay cuestiones que se han quedado fuera. Por ejemplo, \nla carrera profesional del personal técnico y de gestión, como también una parte imprescindible de nuestro \npersonal de investigación. Son cuestiones que no vamos a abandonar y en las que vamos a seguir \ninsistiendo, pero esta mañana sí me gustaría subrayar el acuerdo al que hemos llegado con el Grupo \nParlamentario Socialista para sacar adelante nuestra enmienda 59. Se trata de una enmienda que modifica \nla disposición adicional quinta de la reforma laboral, con el fin de que la contratación indefinida también \nllegue a aquellos investigadores que trabajan en proyectos de investigación con fondos europeos \ncompetitivos. Era una cuestión de justicia y, sobre todo, va a suponer una drástica reducción de la \ntemporalidad. Por fin, podemos decir que la reforma laboral llegará a todos los investigadores. (Aplausos).\nVoy finalizando, presidente. En Unidas Podemos siempre hemos defendido que la ciencia tenía que \nser una prioridad de país porque durante demasiado tiempo no lo ha sido. Seguíamos instalados en el que \ninventen ellos, del que nos advirtió Miguel de Unamuno. Teníamos un sistema infrafinanciado, unas \nplantillas investigadoras en situación de precariedad y no éramos capaces de retener el talento investigador. \nSin embargo, esta reforma de la ley de la ciencia representa una nueva oportunidad. Hoy sentamos las \nbases para un cambio de rumbo y para que la política científica se convierta en un vector de desarrollo y \nde bienestar colectivo.\nEn definitiva, estamos ante una oportunidad única para dejar atrás el que inventen ellos y pasar al \ninventemos juntos, inventemos con Europa. Por eso, votaremos sí.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario VOX, tiene la palabra el señor Espinosa de los Monteros de Simón. \n(Aplausos).\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "ESPINOSA DE LOS MONTEROS DE SIMÓN",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señor presidente.\nSeñorías, lo llevamos diciendo años, generar conocimiento científico de calidad, ser capaces de \ntrasladarlo a la sociedad, incentivar el espíritu innovador, aprovechar todo el potencial tecnológico, es una \nde las recetas más seguras para impulsar un crecimiento económico sobre bases sólidas y hacer una \nsociedad más próspera. Los avances científicos y tecnológicos han sido el preámbulo de grandes periodos \nde crecimiento, siempre ha sido así; por eso ahora, en un periodo sujeto a tan grandes cambios, en el que \nlos espectaculares avances tecnológicos están demostrando tener una capacidad extraordinaria para \nincrementar la productividad de nuestra economía, era más importante que nunca no fallar a la ciencia. \nSoy muy optimista sobre el papel relevante que podría jugar la ciencia en el futuro de España, soy también \nmuy optimista sobre la capacidad de nuestros científicos de convertirse en un factor esencial de nuestro \nmodelo productivo, pero ese proyecto requeriría de visión, de conocimiento y de ambición; una visión y \nuna ambición que hemos podido ver cómo en un país en permanente conflicto, como Israel, lo ha hecho \nconvertirse en una potencia científica; una visión y ambición que ha hecho de Corea del Sur, un país que \nhasta hace muy poco era más pobre que Ghana, el país más innovador del mundo; una visión y una \nambición que han transformado un país rezagado, como era Irlanda, en un referente tecnológico mundial.\nEn VOX, desde luego, apoyamos el pacto por la ciencia, cuyo éxito es una condición necesaria pero \nno suficiente para dar un impulso definitivo a la ciencia en España. En efecto, el escenario en el que nos \nencontramos es uno en el que estamos experimentando el mayor derrumbe del producto interior bruto \ndesde la guerra civil española, en el que estamos sufriendo una irresponsable política económica que nos \nestá rezagando en la recuperación de producto interior bruto, en el que tenemos que soportar el incremento \nen espiral de la deuda pública, que va a pesar como una losa en las espaldas y en los hombros de \nnuestros jóvenes, y estamos con una previsión de subida de tipos de interés que amenaza con dejar \nnuestras cuentas públicas en una situación muy delicada. Pues bien, en ese escenario, mejorar la \nproductividad estancada de nuestra economía no es que sea una opción, es que es nuestra única salida. \nY si existe una inversión capaz de mejorar nuestro potencial de crecimiento, esa inversión sin duda tiene \nque ser en ciencia, innovación, desarrollo y tecnología. Lamentablemente, el fracaso de la política científica \nen las últimas décadas no ha contribuido precisamente a mejorar nuestra competitividad; antes al contrario, \nha obligado a nuestros investigadores a trabajar en condiciones de precariedad y en muchos casos a \nemprender un éxodo al extranjero del que nunca nos hemos recuperado, ni siquiera con las cosméticas \noperaciones retorno carentes de recorrido por falta de ambición.\nPor todo ello, si existe un momento en el que en España deberíamos apoyar con más urgencia la \ninnovación y la ciencia para mejorar nuestro potencial de crecimiento, ese momento sin duda es ahora. \n(Aplausos). Y si existe una deuda urgente que saldar, es la que tenemos con los científicos condenados \na la precariedad, a la burocracia y la falta de fondos. Hay que apoyar a la ciencia con decisión, con medios \neconómicos, con estabilidad laboral, con un marco eficaz de colaboración con las empresas. Por eso, \ndesde el Grupo Parlamentario VOX apoyamos sin fisuras que se incremente el presupuesto destinado a \nla ciencia hasta alcanzar en 2030 ―como dice la ley― el 1,25 % del PIB, o que se corrija la situación de \nprecariedad laboral del personal investigador, o que se avance en la transferencia de conocimiento y de \nresultados en la actividad investigadora.\nPero, señorías, esta ley no solo no garantiza un mayor y mejor impulso de la ciencia en España, sino \nque en muchos casos lo dificulta. En VOX conocemos un poquito mejor que la mayoría de ustedes el \nmundo de la ciencia, de la investigación y el desarrollo y la innovación. Por eso hemos presentado más \nde cien páginas de enmiendas, por eso hemos propuesto mejoras y hemos denunciado muchos aspectos \nde este texto que son tremendamente lesivos para la ciencia, y hoy lo vuelvo a hacer desde esta tribuna. \nNuestro compromiso con la ciencia nos lleva hoy a no firmar un cheque en blanco, a no aceptar como \nválido un compromiso que es papel mojado si no se acompaña con otras medidas y a no callar ante el \nataque que supone tratar de someter a la ciencia a sus dogmas ideológicos. (Aplausos).\nEsta ley no afronta y, por tanto, no resuelve las deficiencias estructurales que afectan a la ciencia \nespañola. Solo hace falta escuchar a los más de treinta expertos científicos que han comparecido en esta \nCámara con motivo de la tramitación de ese texto. Pero el problema no se quede ahí; esta ley se enmarca \nen una política educativa, presupuestaria, ideológica a la que, si no logramos poner freno ―y créanme \nque lo haremos―, podría condenar a la ciencia española durante décadas, porque las políticas de \nidentificación, de captación y de retención del talento investigador empieza en las aulas. Necesitamos \nmás jóvenes investigadores, más jóvenes que quieran dedicar sus esfuerzos a la ciencia. La política \ncientífica sufre en sus bases cuando la política educativa se deteriora, como está pasando con este \ncve: DSCD-14-PL-196\n \nGobierno, cuando los alumnos pueden graduarse sin aprobar asignaturas, cuando la regla de tres o el \nmínimo común denominador son sustituidos por habilidades socioemocionales o cuando hasta las \nmatemáticas se utilizan para adoctrinar y se pretende introducir la perspectiva de género en la ciencia. \n(Aplausos). Señorías, háganme caso, no se peleen con las matemáticas, las matemáticas ganan siempre.\nPero lo más grave de esta ley, motivo por el que VOX no puede apoyarla, es que pretende secuestrar \nla ciencia para ponerla al servicio del proyecto ideológico de Pedro Sánchez. Señorías, este proyecto de \nley impone la discriminación por sexo en el ámbito científico al relegar los criterios de excelencia, mérito y \ncapacidad para ser sustituidos por criterios de lo que ustedes llaman género. (Aplausos). Es acientífico, \nacientífico, cargar a los científicos con informes de impacto de género para la aprobación de sus proyectos. \nEs una catetada establecer cuotas como elemento ajeno a la excelencia científica. Y ya lo que es de traca \nes introducir comisarios de género en los equipos de investigación.\nSeñorías, la ideologización y el sectarismo que hasta de la ciencia hace este Gobierno generará la \nconsecuencia de no poder contar con los mejores en el ámbito científico, consecuencia que pagaremos \ntodos durante mucho tiempo. Nos dejan ustedes un erial, una España rezagada y endeudada, y un sinfín \nde leyes que han puesto a instituciones, organismos y sistemas enteros al servicio de sus dogmas."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señoría, debe finalizar, por favor."
+  },
+  {
+   "speaker": "ESPINOSA DE LOS MONTEROS DE SIMÓN",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "Cuando gobernemos, nos ocuparemos de \natraer, retener y dotar de recursos y promocionar a los mejores, a los científicos más destacados, sean \nhombres o mujeres. Y a todos desde VOX hoy les damos voz, porque la ciencia española es mucho mejor \nque sus políticos.\nMuchas gracias. (Aplausos de las señoras y los señores diputados del Grupo Parlamentario VOX, \npuestos en pie)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias.\nPor el Grupo Popular en el Congreso, tiene la palabra el señor Navarro López."
+  },
+  {
+   "speaker": "NAVARRO LÓPEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señor presidente.\nNuestro personal de investigación lleva dos años jugándose la vida por salvar la nuestra y hoy es el \nmomento de devolverles una parte de ese esfuerzo con el nuestro. A eso se ha dedicado este año el \nGrupo Popular. Nadie entendería que nosotros no nos entendiéramos en el día de hoy. ¿Para qué? Para \ngarantizar la inversión en I+D y para asegurar una carrera profesional digna y estable a todo el personal \nde investigación. (Aplausos).\nEn enero de 2021 este grupo fue el que propuso — se han olvidado ustedes de decirlo— que se creara \nuna subcomisión para escucharles a todos. Gracias a que ustedes apoyaron la propuesta del Grupo \nPopular, más de treinta organizaciones del sector... (Rumores)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Un momento, por favor, señoría.\nCuando quiera."
+  },
+  {
+   "speaker": "NAVARRO LÓPEZ",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Decía que más de treinta organizaciones del sector nos pidieron una \nsola cosa por encima de todas: pónganse ustedes de acuerdo.\nDesde el primer momento, el Grupo Popular, como ya hiciera en 2011 apoyando la vigente ley de \nciencia, tendió su mano al Gobierno. Desde el primer momento mostramos nuestra disponibilidad a pactar \nun texto que avanzara en derechos para el personal de investigación para todo y que alejara la inversión \nen ciencia de los cambios electorales. Es justo reconocer que la ministra Morant recogió ese guante y \nabrió la puerta renunciando al mal texto de su predecesor. Es justo reconocer que hizo suyas algunas de \nlas reivindicaciones del Grupo Popular, aceptando dieciocho enmiendas de sesenta y siete, trece de ellas \ntransaccionadas. Pero creo que también es justo decir, señora ministra, que no se ha atrevido a cruzar esa \npuerta del todo. \nLamentablemente, no esperaron a que la subcomisión acabara y tuvimos que ver cómo aprobaban en \nConsejo de Ministros un texto cerrado mientras, por ejemplo, el doctor Barbacid, máxima referencia \nmundial en investigación contra el cáncer, comparecía en este Congreso de los Diputados. Tal y como el \nGrupo Popular y la CRUE avisaron, en enero se vieron obligados a adelantar una parte de la ley porque \nla reforma laboral podía dejar en la calle a 25 000 investigadores. (Aplausos). La semana pasada \naprobaron en Consejo de Ministros el plan de retorno del talento, obviando lo que estábamos haciendo en \ncve: DSCD-14-PL-196\n \nla ponencia. Aprovecho para agradecer a todos los ponentes, especialmente a los señores Cendón y \nGuaita, la mano tendida que siempre han tenido con el Partido Popular. Todo esto ha sido a pesar del \nGobierno. El Grupo Popular ha mantenido su palabra con la COSCE, con COTEC, con el Foro de Empresas \nInnovadoras, con la Asociación española de personal técnico de gestión y, por supuesto, con la Asociación \nNacional de Investigadores Hospitalarios.\nHoy, en el fondo, votamos dos leyes, la suya y la nuestra. La suya, la del Partido Socialista, llena de \ntitulares y a la que le falta contenido, y la del resto de grupos y, especialmente, evidentemente, la del \nGrupo Popular. Nosotros hemos apostado por los técnicos y el personal de gestión; hemos apostado, \nobviamente, por los investigadores hospitalarios; hemos apostado, obviamente, por una inversión que sea \nmucho más que un pactofoto. Todo esto con hechos gracias a los ochenta y nueve diputados del Grupo \nPopular y gracias, especialmente, a la señora Castillo, al señor Cortés, al señor Pedreño, a la señora \nSantolaya, y gracias, especialmente, a María Jesús Moro y a mis compañeras Marta y Sandra. (Aplausos). \nDigo esto porque acabo de oír que algunos saben más de investigación que nosotros. Entre los nombres \nque les acabo de decir hay tres doctores, un catedrático, dos decanos de colegios profesionales y una \nexresponsable de los servicios jurídicos de la Universidad de Salamanca. Ustedes sabrán más que \nalgunos, pero les aseguro que más que mis compañeros, no. (Aplausos).\nSeñora Morant, su ley negaba la posibilidad de carrera digna y estable al personal hospitalario. \nGracias, Juan Ángel y Francisco; gracias, Antonio. A la Asociación Nacional de Investigadores Hospitalarios, \nque nos acompañan hoy desde la tribuna, gracias por vuestro compromiso, que ha sido el nuestro. \nNosotros presentamos una enmienda, nos comprometimos con vosotros, hemos defendido esa enmienda \ny hemos sido el único grupo que ha apoyado las de todos los grupos. (Aplausos). Gracias a los ochenta \ny nueve diputados del Grupo Popular, hoy hay carrera profesional para los investigadores hospitalarios. \nHemos cumplido porque nadie habría entendido una ley sin vosotros. (La señora presidenta ocupa la \nPresidencia).\nEn segundo lugar, su ley negaba la carrera profesional al personal técnico y de gestión para lo que el \nGrupo Popular presentó una enmienda. No me duelen prendas en decir, señor Errejón, que vamos a \napoyar las suyas — la 109 y la 110—, para que nadie tenga dudas. Hemos escuchado al responsable de \nPodemos y todavía le cuesta entender que el Grupo Popular sí apoya los derechos de los investigadores \nhospitalarios, que el Grupo Popular sí apoya los derechos de todo el personal de investigación; es más, \nseñor Sánchez Serna, gracias a nosotros van a estar recogidos en la ley porque el Grupo Popular consiguió \nque ayer, con su presión, el PSOE retirara los votos particulares. (Aplausos).\nEn tercer lugar, su ley no garantizaba la inversión en ciencia, señora Morant. Una inversión del 1,25 % \ndel PIB según disponibilidad presupuestaria, conociendo a Pedro Sánchez, ya sabemos lo que esto \nsignifica: otra foto sin contenido. El Grupo Popular, con una enmienda apoyada, entre otros, por cierto, por \nsus socios de Podemos — a quienes damos las gracias—, ha quitado lo de la disponibilidad presupuestaria. \nSu pacto no garantiza la inversión en ciencia. La ley, gracias a la enmienda del Partido Popular, sí garantiza \nla inversión en ciencia a partir de ahora. (Aplausos). Hoy podemos decir con orgullo que su ley es mejor \ngracias a nuestra contribución. Hoy los ochenta y nueve diputados del Grupo Popular pueden estar \norgullosos porque, a partir de ahora, se han quedado ustedes sin excusas. Llevan mucho tiempo \ngobernando echándonos la culpa absolutamente de todo, ahora se han quedado sin excusas.\nHace veintiún años un Gobierno del Partido Popular fue quien creó el primer Ministerio de Ciencia. \nHace diez años apoyamos la ley de ciencia y hoy lo vamos a volver a hacer. Claro, no es la mejor ley. \nUstedes se han olvidado de las enmiendas de la CRUE que daban seguridad jurídica al sector y que, \nevidentemente, mantenemos vivas. Se han negado a aceptar las propuestas que reconocían que ustedes \nhan inventado el nuevo concepto de precariedad indefinida. Ayer mismo la universidad tenía que hacer \nindefinidos a 25 000 profesores por tres horas a la semana. Esa es su nueva seguridad laboral. Se han \nolvidado de la colaboración públicoprivada. A pesar de eso, evidentemente, vamos a apoyar una ley que \nprotege a los investigadores hospitalarios, que protege al personal técnico y que garantiza por ley la \ninversión. Tras dos años durísimos para nuestros investigadores, nadie habría entendido que no \nhubiéramos sido capaces de ponernos de acuerdo con financiación garantizada, por eso hoy puedo decir \ncon orgullo que, una vez más, hemos respondido como lo que somos, como una alternativa, haciendo una \nley mejor para un país mejor.\nMuchas gracias. (Aplausos).\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Navarro.\nEn turno de fijación de posiciones, por el Grupo Parlamentario Mixto, tiene la palabra el señor Guitarte \nGimeno."
+  },
+  {
+   "speaker": "GUITARTE GIMENO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Buenos días.\nSeñora presidenta, señora ministra, señorías, como en Teruel Existe hablamos muchas veces sobre \ncohesión territorial y lucha contra la despoblación, con frecuencia nos preguntan qué acciones o políticas \nson determinantes en estos objetivos. Pues bien, la política científica es una de las principales herramientas \npara conseguir la cohesión territorial y para luchar contra la despoblación, aunque pueda no parecerlo. La \nciencia, construida desde la libertad de pensamiento y la independencia de los profesionales, con criterios \ny metodología científica, es una de las bases para la vertebración territorial en España, que debemos \nutilizar también como herramienta para corregir la brecha rural urbana que ahora mismo divide, como un \nabismo, las realidades socioterritoriales del país. Una mirada a la realidad de estos días, con situaciones \nextremas en meteorología o con la propagación de incendios que aparecen en bosques sin mantenimiento, \ncuyo control exige recursos y un esfuerzo enorme, nos deben llevar a la ciencia y no a hacer solo política \nde ciencia o a aprobar una ley para la ciencia, sino que nos debe llevar a construir políticas que, sin negar \nperspectivas e ideologías, estén basadas en la ciencia, a consensuar leyes que tengan como base los \nconocimientos científicos. Una parte de la comunidad científica nos ha dicho — y es cierto— que necesitamos \nciencia aquí en el Parlamento, que necesitamos políticas públicas basadas en evidencias científicas. Esta \nley, que, entre otras cuestiones, debe dar seguridad al personal científico, debe ser un paso en ese sentido. \nLa ciencia está detrás de decisiones mundiales sobre el cambio climático, sobre las vacunas o sobre las \nenergías renovables, que son aplicaciones de la revolución científico-técnica. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, guarden silencio, por favor."
+  },
+  {
+   "speaker": "GUITARTE GIMENO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "Estos días hemos vivido una ola de calor excepcional, seguida de una \nDANA con tornados que han asolado, por ejemplo, Alcañiz. Los incendios han quemado importantes \nsuperficies y espacios en Zamora, en Teruel, en Zaragoza, Málaga, Navarra, Lérida o Valencia. Tenemos un \nproblema muy grave que se extiende por los bosques y campos de la España vaciada. Necesitamos también \nahí ciencia para prevenir y mitigar estos ámbitos. Queremos mostrar aquí nuestra solidaridad con todos los \npueblos de España que han sufrido incendios o inundaciones estos días. Queremos, de verdad, dar las \ngracias a todos los que trabajan en combatirlos. Queremos recordar que lo más importante es la adaptación \ny la prevención. Para ello es fundamental el apoyo de sectores como la ganadería extensiva, la silvicultura, \nla apicultura. Es necesaria una atención específica en el cuidado del medio natural y del bosque durante \ntodo el año. Y queremos denunciar una coincidencia muy grave en estas semanas de incendios y calor \nsofocante: en un año seco y en un mes seco, con restricciones al regadío, en muchas cuencas hidrográficas \nse desembalsa agua de pantanos con saltos no reversibles para producir electricidad en centrales \nhidroeléctricas y venderla a precio de gas. Estamos tolerando un verdadero despilfarro que nos puede llevar \na situaciones muy graves. ¿Se están comprometiendo caudales para consumo humano y usos agrícolas \nque tienen prioridad jurídica frente a las concesiones de las hidroeléctricas? Probablemente sí.\nPor eso decimos que es imprescindible poner ciencia en la gestión pública, hacer política y gestionar \nla Administración desde la ciencia. Esto es especialmente importante, decía, para la lucha contra la \ndespoblación y para la cohesión territorial. Es más, sin la ciencia, sin el compromiso de los equipos \ncientíficos y sin talento volcado en las áreas despobladas y en el medio rural, sin una política científica \nproactiva no lograremos avances en estos objetivos. En este sentido, y a lo largo de la legislatura, hemos \ntrasladado a la Comisión de Ciencia muchas propuestas que trascienden la propia ley de ciencia que \ndebatimos, con el objetivo de llevar la mirada y el poder transformador de la ciencia al problema de la \ndespoblación y de los desequilibrios. Así, han surgido propuestas para fortalecer centros de investigación \nen Teruel y en Aragón; peticiones para abordar nuevos temas que necesitan respuesta científica como, \npor ejemplo, el caso de los purines o impacto medioambiental y las posibilidades de aprovechamiento \nmediante biogás; e, igualmente, sobre cuestiones de sanidad vegetal en agricultura, sobre proyectos de \ninnovación en agroalimentación o el centro nacional de investigación en paleontología de dinosaurios.\nEn primer lugar, los centros de ciencia, en cuanto a centros de generación de conocimiento, son por \nsí mismos herramientas de cohesión territorial y de reducción de desigualdades socioeconómicas en \nzonas con riesgo de despoblación; y, en segundo lugar, si reuniésemos un conjunto de proyectos \nestratégicos de ciencia y tecnología alineados con el objetivo de revertir la despoblación, estamos seguros \ncve: DSCD-14-PL-196\n \nde que en poco tiempo, fomentando la excelencia en el sistema científico y algunas líneas de investigación \nconcretas, podrían tener un alto impacto en la sociedad y en el territorio a través de la innovación y de \nproyectos tractores concretos. La ciencia le daría la vuelta a la situación actual de España. Esta visión y \nel conocimiento de la realidad del sector aeroespacial en Teruel, junto a la existencia del Centro de \nEstudios de Física del Cosmos, de Aragón, y la instalación científico-técnica singular del Observatorio \nAstrofísico de Javalambre, nos impulsaron a proponer Teruel como sede de la Agencia Espacial Española \ndesde el momento en que el ministro Pedro Duque lo anunció informalmente en una reunión con diputados, \nantes incluso del anuncio de Iván Redondo, hasta la moción que debatimos ayer mismo aquí, en el Pleno.\nPoner la mirada y las herramientas de la ciencia al servicio de la cohesión territorial es un reto y una \nresponsabilidad que nos concierne como diputados y que debemos abordar ahora que la Comisión de \nCiencia ha concluido sus trabajos sobre esta ley. En este sentido, en la Comisión de Ciencia el paleontólogo \nLuis Alcalá, director del Parque de las Ciencias de Granada, abogó por utilizar la ciencia como un \ninstrumento para la cohesión territorial, subrayando del mismo modo la necesidad de que haya una mayor \ntransferencia del conocimiento a la sociedad y de mejorar la divulgación. Como, por ejemplo, ha sucedido \nen el caso de Dinópolis, un modelo de divulgación y ocio construido a partir de un recurso endógeno como \nson los fósiles, que se ha convertido en un proyecto de desarrollo. Por eso defendemos, por ejemplo, \nsiguiendo el modelo de Atapuerca y el Centro Nacional de Investigación sobre la Evolución Humana, de \nBurgos, la puesta en marcha de un centro nacional de investigación sobre paleontología y dinosaurios en \nTeruel, un centro que sería un paso más en la evolución de lo que ya se ha conseguido. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Perdone un momento, señor Guitarte. Espere un momento, por favor. (Pausa)."
+  },
+  {
+   "speaker": "GUITARTE GIMENO",
+   "party": "Mixto",
+   "role": "diputado",
+   "topic": "",
+   "text": "La reforma de la ley no encierra el conjunto de la política científica ni \npor supuesto el papel de la ciencia en la política, pero contiene avances en las condiciones de trabajo de \nlos investigadores, en la dignificación de la carrera científica y en la estabilización de la inversión. Hemos \npresentado enmiendas para ampliar los objetivos que la propia ley establece para su contribución a la \ncohesión territorial, y lo hicimos también en el dictamen de la Subcomisión de Ciencia, para que la cohesión \nterritorial sea uno de los criterios que estén presentes en los concursos de concurrencia competitiva.\nPor otro lado, quiero hacer referencia a que necesitamos — como así finalmente va a ser— la \nmodificación del artículo 85 de la ley sobre las actividades investigadoras en los centros del Sistema \nNacional de Salud, tal como se acordó en la Comisión. En la actualidad, la investigación que se realiza en \nlos hospitales españoles no está asociada todavía a una carrera investigadora, llegando al punto de no \nexistir el puesto de investigador en el Sistema Nacional de Salud. Creemos que el país necesita que se \nreconozca al personal investigador en servicios de salud y hospitales. Tenemos muy reciente la importancia \nde esta investigación que surge pegada a la realidad de la atención sanitaria, como ha evidenciado, por \nejemplo, la pandemia, y también conocemos la importancia de esta investigación y la ausencia de \nreconocimiento en las condiciones laborales, e incluso la falta de reconocimiento en los propios sistemas \nde evaluación para el personal sanitario que realiza labores de investigación. Es decir, la ley debe \ngarantizar que el personal investigador docente clínico debe estar vinculado a un centro sanitario y que su \nresponsabilidad clínica y contribución científica deben ser reconocidas con el valor y el peso que les \ncorresponde, como parece que finalmente va a ser. Por ello, apoyaremos la ley.\nMuchas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Guitarte.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Alfonso Cendón."
+  },
+  {
+   "speaker": "ALFONSO CENDÓN",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, señora presidenta.\nSeñorías, hoy es un día histórico para nuestro Sistema Nacional de Ciencia, de Tecnología y de \nInnovación, un día crucial para nuestras científicas, para nuestros investigadores, para la atracción y \nretención del talento, para los organismos públicos de investigación, para las universidades, para los \ncentros tecnológicos, para el tejido empresarial, para la ciudadanía como último receptor del conocimiento, \npero sobre todo es un día decisivo para el futuro de España.\nLouis Pasteur dijo: «La ciencia es el alma de la prosperidad de las naciones y la fuente de vida de todo \nprogreso.» Estamos, pues, ante una de las leyes más importantes para el futuro de nuestro país, aunque \nprobablemente su aprobación no genere grandes titulares; llega sin ruidos, sin estridencias, pero con \nmucho trabajo, fruto del consenso, y con una vocación clara: transformar y mejorar nuestro país. (Aplausos).\ncve: DSCD-14-PL-196\n \nHagamos entre todos y entre todas que la ciencia ocupe el papel principal que se merece. Para el \nGrupo Parlamentario Socialista siempre ha sido un dogma que la ciencia, la tecnología y la innovación \nsean herramientas fundamentales para garantizar nuestro progreso y nuestro desarrollo. Es un mantra \nque forma parte de nuestro ADN, con el que nos identificamos y del que nos enorgullecemos, y no nos \nduelen prendas en trabajar sin descanso tanto por el aumento de los derechos del personal científico e \ninvestigador como por la mejora de nuestro sistema nacional de ciencia y tecnología. Por eso, estamos \nseguros de que hoy con esta ley vamos a dar un impulso que consolide la ciencia y la innovación como \nlas claves de bóveda que garanticen nuestro futuro y nuestra prosperidad. Sin duda, se trata de nuestra \nmejor palanca, nuestro ascensor social y territorial, que nos permite crear y mantener empleo de calidad, \nhacer que nuestras empresas sean más productivas y competitivas y, en definitiva, mejorar nuestra calidad \nde vida, la de todos y la de todas, sin dejar a nadie atrás. (Aplausos).\nHoy aprobamos en el Congreso de los Diputados la modificación de nuestro marco jurídico, que no solo \ncumple con las demandas de la comunidad científica, sino que nos sitúa a la vanguardia de la ciencia y de \nla tecnología de la Unión Europea, defendiendo, como siempre lo hemos hecho los socialistas, los valores \nde la Ilustración, el uso de la razón, de la investigación científica para abordar los problemas y dar respuestas \na las incógnitas de la vida frente al negacionismo y las paraciencias de la extrema derecha. (Aplausos).\nLa ciencia ha demostrado, tras la crisis sanitaria de la COVID-19 y catástrofes naturales como la del \nvolcán de La Palma, ser la única respuesta ante este tipo de desafíos. Dada la trascendencia del momento, \npermítanme recordar las bases de este nuevo marco para la ciencia, la tecnología y la innovación, que \ntuvieron su inspiración, fueron asentadas y consolidadas por gobiernos socialistas, porque todos los \navances en ciencia en este país han tenido la firma de socialistas como Felipe González, como José Luis \nRodríguez Zapatero y como Pedro Sánchez. (Aplausos). Primero con la Ley de 1986, bajo el mando del \nministro Maravall, estableciendo las bases de una España moderna que se incorporaba a la Unión \nEuropea. En 2011, de la mano de la ministra Garmendia, en una situación de crisis económica y de gran \nincertidumbre que requería un renovado marco jurídico. Ahora tenemos la oportunidad de estar a la altura \nde unos nuevos tiempos, replicando en esta Cámara el sentir de la aprobación de leyes precedentes, \nsiguiendo de nuevo un acuerdo que contribuirá a la mejora de nuestro sistema de ciencia, de tecnología \ny de innovación, y que servirá como homenaje comprometido y responsable a las contribuciones futuras \nque nos reporte la ciencia.\nAlfredo Pérez Rubalcaba, que también fue ministro de Educación y Ciencia en los noventa, decía \nen 2017 de la política científica del Gobierno del Partido Popular de Mariano Rajoy: Quizás sea el de la \ninvestigación científica el sector en el que existe una mayor contradicción entre lo que se dice y lo que se \nhace. Hoy tenemos la capacidad de enmendar esa falta de coherencia, dejando definitivamente atrás la \ndécada perdida del Partido Popular que tanto lastró a nuestros científicos, a nuestras científicas, que \ncondenó a muchos al exilio. Sin lugar a dudas, hoy el Partido Socialista y este Gobierno progresista van \na demostrar que lo que dicen lo cumplen. (Aplausos). Y que por fin, después de décadas de evidenciar \nla necesidad de garantizar la financiación estable a nuestro sistema de ciencia, vamos a establecer por \nley que nuestros recursos han de dirigirse hacia políticas de I+D, contribuyendo así con los objetivos \neuropeos y manifestando nuestro profundo convencimiento de que es justo con nuestra sociedad actual, \npero también con nuestra sociedad futura.\nSeñorías, estamos ante una modificación de la ley que recoge el sentir general de esta Cámara, pero \ntambién de la ciudadanía. Quiero agradecer a todos los grupos parlamentarios su disposición y esfuerzo \nen la tramitación de este proyecto de ley; una ley que es de todos y de todas, que recoge el espíritu del \nPacto por la Ciencia, la Tecnología y la innovación, acordado hace apenas unos meses en esta Cámara, \ny que imprime, sin lugar a dudas, amplios y nuevos compromisos con la I+D+i. Por ello quiero agradecer \na la ministra de Ciencia e Innovación, a Diana Morant, su predisposición al diálogo, su inquietud por \nbuscar un consenso político sólido, al incorporar las aportaciones de la comunidad científica y del conjunto \nde la sociedad civil, que se ha acercado para aportar, para hacer una ley de gran calidad e indudable \nconsenso social que perdure en el tiempo, como las anteriores leyes.\nPor último, quiero hacer un reconocimiento a todos los científicos y las científicas, a todos los \ninvestigadores e investigadoras, al personal técnico y de gestión, a las universidades, a los centros \ntecnológicos, a los organismos públicos de investigación y a las empresas que dedican esfuerzo a la \nI+D+i, a hacer que la ciencia prospere en esta tierra, en nuestro país. (Aplausos). Señorías, hoy volvemos \na hacer historia; recuerden: apostando por la ciencia nuestro país avanza y ganamos todos.\nMuchas gracias. (Aplausos).\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Alfonso.\nEn nombre del Gobierno, tiene la palabra la señora ministra de Ciencia e Innovación."
+  },
+  {
+   "speaker": "Morant Ripoll (Ministra De Ciencia E Innovación)",
+   "party": "",
+   "role": "ministro",
+   "topic": "",
+   "text": "Buenos días a todos y a todas. \n(Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, guarden silencio, por favor."
+  },
+  {
+   "speaker": "Morant Ripoll (Ministra De Ciencia E Innovación)",
+   "party": "",
+   "role": "ministro",
+   "topic": "",
+   "text": "Gracias, señora presidenta. \nGracias, señorías.\nNo hace todavía un año asumí el cargo de ministra de Ciencia e Innovación con un mandato claro: \npromover una nueva ley de la ciencia para este país que estuviera a la altura de nuestros científicos y \nnuestras científicas. Hoy comparezco ante ustedes para solicitar su apoyo definitivo a un texto que \nresponde a esta demanda, una ley de la que me siento orgullosa y en la que he trabajado con determinación \ne implicación personal desde mi primer día en el ministerio. Queríamos fomentar de manera decidida \nla I+D+i y su transferencia para generar conocimiento y liderazgo científico, para mejorar las condiciones \nde trabajo del personal de investigación. Así lo prometimos y así lo recogemos en esta ley.\nEl texto que someto a su consideración supone una ley oportuna y consensuada. Es oportuna, porque \nviene a resolver los problemas más acuciantes del sistema español de ciencia, tecnología e innovación; y \nes una ley consensuada, porque ha sido debatida y mejorada por las organizaciones científicas, \nempresariales y sociales más representativas del sistema de ciencia, también por los grupos políticos \nrepresentados aquí, en este Parlamento. Quizá este sea su valor más importante, estamos ante un texto \nque nace del diálogo. Yo misma me he reunido con múltiples colectivos y asociaciones y con muchos y \nmuchas de ustedes; hemos hablado, hemos llamado a todas las puertas posibles, porque teníamos el \nconvencimiento de que una ley como esta debía estar participada, consensuada y trabajada por todos y \npor todas. Esta voluntad se demuestra con los hechos. En el trámite de audiencia pública se recibieron \nmás de seiscientas propuestas — muchas de ellas tenían el mismo sentido—, de las que fueron atendidas \ne incorporadas el 85 %. Quiero destacar como una de las grandes aportaciones de este periodo, la más \nrelevante, el blindaje para que la financiación pública en I+D+i, de conformidad con la normativa europea, \naumente regularmente hasta alcanzar el 1,25 % del PIB en el año 2030.\nDe igual modo, y desde su presentación en el Congreso hace tres meses y medio, se han aceptado, \ntransaccionado e incorporado en el texto más de cien enmiendas. Estas propuestas fueron aportadas y \npactadas por doce grupos políticos: Unidas Podemos-En Comú Podem-Galicia en Común, Esquerra \nRepublicana de Catalunya, Ciudadanos, PDeCAT, Junts, Más País, Bildu, Partido Popular, Partido \nNacionalista Vasco, Teruel Existe, Bloque Nacionalista Galego y Coalición Canaria. Desde mi primer día \nen el ministerio les tendí la mano para realizar esta tarea juntos. Así que, gracias sinceras, señorías, por \nsu trabajo constructivo. (Aplausos). Y gracias infinitas y muy especiales a los diputados del Grupo \nSocialista Sandra Guaita y Javier Cendón por vuestro talante, vuestro diálogo y vuestro fructífero trabajo. \n(Aplausos).\nHoy la política responde a las demandas de la comunidad científica. Esta ley no nos pertenece a \nnosotros, sus principales hacedores son los trabajadores y trabajadoras del sistema de ciencia e \ninnovación. La ley que hoy sometemos a votación tiene grandes avances y fortalezas. Estamos ante un \ntexto que refuerza los aspectos sociales de la política científica, tecnológica y de la innovación con nuevos \navances en igualdad de género y conciliación, protegiendo la diversidad y actuando contra el acoso; una \nley que considera la ciencia como bien común, incluyendo la participación ciudadana y la divulgación \ncomo pilares del sistema, y reforzando las políticas de acceso abierto a todos los resultados de la \ninvestigación financiada con fondos públicos. Es un articulado que blinda la financiación, que ataja la \nprecariedad con un nuevo contrato indefinido, que contempla el derecho a indemnización en los contratos \npre y posdoctorales, que mejora las condiciones laborales y las perspectivas de estabilización de las \ninvestigadoras e investigadores jóvenes, y que reduce las cargas administrativas en la justificación de las \nayudas.\nFinalizo. En 1866, el Premio Nobel José Echegaray pronunció la contundente frase: No hay historia de \nla ciencia en España; aquí no hubo más que látigo, hierro, sangre, rezos, braseros y humo. Echegaray \nhacía referencia a un país que daba la espalda a la Ilustración, a la revolución científica y al progreso. Con \nla ley que hoy sometemos a votación damos impulso a la ciencia y a la innovación en nuestro país, \nconectando nuestro sistema con Europa y con el mundo tras una década de retroceso y de recortes. \ncve: DSCD-14-PL-196\n \nEstamos ante un momento clave. La competencia internacional por el talento científico se ha intensificado \ny no podemos quedarnos inmóviles. La calidad de la ciencia española depende de nuestra capacidad para \natraer y retener a los nuestros, a los mejores, también para proporcionar condiciones profesionales dignas \na nuestros jóvenes investigadores. Tengo la certeza de que estamos ante la mejor ley posible para un \nfuturo realizable.\nMuchas gracias por su atención. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, ministra.\nVotamos en cinco minutos. (Pausa).\n— PROYECTO DE LEY ORGÁNICA POR LA QUE SE ESTABLECEN NORMAS QUE FACILITEN EL \nUSO DE INFORMACIÓN FINANCIERA Y DE OTRO TIPO PARA LA PREVENCIÓN, DETECCIÓN, \nINVESTIGACIÓN O ENJUICIAMIENTO DE INFRACCIONES PENALES, DE MODIFICACIÓN DE LA \nLEY ORGÁNICA 8/1980, DE 22 DE SEPTIEMBRE, DE FINANCIACIÓN DE LAS COMUNIDADES \nAUTÓNOMAS Y OTRAS DISPOSICIONES CONEXAS Y DE MODIFICACIÓN DE LA LEY \nORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADO \nPROYECTO DE LEY ORGÁNICA POR LA QUE SE ESTABLECEN NORMAS QUE FACILITEN EL \nUSO DE INFORMACIÓN FINANCIERA Y DE OTRO TIPO PARA LA PREVENCIÓN, DETECCIÓN, \nINVESTIGACIÓN O ENJUICIAMIENTO DE INFRACCIONES PENALES). (VOTACIÓN). (Número de \nexpediente 121/000099)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, vamos a dar comienzo a las votaciones. Dado el número de \nvotaciones, hemos reducido el tiempo de votación de quince a diez segundos.\nComenzamos con los dictámenes de comisiones sobre iniciativas legislativas. Proyecto de ley orgánica \npor la que se establecen normas que faciliten el uso de información financiera y de otro tipo para la \nprevención, detección, investigación o enjuiciamiento de infracciones penales, de modificación de la Ley \nOrgánica 8/1980, de 22 de septiembre, de financiación de las comunidades autónomas y otras disposiciones \nconexas, y de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Rego Candamil. Votación en bloque \nde las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 15; en contra, 289 más 20 votos telemáticos, 309; abstenciones, 15."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario VOX. Votación en bloque de las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 47 más 1 voto telemático, 48; en contra, 272 más 19 votos telemáticos, 291."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Popular en el Congreso.\nEnmienda 11.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 94 más 4 votos telemáticos, 98; en contra, 175 más 15 votos telemáticos, 190; abstenciones, 49 \nmás 1 votos telemáticos, 50."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de las enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 141 más 5 votos telemáticos, 146; en contra, 175 más 15 votos telemáticos, 190; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\ncve: DSCD-14-PL-196\n \n— PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 14/2011, DE 1 DE JUNIO, DE LA CIENCIA, \nLA TECNOLOGÍA Y LA INNOVACIÓN. (VOTACIÓN). (Número de expediente 121/000092)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Proyecto de ley por la que se modifica la Ley 14/2011, de 1 de junio, de la \nCiencia, la Tecnología y la Innovación.\nEnmiendas presentadas por el Grupo Parlamentario Vasco EAJ-PNV.\nEnmienda 84.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 122 más 5 votos telemáticos, 127; en contra, 187 más 15 votos telemáticos, 202; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 89.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 36 más 1 votos telemáticos, 37; en contra, 279 más 19 votos telemáticos, 298; abstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 91.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 39 más 1 votos telemáticos, 40; en contra, 186 más 15 votos telemáticos, 201; abstenciones, 94 \nmás 4 votos telemáticos, 98."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 95.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 127 más 5 votos telemáticos, 132; en contra, 185 más 15 votos telemáticos, 200; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 96.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 120 más 5 votos telemáticos, 125; en contra, 139 más 14 votos telemáticos, 153; \nabstenciones, 60 más 1 votos telemáticos, 61."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de enmiendas presentadas por el Grupo Parlamentario Vasco EAJ-Grupo Parlamentario Vasco \nEAJ-PNV.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 31 más 1 votos telemáticos, 32; en contra, 271 más 19 votos telemáticos, 290; abstenciones, 17."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Ciudadanos.\nEnmienda 30.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 20; en contra, 166 más 15 votos telemáticos, 181; abstenciones, 133 más 5 votos telemáticos, 138.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 35.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 144 más 5 votos telemáticos, 149; en contra, 172 más 15 votos telemáticos, 187; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Rego Candamil.\nEnmienda 61.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 126 más 5 votos telemáticos, 131; en contra, 145 más 14 votos telemáticos, 159; \nabstenciones, 48 más 1 voto telemático, 49."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 62.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 38; en contra, 223 más 18 votos telemáticos, 241; abstenciones, 57 más 2 votos telemáticos, 59."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 64.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 25; en contra, 149 más 14 votos telemáticos, 163; abstenciones, 145 más 6 votos telemáticos, 151."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 65.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 38 más 1 voto telemático, 39; en contra, 270 más 19 votos telemáticos, 289; abstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 66.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 117 más 5 votos telemáticos, 122; en contra, 199 más 15 votos telemáticos, 214; abstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 67.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 37 más 1 voto telemático, 38; en contra, 278 más 19 votos telemáticos, 297; abstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 68.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 33; en contra, 224 más 18 votos telemáticos, 242; abstenciones, 62 más 2 votos telemáticos, 64.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 70 y 78.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 40; en contra, 193 más 16 votos telemáticos, 209; abstenciones, 86 más 4 votos telemáticos, 90."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas 71 y 77.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 29; en contra, 286 más 20 votos telemáticos, 306; abstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 72.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 38 más 1 voto telemático, 39; en contra, 225 más 18 votos telemáticos, 243; abstenciones, 56 \nmás 1 voto telemático, 57."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 74.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 126 más 4 votos telemáticos, 130; en contra, 144 más 15 votos telemáticos, 159; \nabstenciones, 49 más 1 voto telemático, 50."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 76.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 121 más 4 votos telemáticos, 125; en contra, 188 más 15 votos telemáticos, 203; \nabstenciones, 10 más 1 voto telemático, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 80 y 383.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 29; en contra, 279 más 20 votos telemáticos, 299; abstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nResto de las enmiendas presentadas por el Grupo Parlamentario Plural, señor Rego Candamil.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 29; en contra, 283 más 20 votos telemáticos, 303; abstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Errejón Galván.\nEnmienda 99.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 29; en contra, 279 más 19 votos telemáticos, 298; abstenciones, 11 más 1 voto telemático, 12.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 101.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 86 más 1 voto telemático, 87; en contra, 232 más 19 votos telemáticos, 251; abstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 102.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 76 más 1 voto telemático, 77; en contra, 232 más 19 votos telemáticos, 251; abstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 106 y 112.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 41; en contra, 225 más 18 votos telemáticos, 243; abstenciones, 53 más 2 votos telemáticos, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 107.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 33; en contra, 194 más 16 votos telemáticos, 210; abstenciones, 92 más 4 votos telemáticos, 96."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 109 y 124.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 170 más 5 votos telemáticos, 175; en contra, 140 más 14 votos telemáticos, 145; \nabstenciones, 9 más 1 voto telemático, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan aprobadas.\nEnmienda 110.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 124 más 4 votos telemáticos, 128; en contra, 142 más 14 votos telemáticos, 156; \nabstenciones, 53 más 2 votos telemáticos, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 111.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 72 más 1 voto telemático, 73; en contra, 143 más 14 votos telemáticos, 157; abstenciones, 104 \nmás 5 votos telemáticos, 109."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 118.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 29; en contra, 234 más 18 votos telemáticos, 252; abstenciones, 56 más 2 votos telemáticos, 58.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 122.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 41; en contra, 144 más 15 votos telemáticos, 159; abstenciones, 134 más 5 votos telemáticos, 139."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 125.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 28; en contra, 276 más 20 votos telemáticos, 296; abstenciones, 15."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 127.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 29; en contra, 229 más 19 votos telemáticos, 248; abstenciones, 61 más 1 voto telemático, 62."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 128.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 36; en contra, 229 más 19 votos telemáticos, 248; abstenciones, 54 más 1 voto telemático, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 129.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 126 más 5 votos telemáticos, 131; en contra, 142 más 14 votos telemáticos, 156; \nabstenciones, 51 más 1 voto telemático, 52."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 130.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 35; en contra, 196 más 16 votos telemáticos, 212; abstenciones, 87 más 4 votos telemáticos, 91."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de las enmiendas presentadas por el Grupo Parlamentario Plural, señor Errejón Galván.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 36; en contra, 139 más 14 votos telemáticos, 153; abstenciones, 143 más 6 votos telemáticos, 149."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Bel Accensi.\nEnmienda 234.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 27; en contra, 279 más 19 votos telemáticos, 298; abstenciones, 13 más 1 voto telemático, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 235.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-196\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 37; en contra, 226 más 18 votos telemáticos, 244; abstenciones, 56 más 2 votos telemáticos, 58."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 238.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 98 más 5 votos telemáticos, 103; en contra, 207 más 15 votos telemáticos, 222; abstenciones, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 241.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 92 más 4 votos telemáticos, 96; en contra, 212 más 15 votos telemáticos, 227; abstenciones, 15 \nmás 1 voto telemático, 16."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada la enmienda.\nEnmienda 245.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 19; en contra, 285 más 19 votos telemáticos, 304; abstenciones, 15 más 1 voto telemático, 16."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 252.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 144 más 5 votos telemáticos, 149; en contra, 157 más 14 votos telemáticos, 171; \nabstenciones, 18 más 1 voto telemático, 19."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 253.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 68 más 1 voto telemático, 69; en contra, 165 más 14 votos telemáticos, 179; abstenciones, \n86 más 5 votos telemáticos, 91."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de las enmiendas presentadas por el Grupo Parlamentario Plural, señor Bel Accensi.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 107 más 5 votos telemáticos, 112; en contra, 205 más 15 votos telemáticos, 220; abstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señora Illamola Dausà.\nEnmienda 133.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 122 más 5 votos telemáticos, 127; en contra, 195 más 15 votos telemáticos, 210; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 134 y 164.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-196\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 29; en contra, 186 más 15 votos telemáticos, 201; abstenciones, 104 más 5 votos telemáticos, 109."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas 137, 145 y 146.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 35 más 1 votos telemáticos, 36; en contra, 279 más 19 votos telemáticos, 298; abstenciones, 5."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 138.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 36; en contra, 270 más 19 votos telemáticos, 289; abstenciones, 12 más 1 voto telemático, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 140.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 32 más 1 votos telemáticos, 33; en contra, 193 más 15 votos telemáticos, 208; abstenciones, 94 \nmás 4 votos telemáticos, 98."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 144.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 42 más 1 votos telemáticos, 43; en contra, 140 más 14 votos telemáticos, 154; abstenciones, 137 \nmás 5 votos telemáticos, 142."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 155 y 169.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 19; en contra, 149 más 14 votos telemáticos, 163; abstenciones, 151 más 6 votos telemáticos, 157."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 163.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 110 más 4 votos telemáticos, 114; en contra, 187 más 15 votos telemáticos, 202; abstenciones, 22 \nmás 1 voto telemático, 23."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de las enmiendas presentadas por el Grupo Parlamentario Plural, señora Illamola Dausà.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 26; en contra, 270 más 19 votos telemáticos, 289; abstenciones, 23 más 1 voto telemático, 24."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda presentada por el Grupo Parlamentario Republicano.\nEnmienda 231.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-196\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 89 más 2 votos telemáticos, 91; en contra, 144 más 14 votos telemáticos, 158; abstenciones, 86 \nmás 4 votos telemáticos, 90."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda presentada por el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-\nGalicia en Común.\nEnmienda 59.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 178 más 14 votos telemáticos, 192; en contra, 136 más 5 votos telemáticos, 141; \nabstenciones, 5 más 1 voto telemático, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda aprobada.\nEnmiendas presentadas por el Grupo Parlamentario VOX.\nEnmiendas 345, 357, 370, 371 y 375.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 133 más 5 votos telemáticos, 138; en contra, 185 más 15 votos telemáticos, 200; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas 346, 349, 350, 352, 353, 363, 364, 366 y 377.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 50 más 1 voto telemático, 51; en contra, 268 más 19 votos telemáticos, 287; abstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas 348, 365, 368 y 373.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 56 más 1 voto telemático, 57; en contra, 179 más 15 votos telemáticos, 194; abstenciones, 84 \nmás 4 votos telemáticos, 88."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 355.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 48 más 1 voto telemático, 49; en contra, 263 más 19 votos telemáticos, 282; abstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 356.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 132 más 5 votos telemáticos, 137; en contra, 178 más 15 votos telemáticos, 193; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 360, 376, 378 y 379.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 140 más 5 votos telemáticos, 145; en contra, 178 más 15 votos telemáticos, 193; \nabstenciones, 1.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 361.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 143 más 6 votos telemáticos, 149; en contra, 174 más 14 votos telemáticos 188; abstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 362.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 56 más 1 voto telemático, 57; en contra, 258 más 18 votos telemáticos, 276; abstenciones, 5 \nmás 1 voto telemático, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 367.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 56 más 1 voto telemático, 57; en contra, 263 más 19 votos telemáticos, 282."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 380.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 143 más 5 votos telemáticos 148; en contra, 171 más 14 votos telemáticos, 185; abstenciones, 5 \nmás 1 voto telemático, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 381.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 48 más 1 voto telemático, 49; en contra, 181 más 14 votos telemáticos, 195; abstenciones, 90 \nmás 5 votos telemáticos, 95."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 382.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 56 más 1 voto telemático, 57; en contra, 174 más 14 votos telemáticos, 188; abstenciones, 89 \nmás 5 votos telemáticos, 94."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de las enmiendas presentadas por el Grupo Parlamentario VOX.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 48 más 1 voto telemático, 49; en contra, 187 más 15 votos telemáticos, 202; abstenciones, 84 \nmás 4 votos telemáticos, 88."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Popular en el Congreso.\nEnmiendas 273, 275 y 326.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-196\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 85 más 4 votos telemáticos, 89; en contra, 232 más 16 votos telemáticos, 248; abstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 278.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 97 más 4 votos telemáticos, 101; en contra, 211 más 15 votos telemáticos, 226; abstenciones, 11 \nmás 1 voto telemático, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 279, 280, 304 y 318.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 98 más 5 votos telemáticos, 103; en contra, 171 más 14 votos telemáticos, 185; abstenciones, 50 \nmás 1 voto telemático, 51."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 281.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 134 más 5 votos telemáticos, 139; en contra, 168 más 14 votos telemáticos, 182; \nabstenciones, 17 más 1 voto telemático, 18."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 282, 286, 292, 295, 317 y 328.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 146 más 6 votos telemáticos, 152; en contra, 171 más 14 votos telemáticos, 185; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 287.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 100 más 5 votos telemáticos, 105; en contra, 208 más 15 votos telemáticos, 223; \nabstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 289, 309, 314, 319 y 334.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 97 más 4 votos telemáticos, 101; en contra, 167 más 14 votos telemáticos, 181; abstenciones, 55 \nmás 2 votos telemáticos, 57."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazas.\nEnmienda 290.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318 más 20 votos telemáticos, 338; \na favor, 110 más 4 votos telemáticos, 114; en contra, 150 más 14 votos telemáticos, 164; abstenciones, 58 \nmás 2 votos telemáticos, 60.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 293.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 144 más 5 votos, 149; en contra, 172 más 15 votos telemáticos, 187; abstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 297 y 301.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 141 más 5 votos telemáticos, 146; en contra, 169 más 14 votos telemáticos, 183; \nabstenciones, 10 más 1 voto telemático, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 302.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 90 más 4 votos telemáticos, 94; en contra, 171 más 14 votos telemáticos, 185; abstenciones, 59 \nmás 2 votos telemáticos, 61."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 305.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 154 más 6 votos telemáticos, 160; en contra, 165 más 14 votos telemáticos, 179; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 307.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 108 más 5 votos telemáticos, 113; en contra, 211 más 15 votos telemáticos, 226; abstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 308 y 316.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 84 más 4 votos telemáticos, 88; en contra, 221 más 16 votos, 237; abstenciones, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazas.\nEnmienda 320.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 98 más 4 votos telemáticos, 102; en contra, 219 más 16 votos telemáticos, 235; abstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmiendas 324, 325 y 338.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 20 votos telemáticos, 339; \na favor, 93 más 4 votos telemáticos, 97; en contra, 176 más 15 votos telemáticos, 191; abstenciones, 50 \nmás 1 voto telemático, 51.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nEnmienda 330.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 139 más 6 votos telemáticos, 145; en contra, 165 más 14 votos telemáticos, 179; \nabstenciones, 16."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 335.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 103 más 4 votos telemáticos, 107; en contra, 154 más 14 votos telemáticos, 168; \nabstenciones, 63 más 2 votos telemáticos, 65."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nEnmienda 337.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 90 más 4 votos telemáticos, 94; en contra, 168 más 14 votos telemáticos, 182; abstenciones, 62 \nmás 2 votos telemáticos, 64."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Queda rechazada.\nResto de las enmiendas presentadas por el Grupo Parlamentario Popular en el Congreso.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 133 más 5 votos telemáticos, 138; en contra, 173 más 14 votos telemáticos, 187; \nabstenciones, 14 más 1 voto telemático, 15."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Quedan rechazadas.\nSeñorías, les informo de que desde ahora y por un tiempo de 45 minutos, es decir, hasta las 13 horas \nde hoy, se podrán votar telemáticamente el resto de asuntos del orden del día que serán objeto de votación \npresencial en el hemiciclo al final de la sesión. Por lo tanto, suspenderemos la sesión durante una hora. \nLa votación presencial de estos puntos se producirá una vez reanudada la misma.\nSe suspende la sesión hasta las 13 horas y 15 minutos.\nMuchas gracias.\nEran las doce y quince minutos del mediodía.\nSe reanuda la sesión a la una y quince minutos de la tarde."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, se reanuda la sesión.\nTOMA EN CONSIDERACIÓN DE PROPOSICIÓN DE REFORMA DEL REGLAMENTO DEL CONGRESO \nDE LOS DIPUTADOS. (VOTACIÓN):\n— DE LOS GRUPOS PARLAMENTARIOS REPUBLICANO, PLURAL Y VASCO (EAJ-PNV), DE \nREFORMA DEL REGLAMENTO DEL CONGRESO DE LOS DIPUTADOS SOBRE EL USO DE LAS \nLENGUAS OFICIALES Y RECONOCIDAS ESTATUTARIAMENTE EN SUS COMUNIDADES \nAUTÓNOMAS EN EL CONGRESO DE LOS DIPUTADOS. (Número de expediente 410/000021)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Pasamos a votar los puntos restantes del orden del día.\nComenzamos con la toma en consideración de proposiciones de reforma del Reglamento del Congreso \nde los Diputados. Proposición de los Grupos Parlamentarios Republicano, Plural y Vasco (EAJ-PNV), de \nreforma del Reglamento del Congreso de los Diputados sobre el uso de las lenguas oficiales y reconocidas \nestatutariamente en sus comunidades autónomas en el Congreso de los Diputados.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-196\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 65 más 6 votos telemáticos, 71; en contra, 253 más 15 votos telemáticos, 268; abstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, no se toma en consideración la proposición de reforma \ndel Reglamento.\nTOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO CONFEDERAL DE UNIDAS PODEMOS-EN COMÚ PODEM-\nGALICIA EN COMÚN, DE MODIFICACIÓN DE LA LEY 22/1973, DE 21 DE JULIO, DE MINAS. \n(Número de expediente 122/000216)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Toma en consideración de proposiciones de ley. Proposición de ley del \nGrupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, de modificación \nde la Ley 22/1973, de 21 de julio, de Minas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 31 más 5 votos telemáticos, 36; en contra, 267 más 16 votos telemáticos, 283; abstenciones, 22."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "En consecuencia, no se toma en consideración la proposición de ley.\nPROPOSICIONES NO DE LEY. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE LA DEFENSA Y PROMOCIÓN DE LA \nESCUELA PÚBLICA. (Número de expediente 162/000571)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "la defensa y promoción de la escuela pública",
+   "text": "Proposiciones no de ley. Proposición no de ley del Grupo Parlamentario \nSocialista, sobre la defensa y promoción de la escuela pública. Se vota en los términos resultantes de la \nincorporación de la enmienda presentada por el Grupo Parlamentario Confederal de Unidas Podemos-En \nComú Podem-Galicia en Común.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos, 341; a favor, 148 \nmás 14 votos telemáticos, 162; en contra, 135 más 6 votos telemáticos, 141; abstenciones, 37 más 1 voto \ntelemático, 38."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobada la proposición no de ley.\n— DEL GRUPO PARLAMENTARIO VOX, RELATIVA A LA ADOPCIÓN DE CONTRAMEDIDAS DE \nCARÁCTER URGENTE CON EL OBJETO DE FRENAR LA OLEADA MASIVA DE INMIGRACIÓN \nIRREGULAR HACIA NUESTRAS COSTAS. (Número de expediente 162/000462)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición no de ley del Grupo Parlamentario VOX, relativa a la adopción \nde contramedidas de carácter urgente con el objeto de frenar la oleada masiva de inmigración irregular \nhacia nuestras costas. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319 más 21 votos telemáticos, 340; \na favor, 49 más 2 votos telemáticos, 51; en contra, 270 más 19 votos telemáticos, 289."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazada la proposición no de ley.\nMOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN):\n— DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, PARA QUE LA MINISTRA DE \nHACIENDA Y FUNCIÓN PÚBLICA EXPLIQUE LAS MEDIDAS DESTINADAS A EVITAR QUE \nPERDAMOS 5000 MILLONES DE EUROS DE LOS FONDOS DE COHESIÓN POR LA INACCIÓN \nDEL GOBIERNO. (Número de expediente 173/000156)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Mociones consecuencia de interpelaciones urgentes. Moción consecuencia \nde interpelación urgente del Grupo Parlamentario Popular en el Congreso, para que la ministra de \ncve: DSCD-14-PL-196\n \nHacienda y Función Pública explique las medidas destinadas a evitar que perdamos 5000 millones de \neuros de los fondos de cohesión por la inacción del Gobierno. Se vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 141 más 6 votos telemáticos, 147; en contra, 163 más 15 votos telemáticos, 178; \nabstenciones, 16."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "En consecuencia, queda rechazada la moción.\n— DEL GRUPO PARLAMENTARIO MIXTO (SEÑOR GUITARTE GIMENO), SOBRE LA NECESARIA \nTOMA EN CONSIDERACIÓN POR PARTE DEL GOBIERNO DE LA CANDIDATURA DE LA CIUDAD \nDE TERUEL PARA ALBERGAR LA SEDE DE LA AGENCIA ESPACIAL ESPAÑOLA, EN ATENCIÓN \nA LAS POTENCIALIDADES QUE REÚNE LA CIUDAD PARA LA UBICACIÓN DE ESTA ENTIDAD \nPÚBLICA Y EN COHERENCIA CON LOS COMPROMISOS DEL GOBIERNO PARA AVANZAR EN \nLA COHESIÓN TERRITORIAL. (Número de expediente 173/000157)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario \nMixto, señor Guitarte Gimeno, sobre la necesaria toma en consideración por parte del Gobierno de la \ncandidatura de la ciudad de Teruel para albergar la sede de la Agencia Espacial Española, en atención a \nlas potencialidades que reúne la ciudad para la ubicación de esta entidad pública y en coherencia con los \ncompromisos del Gobierno para avanzar en la cohesión territorial. Se vota en los términos de la enmienda \ntransaccional presentada por el Grupo Parlamentario Socialista y el Grupo Parlamentario Mixto, señor \nGuitarte Gimeno.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 20 votos telemáticos, 340; \na favor, 157 más 14 votos telemáticos, 171; en contra, 3; abstenciones, 160 más 6 votos telemáticos, 166."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Mociones",
+   "text": "En consecuencia, queda aprobada la moción.\n— DEL GRUPO PARLAMENTARIO EUSKAL HERRIA BILDU, RELATIVA AL IMPACTO QUE TENDRÁ \nEN LAS HIPOTECAS LA SUBIDA DEL EURÍBOR, EN UN CONTEXTO DE CRISIS E INFLACIÓN, Y \nLAS MEDIDAS PARA PALIARLO. (Número de expediente 173/000158)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario \nEuskal Herria Bildu relativa al impacto que tendrá en las hipotecas la subida del euríbor, en un contexto \nde crisis e inflación, y las medidas para paliarlo. Votación separada por puntos.\nPunto 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 65 más 6 votos telemáticos, 71; en contra, 246 más 15 votos telemáticos, 261; abstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto número 1.\nPunto número 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 66 más 6 votos telemáticos, 72; en contra, 254 más 15 votos telemáticos, 269."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 2.\nPunto 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 56 más 5 votos telemáticos, 61; en contra, 251 más 16 votos telemáticos, 267; abstenciones, 13.\ncve: DSCD-14-PL-196"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 3.\nPunto 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 61 más 5 votos telemáticos, 66; en contra, 245 más 15 votos telemáticos, 260; abstenciones, 14 \nmás 1 voto telemático, 15."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 4.\nPunto 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 56 más 5 votos telemáticos, 61; en contra, 253 más 15 votos telemáticos, 268; abstenciones, 11 \nmás 1 voto telemático, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 5.\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN):\n— PROYECTO DE LEY ORGÁNICA POR LA QUE SE ESTABLECEN NORMAS QUE FACILITEN EL \nUSO DE INFORMACIÓN FINANCIERA Y DE OTRO TIPO PARA LA PREVENCIÓN, DETECCIÓN, \nINVESTIGACIÓN O ENJUICIAMIENTO DE INFRACCIONES PENALES, DE MODIFICACIÓN DE \nLA LEY ORGÁNICA 8/1980, DE 22 DE SEPTIEMBRE, DE FINANCIACIÓN DE LAS COMUNIDADES \nAUTÓNOMAS Y OTRAS DISPOSICIONES CONEXAS Y DE MODIFICACIÓN DE LA LEY \nORGÁNICA 10/1995, DE 23 DE NOVIEMBRE, DEL CÓDIGO PENAL (ANTES DENOMINADO \nPROYECTO DE LEY ORGÁNICA POR LA QUE SE ESTABLECEN NORMAS QUE FACILITEN EL \nUSO DE INFORMACIÓN FINANCIERA Y DE OTRO TIPO PARA LA PREVENCIÓN, DETECCIÓN, \nINVESTIGACIÓN O ENJUICIAMIENTO DE INFRACCIONES PENALES). (Número de \nexpediente 121/000099)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Dictámenes de Comisiones sobre iniciativas legislativas. Proyecto de ley \norgánica por la que se establecen normas que faciliten el uso de información financiera y de otro tipo para \nla prevención, detección, investigación o enjuiciamiento de infracciones penales, de modificación de la \nLey Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas y otras \ndisposiciones conexas y de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código \nPenal.\nVotación del dictamen.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 174 más 15 votos telemáticos, 189; en contra, 2; abstenciones, 144 más 6 votos telemáticos, 150."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Queda aprobado el dictamen.\nVOTACIÓN DE CONJUNTO."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "A continuación, se procede a la votación de conjunto por tener la iniciativa \ncarácter orgánico.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 175 más 15 votos telemáticos, 190; en contra, 1; abstenciones, 144 más 6 votos telemáticos, 150."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el proyecto de ley orgánica.\ncve: DSCD-14-PL-196\n \n— PROYECTO DE LEY POR LA QUE SE MODIFICA LA LEY 14/2011, DE 1 DE JUNIO, DE LA CIENCIA, \nLA TECNOLOGÍA Y LA INNOVACIÓN. (Número de expediente 121/000092)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Votación del dictamen del proyecto de ley por la que se modifica la \nLey 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, con la incorporación de las \ncorrecciones técnicas distribuidas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320 más 21 votos telemáticos, 341; \na favor, 261 más 18 votos telemáticos, 279; abstenciones, 59 más 3 votos telemáticos, 62."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el dictamen. (Aplausos).\nMuy buenas tardes a todos. Se levanta la sesión.\nEra la una y treinta minutos de la tarde.\ncve: DSCD-14-PL-196\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}

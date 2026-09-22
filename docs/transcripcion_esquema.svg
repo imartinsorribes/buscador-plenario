@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 700" font-family="Arial, sans-serif">
+  <rect width="1680" height="700" fill="#ffffff"/>
+
+  <!-- ============ CADENA ============ -->
+  <g>
+    <rect x="40" y="80" width="230" height="80" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="155" y="114" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Audio del pleno</text>
+    <text x="155" y="138" text-anchor="middle" font-size="11.5" fill="#6b665e">yt-dlp · wav 16 kHz</text>
+
+    <rect x="320" y="80" width="230" height="80" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="435" y="114" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Detección de voz</text>
+    <text x="435" y="138" text-anchor="middle" font-size="11.5" fill="#6b665e">VAD · fuera silencios</text>
+
+    <rect x="600" y="80" width="290" height="80" fill="#eaf3f3" stroke="#1d6b6b" stroke-width="1.6" rx="8"/>
+    <text x="745" y="108" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6b6b">Whisper turbo · int8 · GPU</text>
+    <text x="745" y="130" text-anchor="middle" font-size="11.5" fill="#4d7a7a">idioma auto por fragmento</text>
+    <text x="745" y="148" text-anchor="middle" font-size="11.5" fill="#4d7a7a">valencià / castellano</text>
+
+    <rect x="940" y="80" width="250" height="80" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/>
+    <text x="1065" y="114" text-anchor="middle" font-size="15" font-weight="bold" fill="#8b2440">Corrección léxica</text>
+    <text x="1065" y="138" text-anchor="middle" font-size="11.5" fill="#6b665e">términos del municipio</text>
+
+    <rect x="1240" y="80" width="400" height="80" fill="#fdf0dc" stroke="#e2b25e" rx="8"/>
+    <text x="1440" y="114" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6b1a">Transcripción anclada al tiempo</text>
+    <text x="1440" y="138" text-anchor="middle" font-size="11.5" fill="#9a7c4a">cada frase, con su segundo y su hablante pendiente</text>
+
+    <line x1="270" y1="120" x2="312" y2="120" stroke="#8b2440" stroke-width="2"/><polygon points="318,120 308,115 308,125" fill="#8b2440"/>
+    <line x1="550" y1="120" x2="592" y2="120" stroke="#8b2440" stroke-width="2"/><polygon points="598,120 588,115 588,125" fill="#8b2440"/>
+    <line x1="890" y1="120" x2="932" y2="120" stroke="#8b2440" stroke-width="2"/><polygon points="938,120 928,115 928,125" fill="#8b2440"/>
+    <line x1="1190" y1="120" x2="1232" y2="120" stroke="#8b2440" stroke-width="2"/><polygon points="1238,120 1228,115 1228,125" fill="#8b2440"/>
+  </g>
+
+  <!-- glosario alimenta a lexfix (verde, entra desde abajo) -->
+  <rect x="940" y="230" width="250" height="60" fill="#e9f4ee" stroke="#bcd8c8" rx="8"/>
+  <text x="1065" y="256" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1d6b4f">Glosario del municipio</text>
+  <text x="1065" y="276" text-anchor="middle" font-size="11" fill="#4d7a66">se crea en el alta de la entidad</text>
+  <line x1="1065" y1="230" x2="1065" y2="168" stroke="#1d6b4f" stroke-width="2"/><polygon points="1065,162 1060,172 1070,172" fill="#1d6b4f"/>
+
+  <!-- ============ A QUÉ ALIMENTA (el abanico) ============ -->
+  <text x="40" y="335" font-size="13" font-weight="bold" fill="#1d6b6b">La misma transcripción alimenta todo lo demás</text>
+
+  <g>
+    <rect x="40" y="400" width="380" height="90" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="230" y="434" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">Separación de voces</text>
+    <text x="230" y="458" text-anchor="middle" font-size="11.5" fill="#4d7a7a">los tiempos alinean diarización y huellas</text>
+    <text x="230" y="476" text-anchor="middle" font-size="11.5" fill="#4d7a7a">→ acta con quién dijo qué</text>
+
+    <rect x="450" y="400" width="380" height="90" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="640" y="434" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">Búsqueda</text>
+    <text x="640" y="458" text-anchor="middle" font-size="11.5" fill="#4d7a7a">cada fragmento indexado conserva su segundo</text>
+    <text x="640" y="476" text-anchor="middle" font-size="11.5" fill="#4d7a7a">→ el resultado salta al minuto del vídeo</text>
+
+    <rect x="860" y="400" width="380" height="90" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="1050" y="434" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">Alertas a vecinos</text>
+    <text x="1050" y="458" text-anchor="middle" font-size="11.5" fill="#4d7a7a">el tema detectado sabe dónde empieza</text>
+    <text x="1050" y="476" text-anchor="middle" font-size="11.5" fill="#4d7a7a">→ el correo enlaza ese momento</text>
+
+    <rect x="1270" y="400" width="370" height="90" fill="#eaf3f3" stroke="#bcd6d6" rx="8"/>
+    <text x="1455" y="434" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">Votaciones por visión</text>
+    <text x="1455" y="458" text-anchor="middle" font-size="11.5" fill="#4d7a7a">las palabras de votación marcan la ventana</text>
+    <text x="1455" y="476" text-anchor="middle" font-size="11.5" fill="#4d7a7a">→ dónde mirar las manos en el vídeo</text>
+  </g>
+
+  <!-- abanico en bus: bajada de la caja naranja, línea horizontal y caída a cada caja -->
+  <path d="M1440,160 L1440,352 L230,352 L230,392" fill="none" stroke="#b07818" stroke-width="2"/>
+  <polygon points="230,398 225,388 235,388" fill="#b07818"/>
+  <line x1="640" y1="352" x2="640" y2="392" stroke="#b07818" stroke-width="2"/>
+  <polygon points="640,398 635,388 645,388" fill="#b07818"/>
+  <line x1="1050" y1="352" x2="1050" y2="392" stroke="#b07818" stroke-width="2"/>
+  <polygon points="1050,398 1045,388 1055,388" fill="#b07818"/>
+  <line x1="1455" y1="352" x2="1455" y2="392" stroke="#b07818" stroke-width="2"/>
+  <polygon points="1455,398 1450,388 1460,388" fill="#b07818"/>
+
+  <!-- pie mínimo -->
+  <text x="840" y="580" text-anchor="middle" font-size="13.5" fill="#454139">Un solo paso costoso, cuatro usos: el tiempo es el hilo que conecta la transcripción con el resto del sistema.</text>
+</svg>

@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 1010" font-family="Arial, sans-serif">
+  <rect width="1680" height="1010" fill="#ffffff"/>
+
+  <!-- ============ FILA 1: LOS CANDIDATOS (métricas medidas del bake-off) ============ -->
+  <text x="30" y="34" font-size="13" font-weight="bold" fill="#1d6b6b">Los candidatos (métricas medidas en el bake-off de 9 modelos)</text>
+
+  <rect x="24" y="46" width="260" height="124" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/><text x="154" y="72" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#8b2440">qwen2.5:3b</text><text x="154" y="94" text-anchor="middle" font-size="11" fill="#6b665e">local · 4 GB · 0 €</text><text x="154" y="113" text-anchor="middle" font-size="11" fill="#6b665e">calidad media · muy rápido</text><text x="154" y="132" text-anchor="middle" font-size="11" fill="#6b665e">respaldo si cae el túnel</text><rect x="296" y="46" width="260" height="124" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/><text x="426" y="72" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#8b2440">phi4-mini</text><text x="426" y="94" text-anchor="middle" font-size="11" fill="#6b665e">local · 4 GB · 0 €</text><text x="426" y="113" text-anchor="middle" font-size="11" fill="#6b665e">mejor extractor local pequeño</text><text x="426" y="132" text-anchor="middle" font-size="11" fill="#6b665e">algo más lento que qwen 3b</text><rect x="568" y="46" width="260" height="124" fill="#eaf3f3" stroke="#1d6b6b" stroke-width="1.6" rx="8"/><text x="698" y="72" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">qwen2.5:7b</text><text x="698" y="94" text-anchor="middle" font-size="11" fill="#4d7a7a">GPU 8 GB · 0 €</text><text x="698" y="113" text-anchor="middle" font-size="11" fill="#4d7a7a">batería: 16/16 · 15/15 (= 14b)</text><text x="698" y="132" text-anchor="middle" font-size="11" fill="#4d7a7a">~3 s/respuesta · 2,4× más rápido</text><rect x="840" y="46" width="260" height="124" fill="#eaf3f3" stroke="#1d6b6b" stroke-width="1.6" rx="8"/><text x="970" y="72" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">qwen2.5:14b</text><text x="970" y="94" text-anchor="middle" font-size="11" fill="#4d7a7a">GPU 16 GB · 0 €</text><text x="970" y="113" text-anchor="middle" font-size="11" fill="#4d7a7a">calidad comercial: 8/8 extracción</text><text x="970" y="132" text-anchor="middle" font-size="11" fill="#4d7a7a">~8 s/respuesta · el de TRABAJO</text><rect x="1112" y="46" width="260" height="124" fill="#f5f0f1" stroke="#d9ccd2" rx="8"/><text x="1242" y="72" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#8b2440">mistral-small:24b</text><text x="1242" y="94" text-anchor="middle" font-size="11" fill="#6b665e">GPU 16 GB (casi toda) · 0 €</text><text x="1242" y="113" text-anchor="middle" font-size="11" fill="#6b665e">no supera al 14b</text><text x="1242" y="132" text-anchor="middle" font-size="11" fill="#6b665e">2× más lento</text><rect x="1384" y="46" width="260" height="124" fill="#eaf3f3" stroke="#1d6b6b" stroke-width="1.6" rx="8"/><text x="1514" y="72" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#1d6b6b">gemini-3.5-flash</text><text x="1514" y="94" text-anchor="middle" font-size="11" fill="#4d7a7a">nube · céntimos por imagen</text><text x="1514" y="113" text-anchor="middle" font-size="11" fill="#4d7a7a">el único con VISIÓN</text><text x="1514" y="132" text-anchor="middle" font-size="11" fill="#4d7a7a">caché por hash: 1 pago/imagen</text>
+  <!-- ============ FILA 2: LA CAPA BORROSA ============ -->
+  <text x="30" y="222" font-size="13" font-weight="bold" fill="#8b2440">La última capa · selector borroso: ¿qué modelo conviene a ESTE ayuntamiento?</text>
+  <rect x="30" y="234" width="1620" height="210" fill="#faf8f4" stroke="#d9ccd2" rx="8"/>
+
+  <!-- entradas -->
+  <text x="70" y="268" font-size="13" font-weight="bold" fill="#454139">Entradas del municipio</text>
+  <text x="70" y="292" font-size="12" fill="#6b665e">· VRAM disponible (GB)</text>
+  <text x="70" y="312" font-size="12" fill="#6b665e">· presupuesto (€/mes)</text>
+  <text x="70" y="332" font-size="12" fill="#6b665e">· sensibilidad de los datos</text>
+  <text x="70" y="352" font-size="12" fill="#6b665e">· exigencia de calidad</text>
+  <text x="70" y="372" font-size="12" fill="#6b665e">· urgencia (latencia)</text>
+
+  <line x1="330" y1="330" x2="380" y2="330" stroke="#8b2440" stroke-width="2"/><polygon points="386,330 376,325 376,335" fill="#8b2440"/>
+
+  <!-- fuzzificación: triángulos de pertenencia -->
+  <text x="420" y="268" font-size="13" font-weight="bold" fill="#454139">Fuzzificación</text>
+  <g stroke-width="2" fill="none">
+    <path d="M420,400 L490,300 L560,400" stroke="#1d6b6b"/>
+    <path d="M490,400 L560,300 L630,400" stroke="#c8a24a"/>
+    <path d="M560,400 L630,300 L700,400" stroke="#8b2440"/>
+  </g>
+  <line x1="420" y1="400" x2="700" y2="400" stroke="#b8b2a6" stroke-width="1.4"/>
+  <text x="490" y="420" text-anchor="middle" font-size="11" fill="#1d6b6b">baja</text>
+  <text x="560" y="420" text-anchor="middle" font-size="11" fill="#c8a24a">media</text>
+  <text x="630" y="420" text-anchor="middle" font-size="11" fill="#8b2440">alta</text>
+  <text x="560" y="292" text-anchor="middle" font-size="11.5" fill="#6b665e">cada variable pasa a grados de pertenencia</text>
+  <text x="560" y="308" text-anchor="middle" font-size="11.5" fill="#6b665e" > </text>
+  <text x="560" y="440" text-anchor="middle" font-size="11.5" fill="#6b665e"> </text>
+
+  <line x1="730" y1="330" x2="780" y2="330" stroke="#8b2440" stroke-width="2"/><polygon points="786,330 776,325 776,335" fill="#8b2440"/>
+
+  <!-- reglas -->
+  <text x="820" y="268" font-size="13" font-weight="bold" fill="#454139">Reglas legibles (extracto)</text>
+  <text x="820" y="296" font-size="12" fill="#6b665e">SI privacidad ALTA y VRAM BAJA → local pequeño</text>
+  <text x="820" y="320" font-size="12" fill="#6b665e">SI calidad ALTA y VRAM ALTA → qwen 14b</text>
+  <text x="820" y="344" font-size="12" fill="#6b665e">SI la tarea es VISIÓN → nube con caché (céntimos)</text>
+  <text x="820" y="368" font-size="12" fill="#6b665e">SI el remoto NO RESPONDE → degradar al local</text>
+  <text x="820" y="396" font-size="11" fill="#9a958c">(la última ya corre en producción: es el fallback del túnel)</text>
+
+  <line x1="1310" y1="330" x2="1360" y2="330" stroke="#8b2440" stroke-width="2"/><polygon points="1366,330 1356,325 1356,335" fill="#8b2440"/>
+
+  <!-- salida -->
+  <text x="1400" y="268" font-size="13" font-weight="bold" fill="#454139">Salida</text>
+  <text x="1400" y="296" font-size="12" fill="#6b665e">grado de idoneidad ∈ [0, 1]</text>
+  <text x="1400" y="316" font-size="12" fill="#6b665e">por modelo y municipio</text>
+  <text x="1400" y="344" font-size="12" font-weight="bold" fill="#8b2440">decisión explicable:</text>
+  <text x="1400" y="364" font-size="12" fill="#6b665e">se ven las reglas disparadas,</text>
+  <text x="1400" y="384" font-size="12" fill="#6b665e">no una caja negra</text>
+
+  <!-- ============ FILA 3: TRES ESCENARIOS ============ -->
+  <text x="30" y="496" font-size="13" font-weight="bold" fill="#1d6b6b">El mismo sistema recomienda distinto según el contexto (grados sobre las métricas medidas)</text>
+
+  <rect x="24" y="510" width="396" height="440" fill="#ffffff" stroke="#d9ccd2" rx="8"/>
+<text x="222" y="540" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#8b2440">GPU de 4 GB · datos sensibles</text>
+<text x="38" y="590" font-size="11.5" fill="#454139">qwen 3b</text>
+<rect x="128" y="576" width="182" height="17" fill="#8b2440" rx="3"/>
+<text x="318" y="589" font-size="11.5" fill="#6b665e">0,85</text>
+<text x="38" y="636" font-size="11.5" fill="#454139">phi4-mini</text>
+<rect x="128" y="622" width="172" height="17" fill="#8b2440" rx="3"/>
+<text x="308" y="635" font-size="11.5" fill="#6b665e">0,8</text>
+<text x="38" y="682" font-size="11.5" fill="#454139">qwen 7b</text>
+<rect x="128" y="668" width="64" height="17" fill="#c9b8be" rx="3"/>
+<text x="200" y="681" font-size="11.5" fill="#6b665e">0,3</text>
+<text x="38" y="728" font-size="11.5" fill="#454139">gemini</text>
+<rect x="128" y="714" width="60" height="17" fill="#c9b8be" rx="3"/>
+<text x="196" y="727" font-size="11.5" fill="#6b665e">0,28</text>
+<text x="38" y="774" font-size="11.5" fill="#454139">qwen 14b</text>
+<rect x="128" y="760" width="32" height="17" fill="#c9b8be" rx="3"/>
+<text x="168" y="773" font-size="11.5" fill="#6b665e">0,15</text>
+<text x="38" y="820" font-size="11.5" fill="#454139">mistral 24b</text>
+<rect x="128" y="806" width="17" height="17" fill="#c9b8be" rx="3"/>
+<text x="153" y="819" font-size="11.5" fill="#6b665e">0,08</text>
+<text x="222" y="892" text-anchor="middle" font-size="11" fill="#6b665e">mandan la privacidad y la VRAM justa:</text>
+<text x="222" y="912" text-anchor="middle" font-size="11" fill="#6b665e">local pequeño + revisión humana</text>
+<rect x="440" y="510" width="396" height="440" fill="#ffffff" stroke="#d9ccd2" rx="8"/>
+<text x="638" y="540" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#8b2440">GPU de 8 GB</text>
+<text x="454" y="590" font-size="11.5" fill="#454139">qwen 7b</text>
+<rect x="544" y="576" width="189" height="17" fill="#8b2440" rx="3"/>
+<text x="741" y="589" font-size="11.5" fill="#6b665e">0,88</text>
+<text x="454" y="636" font-size="11.5" fill="#454139">qwen 3b</text>
+<rect x="544" y="622" width="118" height="17" fill="#c9b8be" rx="3"/>
+<text x="670" y="635" font-size="11.5" fill="#6b665e">0,55</text>
+<text x="454" y="682" font-size="11.5" fill="#454139">phi4-mini</text>
+<rect x="544" y="668" width="111" height="17" fill="#c9b8be" rx="3"/>
+<text x="663" y="681" font-size="11.5" fill="#6b665e">0,52</text>
+<text x="454" y="728" font-size="11.5" fill="#454139">gemini</text>
+<rect x="544" y="714" width="107" height="17" fill="#c9b8be" rx="3"/>
+<text x="659" y="727" font-size="11.5" fill="#6b665e">0,5</text>
+<text x="454" y="774" font-size="11.5" fill="#454139">qwen 14b</text>
+<rect x="544" y="760" width="43" height="17" fill="#c9b8be" rx="3"/>
+<text x="595" y="773" font-size="11.5" fill="#6b665e">0,2</text>
+<text x="454" y="820" font-size="11.5" fill="#454139">mistral 24b</text>
+<rect x="544" y="806" width="17" height="17" fill="#c9b8be" rx="3"/>
+<text x="569" y="819" font-size="11.5" fill="#6b665e">0,08</text>
+<text x="638" y="892" text-anchor="middle" font-size="11" fill="#6b665e">el 7b iguala al 14b en nuestra batería</text>
+<text x="638" y="912" text-anchor="middle" font-size="11" fill="#6b665e">(16/16 · 15/15) y es 2,4× más rápido</text>
+<rect x="856" y="510" width="396" height="440" fill="#ffffff" stroke="#d9ccd2" rx="8"/>
+<text x="1054" y="540" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#8b2440">GPU de 16 GB</text>
+<text x="870" y="590" font-size="11.5" fill="#454139">qwen 14b</text>
+<rect x="960" y="576" width="197" height="17" fill="#8b2440" rx="3"/>
+<text x="1165" y="589" font-size="11.5" fill="#6b665e">0,92</text>
+<text x="870" y="636" font-size="11.5" fill="#454139">qwen 7b</text>
+<rect x="960" y="622" width="161" height="17" fill="#c9b8be" rx="3"/>
+<text x="1129" y="635" font-size="11.5" fill="#6b665e">0,75</text>
+<text x="870" y="682" font-size="11.5" fill="#454139">mistral 24b</text>
+<rect x="960" y="668" width="129" height="17" fill="#c9b8be" rx="3"/>
+<text x="1097" y="681" font-size="11.5" fill="#6b665e">0,6</text>
+<text x="870" y="728" font-size="11.5" fill="#454139">gemini</text>
+<rect x="960" y="714" width="107" height="17" fill="#c9b8be" rx="3"/>
+<text x="1075" y="727" font-size="11.5" fill="#6b665e">0,5</text>
+<text x="870" y="774" font-size="11.5" fill="#454139">qwen 3b</text>
+<rect x="960" y="760" width="96" height="17" fill="#c9b8be" rx="3"/>
+<text x="1064" y="773" font-size="11.5" fill="#6b665e">0,45</text>
+<text x="870" y="820" font-size="11.5" fill="#454139">phi4-mini</text>
+<rect x="960" y="806" width="90" height="17" fill="#c9b8be" rx="3"/>
+<text x="1058" y="819" font-size="11.5" fill="#6b665e">0,42</text>
+<text x="1054" y="892" text-anchor="middle" font-size="11" fill="#6b665e">calidad alta con coste cero: el 14b gana;</text>
+<text x="1054" y="912" text-anchor="middle" font-size="11" fill="#6b665e">el 24b no compensa (2× más lento)</text>
+<rect x="1272" y="510" width="396" height="440" fill="#ffffff" stroke="#d9ccd2" rx="8"/>
+<text x="1470" y="540" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#8b2440">Tarea de visión (capturas)</text>
+<text x="1286" y="590" font-size="11.5" fill="#454139">gemini</text>
+<rect x="1376" y="576" width="193" height="17" fill="#8b2440" rx="3"/>
+<text x="1577" y="589" font-size="11.5" fill="#6b665e">0,9</text>
+<text x="1286" y="636" font-size="11.5" fill="#454139">qwen 14b</text>
+<rect x="1376" y="622" width="17" height="17" fill="#c9b8be" rx="3"/>
+<text x="1401" y="635" font-size="11.5" fill="#6b665e">0,08</text>
+<text x="1286" y="682" font-size="11.5" fill="#454139">qwen 7b</text>
+<rect x="1376" y="668" width="17" height="17" fill="#c9b8be" rx="3"/>
+<text x="1401" y="681" font-size="11.5" fill="#6b665e">0,08</text>
+<text x="1286" y="728" font-size="11.5" fill="#454139">mistral 24b</text>
+<rect x="1376" y="714" width="17" height="17" fill="#c9b8be" rx="3"/>
+<text x="1401" y="727" font-size="11.5" fill="#6b665e">0,08</text>
+<text x="1286" y="774" font-size="11.5" fill="#454139">qwen 3b</text>
+<rect x="1376" y="760" width="10" height="17" fill="#c9b8be" rx="3"/>
+<text x="1394" y="773" font-size="11.5" fill="#6b665e">0,05</text>
+<text x="1286" y="820" font-size="11.5" fill="#454139">phi4-mini</text>
+<rect x="1376" y="806" width="10" height="17" fill="#c9b8be" rx="3"/>
+<text x="1394" y="819" font-size="11.5" fill="#6b665e">0,05</text>
+<text x="1470" y="892" text-anchor="middle" font-size="11" fill="#6b665e">los locales no tienen visión: nube puntual</text>
+<text x="1470" y="912" text-anchor="middle" font-size="11" fill="#6b665e">con caché por hash — 1 pago por imagen</text>
+  <text x="840" y="990" text-anchor="middle" font-size="11" fill="#9a958c">Grados de idoneidad ilustrativos sobre las métricas medidas (bake-off de 9 modelos + batería E2E de 16 preguntas con el 7b). Sin GPU: viable como proceso nocturno en CPU.</text>
+</svg>

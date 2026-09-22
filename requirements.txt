@@ -1,0 +1,46 @@
+# ============================================================
+# Buscador Plenario Inteligente — dependencias (pip)
+# ============================================================
+# IMPORTANTE — orden de instalacion (ver scripts/setup.ps1):
+#   1) PyTorch con CUDA APARTE y PRIMERO:
+#      pip install torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+#   2) Luego este requirements.txt (versiones FIJADAS a proposito).
+#   3) ffmpeg (winget) y Ollama son instaladores aparte.
+#
+# Por que estan fijadas: instalar pyannote/transformers SIN pines resuelve a las majors
+# nuevas de PyPI (huggingface_hub 1.x, transformers 5.x, sentence-transformers 5.x) que
+# ROMPEN la GPU y la importacion. Este set esta probado junto con torch 2.5.1+cu121 / py3.12.
+
+# --- Bloque A: descarga y transcripcion ---
+yt-dlp                        # NO fijar: hay que mantenerlo al dia o YouTube deja de bajar
+faster-whisper==1.2.1
+ctranslate2==4.8.0
+
+# --- Bloque B: diarizacion ---
+pyannote.audio==3.3.2         # la 4.x exige torch>=2.8 y arrastra torch CPU (rompe la GPU)
+speechbrain==1.1.0            # OJO bug Windows: su guard usa '/inspect.py' y revienta con import k2
+                              #     -> parcheado en src/diarize.py (_patch_speechbrain_lazy_imports)
+lightning==2.6.5              # backend de pyannote (load_from_checkpoint)
+
+# --- Keystone del version-lock (NO subir sin probar el set entero) ---
+# pyannote 3.3.2 usa use_auth_token, eliminado en huggingface_hub 1.x -> hub DEBE ser 0.x
+huggingface_hub==0.25.2
+transformers==4.46.3
+tokenizers==0.20.3
+
+# --- Bloque C: embeddings, busqueda semantica y temas ---
+sentence-transformers==3.3.1  # la 5.x arrastra torchcodec (DLLs ffmpeg) y no importa en Windows
+chromadb==1.5.9
+bertopic==0.17.4
+numpy==2.4.6                  # numpy 2; compatible con pyannote 3.3.2 y transformers 4.46
+
+# --- Bloque D: interfaz (PENDIENTE) ---
+# NADA de streamlit. UI = FastAPI (backend) + pagina Tailwind (CDN) con reproductor YouTube embebido.
+fastapi
+uvicorn[standard]
+
+# --- Utilidades ---
+pyyaml
+python-dotenv
+srt
+tqdm

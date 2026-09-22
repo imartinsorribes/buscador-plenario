@@ -1,0 +1,1441 @@
+{
+ "id": "DSCD-14-PL-271",
+ "legislatura": 14,
+ "fecha": "18 de mayo de 2023",
+ "tema_sesion": "Juramento o promesa de acatamiento de la constitución por nuevos señores diputados Inclusión en el orden del día: — Avocación de iniciativas legislativas: — Proyecto de Ley por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equi",
+ "votaciones": [
+  {
+   "emitidos": null,
+   "a_favor": 151,
+   "en_contra": 176,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": null,
+   "a_favor": 258,
+   "en_contra": 51,
+   "abstenciones": 19
+  },
+  {
+   "emitidos": null,
+   "a_favor": 50,
+   "en_contra": 272,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": null,
+   "a_favor": 186,
+   "en_contra": 47,
+   "abstenciones": 95
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 147,
+   "en_contra": 163,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 147,
+   "en_contra": 171,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 144,
+   "en_contra": 172,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 9,
+   "en_contra": 304,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 95,
+   "en_contra": 222,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 318,
+   "a_favor": 92,
+   "en_contra": 219,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 12,
+   "en_contra": 304,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 319,
+   "a_favor": 145,
+   "en_contra": 173,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 318,
+   "a_favor": 22,
+   "en_contra": 296,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 71,
+   "en_contra": 249,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 74,
+   "en_contra": 246,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 20,
+   "en_contra": 298,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 1,
+   "en_contra": 298,
+   "abstenciones": 21
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 54,
+   "en_contra": 249,
+   "abstenciones": 17
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 25,
+   "en_contra": 247,
+   "abstenciones": 48
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 19,
+   "en_contra": 298,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 21,
+   "en_contra": 298,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 61,
+   "en_contra": 259,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 101,
+   "en_contra": 217,
+   "abstenciones": 3
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 139,
+   "en_contra": 165,
+   "abstenciones": 17
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 153,
+   "en_contra": 167,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 93,
+   "en_contra": 219,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 61,
+   "en_contra": 260,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 22,
+   "en_contra": 215,
+   "abstenciones": 84
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 19,
+   "en_contra": 241,
+   "abstenciones": 61
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 140,
+   "en_contra": 177,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 23,
+   "en_contra": 298,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 140,
+   "en_contra": 165,
+   "abstenciones": 16
+  },
+  {
+   "emitidos": 320,
+   "a_favor": 140,
+   "en_contra": 168,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 23,
+   "en_contra": 296,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 19,
+   "en_contra": 298,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 21,
+   "en_contra": 296,
+   "abstenciones": 4
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 71,
+   "en_contra": 249,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 17,
+   "en_contra": 250,
+   "abstenciones": 54
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 22,
+   "en_contra": 250,
+   "abstenciones": 50
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 48,
+   "en_contra": 273,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 97,
+   "en_contra": 225,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 139,
+   "en_contra": 175,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 138,
+   "en_contra": 164,
+   "abstenciones": 20
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 146,
+   "en_contra": 169,
+   "abstenciones": 7
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 154,
+   "en_contra": 167,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 146,
+   "en_contra": 171,
+   "abstenciones": 5
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 90,
+   "en_contra": 231,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 321,
+   "a_favor": 87,
+   "en_contra": 222,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 322,
+   "a_favor": 138,
+   "en_contra": 172,
+   "abstenciones": 12
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 327,
+   "en_contra": 1,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 151,
+   "en_contra": 176,
+   "abstenciones": 1
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 317,
+   "en_contra": 1,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 327,
+   "en_contra": 1,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 36,
+   "en_contra": 212,
+   "abstenciones": 80
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 258,
+   "en_contra": 51,
+   "abstenciones": 19
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 165,
+   "en_contra": 155,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 326,
+   "a_favor": 100,
+   "en_contra": 171,
+   "abstenciones": 55
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 100,
+   "en_contra": 159,
+   "abstenciones": 69
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 113,
+   "en_contra": 202,
+   "abstenciones": 13
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 156,
+   "en_contra": 158,
+   "abstenciones": 14
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 167,
+   "en_contra": 153,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 168,
+   "en_contra": 158,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 327,
+   "a_favor": 164,
+   "en_contra": 158,
+   "abstenciones": 5
+  },
+  {
+   "emitidos": 327,
+   "a_favor": 150,
+   "en_contra": 169,
+   "abstenciones": 8
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 96,
+   "en_contra": 170,
+   "abstenciones": 62
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 50,
+   "en_contra": 272,
+   "abstenciones": 6
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 57,
+   "en_contra": 271,
+   "abstenciones": null
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 141,
+   "en_contra": 177,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 140,
+   "en_contra": 177,
+   "abstenciones": 11
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 142,
+   "en_contra": 177,
+   "abstenciones": 9
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 186,
+   "en_contra": 47,
+   "abstenciones": 95
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 185,
+   "en_contra": 141,
+   "abstenciones": 2
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 317,
+   "en_contra": 1,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 268,
+   "en_contra": 50,
+   "abstenciones": 10
+  },
+  {
+   "emitidos": 328,
+   "a_favor": 265,
+   "en_contra": 1,
+   "abstenciones": 62
+  }
+ ],
+ "n_intervenciones": 140,
+ "interventions": [
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muy buenos días, señorías.\nSe reanuda la sesión. (Rumores).\nOcupen sus escaños, por favor, y guarden silencio.\nCon carácter previo al examen del orden del día, vamos a proceder al juramento o promesa de \nacatamiento de la Constitución conforme al artículo 20.1.3.º del Reglamento. En sustitución de don Joan \nBaldoví Roda, pregunto a doña Maria Josep Picó Garcés si jura o promete acatar la Constitución."
+  },
+  {
+   "speaker": "PICÓ GARCÉS",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Con plena lealtad al pueblo valenciano y por la conservación de la \nbiodiversidad, sí, prometo. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nDoña Maria Josep Picó Garcés ha adquirido la condición plena de diputada. Enhorabuena. (Aplausos).\nINCLUSIÓN EN EL ORDEN DEL DÍA:\n— AVOCACIÓN DE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY POR LA QUE SE REGULAN LAS ENSEÑANZAS ARTÍSTICAS \nSUPERIORES Y SE ESTABLECE LA ORGANIZACIÓN Y EQUIVALENCIAS DE LAS \nENSEÑANZAS ARTÍSTICAS PROFESIONALES. (Número de expediente 121/000153)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Además, de conformidad con lo dispuesto por el artículo 68.1 del Reglamento \ny con lo acordado por los portavoces, esta Presidencia somete al Pleno de la Cámara la modificación del \norden del día en el sentido de incluir como último punto de la sesión de hoy el relativo a la avocación de \nla deliberación y votación final del proyecto de ley por la que se regulan las enseñanzas artísticas superiores \ny se establece la organización y equivalencias de las enseñanzas artísticas profesionales. ¿Lo acuerda \nasí la Cámara? (Asentimiento).\nMuchas gracias. En consecuencia, queda aprobada la modificación del orden del día en el sentido \nseñalado.\ncve: DSCD-14-PL-271\n \nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY POR LA QUE SE CREA LA AUTORIDAD ADMINISTRATIVA INDEPENDIENTE \nDE DEFENSA DEL CLIENTE FINANCIERO PARA LA RESOLUCIÓN EXTRAJUDICIAL DE \nCONFLICTOS ENTRE LAS ENTIDADES FINANCIERAS Y SUS CLIENTES. (Número de \nexpediente 121/000134)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Comenzamos con el dictamen relativo al Proyecto de ley por la que se crea \nla Autoridad Administrativa Independiente de Defensa del Cliente Financiero para la resolución extrajudicial \nde conflictos entre las entidades financieras y sus clientes. Les recuerdo que finalizado este debate se \nvotarán las enmiendas correspondientes a esta iniciativa. Para defender las enmiendas formuladas a esta \niniciativa legislativa, por el Grupo Parlamentario Vasco (EAJ-PNV), tiene la palabra la señora Sagastizabal \nUnzetabarrenetxea."
+  },
+  {
+   "speaker": "SAGASTIZABAL UNZETABARRENETXEA",
+   "party": "PNV",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nIntervendré de forma muy breve. Hoy vamos a votar las enmiendas que quedan vivas al proyecto de \nley por la que se crea la Autoridad Administrativa Independiente de Defensa del Cliente Financiero, dando \ncumplimiento a dos objetivos: por un lado, facilitar al ciudadano o ciudadana y a las pymes un medio \nalternativo de procedimiento judicial ágil para resolver las discrepancias en los asuntos relacionados con \nlos operadores financieros, en consonancia con la disposición adicional primera de la Directiva 2013/11 de \nla Unión Europea que permite la creación de este tipo de entidades, y, por otro lado, descongestionar o \nsacar de la vía judicial este tipo de discrepancias. Creo que es una respuesta necesaria para avanzar y \nmejorar la protección de la ciudadanía en las relaciones con el sistema financiero y sus servicios en un \námbito donde hay una asimetría de información y donde los servicios financieros son cada día mucho más \ncomplejos.\nEs un proyecto de ley que ha sido sustancialmente mejorado y que evita determinados problemas que \nse hubieran originado de permanecer el texto en su redacción original. Se trata de un texto mejorado, por \ntanto, con las aportaciones que hemos realizado los distintos grupos parlamentarios — hay que decirlo—, \nllegando a un amplísimo consenso que creo que deberíamos destacar. Por ello, quiero dar las gracias al \nsecretario de Estado de Economía, a su equipo y a la vicepresidenta por atender nuestras demandas, así \ncomo al portavoz del Grupo Socialista y al resto de grupos y portavoces por apoyarlas, y, por supuesto, \ntambién a nuestra letrada, Mónica, que nos lo pone todo muy fácil. (Rumores).\nDicho esto, me gustaría destacar que en este proyecto había dos grandes demandas. Una era la \nrelativa a la tasa y hemos conseguido que el organismo distribuya los costes proporcionalmente entre las \nentidades afectadas en función del número de reclamaciones resueltas frente a cada entidad, todo ello \npara evitar los efectos indeseados derivados del establecimiento de una tasa fija sin ningún tipo de \nponderación y sin estar condicionada a su resultado. El otro gran tema era el relativo a la jurisdicción \naplicable, por cuanto que la autoridad es una autoridad administrativa, y, finalmente, se ha optado por la \njurisdicción civil. Eran estas modificaciones en el sentido que proponía mi grupo y también el resto de \ngrupos. (Rumores).\nAsimismo, se ha conseguido garantizar más y mejor el acceso a las cuentas de pago básicas por parte \nde todas las personas vulnerables, los que están en riesgo de exclusión financiera. Se contemplan también \nartículos relativos a las personas mayores. Y, por último, también hemos conseguido aclarar la Ley General \nde Subvenciones, que está dando problemas a la hora de solicitarlas en lo relativo al artículo 13.2. \nPodríamos hablar de muchas más mejoras, pero estoy segura de que otros portavoces hoy complementarán \nlo que yo acabo de apuntar.\nDoy por defendidas las únicas dos enmiendas que mi grupo mantiene vivas y, desde luego, votaremos \na favor del dictamen, como no puede ser de otra manera.\nMuchas gracias. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora Sagastizabal. (Rumores).\nSeñorías, les pido silencio, por favor.\nPor el Grupo Parlamentario Ciudadanos, tiene la palabra el señor Bal Francés."
+  },
+  {
+   "speaker": "BAL FRANCÉS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nBuenos días a todos. Como ha dicho la señora Sagastizabal del PNV, efectivamente, hemos mejorado \nmuchísimo esta ley gracias a la racionalidad del Gobierno que, por una vez, me he encontrado con que \ncve: DSCD-14-PL-271\n \nha querido negociar y mejorar esta norma que vino a la Cámara con un montón de defectos que habían \npuesto de manifiesto los propios protagonistas de los tres sectores del ámbito financiero: bancario, seguros \ny valores mobiliarios. En este sentido, hay que alabar esta conducta y este talante pactista que ha tenido \nel Gobierno y también todos los grupos parlamentarios en el seno de la Comisión de Economía, donde \ntengo que decir que verdaderamente se producen milagros y, por ejemplo, nos ponemos de acuerdo con \nPodemos. Efectivamente, hemos conseguido el texto de una norma que, como le dije al señor Manso \ncuando contesté a su enmienda a la totalidad, entendemos que es necesaria. Es una norma buena, una \nnorma que incorpora un sistema de arbitraje y de resolución administrativa de consultas en una entidad, \nla Autoridad Administrativa Independiente de Defensa del Cliente Financiero, que permitirá que los \nciudadanos, cuando tengan quejas en relación con las entidades del sector financiero, puedan recurrir a \nun procedimiento administrativo, gratuito y ágil al que la entidad financiera tendrá que acudir de forma \nobligatoria y que, por debajo de determinadas cuantías, puede ya dar por resuelta su reclamación ante la \nentidad financiera. Por lo tanto, es un sistema que amplía los derechos del ciudadano frente a las entidades \nfinancieras sin limitar o restringir el derecho a la tutela judicial efectiva de las entidades financieras si no \nestán de acuerdo. (Rumores).\nMe siento especialmente orgulloso de las cuatro cosas que el Gobierno nos ha dado en exclusiva a \nCiudadanos, porque el resto de cosas, como bien ha dicho la señora Sagastizabal, las hemos pactado un \npoco entre todos los grupos parlamentarios con la inestimable colaboración, ayuda y trabajo infatigable \ndel señor Casares, el portavoz de Economía del Grupo Parlamentario Socialista. No quiero dejar de citar \ntampoco a Celso Delgado, el presidente de la Comisión, del Partido Popular, que impone su talante \nmoderado que hace que lleguemos a estos acuerdos. Gracias, Celso.\nRespecto a estas cuatro cosas, mencionaré, en primer lugar, las dudas que teníamos en relación con \nla posible inconstitucionalidad de un sistema de arbitraje obligatorio para las entidades financieras. \nCiudadanos ha pedido y el Gobierno ha aceptado que la entidad financiera, cuando obtenga una resolución \nestimatoria de las pretensiones del cliente, tenga también derecho a acudir a la jurisdicción civil al objeto \nde poder discutir el fondo de este asunto. En segundo lugar, también criticábamos el hecho de que las \ngrandes empresas pudieran acudir como clientes de otras grandes empresas a este sistema. No tiene \nninguna lógica, porque ahí no hay una situación de desequilibrio entre las fuerzas. No veíamos en este \nsistema al Banco Santander, por ejemplo, poniéndole una reclamación al BBVA. En este sentido, también \nel Gobierno nos ha aceptado esta enmienda de acuerdo con la definición europea de las pequeñas, las \nmedianas y las microempresas. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Perdone que le interrumpa, señor Bal.\nPor favor, silencio."
+  },
+  {
+   "speaker": "BAL FRANCÉS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "En tercer lugar, también el Gobierno ha aceptado que las propias entidades \ndel sector financiero colaboren en la redacción de los códigos de buenas prácticas de autorregulación. Por \núltimo, ha considerado la objeción que planteábamos en relación con los daños punitivos que se podían \nplantear como indemnizaciones en los supuestos de pretensiones de cuantía indeterminada, que se van \na poder regular a través de los códigos de buenas prácticas.\nLa señora Sagastizabal ha puesto también en valor algunas otras cosas muy razonables, como que \ntodos los recursos ante la jurisdicción lo sean ante la jurisdicción civil, dado que se trata de resolver \npretensiones entre particulares y no tenía ningún sentido que pudiera haber jurisprudencia contradictoria \nque generara inseguridad jurídica entre la jurisdicción civil y la jurisdicción contencioso-administrativa. \nTambién está el tema de la regulación de la tasa, con un sistema de financiación de los costes de \nfuncionamiento que nos parece razonable, puesto que penaliza a aquellas entidades financieras que peor \nse portan, que peor lo hacen, que más resoluciones ven dictadas en su contra. Cabe señalar también el \ntema de las multas por temeridad, que se establecen en una gradación de proporcionalidad en los \nsupuestos de reincidencia, yendo después a la jurisdicción contencioso-administrativa. Y he de poner en \nvalor —¡cómo no!— las enmiendas del señor Guijarro, de Unidas Podemos, en relación con que tengan \nque valorarse circunstancias personales de los clientes en materia de discapacidad, en materia de \nextranjería o en materia de situación administrativa.\nMe queda por referirme al señor Manso. Aunque no votamos a favor de su enmienda a la totalidad, \nsí que hizo un diagnóstico muy correcto de los problemas que tenía esta norma. No compartíamos \nalgunas de las soluciones que él planteaba, pero le alabo su pericia a la hora de analizar el contenido \ncve: DSCD-14-PL-271\n \nde esta ley, porque en parte eso fue lo que al final forzó al Gobierno a entrar en una negociación y \nmejorar esta norma.\nComo ven, es un milagro: el diputado de Ciudadanos diciendo que todos los grupos parlamentarios \nson magníficos, que somos capaces de llegar a acuerdos y que, en contra de lo que el ciudadano opina, \nno es verdad que aquí estemos todo el día insultándonos y en un ambiente de crispación. Al final, hemos \nhecho un texto que va a beneficiar a todos los ciudadanos españoles.\nMuchas gracias. (Aplausos de las señoras y señores diputados del Grupo Parlamentario \nCiudadanos, algunos de ellos puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Bal.\nPor el Grupo Parlamentario Plural, tiene la palabra, en primer lugar, el señor Rego Candamil."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Grazas, señora presidenta.\nCreo que es importante establecer mecanismos para que los ciudadanos nunca se vean \ndesprotegidos frente a los abusos del poder, ya sea este de índole privada, como el bancario, ya sea \npúblico. Por eso, yo quiero empezar por traer aquí un caso muy reciente — conocido ayer mismo— \nque considero dramático y terrible. Es dramático porque afecta a veintiuna víctimas, las del naufragio \ndel Villa de Pitanxo, y es terrible porque quien está detrás de ese abuso es la propia Administración \npública, en concreto, el Ministerio de Transportes. Ayer el ministerio, desoyendo ocho requerimientos \nde la Audiencia Nacional, ordenó zarpar al barco Ártabro, el barco contratado para bajar al pecio del \nVilla de Pitanxo, sin que vayan a bordo todos los peritos judiciales, incluidos los peritos de parte, \ncomo el que designaron las familias. Esto claramente pone en riesgo la validez de las pruebas que \npuedan ser utilizadas en un procedimiento judicial (aplausos), que será fundamental para esclarecer \nlas causas y para hacer justicia, porque este naufragio está siendo investigado por la Audiencia \nNacional como veintiún delitos de homicidio imprudente. Es inaudito que el ministerio desobedezca a \nla Audiencia Nacional. (Rumores.—Varias señoras y señores diputados: ¡A la cuestión! ¡A la \ncuestión!). Por lo tanto, reclamamos que haga volver al barco y que atienda a los requerimientos de \nla Audiencia Nacional en cuanto a los protocolos y al personal que debe ir a bordo para garantizar la \nfiabilidad de las pruebas recogidas. (El señor Espinosa de los Monteros de Simón: Ayer nos \nquitaron la palabra.—Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señor Rego, por favor, le pido que atienda a la cuestión del punto del orden \ndel día. (Rumores)."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Me parece que esta es la cuestión, porque precisamente estamos \nhablando de una situación de indefensión gravísima que no debería producirse. Reitero ese \nllamamiento al ministerio para que haga volver el barco y atienda a los requerimientos de la Audiencia \nNacional.\nEn cuanto a la ley, yo simplemente quiero reiterar lo que dijimos en su momento. En primer lugar, nos \ngenera dudas, porque la ley se centra en regular mecanismos de defensa del cliente financiero de arbitrio \nextrajudicial, en vez de regular obligaciones para las entidades bancarias y financieras para que esos \nabusos no puedan ser posibles; por ejemplo, para obligar a los bancos a que no cierren oficinas, a que no \nrecorten la atención presencial y a que no cobren comisiones abusivas; incluso para controlar el \nencarecimiento de las hipotecas, que pesan como una losa en la economía de muchas familias, o para \ncrear una banca pública, lo que sería, evidentemente, una alternativa muy buena. En segundo lugar, \ntambién nos genera dudas en relación con esa autoridad independiente, porque en el fondo no deja ser \nun procedimiento más de centralización, ya que la competencia en materia de defensa del consumidor es \nde las comunidades autónomas."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señor Rego, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "REGO CANDAMIL",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Por lo tanto, insistimos en que es una ley con aspectos positivos, pero \nque también tiene otros que no juzgamos como tales.\nObrigado."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias, señor Rego.\nPor el mismo grupo parlamentario, tiene la palabra el señor Bel Accensi.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "BEL ACCENSI",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nSeñorías, en primer lugar yo me uno a las palabras de agradecimiento a todos los que han hecho posible \nque esta ley se apruebe con un amplio consenso. Evidentemente, ha mejorado muchísimo, ha mejorado de \nforma sustancial. Ha habido temas que para nosotros eran importantes, como la reconfiguración absoluta de \nla tasa que va a permitir la financiación de la autoridad independiente y también la cuestión del órgano \njurisdiccional al cual se debe recurrir. Por tanto, por eso y por otras mejoras que hemos incluido, estamos \nsatisfechos. Me uno al agradecimiento a todos los ponentes y miembros de la Comisión; evidentemente, a \nla capacidad de generar consenso del señor Pedro Casares y su grupo parlamentario y del secretario de \nEstado de Economía. También he de mencionar especialmente a nuestro presidente, don Celso, que es una \npersona que genera ambiente de consenso, y no quiero olvidarme de nuestra letrada.\nDicho esto, todavía quedan enmiendas pendientes de aprobar y, como yo soy incansable y casi \nincombustible, voy a intentar hacerles reflexionar aunque sea en el último momento. Hay una enmienda \nmuy interesante, la 187, que este grupo parlamentario había presentado ya hace unos meses y que \nretiramos a efectos de que las partes fueran capaces de llegar a un acuerdo. Como esto no ha sido \nposible, la hemos vuelto a presentar. Esta enmienda pretende establecer un cierto ámbito regulatorio en \nlas relaciones económicas entre dos agentes económicos con una fuerza absolutamente descompensada \nque, aunque durante muchos años no haya generado problemas, sí los ha empezado a generar para una \nde las partes no de forma generalizada pero sí de una manera relevante. De lo que se trata es de que, \ncuando exista una descompensación de las partes, podamos regular este caso para intentar proteger a \nlas pymes de las grandes empresas. Por ello, les pido apoyo. Es una enmienda que se ha rebajado en sus \npropósitos iniciales y a la estoy seguro de que todos los que están preocupados por la descompensación \nde fuerzas entre los agentes económicos — esta ley es un ejemplo— se pueden suscribir.\nFinalmente, un comentario. Hemos modificado a través de una técnica legislativa muy habitual a lo \nlargo de esta legislatura, que es la transaccional exprés — aquella transaccional que se incluye en el \núltimo momento en la Comisión o la ponencia; en este caso, en la Comisión—, la Ley General de \nSubvenciones en un aspecto que ya modificamos en la ley crea y crece: a efectos de que las empresas \nque no cumplan la ley de morosidad no puedan acceder a determinadas subvenciones públicas. Ahora \nmatizamos lo que habíamos dicho para facilitarlo. De todas formas, debo volver a reivindicar la necesidad \nde trabajar en un régimen sancionador a la morosidad. Tenemos una iniciativa que está presentada y que \ntenemos paralizada. Espero que antes del final de la legislatura todos los grupos nos podamos poner de \nacuerdo."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señor Bel, tendría que terminar, por favor."
+  },
+  {
+   "speaker": "BEL ACCENSI",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Termino en diez segundos.\nHemos aprobado el régimen sancionador a la morosidad en el transporte de mercancías y ha sido un \néxito. Deberíamos extenderlo al resto del sector empresarial.\nMuchísimas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Bel.\nPor el Grupo Parlamentario Republicano, tiene la palabra el señor Capdevila i Esteve."
+  },
+  {
+   "speaker": "CAPDEVILA I ESTEVE",
+   "party": "ERC",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, señora presidenta, es usted siempre muy amable \nconmigo.\nSeñorías, bon dia. La tramitación de este proyecto de ley empezó algo ajetreada. Como bien \nrecordarán, Esquerra presentó una enmienda a la totalidad del proyecto de ley. Si bien estábamos y \nestamos plenamente de acuerdo con reforzar la protección de los derechos de las personas consumidoras \nante los abusos de las entidades bancarias, pensábamos que el modelo planteado no era el mejor para \neste fin, se quedaba muy corto en muchos aspectos y respondía a un modelo jacobino de Estado lento, \nineficiente, burocrático y anacrónico. Sin embargo, nos arremangamos y negociamos artículo a artículo \npara mejorar todo lo posible el actual proyecto de ley y, tras el compromiso de los partidos del Gobierno, \nretiramos la enmienda a la totalidad. Nos pusimos a trabajar dispuestos a dejar pelos en la gatera hasta \nel día de hoy en que tenemos que sumarnos a este acuerdo bastante general que yo diría que no \ndebiéramos llamar inaudito.\nQuiero agradecer a Pedro Casares y a Chema Guijarro la tenacidad para buscar puntos de encuentro. \nExpreso nuestro agradecimiento al resto de los ponentes y también al secretario de Estado de Economía \ncve: DSCD-14-PL-271\n \ny su equipo por ser capaces de pensar fuera de la caja. Empiezo a perder la cuenta de las veces que he \ntenido interés en hacer constar en el Diario de Sesiones el agradecimiento a los servicios de la Cámara \npor su ayuda para un buen curso legislativo. Mónica Moreno y su gente, a quienes tampoco debemos \nolvidar, son insuperables. Gracias. En plena campaña, por si le pudiese perjudicar, dudo si agradecer \ntambién al presidente de la Comisión, pero voy a hacerlo.\nEstamos medianamente satisfechos con el resultado. Queríamos haber llegado más allá, pero hemos \nconseguido diversos avances y, desde nuestro humilde punto de vista, el texto que aprobamos hoy es \ncualitativa y manifiestamente mejor que el que nos encontramos al principio. ¿En qué hemos trabajado? \nVisto y constatado que el Gobierno se mantenía en la creación de una nueva entidad, nos hemos centrado \nen ella para la defensa del cliente financiero y hemos empeñado en ello la discreta fuerza de los trece \nvotos que Esquerra tiene en esta Cámara. Hemos mejorado las condiciones… Digámoslo al revés: como \nla nueva autoridad tenía que venir, lo que hemos hecho es encomendarle cosas importantes a supervisar \ny a sancionar si no se cumplen, mejorando las condiciones para facilitar el acceso a la cuenta de pago \nbásica; consiguiendo rebajas en las llamadas multas a los usuarios por reclamaciones de «mala fe» \n— entrecomíllese «mala fe», por favor—; posibilitando el cobro de una tasa a las compañías con alto \nvolumen de reclamaciones; consiguiendo que se puedan presentar reclamaciones ante la autoridad desde \nlos distintos territorios mediante convenios con las instituciones de consumo autonómicas, y mejorando \nlas condiciones de atención y asistencia a los colectivos más vulnerables, como las personas en edad \navanzada, las personas en situación de discapacidad o las personas migrantes.\nParte de la ciudadanía lo desconoce — porque creo que así interesa a las entidades bancarias—, pero \nexiste un producto financiero que son las cuentas de pago básicas. Son unas cuentas para poder acceder \na los servicios bancarios más básicos: retirar e ingresar dinero o efectuar transferencias. Las entidades \nbancarias están obligadas por ley a ofrecer este servicio. ¿Qué ocurre en la actualidad? En la práctica, el \nacceso a estas cuentas es complicado. A las numerosas dificultades para la apertura de este tipo de \ncuentas se suman las múltiples trabas en el proceso de reclamación cuando son denegadas, porque dicha \ndenegación se realiza sin notificación escrita alguna. Es un atropello. Desde aquí queremos agradecer a \nla asociación Red Acoge por sus propuestas que recogimos como enmiendas. (Aplausos). Hoy podemos \nver algunas de ellas — no todas— incorporadas en el proyecto de ley; por ejemplo, que una persona que \nse encuentre en el Estado español en cualquier situación administrativa pueda abrirse una cuenta y que, \npara esa circunstancia, baste con aportar presencialmente la documentación que acredite su identidad. \nOtra enmienda de Esquerra permitirá que determinadas ONG puedan certificar el riesgo de vulnerabilidad \no de exclusión financiera con el fin de facilitar y agilizar el proceso. Tampoco podemos dejar de celebrar \nque, gracias a Esquerra, se incluya la posibilidad de que las diferentes administraciones aprueben tasas \nen otros servicios de carácter básico con un alto volumen de reclamaciones.\nFinalizando, aunque se ha avanzado en algunos aspectos relativos a la atención a los colectivos más \nvulnerables, se podría haber hecho mucho más. Por eso, mantenemos vivas nuestras enmiendas \nreferentes a la atención personalizada, a las reclamaciones o a ampliar el ámbito de aplicación del proyecto \nde ley. Ya ven que no escondemos las cartas con las que partiremos en el Senado si en la votación de hoy \nno prosperan las enmiendas que mantenemos. De momento, esperamos que este proyecto de ley que \naprobamos hoy sea un paso adelante para acabar con las innumerables vulneraciones de derechos de los \nusuarios por parte de las entidades bancarias.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Capdevila. Por el Grupo Parlamentario Confederal \nde Unidas Podemos-En Comú Podem-Galicia en Común, tiene la palabra el señor Guijarro García."
+  },
+  {
+   "speaker": "GUIJARRO GARCÍA",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "",
+   "text": "Señorías, presidenta, buenos días a todas y a todos.\nYa habíamos lamentado la tardanza del legislador español en atender una demanda tan perentoria \ncomo la que hoy atendemos en esta tramitación: la creación, al fin, de una autoridad estatal para la \nvigilancia y defensa del cliente financiero, es decir, para la defensa de todas y de todos; por cierto, una \ndemanda que no es solo legal, en tanto que nace de la disposición adicional aprobada en la Ley 7/2017 \npor estas mismas Cortes, sino que se hunde de lleno en la historia reciente de nuestro país, en las heridas \nde nuestro pueblo. Y es que al echar la mirada atrás, algunos aún nos acordamos, y nos resulta imposible \nolvidar, la tendencia que arrastra el sector financiero, sobre todo el sector bancario, desde hace algo más \nde una década y por cuya senda no ha dejado de transitar hasta nuestros días: cláusulas suelo, tarjetas \nrevolving, comisiones fraudulentas, delegación de cuentas de pago básicas… Por otro lado, ha habido \ncve: DSCD-14-PL-271\n \nmás de 100 000 empleos perdidos, más de 70 despidos colectivos en el sector desde el año 2009, sumado \na un proceso de concentración, es decir, de oligopolio y de cierre de oficinas como no habíamos visto \nnunca. Pudimos completar, además, este dramático cuadro con las estadísticas que nos presentó el \nmagistrado de lo Mercantil, José María Fernández Seijo, en su comparecencia ante la Comisión de \nAsuntos Económicos para la tramitación de esta ley: hubo 420 154 sentencias favorables al cliente dictadas \npor los tribunales españoles entre los años 2017 y 2021, es decir, el 97,4 % de todas las sentencias \ndictadas; a finales de ese año quedaban pendientes de resolver 212 969 asuntos. Es decir, nuestro sistema \njudicial actualmente no es capaz de repartir tal cosa, justicia, y, por tanto, se requiere con urgencia una vía \nextrajudicial y ágil de resolución de conflictos. Si después de conocer este panorama, alguien piensa que \nno es necesario una autoridad estatal que imponga algo de orden y concierto en esta selva, si con estos \nmimbres alguien hoy aquí no se siente obligado a trasladar algo de seguridad y protección a nuestros \nconciudadanos, y prefiere así ponerse del lado de los que abusan, ese alguien no merece ocupar el \nescaño que ocupa.\nPor su parte, creo que el Gobierno trasladó a este Congreso un proyecto de ley que recogía en parte \nlas demandas originarias que lo inspiraron. En todo caso, creo también que el texto se ha perfeccionado \nen la tramitación parlamentaria, y esto ha sido debido, desde luego, a un encuentro de actitudes, como \nya se ha destacado hoy aquí: por un lado, la de los grupos de la Cámara, pues, sin duda, la mayoría \nhan dado un debate franco marcado por la voluntad clara de atender los intereses ciudadanos; pero, por \notro lado, también la del Ministerio de Asuntos Económicos, que ha sabido escuchar, encajar y sumar \npropuestas sin el celo que a veces nos hemos encontrado en otras instancias gubernamentales. En \neste sentido, quiero dar las gracias al secretario de Estado, el señor Gonzalo García Andrés, y a todo \nsu equipo, así como al portavoz del Grupo Socialista, Pedro Casares, y por supuesto al resto de \nportavoces de la Comisión, que creo que también han tenido un papel destacado. No quiero dejar de \nmencionar al presidente de la Comisión, a Celso Delgado, y a nuestra querida letrada, Mónica Moreno, \nsin cuyo trabajo creo que hubiera sido mucho más complicado el resultado que hoy podemos presentar \na este hemiciclo.\nCreo, honestamente, que se han introducido mejoras que redundarán en un mejor servicio a la \nciudadanía, entre otras, por ejemplo, el diseño de un nuevo sistema de financiación de la propia autoridad \na partir de una tasa general que no solo garantiza su sustento, sino que castiga aquellos comportamientos \ny desanima a aquellas entidades que no han sido precisamente un ejemplo de comportamiento hasta la \nfecha. Hemos avanzado sustancialmente también en el reconocimiento de las cuentas de pago básicas \ncomo servicio al que tiene derecho toda persona que se encuentra en nuestro país. Adicionalmente, se \nrefuerzan los mecanismos de control y supervisión del Banco de España, que esperamos que aseguren \nla prestación real de este servicio y destierren, al fin, las prácticas que se han cebado hasta ahora, \nespecialmente, con la población vulnerable. También se introducen mejoras en la composición del comité \nconsultivo para garantizar la representación de las asociaciones representativas de personas mayores de \nsesenta y cinco años y personas con discapacidad, aunque nos hubiera gustado poder arrancar mayores \ncompromisos sobre la atención presencial que deben prestar las entidades bancarias en zonas rurales y \na determinados sectores sociales. De igual modo, lamentamos no haber podido elevar al rango de norma \nalgunos elementos del código de buenas prácticas que hoy rigen el sector, y es que, a diferencia de \nnuestro socio, nosotras reconocemos que no nos fiamos demasiado del compromiso que han demostrado \ntener los bancos españoles para el bien común.\nPor último, diré que mi grupo parlamentario se va a abstener en la enmienda presentada por el \nPDeCAT, relativa a los contratos de agencia que afectan al sector de la automoción. Ciertamente, no se \ntrata de una iniciativa alineada con los objetivos declarados por esta ley, pero desde luego nos parece que \nlas pymes comercializadoras españolas deben gozar de unas mínimas garantías frente a los grandes \nproductores en un contexto de rápida transformación hacia el vehículo eléctrico.\nPor lo demás, damos por pertinente la incorporación de última hora para recalibrar algunos elementos \nde la Ley General de Subvenciones que se modificaron a partir de la ley crea y crece con el objetivo de \neliminar la morosidad. En todo caso, aún nos queda por legislar en esta materia, de modo que esperamos \npoder convocar la ponencia que establezca los elementos para un régimen sancionador, de la manera que \nhemos hecho ya en el sector del transporte; y es que creemos que si esta Cámara aprobó en su momento \nsu toma en consideración, lo justo es tomarla en consideración y trabajarla, señorías. Por tanto, nos \nveremos y nos encontraremos ahí.\nMuchas gracias. (Aplausos).\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Guijarro.\nPor el Grupo Parlamentario Popular en el Congreso, tiene la palabra el señor Castellón Rubio."
+  },
+  {
+   "speaker": "CASTELLÓN RUBIO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Presidenta, señorías, en el Grupo Popular compartimos la necesidad \nque han expresado aquí los grupos parlamentarios de poner encima de la mesa medidas de protección \nde consumidores en todos los ámbitos y, sobre todo, en el financiero, como también creemos que es \nnecesario establecer mecanismos que sirvan para descargar a los tribunales ordinarios de litigios que, \ndesgraciadamente, se acumulan en las mesas de los juzgados. Para conseguir tales fines, fue el Partido \nPopular cuando, estando en el Gobierno, promulgó en la Ley 7/2017 la necesidad de establecer un órgano \núnico centralizado de resolución alternativa de conflictos entre los consumidores y las entidades financieras \npara poder mejorar así el sistema actual, en el que cohabitan los tres servicios de reclamaciones, y \ncumpliendo también, por supuesto, con la Directiva europea 11/2013. Lo cierto es que tenemos un modelo \nque es mejorable, pero que no podemos decir que no funcione; un modelo, por cierto, similar al resto de \nEuropa.\nOtra opción podría haber sido apostar por un sistema en el que hubiéramos centralizado la regulación \nde la conducta en uno de los organismos existentes, dotándolo de más medios humanos y materiales, y, \na la vez, centralizar las funciones de supervisión prudencial en otro de ellos, una solución también \nperfectamente compatible con la ley y con la directiva.\nLo que sin duda no era obligatorio, y bajo el punto de vista del Grupo Popular tampoco era necesario, \nera crear un mamotreto administrativo que para echar a andar necesita, como mínimo, trescientos \nfuncionarios y que, por supuesto, vamos a acabar pagando todos los consumidores.\nSeñorías, nos hubiera gustado que el diseño de una nueva institución como esta hubiese surgido de \nun proceso legislativo pausado y más riguroso, pero es que — permítanme la expresión casi vulgar— este \nGobierno se ha acostumbrado a hacer leyes como churros, y luego salen leyes que son churros. Porque \nel departamento de la señora Calviño no solamente ha utilizado en este caso el procedimiento de urgencia, \nsino que además ha inventado el procedimiento legislativo exprés, término que ya se ha utilizado en la \ntribuna.\nSeñorías del PSOE, aceptar una enmienda no es dialogar; hacerle llegar al principal partido de la \noposición, cinco minutos antes de tener que votarlas, siete enmiendas transaccionales con un contenido \nárido tampoco es ni lo más transparente ni lo más dialogante ni tampoco lo más riguroso. Luego, está la \nrecurrencia a la perversión del sistema legislativo a la que ustedes están acostumbrados, cuando \nveinticinco minutos antes de la Comisión de Economía ustedes incluyen otras tantas enmiendas que nada \ntienen que ver ni con la creación de la nueva autoridad ni con el sistema financiero ni con nada parecido. \n(Aplausos). Ya se lo advertimos, señorías del PSOE, con la ley crea y crece. Les dijimos que con las \nenmiendas de última hora iban a perjudicar a las empresas e imposibilitar que accediesen a subvenciones \nde fondos europeos y a contratos públicos, y hoy estamos aquí, seis meses después — el tiempo nos ha \nvuelto a dar la razón—, intentando modificar — y vamos a hacerlo— de nuevo la Ley General de \nSubvenciones para tapar aquel parche. Pero es que, además, hoy también vamos a votar y a modificar \nlos presupuestos generales del Estado, porque el Gobierno se ha mostrado incapaz de asignar los fondos \neuropeos, en este caso en el PERTE Chip, y pretende tener, con una enmienda que aquí se vota, más \nflexibilidad para la introducción y la cesión de los mismos a la SEPI, en otra muestra más del rigor legislativo \nde este caótico Gobierno.\nPero vamos a la cuestión de fondo, porque con la urgencia legislativa que demuestra tener el Gobierno, \nyo no sé si intentando buscar un titular antes del 28-M, creemos que al Gobierno se le han pasado algunas \ncosas importantes por alto. La principal y más importante es que no sabemos hasta qué punto esta ley \naporta más seguridad jurídica al sistema, a los consumidores y a las entidades, porque el proyecto que se \nintrodujo en las Cortes nada tiene que ver con el proyecto que hoy sometemos a votación, y es que el \nGobierno, a través del Grupo Parlamentario Socialista, ha tenido que modificar la parte nuclear, la parte \nesencial del proyecto de ley, tras el varapalo del Consejo General del Poder Judicial, que dijo hace unos \ndías nada más y nada menos que no encajaba en el marco constitucional porque la nueva autoridad \ninvadía un espacio reservado al Poder Judicial, como también puso en solfa, por ejemplo, el intento de \nsustituir el orden civil por el administrativo, dudando de esa resolución coactiva de controversia que \ncorresponde, en todo caso, al ámbito del derecho privado. Y todo esto se podía haber evitado si el Gobierno \nhubiese esperado a que fuese emitido ese informe por el Consejo General del Poder Judicial antes de \ntraer el proyecto de ley a las Cortes. Pero es que, tras ese informe tan demoledor, que atacaba lo sustancial \ncve: DSCD-14-PL-271\n \ndel proyecto de ley, lo lógico hubiera sido haber retirado el proyecto de ley y haberlo rehecho de nuevo, y \nno intentar subsanarlo a toda prisa en la Comisión, porque ahora surge el problema de que, vía enmienda, \nestamos cambiando la Ley de Enjuiciamiento Civil e introduciendo en la misma un nuevo procedimiento \nespecial sobre el cual no sabemos la opinión del Poder Judicial. (Rumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, silencio, por favor."
+  },
+  {
+   "speaker": "CASTELLÓN RUBIO",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señora presidenta.\nComo tampoco ayuda que, por ejemplo, el Gobierno se haya empeñado en mantener en el ámbito \nsubjetivo de la aplicación de la autoridad la figura del cliente potencial, que nos suscita muchas dudas, \ncomo un concepto jurídico absolutamente indeterminado.\nEstamos de acuerdo en el fondo, señores diputados, pero se nos siguen presentando dudas con las \nreclamaciones sin cuantía, con la posibilidad de reclamaciones espurias por colectivos o despachos \nespecializados en ello. Por eso, el Grupo Popular presentó en su día numerosas enmiendas, algunas de \nlas cuales mantenemos hoy, para intentar diseñar un ente más racional, con mayor seguridad jurídica, con \nprocedimientos fiables que de verdad protejan a los consumidores, o incluso hemos presentado enmiendas \ntambién en la línea de otro grupo para garantizar el acceso a la cuenta de pago básica por parte de \nconsumidores vulnerables. El texto que hoy se aprueba, por supuesto, es mejor que el que llegó a la \nCámara, que era inconstitucional, pero adolece de vicios que el Gobierno está repitiendo proyecto de ley \ntras proyecto de ley. Al menos sabemos que este no va a rebajar las condenas de los asesinos. En \ndefinitiva, vamos a cambiar el sistema actual por uno que no sabemos si funcionará, que no sabemos \ncuánto nos costará, que será muy difícil poner en marcha y que nos aleja del modelo europeo. No sé si \nesto es motivo para estar de enhorabuena.\nCompartiendo la necesidad de mejorar el sistema actual, pero no las formas, y teniendo dudas de \ncalado, vamos a abstenernos, como ya hicimos en la Comisión.\nMuchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Gracias, señor Castellón.\nEn turno de fijación de posiciones, por el Grupo Parlamentario VOX, tiene la palabra el señor Manso \nOlivar. (Aplausos)."
+  },
+  {
+   "speaker": "MANSO OLIVAR",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "Buenos días, señorías.\nCon la urgencia que caracteriza a este Gobierno, el pasado 9 de marzo, como se ha indicado aquí, \ndebatimos la enmienda a la totalidad que presentamos a este proyecto de ley para la creación de una \nAutoridad Administrativa Independiente de Defensa del Cliente Financiero. Se lo repito porque, después \nde la intervención de Rego, a lo mejor pensaban que estábamos hablando de barcos. ¿La urgencia era \nnecesaria? Pues la verdad es que no, como bien ha indicado el señor Castellón, pero, como ustedes \nhabrán visto tantas veces en la vida, los ociosos tienen mucha prisa para hacer algo que no saben \nexactamente lo que es. (Aplausos). Desde nuestra enmienda a la totalidad y como consecuencia de la \nmisma — le agradezco al señor Bal el reconocimiento que ha hecho a la actuación de mi grupo—, se han \nintroducido evidentes mejoras en el texto original. Muchas de estas van en la línea adecuada. En este \nsentido las hemos apoyado y las apoyaremos hoy, porque lo que queremos en cualquier caso, aunque no \nestamos a favor de este proyecto de ley, es facilitar la mejora del mismo lo más posible para el caso de \nque salga aprobado, como creo que va a ocurrir.\nSin embargo, quería hablar de otras enmiendas, no solo de aquellas que no compartimos pero que \ntienen que ver con el contenido de la ley, no. Quiero hablar de todas esas enmiendas que se aprovecha \npara introducir en este texto y que no tienen nada que ver con el mismo y se introducen por el Gobierno o \npor otros grupos parlamentarios. Ahí tenemos el caso del señor Bel, defendiendo por enésima vez una \nenmienda que va intentando colocar por todos los proyectos de ley que se traen a esta Cámara. (Risas). \nTodas estas disposiciones son extemporáneas e inoportunas. Comprendemos que a veces quieren \nsolucionar problemas que requieren una solución y que la requieren ya, pero es que no es el sitio ni la \nhora, y aquí lo que se ve es muy poco respeto a la técnica legislativa. Sin embargo, la buena técnica \nlegislativa, como bien ha dicho también el señor Castellón, del Partido Popular, que es la garantía del \nrespeto a los derechos de los ciudadanos, no es esperable de un Gobierno que no distingue lo importante \nde lo urgente y que abusa del real decreto.\ncve: DSCD-14-PL-271\n \nLa creación de la autoridad que se propone ahora trae causa en la conflictividad jurídica de la crisis \nanterior, la de 2008. Los servicios de reclamaciones de las entidades bancarias y los supervisores se \nvieron, como ustedes saben, en principio colapsados, en parte porque los acuerdos que tomaban no \npodían ser vinculantes, y en ese sentido la norma actual, dando carácter vinculante a algunos de los \nacuerdos que toma la nueva autoridad, va a descongestionar mucho los tribunales. Sobre todo hemos \nconseguido una cosa importante que ya se ha indicado, que es eliminar el doble orden jurisdiccional civil \nque traía el texto al comienzo del proceso de estudio de este proyecto de ley. En cualquier caso, nos \noponemos a la creación de esta autoridad porque, a diferencia de lo que ha dicho usted, señor Guijarro, \nesto no lo exige la directiva europea, no exige este modelo, y la prueba es que solo Reino Unido, que \nademás no es Unión Europea, lo ha apoyado. (Aplausos). Estamos en contra, primero, porque para \nalcanzar los objetivos de separación de las supervisiones de solvencia y conducta, como bien nos \nindicaban el gobernador del Banco de España, el presidente de la CNMV o el profesor Arruñada en dos \nartículos muy interesantes en The Objective y en FEDEA, que les recomiendo leer, no es necesario crear \nuna nueva institución. Les voy a repetir una cosa: no es necesario crear un organismo público nuevo cada \nvez que tenemos un problema, que últimamente es lo que parece que pasa. (Aplausos). Y nos oponemos \nporque, a pesar de la mejora que se ha producido en la tasa, el sistema de financiación del nuevo \norganismo crea todos los incentivos para su crecimiento constante y continuo — incentivos perversos—, \ny una instancia u organismo que necesita no solo para existir, sino para crecer, que la conflictividad \njurídica suba, no va a reducir la conflictividad jurídica (aplausos), y la reducción de la conflictividad jurídica \ndebiera ser el principal objetivo de esta norma.\nClaro que sabemos que siempre existirá el conflicto social, es normal, pero una buena regulación \ncontractual, una buena exigencia efectiva de responsabilidades, basándonos en lo que ya teníamos o, en \ntodo caso, en el modelo twin peaks que nos proponían el gobernador del Banco de España y el presidente \nde la Comisión Nacional del Mercado de Valores habría sido suficiente. Pero este nuevo organismo lleva \nel germen del crecimiento constante y continuo sin solucionar el problema para el que se ha creado. \n(Aplausos). Como ejemplo, tienen ustedes lo que ha pasado con la FCA británica, que ha sido un modelo \nde éxito empresarial para los burócratas, porque se han multiplicado por veinte el número de burócratas \nen diez años; una maravilla.\nMiren, el exceso de conflictividad jurídica que padecimos tuvo su origen en la actuación de los \norganismos públicos y en la falta de administración de justicia — no habría estado de más que hablásemos \nde administración de justicia aquí y de proveerla de medios— y ustedes, sin embargo, no paran de hablar \nde fallos de mercado. Algunos de los productos que se comercializaron fueron promovidos por la regulación \ny los reguladores, y les voy a citar tres. Por ejemplo, la obligación impuesta por el artículo 19 de la \nLey 36/2003, de 11 de noviembre, que obligó a ofrecer productos para la cobertura del riesgo de tipo de \ninterés a los deudores hipotecarios a tipo variable; las recomendaciones del Banco de España de incluir \ncláusulas de tipo mínimo en los préstamos hipotecarios a tipo variable; o las recomendaciones del Banco \nde España de comercialización de preferentes y cuotas de participaciones entre el público como modo de \nreforzar la solvencia de las cajas de ahorros. Todo esto que les digo no es popular, pero es la verdad, lo \nsiento mucho. (Aplausos).\nVoy concluyendo, señorías. De nuevo, con la excusa de solucionar lo que ustedes llaman con \nmucha alegría fallos de mercado, van a incurrir en un nuevo fallo de la política, porque quieren crear un \norganismo nuevo con todos los incentivos para crecer a costa del aumento de la conflictividad. Atajando \nlas consecuencias no se soluciona nada, el problema está siempre en las causas, y la causa del \ncrecimiento..."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señor Manso, tiene usted que terminar, por favor."
+  },
+  {
+   "speaker": "MANSO OLIVAR",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "… desproporcionado e insostenible de lo público — termino, señoría— \nsiempre está en su irresponsabilidad, y este mecanismo nuevo nace sin responsabilidad, al menos la \nfinanciera.\nNo sean irresponsables, señorías. (Aplausos de las señoras y los señores diputados del Grupo \nParlamentario VOX, puestos en pie)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Manso.\nPor el Grupo Parlamentario Socialista, tiene la palabra el señor Casares Hontañón.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "CASARES HONTAÑÓN",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "",
+   "text": "Buenos días, presidenta.\nSeñorías, hoy vamos a aprobar una de esas leyes que cambian a mejor la vida de la sociedad a la que \ndebemos representar con responsabilidad en este Congreso de los Diputados. El proyecto de ley por el que \nse crea la Autoridad Administrativa Independiente de Defensa del Cliente Financiero es un paso más para \nhacer un país mejor para quienes más necesitan de la buena política, para que se les proteja, se defiendan \nsus derechos y se vele por sus intereses. Es una ley ambiciosa que aprobó el Consejo de Ministros a \npropuesta de la vicepresidenta Nadia Calviño y que sale hoy de este Congreso de los Diputados tras meses \nde mucho trabajo y diálogo; diálogo que nos ha permitido aprobar 48 enmiendas, transaccionar 89 o que \nse retiren 44 fruto de ese acuerdo, de un total de 250. Detrás de todo esto hay muchos debates, análisis, \nreuniones con los sectores implicados y acuerdos parlamentarios, pero muchas discusiones también, con \nEdmundo, con María, con Ferran, con Idoia, con Joan o con Txema, que han hecho de esta una ley mejor \nque la que ya aprobó el Consejo de Ministros; una ley que vuelve a demostrar la apuesta de este Gobierno \ny del PSOE por el acuerdo. Por eso, si me lo permiten, quiero comenzar esta intervención agradeciendo, \nprecisamente a los grupos parlamentarios y a sus portavoces, el trabajo, sus propuestas y su debate \nsereno y responsable en la Comisión de Asuntos Económicos, que hace posible que hoy esta ley salga con \nun amplio consenso; por supuesto, a Gonzalo y a todo el equipo de la Secretaría de Estado de Economía, \nque hoy nos acompañan; también al presidente de la Comisión, Celso, a nuestra querida letrada, Mónica, \ny a todo el personal técnico de la Comisión.\nSeñorías, todos los que han querido acordar están y votarán hoy a favor de este proyecto de ley. \nNo estará VOX, pero lamentablemente tampoco el Partido Popular. Han buscado — lo han vuelto a \ndemostrar hoy— muchas excusas, pero la verdad es que no hemos podido contar con ustedes en \ndemasiadas ocasiones en esta legislatura. El Partido Popular ha dicho no a revalorizar las pensiones, \na subir el salario mínimo interprofesional, a aprobar esta misma semana la ley de vivienda, a seguir \naprobando y desarrollando los fondos europeos o a una reforma laboral con la que estamos creando \nmás empleo de calidad; son demasiadas veces no, señorías del Partido Popular. (Aplausos). Si \nconsiguiéramos entre todos cambiar ese ruido, por el que tantas veces es famosa esta tribuna, por \nlos acuerdos que alcanzamos, la política y la democracia ganarían. Y esta reflexión inicial me lleva a \notra: frente a un contexto internacional como el que estamos viviendo, derivado de la pandemia y \nahora de las consecuencias de la guerra en Ucrania, nuestro país ha resistido y lo ha hecho mejor \nque los demás. España es hoy el país que más crece de la Unión Europea, somos uno de los países \ncon la menor tasa de inflación de la zona euro y estamos creando más empleo que nunca, con ese \ndato adelantado del mes de mayo que sitúa ya la afiliación a la Seguridad Social en 20,8 millones de \npersonas trabajando. Y esto es fruto de la buena política económica del Gobierno de España y de \nPedro Sánchez, pero también, señorías, del trabajo que hacemos en este Parlamento, que en tiempos \ntan difíciles como los que vivimos nos ha permitido también aprobar más de doscientas leyes para \nmejorar la vida de la ciudadanía. Reivindiquemos esa, la buena política, la que también aquí, señora \npresidenta, hacemos en el Congreso de los Diputados (aplausos); una buena política como la que \nhoy permite también aprobar esta ley, la ley por la que protegemos a los clientes financieros, dando \nmayores garantías y mayor seguridad, sobre todo, señorías, a los más vulnerables, a los mayores de \nsesenta y cinco años y a las personas con discapacidad, preocupados cuando tienen que hacer una \ngestión bancaria y solo se les habla de aplicaciones móviles o digitales, o a las personas migrantes y \na quienes solicitan una cuenta de pago básica para poder, por ejemplo, recibir el ingreso mínimo vital \ny no se les escuchaba.\nHoy damos un paso más para dar dignidad a todos esos colectivos, hoy damos un paso para la \nprotección de millones de españoles que contratan una hipoteca, un fondo de inversión, abren una cuenta \nbancaria o firman un seguro. Esta ley es fundamental y con ella avanzamos en la protección de los \nclientes de los sectores de la banca, los seguros y los fondos de inversión. Con esta ley, señorías, si la \nhubiésemos tenido, hubiéramos protegido más y mejor a todos los afectados por las preferentes, a todas \nesas personas a las que se les ha denegado una cuenta de pago básica, a nuestros mayores o a cualquiera \nde los millones de españoles que cada año contrataban un seguro, una hipoteca o un producto financiero. \nEs una ley, señorías, que crea un sistema de reclamaciones vinculante, gratuito y más rápido, unificando \ncriterios ante un mismo organismo de supervisión; una ley, señorías, que financiará íntegramente el sector \ncon una tasa anual; una ley que es fruto del acuerdo y que deja solo en una jurisdicción — la civil— \naquellos casos que no se resuelvan y facilita así que la mayoría de conflictos puedan solucionarse de una \nforma más económica para ambas partes y sin largos procesos judiciales.\ncve: DSCD-14-PL-271\n \nTermino con una reflexión final. Esta ley demuestra una cuestión más: la voluntad firme de este \nGobierno, del Gobierno de España, de modernizar la estructura económica de nuestro país para tener una \neconomía más competitiva, más sostenible y más resiliente, pero también más justa e inclusiva. Estas \nleyes hacen de España un país mejor. En eso estamos y en eso va a continuar todo lo que queda de \nlegislatura el Grupo Parlamentario Socialista y este Gobierno.\nMuchas gracias, señorías. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Casares.\nVotamos en cinco minutos. (Pausa).\nVOTACIÓN."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, vamos a comenzar las votaciones.\nDictámenes de comisiones sobre iniciativas legislativas. Proyecto de Ley por la que se crea la Autoridad \nAdministrativa Independiente de Defensa del Cliente Financiero para la resolución extrajudicial de \nconflictos entre las entidades financieras y sus clientes.\nEnmiendas presentadas por el Grupo Parlamentario Vasco (EAJ-PNV).\nEnmienda 85.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 147; en contra, 163; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 86.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 147; en contra, 171; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas presentadas por el Grupo Parlamentario Ciudadanos.\nEnmiendas 117 y 142.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 144; en contra, 172; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 119.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 9; en contra, 304; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 125 y 134.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 95; en contra, 222; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 133.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318; a favor, 92; en contra, 219; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\ncve: DSCD-14-PL-271\n \nEnmienda 151.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 12; en contra, 304; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas del Grupo Parlamentario Ciudadanos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 319; a favor, 145; en contra, 173; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Rego Candamil.\nEnmiendas 18, 19 y 26.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 318; a favor, 22; en contra, 296."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 21.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 71; en contra, 249."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 22, 24, 30 y 33.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 74; en contra, 246."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 23.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 20; en contra, 298; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 25.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 1; en contra, 298; \nabstenciones, 21."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 32.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 54; en contra, 249; \nabstenciones, 17."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 34.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 25; en contra, 247; \nabstenciones, 48.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas del señor Rego Candamil.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 19; en contra, 298; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda presentada por el Grupo Parlamentario Plural, señor Errejón Galván.\nEnmienda 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 21; en contra, 298; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señor Bel Accensi.\nEnmiendas 154 y 155.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 61; en contra, 259; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 158.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 101; en contra, 217; \nabstenciones, 3."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 160, 161 y 163.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 139; en contra, 165; \nabstenciones, 17."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 172.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 153; en contra, 167; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 176.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 93; en contra, 219; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 177, 178 y 182.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 61; en contra, 260."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 187.\nComienza la votación. (Pausa).\ncve: DSCD-14-PL-271\n \nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 22; en contra, 215; \nabstenciones, 84."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 188.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 19; en contra, 241; \nabstenciones, 61."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas del señor Bel Accensi.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 140; en contra, 177; \nabstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Plural, señora Nogueras i Camero.\nEnmienda 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 23; en contra, 298."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 140; en contra, 165; \nabstenciones, 16."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 320; a favor, 140; en contra, 168; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 12.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 23; en contra, 296; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas presentadas por el Grupo Parlamentario Republicano.\nEnmiendas 190 y 191.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 19; en contra, 298; \nabstenciones, 4."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 193.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 21; en contra, 296; \nabstenciones, 4.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 208 y 219.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 71; en contra, 249; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 226.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 17; en contra, 250; \nabstenciones, 54."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas del Grupo Parlamentario Republicano.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 22; en contra, 250; \nabstenciones, 50."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmiendas presentadas por el Grupo Parlamentario Confederal de Unidas Podemos—En Comú \nPodem-Galicia en Común.\nEnmienda 72.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 48; en contra, 273; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 245.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 97; en contra, 225."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas presentadas por el Grupo Parlamentario Popular en el Congreso.\nEnmiendas 99 y 109.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 139; en contra, 175; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 100.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 138; en contra, 164; \nabstenciones, 20."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmiendas 101 y 102.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 146; en contra, 169; \nabstenciones, 7."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nEnmienda 105.\ncve: DSCD-14-PL-271\n \nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 154; en contra, 167; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 106.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 146; en contra, 171; \nabstenciones, 5."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 110.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 90; en contra, 231; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nEnmienda 112.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 321; a favor, 87; en contra, 222; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, queda rechazada.\nResto de las enmiendas del Grupo Parlamentario Popular en el Congreso.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 322; a favor, 138; en contra, 172; \nabstenciones, 12."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "En consecuencia, quedan rechazadas.\nPALABRAS DE LA PRESIDENCIA."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Señorías, les informo de que, desde las diez y media hasta las once y \ncuarto, es decir, durante cuarenta y cinco minutos, se podrán votar telemáticamente el resto de los asuntos \nincluidos en el orden del día, que serán objeto de votación presencial en el hemiciclo al final de la sesión.\nENMIENDAS DEL SENADO:\n— PROYECTO DE LEY POR LA QUE SE MODIFICAN LA LEY 58/2003, DE 17 DE DICIEMBRE, \nGENERAL TRIBUTARIA, EN TRANSPOSICIÓN DE LA DIRECTIVA (UE) 2021/514 DEL CONSEJO \nDE 22 DE MARZO DE 2021 POR LA QUE SE MODIFICA LA DIRECTIVA 2011/16/UE RELATIVA A \nLA COOPERACIÓN ADMINISTRATIVA EN EL ÁMBITO DE LA FISCALIDAD, Y OTRAS NORMAS \nTRIBUTARIAS (ANTES DENOMINADO PROYECTO DE LEY POR LA QUE SE MODIFICA LA \nLEY 58/2003, DE 17 DE DICIEMBRE, GENERAL TRIBUTARIA, EN TRANSPOSICIÓN DE LA \nDIRECTIVA (UE) 2021/514 DEL CONSEJO DE 22 DE MARZO DE 2021 POR LA QUE SE MODIFICA \nLA DIRECTIVA 2011/16/UE RELATIVA A LA COOPERACIÓN ADMINISTRATIVA EN EL ÁMBITO DE \nLA FISCALIDAD). (Número de expediente 121/000139)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Seguimos con el punto del orden del día correspondiente a las enmiendas \naprobadas por el Senado al Proyecto de Ley por la que se modifican la Ley 58/2003, de 17 de diciembre, \nGeneral Tributaria, en transposición de la Directiva 2021/514 del Consejo de 22 de marzo de 2021 por la \nque se modifica la Directiva 2011/16 UE, relativa a la cooperación administrativa en el ámbito de la \nfiscalidad y otras normas tributarias. (Rumores).\nEn turno de fijación de posiciones, por el Grupo Parlamentario Ciudadanos, tiene la palabra la señora \nMartínez Granados. (Continúan los rumores).\nSeñorías, les pido silencio, por favor, para poder continuar con el Pleno.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "MARTÍNEZ GRANADOS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nSeñorías, desde Ciudadanos no nos vamos a oponer a la aprobación de este proyecto, porque se \ntrata de una trasposición de una directiva europea en materia de cooperación fiscal entre Estados, con la \nque realmente estamos de acuerdo. Esta norma persigue mejorar el intercambio de información y la \ncooperación administrativa en Europa, extendiéndola a nuevos ámbitos como la de los operadores \ndigitales. (Rumores).\nEncontramos muy positiva la nueva regulación que contiene este proyecto, como digo, una trasposición \nde directiva, sobre los controles simultáneos y las inspecciones conjuntas, así como la nueva obligación \nde información a los operadores de plataformas digitales. (Rumores). En Ciudadanos siempre estamos \nde acuerdo y apoyamos medidas que persigan recaudar no necesariamente más… (Continúan los \nrumores)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Perdone, señora Martínez, no creo que estemos en condiciones de seguir \nsu intervención."
+  },
+  {
+   "speaker": "MARTÍNEZ GRANADOS",
+   "party": "Cs",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidenta.\nComo decía, en Ciudadanos siempre estamos a favor de medidas que persigan recaudar no \nnecesariamente más, pero sí de una manera mejor y más eficiente, persiguiendo el fraude o tratando de \nevitarlo allí donde tenga potencialidad para producirse. En este sentido, el desarrollo de la economía \ndigital puede constituir un pozo importante de fraude, deslocalizaciones ficticias y ausencia de recaudación. \nDe ahí, la importancia de la nueva obligación de información que se impone a los operadores de plataformas \ndigitales por las transacciones que realicen los usuarios de las mismas.\nPero, a pesar de no oponernos a la aprobación de esta norma por la importancia de muchas de las \ncuestiones que regulan, no podemos dejar de denunciar los modos parlamentarios con los que se maneja \neste Gobierno y su muy cuestionable técnica legislativa que entorpece totalmente el debate, el rigor \nparlamentario y la labor de los grupos de la oposición. No hace mucho tiempo, experimentamos en un \núltimo proyecto, donde se traspusieron cinco directivas europeas, inconexas totalmente y sin ninguna \nrelación entre sí, que se trataban desde cuestiones tributarias hasta migratorias, jurídicas e incluso \nmedioambientales; y estas últimas fueron introducidas vía enmienda por parte del Gobierno.\nEl Consejo de Estado ya ha tenido que denunciar en varias ocasiones el modo de legislar de este \nGobierno, y volvemos a experimentarlo de nuevo con este proyecto. Podríamos, perfectamente, apoyar \nsu contenido primitivo, pero tenemos que denunciar que se haya modificado hasta con veinticinco \nautoenmiendas de los grupos representantes del Gobierno, la mitad introducidas en el Congreso y el resto \nintroducidas en el Senado. El Gobierno se enmienda a sí mismo una semana en el Congreso y otra \nsemana en el Senado, y no solo con cambios al texto original de este proyecto aprobado por el Consejo \nde Ministros y verificado por el Consejo de Estado, sino a normas aprobadas por él mismo hace apenas \nunos meses, y cuya tramitación, además, se encuentra paralizada en el Congreso. Me refiero, por ejemplo, \na las modificaciones que se han introducido a los reales decretos leyes 14/2022 y 11/2022, de medidas de \nsostenibilidad económica y para responder a las consecuencias de la guerra, que siguen en tramitación \ncomo proyecto de ley en esta Cámara. El Gobierno introduce, mediante enmiendas, a este proyecto sobre \ncooperación administrativa internacional, cambios en el ámbito del IVA, del impuesto de sociedades o en \nel impuesto sobre las personas no residentes, que ninguna relación guarda con el objeto principal de la \nnorma.\nTenemos un Gobierno enmendado por el Consejo de Estado sobre su forma de legislar, con normas \nreiteradamente autoenmendadas y corregidas apenas unos meses después de su aprobación, con la \nparalización de normas cuya tramitación sí ha sido bendecida por el Parlamento, como puede ser, en este \ncaso, la ley ELA, que lleva más de cuarenta y ocho ampliaciones de plazo y todavía sigue en el cajón, \nporque este Gobierno no cree que las personas con ELA tengan derecho a que se tramite dicha ley.\nTambién están el uso y el abuso de la figura del real decreto ley, como hemos denunciado desde \nCiudadanos en numerosas ocasiones, y con el indebido uso de la proposición de ley, en lugar del proyecto \nde ley, para evitar informes relevantes de órganos independientes. El uso abusivo del veto presupuestario \nes algo que también hay que destacar en esta tramitación, y es que el Gobierno hace electoralismo en \nforma de regalos injustificados con dinero público, con dinero de todos los españoles, mientras vetan en \nla tramitación enmiendas que son totalmente justas con las que nosotros hubiéramos estado de acuerdo \ny hubiéramos votado a favor, como, por ejemplo, la referente a la rebaja del IVA de las peluquerías, asunto \nsobre el que el sector lleva peleando y demandando durante mucho tiempo, y que, en Ciudadanos, \ncve: DSCD-14-PL-271\n \nsiempre hemos estado a favor de dicho cambio. También, por ejemplo, hay una enmienda del Partido \nPopular para eximir la tributación de los intereses de demora pagado por la Administración tributaria a los \ncontribuyentes, aspectos sobre los que nosotros ya hemos pedido explicaciones al Gobierno y hemos \nregistrado una proposición de ley.\nComo digo, al tratarse de una trasposición de una directiva europea que persigue mejorar el intercambio \nde información y la cooperación administrativa en la Unión Europea, así como extenderla a estos nuevos \námbitos con los operadores digitales, Ciudadanos votará que sí a este proyecto de ley.\nMuchísimas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señora Martínez.\nPor el Grupo Parlamentario Plural tiene la palabra el señor Bel Accensi."
+  },
+  {
+   "speaker": "BEL ACCENSI",
+   "party": "Plural",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, señora presidenta.\nSeñorías, hace un momento el señor Rubén Manso — no está en estos momentos en la sala, pero \nseguro que amablemente alguno de sus compañeros de VOX le va a transmitir mi reflexión al respecto— \nme afeaba que yo presentara enmiendas con cierta perseverancia en diferentes proyectos de ley y, \nademás, que algunas enmiendas no tenían que ver estrictamente con lo que se trataba con la ley. Me lo \npone un poco fácil el señor Rubén Manso. Habrá que ver quién aporta más a la ciudadanía, habrá que \nsumar todas las enmiendas que al señor Rubén Manso le habrán aprobado a lo largo de esta legislatura. \nBueno, me vengo arriba. Sumen todas las que han aprobado al Grupo Parlamentario VOX y compárenlas \ncon las que me han aprobado sus señorías, con la oposición y con el Gobierno. Eso seguramente le sabe \nmal. (Rumores). Sí. Veo que tienen la piel muy fina los señores de VOX. Sí. Ustedes, cuando termine la \nlegislatura, tendrán que subir a esta tribuna o ir a los mítines y decir: nosotros llevamos cincuenta y dos \ndiputados a pisar moqueta en el Congreso de los Diputados y hemos conseguido esto. (Hace un gesto \ncon la mano de arriba abajo indicando una lista). Bueno, esto no; han conseguido esto (junta el dedo \npulgar con el dedo índice de una mano indicando cero) en cuatro años. (Risas y aplausos). Y eso se \nlo tendrán que explicar a sus conciudadanos.\nVayamos al asunto, que les va a gustar. Aquellas enmiendas que se han presentado en reiteradas \nocasiones o que se presentan a leyes que no son específicamente del tema. Vamos a ver qué hemos \nconseguido en esta ocasión, después de reiterados temas que no son estrictamente de la cuestión de la \nley. Había una situación que yo entiendo que a los diputados de VOX no les preocupaba ni una migaja y \nera la siguiente. En el año 2003 se aprobó la Ley 41/2003, de protección patrimonial para los patrimonios \nprotegidos de la gente con discapacidad. Posteriormente, en el año 2010 se modificó el libro segundo del \nCódigo Civil catalán, donde se regulaba la creación de los patrimonios protegidos para la gente con \ndiscapacidad. Según una interpretación por parte de diferentes órganos de la Agencia Estatal de \nAdministración Tributaria, todos los beneficios fiscales que se aprobaron con la Ley 41/2003 no eran de \naplicación en Cataluña a todos aquellos patrimonios protegidos creados de acuerdo con el Código Civil \ncatalán, y esto había generado de forma reiterada muchísimas actas. En la práctica, ¿qué supuso? \nSupuso que cuando las personas en Cataluña, aplicando su Código Civil, el que les es de aplicación, \ncreaban un patrimonio protegido para sus hijos o para sus familiares, no podían tener los beneficios \nfiscales como cualquier otra persona que lo hacía en el resto del Estado español.\n¿Con esta enmienda qué hemos conseguido? Con esta enmienda conseguimos que todas las \naportaciones que se realicen en todo el territorio estatal, independientemente de la fórmula con la que se \nhayan constituido estos patrimonios protegidos, ya sea con el Código Civil español o con los códigos \nciviles de cada una de las comunidades autónomas que tengan competencia al respecto, tengan el mismo \ntrato fiscal. Es decir, este humilde diputado ha conseguido que cuando una persona haga una aportación \nde 15 000 euros para el patrimonio protegido de su hijo o de su hija con discapacidad, para que cuando él \nfalte no le falte de nada a su hijo o a su hija, se pueda beneficiar del mismo trato en el IRPF, por ejemplo, \nen Madrid, en Toledo o en Barcelona.\nAquí quiero expresar mi agradecimiento al Ministerio de Hacienda, concretamente a la ministra y a \ntodo su equipo, porque, a diferencia de otras ocasiones y otros gobiernos, han entendido la problemática \ny han hecho posible que se solucione mediante esta disposición adicional que se incorpora a la Ley 41/2003. \nY también quiero mostrar mi agradecimiento a diferentes colectivos — si este grupo parlamentario se \ncaracteriza por algo es por escuchar las problemáticas de los diferentes colectivos para intentar \nresolverlas—, especialmente a Dincat, una entidad que agrupa a diferentes entidades y asociaciones en \nCataluña que trabajan en el ámbito de la discapacidad, y al Colegio Notarial Cataluña, porque nos han \ncve: DSCD-14-PL-271\n \nayudado a proponer esta enmienda que va a solucionar un problema que algunos seguramente ni conocían \ny para otros no era importante, pero para la gente afectada en Cataluña era muy importante. En todo caso, \ngracias a todos ustedes, sobre todo a los miembros de la Comisión de Hacienda que votaron favorablemente, \ncon la única excepción de los amigos y compañeros de VOX.\nMuchísimas gracias."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias, señor Bel.\nPor el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, \ntiene la palabra la señora Maestro Moliner."
+  },
+  {
+   "speaker": "MAESTRO MOLINER",
+   "party": "Podemos",
+   "role": "diputado",
+   "topic": "",
+   "text": "Moltes gràcies, presidenta.\nBon dia. Señorías, concluye hoy la tramitación de un proyecto de ley que, como ya se ha dicho, \ntraspone una directiva europea a nuestro ordenamiento jurídico, concretamente la relativa a la cooperación \nadministrativa en el ámbito de la fiscalidad y el modelo de reglas aprobado en el seno de la OCDE. \nEstamos hablando de un conjunto de medidas elaboradas para luchar de manera efectiva contra el fraude \ny la elusión fiscal y que contribuyen, sin ninguna duda, a avanzar en materia tributaria para lograr, al \nmenos en el espacio comunitario, sistemas fiscales más justos y progresivos. (El señor vicepresidente, \nRodríguez Gómez de Celis, ocupa la Presidencia). Para todo eso, es necesario estructurar un marco \nadecuado para un intercambio de información y una cooperación administrativa dentro del seno de la \nUnión Europea, pero muy concretamente para abordar nuevos problemas con los que nos iremos \nencontrando que giran en torno a la digitalización de la economía.\nCon las distintas medidas que se incorporan en este proyecto, que vamos a aprobar definitivamente \n— o eso se estima— durante la sesión de hoy, uno de los puntos fundamentales debe ser potenciar los \nrecursos públicos, ya que por fin la Administración tributaria va a poder tener acceso a más información \nque garantizará, de una manera u otra, un mayor control tributario tan necesario en estos momentos y que \nprocura una mayor transparencia a todos los niveles, algo en lo que solo podíamos estar de acuerdo. \nAdemás, las pasadas y recientes crisis en las que nos hemos encontrado han demostrado que es esencial \ncontar con recursos públicos suficientes para poder dar una respuesta o mejorarla en los casos que sea \nnecesario por parte del Estado, evitando que la desigualdad aumente, y no solo apostar por los servicios \npúblicos, como siempre ha hecho mi grupo y seguirá haciendo desde todos los niveles y seguiremos \ndenunciándolo en ese sentido, porque entendemos firmemente que garantizar los servicios públicos es la \núnica forma real de cohesionar y beneficiar al conjunto de la ciudadanía. Necesitamos, en definitiva, \nseñorías, un sistema tributario que asegure una financiación suficiente para mejorar nuestras políticas de \nsanidad, de educación, de vivienda y también nuestros servicios sociales. Seguiremos luchando por ello, \npero también — y me parece de justicia recordarlo— seguiremos luchando, como lo hemos hecho hasta \nahora, porque llevamos esperando más de ocho años, por una financiación justa para el país valencià. \nSeguimos siendo las más agraviadas. (Aplausos). Por favor, corresponde ya. Llevamos mucho tiempo \nesperando y no podemos seguir dejando pasar esta oportunidad.\nYa sabemos también que el fraude y la elusión fiscal son las lacras que están deteriorando la suficiencia \ny la equidad en cualquier sistema fiscal, y es condición necesaria para la viabilidad de todo el sistema, de \ntodo nuestro país, luchar con garantías contra aquellas. Pero, claro, lo que también sabemos es que no \ntodos los grupos de esta Cámara van a estar dispuestos a esto. Desde luego, así lo han demostrado. No \nsolo es que no lo compartan, sino que todo indica que son más de defraudar y, sobre todo, de amnistiar; \nde amnistiar, por supuesto o posiblemente, a corruptos amiguitos, pero hacerlo también, por supuesto y \nposiblemente, con corruptos reyes. Así que me parece que también es el momento de poner en valor todo \nesto y de que no aceptaremos no solo amnistiados, sino corrupciones, vengan de la Corona o vengan de \ndonde vengan. (Aplausos). En nuestro grupo parlamentario creemos que es imprescindible seguir \napostando por estas medidas organizativas que aseguren la reducción del fraude fiscal en el conjunto del \nEstado y para eso también es imprescindible una colaboración total con las administraciones tributarias \nautonómicas y forales. Pensarlo de otra manera sería, sencillamente, dejarnos una parte olvidada.\nTambién pensamos que a nivel europeo es muy importante agilizar todos los trabajos para el desarrollo \nnormativo del tipo mínimo del 15 % en el impuesto sobre sociedades para las empresas de mayor \ndimensión. Igualmente, sabemos que esto no es compartido por muchos de los grupos. En varias \nocasiones lo hemos manifestado y lo hemos defendido; sin embargo, ni siquiera hemos encontrado todo \nel apoyo de izquierdas, o de quienes dicen ser de izquierdas, que esperábamos. Con esto también se \nevidencia uno de los grandes problemas que tiene nuestro país. Estamos hablando del dumping fiscal. \ncve: DSCD-14-PL-271\n \nTrataremos de evitarlo a nivel europeo y seguiremos luchando para que así sea, pero no olvidemos que \nuno de nuestros principales problemas, que nos está causando graves deficiencias de suficiencia de \nrecursos, es el dumping fiscal a nivel del territorio español. Así que ya está bien. Ya está bien de que \ndeterminadas comunidades autónomas decidan reducir su nivel de ingresos para después exigir que el \nEstado no le transfiere suficiente. Ya está bien, y seguiremos luchando a todos los niveles.\nComo ya hemos dicho en alguna otra ocasión, animamos al Gobierno de coalición a que aproveche \nesta Presidencia de la Unión Europea para impulsar todos los acuerdos que permitan avanzar en materia \ntributaria, que sirvan para hacer frente a distintos retos, como el cambio climático o la digitalización, y que \npromuevan la reducción de las desigualdades sociales, económicas, de género o territoriales. Y con todo \nesto, que suponga en esencia la pieza angular para empezar a funcionar en una verdadera reforma fiscal.\nVotaremos a favor. Lo haremos respecto a las enmiendas que incorpora el Senado, considerando \nademás que esta ley es un paso más dentro del largo camino que nos queda por recorrer en materia fiscal \npara conseguir sistemas tributarios más justos, suficientes y progresivos. Aquí seguiremos luchando, sin \nolvidar todo lo que queda pendiente, y desde luego garantizar los servicios públicos siempre va a ser \nnuestra gran referencia.\nSin más, muchas gracias, señorías. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario VOX, tiene la palabra el señor González Coello de Portugal."
+  },
+  {
+   "speaker": "GONZÁLEZ COELLO DE PORTUGAL",
+   "party": "VOX",
+   "role": "diputado",
+   "topic": "",
+   "text": "Con la venia, señor presidente.\nNos traen aquí un proyecto de ley que es una trasposición de una directiva europea, la 2021/514, la \ndenominada DAC7, que básicamente habla de las inspecciones conjuntas y del intercambio de información \ntransfronterizo. Hasta ahí todo muy bien. Esto ha sido presentado en la Comisión de Hacienda, donde, por \ncierto, nuestras enmiendas fueron rechazadas en su totalidad. Esto lo digo por el señor que ha hablado \nantes. Para nosotros que los grupos separatistas, golpistas y terroristas nos mencionen en esta Cámara \nes una medalla y ya nos da una razón de estar y poder hablar aquí. (Aplausos). O sea, que le agradezco \nel tiempo que nos ha dedicado y la mención explícita a un compañero nuestro, cuya labor, por cierto, usted \nmismo ha reconocido en la Comisión de Hacienda y también ha sido reconocida por otro portavoz esta \nmañana aquí mismo. Así que muchas gracias por su tiempo, por su mención y por los desvelos que le \ntraemos. Se lo digo, por supuesto, con cordialidad.\nEl Gobierno viene abusando de manera sistemática de los decretos leyes con tramitaciones difíciles \nde entender que producen textos caóticos, inconexos y chapuceros. Ya se han mencionado — por lo tanto, \nno me voy a detener— las más de veinte autoenmiendas que el propio Gobierno, a través de sus grupos, \nha metido en este proceso y cómo ha metido enmiendas que ni siquiera hemos podido discutir en la \nComisión de Hacienda. Y esto no solo lo digo yo, sino que también lo dice el Consejo de Estado, y no sé \npor qué este Gobierno ignora las recomendaciones del Consejo de Estado dadas las consecuencias que \nestá teniendo. Lo más claro es la ley del solo sí es si, con más de cien violadores y maltratadores en la \ncalle. Esto se lo advirtió que iba a ocurrir el Consejo de Estado y se lo vuelve a advertir aquí. Esto es una \nchapuza. Y les quiero leer literalmente lo que dicen algunas de las notas del informe del Consejo de \nEstado, que habla de fragmentación normativa existente en la regulación legal de una materia tan sensible \ncomo los pilares fundamentales del sistema tributario — lo estoy leyendo literalmente— y que, por tanto, \nhace falta aprobar un texto refundido. También hace referencia el Consejo de Estado con este proyecto de \nley a que realmente queda deferida la directiva a una simple norma reglamentaria y que, por lo tanto, \nhabrá que sacar más decretos leyes — ya que ustedes gobiernan a través de decretos, más de cincuenta, \nalgo que no había ocurrido nunca en la historia de la democracia— para poder apañar la chapuza que \nsignifica lo que hoy ustedes quieren aprobar.\n¿Qué significa este aviso, esta alerta de esta fragmentación legislativa? Que hace la vida más \ncomplicada. La hace más complicada y trae inseguridad jurídica porque hay una mayor fragmentación \nlegal. También esto significa costes. Están los costes de cumplimiento de todos los que pagamos \nimpuestos, a los que nos es casi imposible saber cómo debemos hacer para poder pagar los impuestos \nde una manera correcta. Y están los costes de la propia Administración, que están realmente fuera de la \nmedia de la Unión Europea. Les vuelvo a hablar del informe Mirrlees — lo he mencionado muchas veces— \ny de la certeza empírica que existe en el caso español del coste marginal de los fondos públicos, que dice \nque para poder dedicar 1 euro más a carreteras, a pagar sanidad y a hacer nuevos hospitales el Estado \ntiene que recaudar entre 1,4 y 2,13 euros. Es decir, algunas veces tiene que recaudar más del doble de lo \ncve: DSCD-14-PL-271\n \nque luego va a poder destinar realmente para el bienestar de los ciudadanos (aplausos), y la fragmentación \nlegislativa que ustedes nos traen nos lleva a que esos costes marginales de los fondos públicos — lo \nvuelvo a decir: certeza empírica—se disparen aún más. Solo por eso, además de la inseguridad jurídica, \nustedes deberían hacer las cosas mejor e intentar evitar las chapuzas.\nAvisa el Consejo de Estado también al Gobierno de que el uso de justificaciones de manera fraudulenta \nsignifica que se está menoscabando el control de la legalidad y la constitucionalidad, pero ya sabemos \nque esto a ustedes les da igual, y aquí están los hechos de esta legislatura. De las cuatro directivas, solo \nuna, la digitalidad de las sociedades, tenía realmente un vencimiento, pero sin que hubiera recurso de la \nComisión Europea por retraso de estas normas. Por lo tanto, el requisito de urgencia que ustedes utilizan \npara hacer esta chapuza de decreto es falso y es una mentira más de su Gobierno, a las que ya nos tienen \nustedes acostumbrados, a nosotros y a todos los españoles. El Gobierno de la mentira.\nNo podemos estar de acuerdo con este popurrí de textos inconexos, que nada tienen que ver con la \nrealidad. Muy especialmente, no podemos estar de acuerdo con el reconocimiento de las facultades que \nquieren dar al órgano de gestión tributario, que hasta ahora estaba otorgado específicamente al órgano \nde inspección. No puede ser que el órgano de gestión se presente en una pyme — por ejemplo, en la \ntienda de encuadernación que tenemos aquí, en la esquina— a revisar la contabilidad cuando no es una \ninspección. Eso es un verdadero disparate: dispara los costes, crea inseguridad y, sobre todo, saca del \nmarco jurídico la protección que tiene el contribuyente en la inspección. Se lo hemos dicho, no nos han \nhecho caso y creo que realmente es un asalto.\nEstas cosas me hubiese gustado hablarlas con la señora ministra en la Comisión, pero lleva más de \ndos años — dos años y dos meses— sin aparecer por la Comisión de Hacienda, algo que no ha ocurrido \nnunca en la historia de la democracia; no ha ocurrido nunca. La verdad es que yo he ido al CIS para ver \nqué significa esto de complicar las cosas con decretos que no tienen ni pies ni cabeza y resulta que más \ndel 40 % de los españoles no entienden el destino de sus impuestos, que más del 60 % de los españoles \ncreen que sus impuestos están mal utilizados y que más del 51 % de los españoles dicen que pagan más \nde lo que reciben de las administraciones públicas. Eso lo dice el CIS (aplausos); el CIS, señoría. Y si nos \nvamos a la inseguridad jurídica, que es importante, la gente que está dispuesta a recurrir a la Agencia \nTributaria, verán ustedes que más del 45 % de los españoles ganan en los TEAC y más del 60 % en los \ntribunales autonómicos; y cuando van por la vía ordinaria, son más del 60 %.\nYa está bien. ¿Qué están haciendo ustedes? ¿Dónde están los 40 000 millones de los procesos de \ndigitalización, que nadie sabe en qué se los están gastando? Hay 3 526 000 empleados públicos, el mayor \nnúmero que ha existido en la historia; hay 40 000 millones, en relación con los cuales la Unión Europea \npregunta en qué se los están gastando ustedes; y todos los presupuestos que ustedes han aprobado \ntraían fondos para digitalizar. Ya estamos cansados. Lo que es seguro es que su Gobierno es un caos y \nque VOX es el único partido del voto seguro, de lo que vamos a defender y de lo que vamos a traer.\nMuchísimas gracias. (Aplausos de las señoras y los señores diputados del Grupo \nParlamentario VOX, puestos en pie)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Por el Grupo Parlamentario Popular en el \nCongreso, tiene la palabra el señor Elorriaga Pisarik."
+  },
+  {
+   "speaker": "ELORRIAGA PISARIK",
+   "party": "PP",
+   "role": "diputado",
+   "topic": "",
+   "text": "Gracias, presidente.\nEstamos ante un proyecto de ley de naturaleza básicamente técnica que no debería haber suscitado \ndemasiados problemas en su tramitación. En esencia — como se ha repetido—, está integrado por la \ntrasposición de unas directivas de la Unión Europea en materia de inspecciones fiscales conjuntas y de \nintercambios de información que no admiten excesivos debates. No obstante, el texto en su tramitación \nha puesto de manifiesto algunos de los vicios que vienen siendo ya muy habituales, lamentablemente, a \nlo largo de esta legislatura. En su paso por el Congreso y por el Senado el texto ha sido prácticamente \nimpermeable a cualquier enmienda de los grupos de la oposición. Se ha hecho un abusivo ejercicio de la \ncapacidad de veto, impidiendo el debate de numerosas enmiendas de varios grupos parlamentarios, en \nesta ocasión precisamente la referida — se ha hecho mención a ella— a la no tributación de los intereses \nde demora pagados por la Administración. Eso sí, se han ido introduciendo, tanto en el Congreso como \nen el Senado, múltiples enmiendas por los grupos del Gobierno. Esto ha hecho que el texto varíe \nsignificativamente y que el que sale de la Cámara en muchos aspectos tenga poco que ver con el que \ningresó. Lo cierto es que lo que antes era trasposición de una directiva ahora es la trasposición de tres o \ncuatro y esto, que puede parecer anecdótico, no deja de ser una muestra más de un deterioro institucional \ncve: DSCD-14-PL-271\n \nque parece ser que ya es la costumbre. El traslado al ordenamiento interno de las directivas emanadas de \nla Unión Europea debe seguir un cauce reglado, que es el que garantiza el derecho de participación \npolítica de los ciudadanos a través de los sistemas de participación pública que están establecidos. \nTambién es el que permite la calidad normativa de las normas a través de su debate interno dentro del \nGobierno, en la Comisión General de Secretarios de Estado y Subsecretarios, y el que permite garantizar \nsu perfecta adecuación al ordenamiento a través del dictamen obligatorio del Consejo de Estado. Pues \nbien, todos estos trámites quedan obviados al introducir a través de enmiendas la trasposición de directivas, \nque por otro lado ni vencían en plazo ni eran de excesiva urgencia. Podían haber sido perfectamente \nincluidas en el proyecto original, podían haber sido perfectamente incluidas en proyectos posteriores y en \nningún momento en la tramitación se explica por qué aterrizan aquí de esta manera.\nPor otro lado, se introducen en el Senado dos enmiendas que afectan a dos proyectos de ley que \nactualmente están en tramitación en el Congreso, lo cual no deja de ser una cosa también bastante \nsorprendente. El Real Decreto Ley 11/2022, de respuesta a la guerra de Ucrania, lleva treinta prórrogas \nen esta Cámara y sigue con el plazo de enmiendas abierto, y ahora se modifica a través de este proyecto \nde ley. Y el Real Decreto Ley 14/2022, de medidas de sostenibilidad económica, es un caso todavía más \nsorprendente. Se cerró el plazo de enmiendas el 13 de octubre del año pasado y no se ha reunido la \nponencia para tramitarlo; sin embargo, ahora es enmendado en el Senado. Ahora bien, quizás lo más \nllamativo son dos enmiendas que evidencian sobre todo la incapacidad de gestión de este Gobierno. Una \nenmienda, que se introduce como disposición adicional, establece que aquellos que hayan recibido una \nsubvención de 200 euros para hacer frente a situaciones de vulnerabilidad económica no tendrán que \nreintegrarla aunque la hayan cobrado indebidamente. Y otra norma, una nueva disposición adicional, \nestablece que aquellos que hayan recibido las ayudas complementarias para becas de enseñanza \nposobligatorias o para el alumnado con necesidades específicas de apoyo educativo, aun cuando no \ncumplieran las condiciones establecidas en la ley para recibirlas, no tendrán que devolverlas. Es decir, son \ndos medidas que afectan a una cantidad indeterminada de recursos públicos, porque en ningún sitio se \nexplica y no sabemos quiénes son los beneficiarios ni cuál es la razón por la que se les perdona — digámoslo \nasí— la obligación que tendrían de reintegrar al erario público las cantidades. Les voy a explicar yo el \nporqué de esta norma, que no es para beneficiar a un número desconocido de personas por cuantía \nindeterminada. Se convalidan una serie de pagos indebidos en becas y ayudas porque no son capaces \nde comprobar quiénes recibieron las ayudas y si cumplían o no los requisitos exigidos en la ley; y sobre \ntodo para tratar de eludir su responsabilidad, dando por bueno todo lo pagado sin comprobar si había \nderecho o no a recibirlo. Es decir, se aprueban normas de imposible ejecución — no se sabe si por \nignorancia o por mala fe— y luego se ven obligados a sortearlas para evitar incurrir en responsabilidad por \nel mal uso de fondos públicos, y todo esto se hace a través de enmiendas en el Senado. (Aplausos).\nLa cosa llama todavía más la atención si tenemos en cuenta que hay otras muchas situaciones \nequivalentes donde no se utiliza este sistema de permitir a la gente que cobre las ayudas indebidamente, \ncomo puede comprobar cualquier ciudadano en la declaración de la renta que estará realizando en estas \nfechas, donde está perfectamente establecido el sistema para devolver las ayudas que han recibido los \nautónomos, las que se han recibido por maternidad o las que se han recibido en la isla de La Palma como \nconsecuencia de la catástrofe volcánica. Esas sí se devuelven; sin embargo, estas otras no. Y nadie \nexplica por qué; no hay ninguna justificación en la enmienda que se presentó en el Senado, que se dice \nque es meramente técnica, y no se dice a qué cuantía afecta esto ni a quién beneficia. Es decir, una norma \nque inicialmente carece de toda polémica, una mera trasposición de directivas de la Unión Europea \n— insisto— en materias eminentemente técnicas que permiten el funcionamiento habitual de la \nAdministración Tributaria, sobre todo en sus relaciones internacionales dentro de la Unión Europea, se \nconvierte en una chapuza legislativa más por una especie de incapacidad perseverante de hacer las \ncosas bien cuando no hay ninguna necesidad de hacerlas mal.\nInsisto, con esta norma salvaremos la responsabilidad en la que incurrirían los miembros del Gobierno \ny los centros directivos de la Administración del Estado por haber hecho pagos indebidos por una cuantía \nindeterminada a personas que se desconocen por un mandato de la ley. Desde luego, es una forma \nrealmente inédita de solucionar los problemas de gestión en la Administración pública.\nNada más. Muchas gracias. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "",
+   "text": "Muchas gracias.\nPor el Grupo Parlamentario Socialista, tiene la palabra la señora Blanquer Alcaraz.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "BLANQUER ALCARAZ",
+   "party": "PSOE",
+   "role": "diputado",
+   "topic": "",
+   "text": "Muchas gracias, presidente.\nLas enmiendas que vienen del Senado y que ahora debatimos persiguen una doble finalidad: por un \nlado, cumplir con Europa y completar la incorporación en nuestro ordenamiento jurídico de normativa \neuropea, y, por otro, introducir mejoras técnicas en diferentes normas para simplificarlas y facilitar así su \ngestión. Todas y cada una de estas enmiendas responden a necesidades inaplazables, suponen la \noportunidad de cumplir plazos en tiempo, reducir posibles distorsiones territoriales y ser más eficaces en \nel cumplimiento de la normativa. Por todo ello, señorías, a pesar de las críticas de algunos, han contado \ncon un amplísimo respaldo en la Cámara Alta, más del 98 % de apoyos en el Senado. Señorías, el Senado \ncumple con su función legislativa de doble lectura y el Gobierno hace uso de las capacidades de veto que \nla Constitución le otorga. Por tanto, ni caos ni abuso ni chapuza. Además, incorporamos enmiendas que \nresponden a soluciones de gestión de las ayudas extraordinarias concedidas ante circunstancias \nextraordinarias, y muchas veces las críticas que hace la derecha no son precisamente por las formas, sino \npor el contenido en sí mismo. De hecho, critican mucho una de las medidas incorporadas en el Senado \nreclamando un texto original que nunca apoyaron, lo que además demuestra que siempre están en contra \nde cualquier mejora a las becas, y lo digo así porque lo demostraron también votando en contra del mayor \nincremento de becas de la historia de este país incorporado en los Presupuestos Generales del Estado. \nPor tanto, no engañen a nadie, para ustedes las becas en sí mismas son poco menos que un regalo.\nAdemás, se incorporan enmiendas que modifican la Ley del IVA, entre otras cuestiones para permitir \na empresarios y profesionales de Canarias, Ceuta y Melilla acogerse al régimen de importación en el \ncomercio electrónico en el IVA, sin necesidad de contar con un representante establecido allí, lo que \nrepercutirá en menos cargas para el contribuyente. Señorías, las enmiendas que debatimos se han \npresentado a un proyecto de ley que supone la trasposición de una directiva europea, la conocida \ncomo DAC7, relativa a la cooperación administrativa en el ámbito de la fiscalidad, un proyecto de ley con \nel que avanzamos en la coordinación europea e internacional con las autoridades tributarias de los Estados \nmiembros y de países con los que España ha suscrito acuerdos multilaterales en el ámbito de la OCDE \npara detectar y combatir el fraude, la evasión y la elusión fiscal. Avanzamos porque incorporamos la \nobligación de intercambiar con otros países la información sobre la renta obtenida a través de las \nplataformas digitales. Permitimos inspecciones conjuntas con la presencia de funcionarios de otros \nEstados y viceversa. Afrontamos el reto de la digitalización para la fiscalidad en los términos ajustados a \nla directiva y con plazos garantistas y, además, mejoramos el control y la asistencia al contribuyente e \nincorporamos una mejora ampliamente reivindicada, posibilitándose al contribuyente que pueda modificar, \ncompletar o rectificar de forma más sencilla una declaración de un impuesto presentada sin necesidad de \nesperar a una resolución administrativa previa. Asimismo, facilitamos que la Administración pueda cotejar \nlos datos de que dispone con la contabilidad del contribuyente. Sé que a algunos esto no les gusta, pero \nlo cierto es que la asistencia al contribuyente por parte de la Agencia Tributaria y por parte de la política \ntributaria de este Gobierno está siendo mayor y mejor que nunca. Se están incorporando asistentes \nvirtuales y se está dando facilidad de liquidez mejorando las condiciones de aplazamiento de impuestos y \nflexibilizando el pago de deudas tributarias. En definitiva, se está gestionando mucho mejor. Con las \nmedidas de lucha contra el fraude y con la recuperación económica que está teniendo España, con el \nrécord de afiliación, el control y las medidas para fomentar lo que es el cumplimiento voluntario, estamos \nconsiguiendo incrementar los ingresos tributarios, siempre intentando que se destinen a quienes más \nbenefician, que son la mayoría de este país, porque son imprescindibles los ingresos tributarios para \nfinanciar políticas públicas con las que reducir las desigualdades y prestar en condiciones los servicios \npúblicos.\nSeñorías, entiendo que al Partido Popular no le guste que este Gobierno cumpla los plazos. De hecho, \nfue el Partido Popular quien dejó a este Gobierno en herencia más de setenta directivas sin trasponer. \nEste Gobierno va a hacer todo lo posible para dar respuesta a las necesidades de la ciudadanía, siempre \ncumpliendo los plazos, cumpliendo con Europa y cumpliendo con la tramitación de las normativas \neuropeas.\nTermino diciendo que hoy culminamos un proyecto de ley que se suma a la intensa actividad legislativa \nde este Parlamento por la que, a iniciativa del Gobierno, estamos haciendo frente a los desafíos de la \nrealidad económica y social de nuestro país, y lo estamos haciendo y lo hemos hecho en tiempos \nextraordinarios y en circunstancias extraordinarias. Por tanto, quiero agradecérselo a quienes contribuyen \na hacerlo posible, a los miembros de la Comisión de Hacienda que han votado a favor y que han permitido \nsiempre que las leyes avancen y, fundamentalmente, a mis compañeros y a mis compañeras, porque este \ncve: DSCD-14-PL-271\n \nGobierno progresista, este grupo parlamentario, gobierna y legisla. Estamos impulsando e impulsaremos \nsiempre mejoras y soluciones. A esto es a lo que nos dedicamos, a la política útil; los socialistas nos \ndedicamos siempre a trabajar para dar respuestas y soluciones y lo hacemos con orgullo, con convicción \ny siempre con respeto, el respeto que se merecen todos los días los españoles y las españolas.\nMuchísimas gracias a todos. (Aplausos)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Muchas gracias.\nAVOCACIÓN DE INICIATIVAS LEGISLATIVAS:\n— PROYECTO DE LEY DE MEDIDAS URGENTES PARA LA AMPLIACIÓN DE DERECHOS DE LOS \nPENSIONISTAS, LA REDUCCIÓN DE LA BRECHA DE GÉNERO Y EL ESTABLECIMIENTO DE UN \nNUEVO MARCO DE SOSTENIBILIDAD DEL SISTEMA PÚBLICO DE PENSIONES (PROCEDENTE \nDEL REAL DECRETO-LEY 2/2023, DE 16 DE MARZO). (Número de expediente 121/000150).\n— PROYECTO DE LEY POR LA QUE SE REGULAN LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES \nY SE ESTABLECE LA ORGANIZACIÓN Y EQUIVALENCIAS DE LAS ENSEÑANZAS ARTÍSTICAS \nPROFESIONALES. (Número de expediente 121/000153)."
+  },
+  {
+   "speaker": "VICEPRESIDENTE",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Continuamos con el punto del orden del día \nrelativo a las propuestas de avocación por el Pleno de la Cámara de la deliberación y votación final del \nProyecto de ley de medidas urgentes para la ampliación de derechos de los pensionistas, la reducción de \nla brecha de género y el establecimiento de un nuevo marco de sostenibilidad del sistema público de \npensiones, y del Proyecto de ley por la que se regulan las enseñanzas artísticas superiores y se establece \nla organización y equivalencias de las enseñanzas artísticas profesionales. Estas propuestas se someterán \na votación junto con el resto de puntos.\nSuspendemos el Pleno para comenzarlo no antes de las once y media. Muchas gracias.\nEran las once y diez minutos de la mañana.\nSe reanuda la sesión a las once y treinta minutos de la mañana."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Señorías, se reanuda la sesión.\nPasamos a votar los puntos restantes del orden del día.\nTOMA EN CONSIDERACIÓN DE PROPOSICIONES DE LEY. (VOTACIÓN):\n— PROPOSICIÓN DE LEY DEL GRUPO PARLAMENTARIO SOCIALISTA, PARA LA MEJORA DE LA \nPROTECCIÓN DE LAS PERSONAS DONANTES EN VIVO DE ÓRGANOS PARA SU POSTERIOR \nTRASPLANTE. (Número de expediente 122/000321)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición de ley del Grupo Parlamentario Socialista, para la mejora de la \nprotección de las personas donantes en vivo de órganos para su posterior trasplante.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 327; en contra, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobada la toma en consideración de la \nproposición de ley. (Aplausos).\n— PROPOSICIÓN DE LEY DEL GRUPO PARLAMENTARIO POPULAR EN EL CONGRESO, \nORGÁNICA RELATIVA A LA MODIFICACIÓN DE LA LEY ORGÁNICA 6/1985, DE 1 DE JULIO, DEL \nPODER JUDICIAL, PARA EL CAMBIO DE MODELO DE ELECCIÓN DE LOS VOCALES DEL \nCONSEJO GENERAL DEL PODER JUDICIAL Y EL FORTALECIMIENTO DE LA INDEPENDENCIA \nJUDICIAL. (Número de expediente 122/000286)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición de ley del Grupo Parlamentario Popular en el Congreso, \norgánica relativa a la modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para el \ncambio de modelo de elección de los vocales del Consejo General del Poder Judicial y el fortalecimiento \nde la independencia judicial.\ncve: DSCD-14-PL-271\n \nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 151; en contra, 176; \nabstenciones, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "LA AMPLIACIÓN DE PERMISOS REMUNERADOS EN EL TRABAJO",
+   "text": "En consecuencia, no se toma en consideración la proposición de ley.\nPROPOSICIONES NO DE LEY. (VOTACIÓN):\n— PROPOSICIÓN NO DE LEY DEL GRUPO PARLAMENTARIO REPUBLICANO, SOBRE \nLA AMPLIACIÓN DE PERMISOS REMUNERADOS EN EL TRABAJO. (Número de \nexpediente 162/001193)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición no de ley del Grupo Parlamentario Republicano, sobre la \nampliación de permisos remunerados en el trabajo.\nVotación separada por puntos.\nPunto 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 317; en contra, 1; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobado el punto 1.\nPunto 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 319; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobado el punto 2.\nPunto 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 327; en contra, 1."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobado el punto 3.\nPunto 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 236; \nabstenciones, 92."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda aprobado el punto 4.\nPunto 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 36; en contra, 212; \nabstenciones, 80."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "En consecuencia, queda rechazado el punto 5.\n— PROPOSICIÓN NO DE LEY DEL GRUPO PARLAMENTARIO SOCIALISTA, SOBRE \nIMPULSO DE LA RENATURALIZACIÓN DE LAS CIUDADES PARA INCREMENTAR LA \nBIODIVERSIDAD Y LA CONECTIVIDAD ECOLÓGICA EN LOS ENTORNOS URBANOS. \n(Número de expediente 162/001195)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Proposiciones de ley",
+   "text": "Proposición no de ley del Grupo Parlamentario Socialista, sobre el impulso \nde la renaturalización de las ciudades para incrementar la biodiversidad y la conectividad ecológica en los \nentornos urbanos.\nSe vota en sus términos.\ncve: DSCD-14-PL-271\n \nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 258; en contra, 51; \nabstenciones, 19."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobada la proposición no de ley.\nMOCIONES CONSECUENCIA DE INTERPELACIONES URGENTES. (VOTACIÓN):\n— MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE DEL GRUPO PARLAMENTARIO \nPOPULAR EN EL CONGRESO, SOBRE LAS MEDIDAS QUE VA A ADOPTAR EL GOBIERNO \nFRENTE A LA SEQUÍA. (Número de expediente 173/000215)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Mociones consecuencia de interpelaciones urgentes. Moción consecuencia \nde interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las medidas que va a \nadoptar el Gobierno frente a la sequía.\nVotación separada por puntos.\nPunto 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 165; en contra, 155; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el punto 1.\nPunto 2.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 326; a favor, 100; en contra, 171; \nabstenciones, 55."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 2.\nPunto 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 100; en contra, 159; \nabstenciones, 69."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 3.\nPunto 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 113; en contra, 202; \nabstenciones, 13."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 4.\nPunto 5.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 156; en contra, 158; \nabstenciones, 14."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 5.\nPunto 6.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 167; en contra, 153; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el punto 6.\nPunto 7.\ncve: DSCD-14-PL-271\n \nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 168; en contra, 158; \nabstenciones, 2."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el punto 7.\nPunto 8.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 327; a favor, 164; en contra, 158; \nabstenciones, 5."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el punto 8.\nPunto 9.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 327; a favor, 150; en contra, 169; \nabstenciones, 8."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 9.\nPunto 10.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 96; en contra, 170; \nabstenciones, 62."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 10.\n— MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE DEL GRUPO PARLAMENTARIO \nEUSKAL HERRIA BILDU, RELATIVA A LA RECUPERACIÓN DE LAS REGLAS FISCALES Y SUS \nCONSECUENCIAS. (Número de expediente 173/000216)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario \nEuskal Herria Bildu, relativa a la recuperación de las reglas fiscales y sus consecuencias.\nSe vota en sus términos.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 50; en contra, 272; \nabstenciones, 6."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazada la moción.\n— MOCIÓN CONSECUENCIA DE INTERPELACIÓN URGENTE DEL GRUPO PARLAMENTARIO \nVOX, SOBRE LAS MEDIDAS QUE VA A LLEVAR A CABO EL GOBIERNO EN EL DESARROLLO \nDE LAS INFRAESTRUCTURAS HÍDRICAS NACIONALES PARA GARANTIZAR EL \nABASTECIMIENTO DE AGUA EN TODOS LOS RINCONES DE ESPAÑA Y LIMITAR LOS EFECTOS \nDE LA SEQUÍA. (Número de expediente 173/000217)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, \nsobre las medidas que va a llevar a cabo el Gobierno en el desarrollo de las infraestructuras hídricas \nnacionales para garantizar el abastecimiento de agua en todos los rincones de España y limitar los efectos \nde la sequía.\nVotación separada por puntos.\nPunto 1.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 57; en contra, 271."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 1.\nPunto 2.\ncve: DSCD-14-PL-271\n \nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 141; en contra, 177; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 2.\nPunto 3.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 140; en contra, 177; \nabstenciones, 11."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 3.\nPunto 4.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 142; en contra, 177; \nabstenciones, 9."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda rechazado el punto 4.\nDICTÁMENES DE COMISIONES SOBRE INICIATIVAS LEGISLATIVAS. (VOTACIÓN):\n— PROYECTO DE LEY POR LA QUE SE CREA LA AUTORIDAD ADMINISTRATIVA INDEPENDIENTE \nDE DEFENSA DEL CLIENTE FINANCIERO PARA LA RESOLUCIÓN EXTRAJUDICIAL DE \nCONFLICTOS ENTRE LAS ENTIDADES FINANCIERAS Y SUS CLIENTES. (Número de \nexpediente 121/000134)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Dictámenes de comisiones sobre iniciativas legislativas.\nVotación del dictamen del Proyecto de ley por la que se crea la Autoridad Administrativa Independiente \nde Defensa del Cliente Financiero para la resolución extrajudicial de conflictos entre las entidades \nfinancieras y sus clientes, teniendo en cuenta las correcciones técnicas distribuidas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 186; en contra, 47; \nabstenciones, 95."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobado el dictamen. (Aplausos).\nENMIENDAS DEL SENADO. (VOTACIÓN):\n— PROYECTO DE LEY POR LA QUE SE MODIFICAN LA LEY 58/2003, DE 17 DE DICIEMBRE, \nGENERAL TRIBUTARIA, EN TRANSPOSICIÓN DE LA DIRECTIVA (UE) 2021/514 DEL CONSEJO \nDE 22 DE MARZO DE 2021 POR LA QUE SE MODIFICA LA DIRECTIVA 2011/16/UE RELATIVA A \nLA COOPERACIÓN ADMINISTRATIVA EN EL ÁMBITO DE LA FISCALIDAD, Y OTRAS NORMAS \nTRIBUTARIAS (ANTES DENOMINADO PROYECTO DE LEY POR LA QUE SE MODIFICA LA \nLEY 58/2003, DE 17 DE DICIEMBRE, GENERAL TRIBUTARIA, EN TRANSPOSICIÓN DE LA \nDIRECTIVA (UE) 2021/514 DEL CONSEJO DE 22 DE MARZO DE 2021 POR LA QUE SE MODIFICA \nLA DIRECTIVA 2011/16/UE RELATIVA A LA COOPERACIÓN ADMINISTRATIVA EN EL ÁMBITO DE \nLA FISCALIDAD). (Número de expediente 121/000139)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "Proyecto de ley por la que se modifican la Ley 58/2003, de 17 de diciembre, \nGeneral Tributaria, en transposición de la Directiva UE 2021/514 del Consejo de 22 de marzo de 2021 por \nla que se modifica la Directiva 2011/16/UE relativa a la cooperación administrativa en el ámbito de la \nfiscalidad.\nVotación separada de las enmiendas.\nEnmienda a la disposición adicional primera nueva.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 185; en contra, 141; \nabstenciones, 2.\ncve: DSCD-14-PL-271"
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, queda aprobada la enmienda.\nEnmiendas a la disposición adicional segunda nueva y a la disposición final cuarta nueva.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 317; en contra, 1; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, quedan aprobadas las enmiendas.\nEnmiendas a la disposición final quinta nueva y a la disposición final séptima nueva.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 268; en contra, 50; \nabstenciones, 10."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Interpelaciones urgentes",
+   "text": "En consecuencia, quedan aprobadas las enmiendas.\nResto de las enmiendas.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 265; en contra, 1; \nabstenciones, 62."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "En consecuencia, quedan aprobadas las enmiendas.\nAVOCACIÓN DE INICIATIVAS LEGISLATIVAS. (VOTACIÓN):\n— PROYECTO DE LEY DE MEDIDAS URGENTES PARA LA AMPLIACIÓN DE DERECHOS DE LOS \nPENSIONISTAS, LA REDUCCIÓN DE LA BRECHA DE GÉNERO Y EL ESTABLECIMIENTO DE UN \nNUEVO MARCO DE SOSTENIBILIDAD DEL SISTEMA PÚBLICO DE PENSIONES (PROCEDENTE \nDEL REAL DECRETO-LEY 2/2023, DE 16 DE MARZO). (Número de expediente 121/000150)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Avocación de iniciativas legislativas.\nVotación de la solicitud de avocación por el Pleno de la Cámara de la deliberación y votación final del \nProyecto de ley de medidas urgentes para la ampliación de derechos de los pensionistas, la reducción de \nla brecha de género y el establecimiento de un nuevo marco de sostenibilidad del sistema público de \npensiones procedente del Real Decreto Ley 2/2023, de 16 de marzo. Presentada por el Grupo Parlamentario \nPlural, señores Boadella Esteve y Bel Accensi.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 328; a favor, 328."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "En consecuencia, queda aprobada la avocación.\n— PROYECTO DE LEY POR LA QUE SE REGULAN LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES \nY SE ESTABLECE LA ORGANIZACIÓN Y EQUIVALENCIAS DE LAS ENSEÑANZAS ARTÍSTICAS \nPROFESIONALES. (Número de expediente 121/000153)."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "Votación de las solicitudes de avocación por el Pleno de la Cámara de la \ndeliberación y votación final del Proyecto de ley por la que se regulan las enseñanzas artísticas superiores \ny se establece la organización y equivalencias de las enseñanzas artísticas profesionales. Presentadas \npor el Grupo Parlamentario Plural, señora Nogueras i Camero, y Popular en el Congreso.\nComienza la votación. (Pausa).\nEfectuada la votación, dio el siguiente resultado: votos emitidos, 327; a favor, 327."
+  },
+  {
+   "speaker": "PRESIDENTA",
+   "party": "",
+   "role": "presidencia",
+   "topic": "Convalidación de reales decretos-leyes",
+   "text": "En consecuencia, queda aprobada la avocación.\nMuchas gracias, señorías. Se levanta la sesión.\nEran las once y cincuenta minutos de la mañana.\ncve: DSCD-14-PL-271\nhttp://www.congreso.es Calle Floridablanca, s/n. 28071 Madrid\nD. L.: M-12.580/1961 CONGRESO DE LOS DIPUTADOS Teléf.: 91 390 60 00\nEdición electrónica preparada por la Agencia Estatal Boletín Oficial del Estado – http://boe.es"
+  }
+ ]
+}
